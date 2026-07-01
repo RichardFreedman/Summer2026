@@ -1,0 +1,2622 @@
+{
+  "00s": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Exuberance": 0.4,
+      "Melancholy": 0.1
+    }
+  },
+  "2014": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Melancholy": 0.1,
+      "Wistfulness": 0.05
+    }
+  },
+  "2016": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Melancholy": 0.1,
+      "Wistfulness": 0.05
+    }
+  },
+  "2020s": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "Nostalgia": 0.2,
+      "Anxiety": -0.1,
+      "Hope": 0.5
+    }
+  },
+  "2022": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "Nostalgia": 0.2,
+      "Uncertainty": -0.1,
+      "Anticipation": 0.05
+    }
+  },
+  "500 days of summer": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.1,
+    "emotions": {
+      "melancholy": 0.8,
+      "longing": 0.4,
+      "wistfulness": 0.6
+    }
+  },
+  "70s": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Relaxation": 0.4,
+      "Energy": 0.2
+    }
+  },
+  "80s": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.75,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Euphoria": 0.2,
+      "Anxiety": 0.05
+    }
+  },
+  "90s": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Euphoria": 0.2,
+      "Melancholy": 0.05
+    }
+  },
+  "<3": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "happiness": 0.8,
+      "sadness": -0.2,
+      "excitement": 0.4
+    }
+  },
+  "a special kind of song": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.1,
+    "emotions": {
+      "nostalgia": 0.8,
+      "wistfulness": 0.6
+    }
+  },
+  "abba": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "joy": 0.9,
+      "serenity": 0.7
+    }
+  },
+  "acid jazz": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energy": 0.9,
+      "exhilaration": 0.8
+    }
+  },
+  "acid rock": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "aggression": 0.7,
+      "intensity": 0.5
+    }
+  },
+  "acoustic": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "serenity": 0.8,
+      "calmness": 0.6
+    }
+  },
+  "afro r&b": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "soulfulness": 0.7,
+      "intimacy": 0.6
+    }
+  },
+  "afro-cuban jazz": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "exuberance": 0.8,
+      "vibrancy": 0.7
+    }
+  },
+  "afrobeat": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "energy": 0.9,
+      "excitement": 0.8
+    }
+  },
+  "afrobeats": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "joy": 0.8,
+      "playfulness": 0.7
+    }
+  },
+  "afroswing": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "sophistication": 0.8,
+      "elegance": 0.6
+    }
+  },
+  "alt country": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Wistfulness": 0.4,
+      "Longing": 0.2
+    }
+  },
+  "alt-country": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "nostalgia": 0.6,
+      "wistfulness": 0.4,
+      "longing": 0.2
+    }
+  },
+  "alternative": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "anxiety": 0.4,
+      "nostalgia": 0.1,
+      "energised": 0.6
+    }
+  },
+  "alternative hip hop": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "aggression": 0.6,
+      "anxiety": 0.2,
+      "energised": 0.8
+    }
+  },
+  "alternative hip-hop": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "aggression": 0.4,
+      "anxiety": 0.2,
+      "energised": 0.8
+    }
+  },
+  "alternative metal": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "aggression": 0.6,
+      "intensity": 0.4,
+      "melancholy": 0.1
+    }
+  },
+  "alternative r&b": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Introspection": 0.4,
+      "Sensuality": 0.3
+    }
+  },
+  "alternative rnb": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Introspection": 0.4,
+      "Sensuality": 0.3
+    }
+  },
+  "alternative rock": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "anxiety": 0.4,
+      "nostalgia": 0.1,
+      "energised": 0.6
+    }
+  },
+  "alt\u00e9": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "serenity": 0.4,
+      "nostalgia": 0.6,
+      "wistfulness": 0.3
+    }
+  },
+  "ambient jazz": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "calmness": 0.8,
+      "contemplation": 0.4,
+      "relaxation": 0.6
+    }
+  },
+  "ambient pop": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "serenity": 0.6,
+      "contemplation": 0.4,
+      "calmness": 0.8
+    }
+  },
+  "american": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "nostalgia": 0.2,
+      "patriotism": -0.1,
+      "freedom": 0.5
+    }
+  },
+  "americana": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "nostalgia": 0.6,
+      "wistfulness": 0.4,
+      "longing": 0.3
+    }
+  },
+  "art pop": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Introspection": 0.4,
+      "Playfulness": 0.2
+    }
+  },
+  "art rock": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Complexity": 0.8,
+      "Introspection": 0.4,
+      "Nostalgia": 0.2
+    }
+  },
+  "atlas speaks": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "serenity": 0.2,
+      "contemplation": 0.4,
+      "wistfulness": -0.1
+    }
+  },
+  "australian": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "serenity": 0.6,
+      "wistfulness": 0.2,
+      "nostalgia": 0.1
+    }
+  },
+  "banned": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "Anger": 0.1,
+      "Fear": 0.05,
+      "Disgust": -0.15
+    }
+  },
+  "beautiful": {
+    "valence_shift": 0.75,
+    "arousal_shift": -0.25,
+    "emotions": {
+      "serenity": 0.8,
+      "wistfulness": 0.2,
+      "nostalgia": 0.1
+    }
+  },
+  "bebop": {
+    "valence_shift": -0.2,
+    "arousal_shift": 1.0,
+    "emotions": {
+      "energetic": 0.8,
+      "complex": 0.9,
+      "intense": 0.7
+    }
+  },
+  "bedroom pop": {
+    "valence_shift": 0.5,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "relaxed": 0.6,
+      "mellow": 0.8,
+      "intimate": 0.4
+    }
+  },
+  "best of 2014": {
+    "valence_shift": 0.3,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "nostalgic": 0.7,
+      "upbeat": 0.6,
+      "celebratory": 0.8
+    }
+  },
+  "big band": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "sophisticated": 0.8,
+      "elegant": 0.7,
+      "joyful": 0.6
+    }
+  },
+  "bluegrass": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "folksy": 0.5,
+      "uplifting": 0.4,
+      "earthly": 0.3
+    }
+  },
+  "blues": {
+    "valence_shift": -0.6,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "soulful": 0.9,
+      "melancholic": 0.8,
+      "passionate": 0.7
+    }
+  },
+  "blues rock": {
+    "valence_shift": -0.4,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "edgy": 0.5,
+      "raw": 0.4,
+      "emotive": 0.3
+    }
+  },
+  "bmson": {
+    "valence_shift": 0.1,
+    "arousal_shift": -0.3,
+    "emotions": {
+      "dark": 0.2,
+      "moody": 0.1,
+      "brooding": 0.4
+    }
+  },
+  "boom bap": {
+    "valence_shift": 0.8,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "energetic": 0.7,
+      "aggressive": 0.6,
+      "confident": 0.5
+    }
+  },
+  "british": {
+    "valence_shift": -0.3,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "dry": 0.1,
+      "wry": 0.2,
+      "deadpan": 0.4
+    }
+  },
+  "britpop": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "energetic": 0.8,
+      "upbeat": 0.9,
+      "nostalgic": 0.1
+    }
+  },
+  "brunicore": {
+    "valence_shift": -0.5,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "mellow": 0.7,
+      "relaxing": 0.8,
+      "calming": 0.9
+    }
+  },
+  "bruno mars": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "sensual": 0.8,
+      "playful": 0.7,
+      "romantic": 0.5
+    }
+  },
+  "cage the elephant": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "indie": 0.9,
+      "edgy": 0.8,
+      "moody": 0.6
+    }
+  },
+  "can't stop listening": {
+    "valence_shift": 0.4,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "addictive": 0.9,
+      "intense": 0.8,
+      "energizing": 0.7
+    }
+  },
+  "canada": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "proud": 0.8,
+      "serene": 0.7,
+      "natural": 0.6
+    }
+  },
+  "canadian": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "friendly": 0.9,
+      "witty": 0.8,
+      "laid-back": 0.7
+    }
+  },
+  "chill": {
+    "valence_shift": -0.5,
+    "arousal_shift": -0.8,
+    "emotions": {
+      "relaxing": 0.9,
+      "calming": 0.8,
+      "soothing": 0.7
+    }
+  },
+  "chillout": {
+    "valence_shift": -0.6,
+    "arousal_shift": -0.9,
+    "emotions": {
+      "mellow": 0.8,
+      "peaceful": 0.7,
+      "serene": 0.6
+    }
+  },
+  "chinese": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "traditional": 0.9,
+      "cultural": 0.8,
+      "ancient": 0.7
+    }
+  },
+  "cool jazz": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.1,
+    "emotions": {
+      "relaxation": 0.8,
+      "calmness": 0.9,
+      "serenity": 0.95
+    }
+  },
+  "country": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "nostalgia": 0.7,
+      "sentimentality": 0.8,
+      "wistfulness": 0.85
+    }
+  },
+  "country rock": {
+    "valence_shift": 0.4,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "energy": 0.6,
+      "enthusiasm": 0.7,
+      "exhilaration": 0.75
+    }
+  },
+  "dance": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "excitement": 0.9,
+      "euphoria": 0.95,
+      "thrill": 0.98
+    }
+  },
+  "dance-pop": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "fun": 0.8,
+      "joy": 0.85,
+      "playfulness": 0.9
+    }
+  },
+  "dancehall": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "energy": 0.7,
+      "exuberance": 0.75,
+      "vigor": 0.8
+    }
+  },
+  "daniel caesar": {
+    "valence_shift": 0.1,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "soulfulness": 0.6,
+      "intimacy": 0.65,
+      "warmth": 0.7
+    }
+  },
+  "dark r&b": {
+    "valence_shift": -0.4,
+    "arousal_shift": -0.3,
+    "emotions": {
+      "seduction": 0.5,
+      "sultriness": 0.55,
+      "tension": 0.6
+    }
+  },
+  "darkwave": {
+    "valence_shift": -0.5,
+    "arousal_shift": -0.4,
+    "emotions": {
+      "melancholy": 0.7,
+      "morbidity": 0.75,
+      "ominosity": 0.8
+    }
+  },
+  "disco": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "glamour": 0.65,
+      "luxury": 0.7,
+      "sophistication": 0.75
+    }
+  },
+  "doo-wop": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Joy": 0.4,
+      "Wistfulness": 0.3
+    }
+  },
+  "doom metal": {
+    "valence_shift": -0.8,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "Anger": 0.6,
+      "Fear": 0.4,
+      "Despair": 0.2
+    }
+  },
+  "downtempo": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "calmness": 0.8,
+      "serenity": 0.7,
+      "relaxation": 0.9
+    }
+  },
+  "drake but way better": {
+    "valence_shift": 0.8,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Satisfaction": 0.4,
+      "Melancholy": -0.1
+    }
+  },
+  "dub": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "calmness": 0.4,
+      "excitement": 0.6,
+      "serenity": 0.3
+    }
+  },
+  "east coast hip hop": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Confidence": 0.2,
+      "Aggression": -0.1
+    }
+  },
+  "electronic": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "excitement": 0.8,
+      "serenity": 0.2
+    }
+  },
+  "electropop": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "excitement": 0.8,
+      "euphoria": 0.6,
+      "anxiety": -0.2
+    }
+  },
+  "emo": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "sadness": 0.6,
+      "anxiety": 0.4,
+      "intensity": 0.9
+    }
+  },
+  "ethnic": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "Curiosity": 0.6,
+      "Nostalgia": 0.4,
+      "Exhilaration": 0.1
+    }
+  },
+  "ethnic jazz": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energetic": 0.6,
+      "exotic": 0.9,
+      "relaxed": 0.1
+    }
+  },
+  "evie core": {
+    "valence_shift": 0.5,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "introspective": 0.8,
+      "melancholic": 0.7,
+      "soothing": 0.3
+    }
+  },
+  "experimental hip hop": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "aggressive": 0.6,
+      "energetic": 0.8,
+      "unpredictable": 0.7
+    }
+  },
+  "experimental jazz": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "complex": 0.9,
+      "intricate": 0.8,
+      "mysterious": 0.4
+    }
+  },
+  "female vocalist": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.3,
+    "emotions": {
+      "sultry": 0.7,
+      "soothing": 0.5,
+      "warm": 0.6
+    }
+  },
+  "female vocalists": {
+    "valence_shift": 0.1,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "feminine": 0.8,
+      "gentle": 0.7,
+      "soft": 0.5
+    }
+  },
+  "flamenco": {
+    "valence_shift": -0.6,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "passionate": 0.9,
+      "intense": 0.8,
+      "wild": 0.7
+    }
+  },
+  "folk": {
+    "valence_shift": 0.4,
+    "arousal_shift": -0.1,
+    "emotions": {
+      " earthy": 0.6,
+      "natural": 0.5,
+      "simple": 0.3
+    }
+  },
+  "folk pop": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "catchy": 0.8,
+      "upbeat": 0.7,
+      "wholesome": 0.4
+    }
+  },
+  "folk rock": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "energetic": 0.6,
+      "inspiring": 0.5,
+      "rebellious": 0.4
+    }
+  },
+  "frank ocean": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.1,
+    "emotions": {
+      "sadness": 0.8,
+      "melancholy": 0.9,
+      "introspection": 0.7
+    }
+  },
+  "free jazz": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "freedom": 0.9,
+      "spontaneity": 0.8,
+      "chaos": 0.6
+    }
+  },
+  "funk": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "energy": 0.9,
+      "exuberance": 0.8,
+      "playfulness": 0.7
+    }
+  },
+  "funk rock": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "excitement": 0.8,
+      "enthusiasm": 0.9,
+      "recklessness": 0.6
+    }
+  },
+  "funky": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "energy": 0.9,
+      "exuberance": 0.8,
+      "playfulness": 0.7
+    }
+  },
+  "future bass": {
+    "valence_shift": 0.3,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "serenity": 0.7,
+      "contemplation": 0.8,
+      "hope": 0.5
+    }
+  },
+  "g-funk": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "relaxation": 0.9,
+      "calmness": 0.8,
+      "satisfaction": 0.6
+    }
+  },
+  "gangsta rap": {
+    "valence_shift": -0.5,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "aggression": 0.8,
+      "violence": 0.9,
+      "militancy": 0.7
+    }
+  },
+  "gangster rap": {
+    "valence_shift": -0.5,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "aggression": 0.8,
+      "violence": 0.9,
+      "militancy": 0.7
+    }
+  },
+  "garage": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "excitement": 0.8,
+      "enthusiasm": 0.9,
+      "recklessness": 0.5
+    }
+  },
+  "garage rock": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energetic": 0.9,
+      "rebellious": 0.8,
+      "raw": 0.7
+    }
+  },
+  "glam rock": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "dramatic": 0.8,
+      "luxurious": 0.6,
+      "playful": 0.4
+    }
+  },
+  "glitch hop": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "disorienting": 0.7,
+      "chaotic": 0.8,
+      "electronic": 0.6
+    }
+  },
+  "goa": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "trance-like": 0.9,
+      "uplifting": 0.8,
+      "exhilarating": 0.7
+    }
+  },
+  "gospel": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "inspirational": 0.9,
+      "hopeful": 0.8,
+      "joyful": 0.6
+    }
+  },
+  "gothic rock": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "melancholic": 0.7,
+      "dark": 0.9,
+      "intense": 0.8
+    }
+  },
+  "grunge": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "angry": 0.8,
+      "aggressive": 0.7,
+      "mellow": 0.4
+    }
+  },
+  "guitar": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "instrumental": 0.9,
+      "technique-driven": 0.8,
+      "vibrant": 0.6
+    }
+  },
+  "happy": {
+    "valence_shift": 0.7,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "cheerful": 0.9,
+      "upbeat": 0.8,
+      "carefree": 0.6
+    }
+  },
+  "hard bop": {
+    "valence_shift": 0.3,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "soulful": 0.8,
+      "energetic": 0.7,
+      "relaxed": 0.4
+    }
+  },
+  "abstract hip hop": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energetic": 0.6,
+      "intense": 0.9,
+      "complex": 0.7
+    }
+  },
+  "boogie": {
+    "valence_shift": 0.5,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "funny": 0.8,
+      "playful": 0.9,
+      "laid-back": 0.6
+    }
+  },
+  "chicago": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "sunny": 0.7,
+      "carefree": 0.8,
+      "urban": 0.5
+    }
+  },
+  "christmas": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.3,
+    "emotions": {
+      "festive": 0.9,
+      "joyful": 0.8,
+      "nostalgic": 0.6
+    }
+  },
+  "city pop": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "sophisticated": 0.7,
+      "modern": 0.8,
+      "urban": 0.5
+    }
+  },
+  "cityscape with dj bean": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "energetic": 0.6,
+      "exciting": 0.9,
+      "vibrant": 0.8
+    }
+  },
+  "classic": {
+    "valence_shift": 0.4,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "timeless": 0.7,
+      "refined": 0.6,
+      "nostalgic": 0.5
+    }
+  },
+  "classic rock": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "energetic": 0.6,
+      "confident": 0.8,
+      "assertive": 0.7
+    }
+  },
+  "classic soul": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.3,
+    "emotions": {
+      "soulful": 0.9,
+      "intimate": 0.8,
+      "emotional": 0.6
+    }
+  },
+  "classical": {
+    "valence_shift": 0.5,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "serene": 0.7,
+      "refined": 0.6,
+      "elegant": 0.5
+    }
+  },
+  "cloud nine": {
+    "valence_shift": 0.8,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "serenity": 0.9,
+      "peacefulness": 0.8
+    }
+  },
+  "coldplay": {
+    "valence_shift": 0.4,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "hope": 0.6,
+      "longing": 0.5
+    }
+  },
+  "conscious hip hop": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "inspiration": 0.7,
+      "empowerment": 0.8
+    }
+  },
+  "contemporary rnb": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "sultry": 0.6,
+      "intimacy": 0.5
+    }
+  },
+  "deep house": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "relaxation": 0.8,
+      "calmness": 0.7
+    }
+  },
+  "dream pop": {
+    "valence_shift": -0.1,
+    "arousal_shift": -0.4,
+    "emotions": {
+      "ethereal": 0.9,
+      "melancholy": 0.6
+    }
+  },
+  "groovy": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "fun": 0.8,
+      "playfulness": 0.7
+    }
+  },
+  "hard rock": {
+    "valence_shift": -0.4,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "aggression": 0.9,
+      "energized": 0.8
+    }
+  },
+  "hardcore hip hop": {
+    "valence_shift": -0.5,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "intensity": 0.9,
+      "passion": 0.8
+    }
+  },
+  "have i heard you before with dj t": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "nostalgia": 0.7,
+      "wistfulness": 0.6
+    }
+  },
+  "heavy metal": {
+    "valence_shift": -0.8,
+    "arousal_shift": 1.2,
+    "emotions": {
+      "anger": 0.9,
+      "aggression": 0.8,
+      "intensity": 0.7
+    }
+  },
+  "hip hop": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "energy": 0.8,
+      "confidence": 0.7,
+      "assertiveness": 0.6
+    }
+  },
+  "hip hop soul": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "soulfulness": 0.9,
+      "warmth": 0.8,
+      "upliftment": 0.7
+    }
+  },
+  "hip house": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "funkiness": 0.8,
+      "playfulness": 0.7,
+      "excitement": 0.6
+    }
+  },
+  "hipster rap": {
+    "valence_shift": -0.5,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "irony": 0.8,
+      "sarcasm": 0.7,
+      "coolness": 0.6
+    }
+  },
+  "house": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "joyfulness": 0.9,
+      "happiness": 0.8,
+      "relaxation": 0.7
+    }
+  },
+  "hypnagogic pop": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "dreaminess": 0.9,
+      "etherealness": 0.8,
+      "calmness": 0.7
+    }
+  },
+  "incel": {
+    "valence_shift": -0.8,
+    "arousal_shift": -0.5,
+    "emotions": {
+      "resentment": 0.9,
+      "bitterness": 0.8,
+      "sadness": 0.7
+    }
+  },
+  "incelcore": {
+    "valence_shift": -1.0,
+    "arousal_shift": -0.6,
+    "emotions": {
+      "hatred": 0.9,
+      "aggression": 0.8,
+      "despair": 0.7
+    }
+  },
+  "indie": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "calm": 0.6,
+      "energetic": 0.8,
+      "melancholic": 0.4
+    }
+  },
+  "indie folk": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "relaxed": 0.7,
+      "inspiring": 0.9,
+      "nostalgic": 0.5
+    }
+  },
+  "indie jazz": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "sophisticated": 0.8,
+      "exciting": 0.9,
+      "mellow": 0.4
+    }
+  },
+  "indie pop": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "upbeat": 0.7,
+      "catchy": 0.8,
+      "carefree": 0.6
+    }
+  },
+  "indie rock": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "energetic": 0.8,
+      "intense": 0.9,
+      "angry": 0.5
+    }
+  },
+  "indie soul": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "soulful": 0.8,
+      "emotional": 0.9,
+      "heartfelt": 0.7
+    }
+  },
+  "jam band": {
+    "valence_shift": 0.3,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "exciting": 0.8,
+      "spontaneous": 0.9,
+      "ecstatic": 0.6
+    }
+  },
+  "jangle pop": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "quirky": 0.7,
+      "playful": 0.8,
+      "whimsical": 0.5
+    }
+  },
+  "jazz": {
+    "valence_shift": 0.3,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "sophisticated": 0.8,
+      "complex": 0.9,
+      "mellow": 0.4
+    }
+  },
+  "jazz ballads": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "romantic": 0.7,
+      "intimate": 0.8,
+      "soulful": 0.5
+    }
+  },
+  "jazz funk": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Excitement": 0.8,
+      "Relaxation": 0.1,
+      "Euphoria": 0.05
+    }
+  },
+  "jazz fusion": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Complexity": 0.8,
+      "Introspection": 0.4,
+      "Euphoria": 0.2
+    }
+  },
+  "jazz pop": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Excitement": 0.6,
+      "Relaxation": 0.2,
+      "Happiness": 0.1
+    }
+  },
+  "jazz rap": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "energised": 0.6,
+      "excited": 0.4,
+      "relaxed": 0.2
+    }
+  },
+  "jeff buckley": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "melancholy": 0.8,
+      "longing": 0.3,
+      "wistfulness": 0.5
+    }
+  },
+  "joji": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "melancholy": 0.6,
+      "serenity": 0.1,
+      "nostalgia": 0.3
+    }
+  },
+  "joji eu te amo": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.1,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Longing": 0.3,
+      "Wistfulness": 0.1
+    }
+  },
+  "kazakh": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "serenity": 0.4,
+      "nostalgia": 0.1,
+      "wistfulness": 0.3
+    }
+  },
+  "kid cudi": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.75,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Melancholy": 0.6,
+      "Euphoria": 0.2
+    }
+  },
+  "king of pop": {
+    "valence_shift": 0.75,
+    "arousal_shift": -0.25,
+    "emotions": {
+      "Joy": 0.9,
+      "Excitement": 0.8,
+      "Nostalgia": 0.6
+    }
+  },
+  "kira core": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "serenity": 0.2,
+      "excitement": 0.1,
+      "curiosity": 0.3
+    }
+  },
+  "latin": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Joy": 0.8,
+      "Exuberance": 0.6,
+      "Serenity": 0.2
+    }
+  },
+  "latin rock": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Excitement": 0.8,
+      "Passion": 0.6,
+      "Energy": 0.4
+    }
+  },
+  "lo-fi": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "calmness": 0.8,
+      "serenity": 0.7,
+      "relaxation": 0.9
+    }
+  },
+  "lo-fi indie": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "calmness": 0.8,
+      "serenity": 0.7,
+      "contemplation": 0.6
+    }
+  },
+  "los angeles": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Calmness": 0.8,
+      "Vibes": 0.4
+    }
+  },
+  "loud has a fat cock and danny is hot": {
+    "valence_shift": -0.8,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "Anger": 0.2,
+      "Surprise": 0.1,
+      "Excitement": 0.6
+    }
+  },
+  "lounge": {
+    "valence_shift": 0,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "relaxation": 0.8,
+      "calmness": 0.7,
+      "contemplation": 0.4
+    }
+  },
+  "love": {
+    "valence_shift": 0.75,
+    "arousal_shift": -0.25,
+    "emotions": {
+      "joy": 0.9,
+      "tenderness": 0.8,
+      "contentment": 0.7
+    }
+  },
+  "love hurts": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "longing": 0.6,
+      "sorrow": 0.4,
+      "yearning": 0.3
+    }
+  },
+  "michael jackson": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.75,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Joy": 0.9,
+      "Serenity": 0.6
+    }
+  },
+  "mkto": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "excitement": 0.2,
+      "serenity": 0.1,
+      "euphoria": 0.05
+    }
+  },
+  "modern blues": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "sorrow": 0.6,
+      "longing": 0.2,
+      "nostalgia": 0.1
+    }
+  },
+  "motown": {
+    "valence_shift": 0.8,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "Happiness": 0.9,
+      "Nostalgia": 0.4,
+      "Satisfaction": 0.7
+    }
+  },
+  "music hall": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Playfulness": 0.3,
+      "Wistfulness": 0.1
+    }
+  },
+  "my song wbk": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "joy": 0.2,
+      "sadness": -0.1,
+      "surprise": 0.05
+    }
+  },
+  "my top songs": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "Happiness": 0.8,
+      "Nostalgia": 0.4,
+      "Satisfaction": 0.6
+    }
+  },
+  "natasha bedingfield": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.45,
+      "Joy": 0.35,
+      "Sincerity": 0.2
+    }
+  },
+  "neo soul": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "soulfulness": 0.8,
+      "intimacy": 0.6,
+      "nostalgia": 0.4
+    }
+  },
+  "neo-psychedelia": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "dreamy": 0.8,
+      "euphoric": 0.2,
+      "nostalgic": 0.05
+    }
+  },
+  "neo-psychedelic": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "excitement": 0.9,
+      "serenity": -0.1
+    }
+  },
+  "neo-soul": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "satisfaction": 0.7,
+      "nostalgia": 0.2
+    }
+  },
+  "new jack swing": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "energy": 0.8,
+      "playfulness": 0.9
+    }
+  },
+  "new wave": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "anxiety": -0.2,
+      "rebelliousness": 0.5
+    }
+  },
+  "new york": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "ambition": 0.6,
+      "pride": 0.4
+    }
+  },
+  "newgrass": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "relaxation": -0.1,
+      "freedom": 0.5
+    }
+  },
+  "normie": {
+    "valence_shift": -0.5,
+    "arousal_shift": -0.4,
+    "emotions": {
+      "boredom": -0.8,
+      "apathy": -0.9
+    }
+  },
+  "northern soul": {
+    "valence_shift": 0.3,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "soulfulness": 0.7,
+      "longing": 0.4
+    }
+  },
+  "nu jazz": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "creativity": 0.8,
+      "introspection": 0.6
+    }
+  },
+  "nu metal": {
+    "valence_shift": -0.7,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "aggression": 0.9,
+      "anger": 0.8
+    }
+  },
+  "oakland": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.1,
+    "emotions": {
+      "nostalgia": 0.8,
+      "calmness": 0.4
+    }
+  },
+  "old school hip hop": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "energy": 0.9,
+      "aggression": 0.6
+    }
+  },
+  "oldies": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "nostalgia": 0.8,
+      "relaxation": 0.5
+    }
+  },
+  "one hit wonder": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.1,
+    "emotions": {
+      "disappointment": 0.7,
+      "irritation": 0.4
+    }
+  },
+  "opera": {
+    "valence_shift": 0.6,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "drama": 0.9,
+      "romance": 0.5
+    }
+  },
+  "orchestral": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "grandeur": 0.8,
+      "serenity": 0.6
+    }
+  },
+  "phleng phuea chiwit": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "calmness": 0.7,
+      "relaxation": 0.5
+    }
+  },
+  "piano": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "intimacy": 0.8,
+      "sincerity": 0.6
+    }
+  },
+  "pittsburgh": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.1,
+    "emotions": {
+      "nostalgia": 0.7,
+      "calmness": 0.4
+    }
+  },
+  "pop": {
+    "valence_shift": 0.3,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "upbeatness": 0.9,
+      "excitement": 0.8
+    }
+  },
+  "pop punk": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energetic": 0.9,
+      "upbeat": 0.9,
+      "angry": 0.4
+    }
+  },
+  "pop rap": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "confident": 0.8,
+      "energetic": 0.8,
+      "aggressive": 0.6
+    }
+  },
+  "pop rock": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "catchy": 0.9,
+      "upbeat": 0.8,
+      "nostalgic": 0.4
+    }
+  },
+  "popular indie": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "quirky": 0.7,
+      "indie": 0.9,
+      "relaxed": 0.5
+    }
+  },
+  "post-grunge": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "heavy": 0.8,
+      "aggressive": 0.7,
+      "melancholic": 0.6
+    }
+  },
+  "post-punk": {
+    "valence_shift": -0.5,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "dark": 0.9,
+      "moody": 0.8,
+      "chaotic": 0.7
+    }
+  },
+  "power pop": {
+    "valence_shift": 0.4,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "bright": 0.9,
+      "upbeat": 0.8,
+      "playful": 0.6
+    }
+  },
+  "producer": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "clean": 0.7,
+      "precise": 0.8,
+      "neutral": 0.5
+    }
+  },
+  "progressive metal": {
+    "valence_shift": -0.6,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "complex": 0.9,
+      "aggressive": 0.8,
+      "intense": 0.7
+    }
+  },
+  "progressive rock": {
+    "valence_shift": -0.4,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "intricate": 0.9,
+      "thoughtful": 0.8,
+      "mellow": 0.6
+    }
+  },
+  "proto-punk": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "Anxiety": 0.6,
+      "Energized": 0.4,
+      "Disorientation": 0.3
+    }
+  },
+  "psychdelic pop": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Euphoria": 0.6,
+      "Nostalgia": 0.2,
+      "Anxiety": -0.1
+    }
+  },
+  "psychedelic": {
+    "valence_shift": 0.75,
+    "arousal_shift": -0.25,
+    "emotions": {
+      "Euphoria": 0.9,
+      "Nervousness": 0.1,
+      "Calmness": 0.05
+    }
+  },
+  "psychedelic rock": {
+    "valence_shift": 0.75,
+    "arousal_shift": -0.25,
+    "emotions": {
+      "Euphoria": 0.8,
+      "Nervousness": 0.2,
+      "Catharsis": 0.6
+    }
+  },
+  "psychedelic soul": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Euphoria": 0.8,
+      "Nostalgia": 0.2,
+      "Introspection": 0.05
+    }
+  },
+  "psytrance": {
+    "valence_shift": 0.8,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "Euphoria": 0.9,
+      "Exhilaration": 0.7,
+      "Anxiety": 0.1
+    }
+  },
+  "punk": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "Anger": 0.6,
+      "Frustration": 0.4,
+      "Euphoria": 0.1
+    }
+  },
+  "quiet storm": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "calmness": 0.8,
+      "serenity": 0.7,
+      "contentment": 0.6
+    }
+  },
+  "r&b": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Intimacy": 0.4,
+      "Seduction": 0.2
+    }
+  },
+  "ragga": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.75,
+    "emotions": {
+      "Excitement": 0.8,
+      "Energy": 0.9,
+      "Aggression": -0.2
+    }
+  },
+  "rap": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energetic": 0.9,
+      "aggressive": 0.7,
+      "confident": 0.6
+    }
+  },
+  "reggae": {
+    "valence_shift": 0.1,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "mellow": 0.8,
+      "relaxing": 0.9,
+      "uplifting": 0.5
+    }
+  },
+  "reservoir dogs": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.1,
+    "emotions": {
+      "dark": 0.7,
+      "intense": 0.8,
+      "violent": 0.9
+    }
+  },
+  "retro soul": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.3,
+    "emotions": {
+      "soulful": 0.9,
+      "nostalgic": 0.8,
+      "romantic": 0.7
+    }
+  },
+  "rhythm and blues": {
+    "valence_shift": 0.1,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "sensual": 0.8,
+      "intimate": 0.9,
+      "emotive": 0.6
+    }
+  },
+  "rnb": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.3,
+    "emotions": {
+      "sultry": 0.9,
+      "seductive": 0.8,
+      "intimate": 0.7
+    }
+  },
+  "rock": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "energetic": 0.8,
+      "exciting": 0.9,
+      " rebellious": 0.6
+    }
+  },
+  "rock and roll": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "wild": 0.9,
+      "unbridled": 0.8,
+      "exuberant": 0.7
+    }
+  },
+  "rocksteady": {
+    "valence_shift": 0.1,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "mellow": 0.8,
+      "relaxing": 0.9,
+      "uplifting": 0.5
+    }
+  },
+  "romantic": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "loving": 0.9,
+      "sensual": 0.8,
+      "sentimental": 0.7
+    }
+  },
+  "roots reggae": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "serenity": 0.8,
+      "joy": 0.6,
+      "contentment": 0.4
+    }
+  },
+  "roots rock": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Energy": 0.3,
+      "Satisfaction": 0.4
+    }
+  },
+  "sad": {
+    "valence_shift": -0.5,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "sorrow": 0.8,
+      "melancholy": 0.4,
+      "longing": 0.1
+    }
+  },
+  "sade": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.75,
+    "emotions": {
+      "serenity": 0.8,
+      "contemplation": 0.6,
+      "nostalgia": 0.4
+    }
+  },
+  "samba": {
+    "valence_shift": 0.8,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "Excitement": 0.9,
+      "Joy": 0.95,
+      "Euphoria": 0.98
+    }
+  },
+  "sewerslvt": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Melancholy": 0.4,
+      "Wistfulness": 0.3
+    }
+  },
+  "sexy drill": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "Desire": 0.6,
+      "Intimacy": 0.4,
+      "Aggression": 0.1
+    }
+  },
+  "shoegaze": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "melancholy": 0.6,
+      "dreamy": 0.4,
+      "intense": 0.3
+    }
+  },
+  "singer songwriter": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "serenity": 0.6,
+      "nostalgia": 0.2,
+      "wistfulness": 0.1
+    }
+  },
+  "singer-songwriter": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "serenity": 0.6,
+      "nostalgia": 0.2,
+      "wistfulness": 0.1
+    }
+  },
+  "ska-punk": {
+    "valence_shift": -0.4,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energetic": 0.9,
+      "aggressive": 0.7,
+      "upbeat": 0.8
+    }
+  },
+  "skipping through time": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "dreamy": 0.6,
+      "wistful": 0.5,
+      "nostalgic": 0.4
+    }
+  },
+  "smooth soul": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "sensual": 0.8,
+      "relaxing": 0.7,
+      "intimate": 0.6
+    }
+  },
+  "soft pop": {
+    "valence_shift": 0.1,
+    "arousal_shift": -0.3,
+    "emotions": {
+      "catchy": 0.9,
+      "innocent": 0.8,
+      "playful": 0.7
+    }
+  },
+  "soft rock": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "mellow": 0.8,
+      "calming": 0.7,
+      "soothing": 0.6
+    }
+  },
+  "soul": {
+    "valence_shift": 0.4,
+    "arousal_shift": 0.2,
+    "emotions": {
+      "passionate": 0.9,
+      "emotional": 0.8,
+      "heartfelt": 0.7
+    }
+  },
+  "soul blues": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.3,
+    "emotions": {
+      "soulful": 0.8,
+      "bluesy": 0.7,
+      "intense": 0.6
+    }
+  },
+  "soundtrack": {
+    "valence_shift": 0.1,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "epic": 0.9,
+      "heroic": 0.8,
+      "dramatic": 0.7
+    }
+  },
+  "soundtrack 2 my life": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "bittersweet": 0.8,
+      "melancholic": 0.7,
+      "reflective": 0.6
+    }
+  },
+  "southern hip hop": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "confident": 0.9,
+      "assertive": 0.8,
+      " swaggering": 0.7
+    }
+  },
+  "southern rock": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "energetic": 0.8,
+      "exciting": 0.9,
+      "aggressive": 0.7
+    }
+  },
+  "southern thai music": {
+    "valence_shift": 0.1,
+    "arousal_shift": -0.3,
+    "emotions": {
+      "relaxing": 0.4,
+      "soothing": 0.5,
+      "traditional": 0.6
+    }
+  },
+  "space rock": {
+    "valence_shift": -0.8,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "otherworldly": 0.7,
+      "mysterious": 0.8,
+      "intense": 0.9
+    }
+  },
+  "special": {
+    "valence_shift": 0.5,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "unique": 0.6,
+      "exciting": 0.8,
+      "unusual": 0.7
+    }
+  },
+  "steve lacy": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "mellow": 0.5,
+      "relaxing": 0.6,
+      "soothing": 0.7
+    }
+  },
+  "stoner rock": {
+    "valence_shift": -0.4,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "laid-back": 0.7,
+      "mellow": 0.8,
+      "relaxed": 0.9
+    }
+  },
+  "summer": {
+    "valence_shift": 0.6,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "happy": 0.8,
+      "carefree": 0.9,
+      "sunny": 0.7
+    }
+  },
+  "surf": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energetic": 0.6,
+      "exciting": 0.7,
+      "upbeat": 0.8
+    }
+  },
+  "surf rock": {
+    "valence_shift": 0.4,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "relaxed": 0.5,
+      "mellow": 0.6,
+      "calming": 0.7
+    }
+  },
+  "swedish": {
+    "valence_shift": -0.1,
+    "arousal_shift": -0.4,
+    "emotions": {
+      "serene": 0.4,
+      "soothing": 0.5,
+      "traditional": 0.6
+    }
+  },
+  "swing music": {
+    "valence_shift": 0.5,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "Joy": 0.8,
+      "Excitement": 0.4,
+      "Nostalgia": 0.1
+    }
+  },
+  "switchexyy": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "excitement": 0.8,
+      "calmness": 0.2
+    }
+  },
+  "synth funk": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "Excitement": 0.6,
+      "Nostalgia": 0.3,
+      "Euphoria": 0.1
+    }
+  },
+  "synthpop": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "detachment": 0.4,
+      "excitement": 0.6,
+      "nervousness": 0.05
+    }
+  },
+  "thai pop": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "Joy": 0.8,
+      "Contentment": 0.4,
+      "Surprise": 0.2
+    }
+  },
+  "thai rock": {
+    "valence_shift": 0.2,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "serenity": 0.6,
+      "excitement": 0.3,
+      "nostalgia": 0.1
+    }
+  },
+  "the beatles": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.8,
+      "Joy": 0.6,
+      "Melancholy": 0.2
+    }
+  },
+  "the police": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Anxiety": -0.1,
+      "Euphoria": 0.8
+    }
+  },
+  "the weeknd": {
+    "valence_shift": 0.25,
+    "arousal_shift": -0.15,
+    "emotions": {
+      "Nostalgia": 0.6,
+      "Desire": 0.4,
+      "Melancholy": 0.2
+    }
+  },
+  "traditional pop": {
+    "valence_shift": 0,
+    "arousal_shift": 0,
+    "emotions": {
+      "happiness": 0.8,
+      "nostalgia": 0.2,
+      "serenity": 0.5
+    }
+  },
+  "trap": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energetic": 0.9,
+      "aggressive": 0.8,
+      "intense": 0.7
+    }
+  },
+  "trap soul": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "soulful": 0.6,
+      "uplifting": 0.5,
+      "inspiring": 0.4
+    }
+  },
+  "trip hop": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "mellow": 0.7,
+      "relaxing": 0.8,
+      "dreamy": 0.6
+    }
+  },
+  "ugly": {
+    "valence_shift": -0.4,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "dark": 0.9,
+      "misanthropic": 0.8,
+      "twisted": 0.7
+    }
+  },
+  "underground hip-hop": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "raw": 0.8,
+      "intense": 0.7,
+      "unbridled": 0.6
+    }
+  },
+  "underground rap": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "aggressive": 0.9,
+      "passionate": 0.8,
+      "emotional": 0.7
+    }
+  },
+  "united states": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "patriotic": 0.6,
+      "nostalgic": 0.5,
+      "prideful": 0.4
+    }
+  },
+  "usa": {
+    "valence_shift": 0.2,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "proud": 0.7,
+      "nationalistic": 0.6,
+      "exuberant": 0.5
+    }
+  },
+  "vocal jazz": {
+    "valence_shift": 0.3,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "sophisticated": 0.8,
+      "elegant": 0.7,
+      "refined": 0.6
+    }
+  },
+  "wave to earth": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "calming": 0.7,
+      "soothing": 0.8,
+      "serene": 0.6
+    }
+  },
+  "west coast": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "relaxed": 0.8,
+      "calm": 0.9
+    }
+  },
+  "west coast hip hop": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "energized": 0.7,
+      "confident": 0.8
+    }
+  },
+  "wonky": {
+    "valence_shift": 0.3,
+    "arousal_shift": 0.9,
+    "emotions": {
+      "playful": 0.9,
+      "quirky": 1,
+      "exuberant": 1
+    }
+  },
+  "world": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "exotic": 0.7,
+      "mysterious": 0.6,
+      "serene": 0.9
+    }
+  },
+  "wsum 91.7 fm madison": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.5,
+    "emotions": {
+      "nostalgic": 0.8,
+      "friendly": 0.7,
+      "informal": 0.6
+    }
+  },
+  "yacht rock": {
+    "valence_shift": 0.1,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "sophisticated": 0.9,
+      "luxurious": 0.8,
+      "refined": 0.7
+    }
+  },
+  "hip-hop": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "energetic": 0.9,
+      "aggressive": 0.7,
+      "confident": 0.6
+    }
+  },
+  "lovers rock": {
+    "valence_shift": 0.5,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "romantic": 0.8,
+      "sensual": 0.9,
+      "intimate": 0.7
+    }
+  },
+  "luk thung": {
+    "valence_shift": 0.3,
+    "arousal_shift": -0.1,
+    "emotions": {
+      "nostalgic": 0.6,
+      "sentimental": 0.8,
+      "wistful": 0.5
+    }
+  },
+  "mac miller": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.7,
+    "emotions": {
+      "relaxed": 0.9,
+      "mellow": 0.8,
+      "sadness": 0.6
+    }
+  },
+  "madchester": {
+    "valence_shift": 0.5,
+    "arousal_shift": 0.8,
+    "emotions": {
+      "upbeat": 0.9,
+      "energetic": 0.8,
+      "carefree": 0.7
+    }
+  },
+  "male vocalists": {
+    "valence_shift": -0.1,
+    "arousal_shift": 0.4,
+    "emotions": {
+      "soulful": 0.8,
+      "emotive": 0.7,
+      "heartfelt": 0.6
+    }
+  },
+  "masterpiece": {
+    "valence_shift": 0.8,
+    "arousal_shift": -0.2,
+    "emotions": {
+      "elegant": 0.9,
+      "refined": 0.8,
+      "sophisticated": 0.7
+    }
+  },
+  "math rock": {
+    "valence_shift": -0.3,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "intense": 0.8,
+      "complex": 0.9,
+      "thought-provoking": 0.7
+    }
+  },
+  "melancholic": {
+    "valence_shift": -0.5,
+    "arousal_shift": -0.4,
+    "emotions": {
+      "sadness": 0.9,
+      "sorrowful": 0.8,
+      "mournful": 0.7
+    }
+  },
+  "melodramatic": {
+    "valence_shift": -0.2,
+    "arousal_shift": 0.6,
+    "emotions": {
+      "dramatic": 0.8,
+      "over-the-top": 0.9,
+      "exaggerated": 0.7
+    }
+  },
+  "metal": {
+    "valence_shift": -0.33,
+    "arousal_shift": 0.67,
+    "emotions": {
+      "anger": 0.83,
+      "fear": 0.73,
+      "excitement": 0.93
+    }
+  }
+}

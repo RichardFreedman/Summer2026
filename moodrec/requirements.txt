@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+requests
+langchain-ollama
+streamlit
+python-dotenv
