@@ -45,7 +45,8 @@ def find_closest_song(df, target_valence, target_energy, exclude_indices=None,
                       use_audio_features=True,   audio_feature_weight=0.2,
                       prev_valence=None,          prev_energy=None,
                       journey_dv=0,              journey_de=0,
-                      backtrack_tolerance=0.05):
+                      backtrack_tolerance=0.05,  overshoot_tolerance=0.1,
+                      shortlist_size=15):
     if exclude_indices is None:
         exclude_indices = []
     candidates = df[~df.index.isin(exclude_indices)].copy()
@@ -54,19 +55,32 @@ def find_closest_song(df, target_valence, target_energy, exclude_indices=None,
         filtered = candidates.copy()
         if journey_dv > 0:
             filtered = filtered[filtered["valence"] >= prev_valence - backtrack_tolerance]
+            filtered = filtered[filtered["valence"] <= target_valence + overshoot_tolerance]
         elif journey_dv < 0:
             filtered = filtered[filtered["valence"] <= prev_valence + backtrack_tolerance]
+            filtered = filtered[filtered["valence"] >= target_valence - overshoot_tolerance]
         if journey_de > 0:
             filtered = filtered[filtered["energy"] >= prev_energy - backtrack_tolerance]
+            filtered = filtered[filtered["energy"] <= target_energy + overshoot_tolerance]
         elif journey_de < 0:
             filtered = filtered[filtered["energy"] <= prev_energy + backtrack_tolerance]
+            filtered = filtered[filtered["energy"] >= target_energy - overshoot_tolerance]
         if len(filtered) >= 1:
             candidates = filtered
 
-    dist = (
+    core_dist = (
         (candidates["valence"] - target_valence) ** 2
         + (candidates["energy"]  - target_energy)  ** 2
     )
+
+    # Shortlist by raw proximity to the target first, so tag/genre/audio
+    # weighting can only break ties among songs that are actually close to
+    # the target waypoint — not pull in a distant song that happens to be
+    # a great mood/genre match.
+    shortlist_n = min(shortlist_size, len(candidates))
+    shortlist_idx = core_dist.nsmallest(shortlist_n).index
+    candidates = candidates.loc[shortlist_idx]
+    dist = core_dist.loc[shortlist_idx]
 
     if use_tag_features and "tag_valence_shift" in df.columns:
         tv_norm = (candidates["tag_valence_shift"] + 1) / 2
@@ -102,7 +116,8 @@ def build_playlist(df, current_valence, current_energy,
                    genre_request=None,       genre_weight=0.4,
                    use_audio_features=True,  audio_feature_weight=0.2,
                    use_tag_features=True,    tag_weight=0.3,
-                   backtrack_tolerance=0.05):
+                   backtrack_tolerance=0.05, overshoot_tolerance=0.1,
+                   shortlist_size=15):
     waypoints  = generate_waypoints(
         current_valence, current_energy,
         desired_valence, desired_energy, n_steps=n_steps
@@ -128,6 +143,8 @@ def build_playlist(df, current_valence, current_energy,
             journey_dv=journey_dv,
             journey_de=journey_de,
             backtrack_tolerance=backtrack_tolerance,
+            overshoot_tolerance=overshoot_tolerance,
+            shortlist_size=shortlist_size,
         )
         used_indices.append(song.name)
         prev_v = song["valence"]
@@ -212,19 +229,20 @@ def _csv_genres(row) -> list:
     return [g.strip().lower() for g in str(val).split(",") if g.strip()]
 
 
+def _merged_tags(row, song_tags_cache: dict) -> list:
+    csv_tags    = _csv_genres(row)
+    lastfm_tags = song_tags_cache.get(f"{row['title']}|||{row['artist']}", [])
+    return list(dict.fromkeys(csv_tags + lastfm_tags))
+
+
 def generate_all_tags(df, progress_callback=None) -> dict:
-    """Hybrid tag sourcing: CSV Genres → Last.fm track tags → Last.fm artist tags."""
+    """Combined tag sourcing: CSV Genres merged with Last.fm track/artist tags for every song."""
     cache    = _load_song_tags_cache()
-    result   = {}
     to_fetch = []
 
     for _, row in df.iterrows():
-        csv_tags = _csv_genres(row)
-        if csv_tags:
-            result[row["title"]] = csv_tags
-        elif f"{row['title']}|||{row['artist']}" in cache:
-            result[row["title"]] = cache[f"{row['title']}|||{row['artist']}"]
-        else:
+        cache_key = f"{row['title']}|||{row['artist']}"
+        if cache_key not in cache:
             to_fetch.append((row["title"], row["artist"]))
 
     if to_fetch:
@@ -246,9 +264,9 @@ def generate_all_tags(df, progress_callback=None) -> dict:
                         progress_callback(counter["done"], len(to_fetch), title)
                 if tags:
                     cache[f"{title}|||{artist}"] = tags
-                    result[title] = tags
         _save_song_tags_cache(cache)
 
+    result = {row["title"]: _merged_tags(row, cache) for _, row in df.iterrows()}
     return result
 
 
@@ -365,13 +383,18 @@ def _save_genre_cache(cache: dict) -> None:
 
 
 def score_genre_fit(title: str, artist: str, genre_request: str,
-                    llm, cache: dict) -> float:
+                    llm, cache: dict, known_tags: list = None) -> float:
     key = f"{title}|||{artist}|||{genre_request}"
     if key in cache:
         return cache[key]
 
+    tag_context = (
+        f'Known tags/genres for this song: {", ".join(known_tags)}.\n'
+        if known_tags else ""
+    )
     prompt = (
         f'How well does "{title}" by {artist} fit the genre/mood "{genre_request}"?\n'
+        f"{tag_context}"
         "Return ONLY a single float between 0.0 (no fit) and 1.0 (perfect fit). No other text."
     )
     response = llm.invoke(prompt)
@@ -392,11 +415,13 @@ def score_all_genre_fits(df, genre_request: str, llm,
         df["genre_fit"] = 1.0
         return df
 
-    cache  = _load_genre_cache()
+    cache          = _load_genre_cache()
+    song_tags_cache = _load_song_tags_cache()
     total  = len(df)
     scores = []
     for i, (_, row) in enumerate(df.iterrows()):
-        score = score_genre_fit(row["title"], row["artist"], genre_request, llm, cache)
+        known_tags = _merged_tags(row, song_tags_cache)
+        score = score_genre_fit(row["title"], row["artist"], genre_request, llm, cache, known_tags)
         scores.append(score)
         if progress_callback:
             progress_callback(i + 1, total, row["title"])

@@ -54,7 +54,7 @@ Run all cells in order from top to bottom.
 ## How it works
 
 1. **Song library** — `MoodRec_Songs.csv` (367 songs with Spotify audio features)
-2. **Tag enrichment** — Genre/mood tags sourced from the CSV or Last.fm API, then scored by Ollama for emotional valence and arousal
+2. **Tag enrichment** — Genre/mood tags sourced from the CSV and Last.fm API, merged per song, then scored by Ollama for emotional valence and arousal
 3. **Genre fit** — Ollama scores each song against your genre preference (0–1), cached to `genre_fit_cache.json`
 4. **Playlist generation** — Linear waypoints from current → desired emotion; each song picked by multi-dimensional distance (valence/energy + tags + genre fit + audio features)
 

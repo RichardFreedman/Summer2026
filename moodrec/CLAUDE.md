@@ -38,7 +38,7 @@ Emotions are modelled as points in a 2D space: **valence** (unpleasant → pleas
 | [09] | Last.fm tag fetching: `generate_all_tags`, `_fetch_tags_from_lastfm`, `_clean_artist`, `_csv_genres` | OK |
 | [10] | 1b.2 header | — |
 | [11] | Ollama tag scoring: `aggregate_tag_scores`, `_score_tag_batch`, `_score_tag_single` | **Never** |
-| [12] | Genre fit: `score_genre_fit`, `score_all_genre_fits` | **Never** |
+| [12] | Genre fit: `score_genre_fit`, `score_all_genre_fits` | OK |
 | [13] | Run tag pipeline, merge `tag_valence_shift`, `tag_arousal_shift`, `dominant_emotion` into `df` | OK |
 | [14] | 1b.3 header + audio feature rationale table | OK |
 | [15] | Extended `find_closest_song` (overrides [03]) | OK |
@@ -55,13 +55,15 @@ Emotions are modelled as points in a 2D space: **valence** (unpleasant → pleas
 ## Architecture
 
 ### Tag pipeline (runs once, cached)
-1. `generate_all_tags(df)` — CSV genres (238 songs) or Last.fm API (129 songs) → `song_tags_cache.json`
+1. `generate_all_tags(df)` — CSV genres merged with Last.fm track/artist tags for every song (367/367) → `song_tags_cache.json`
 2. `aggregate_tag_scores(track_tags, llm)` — Ollama scores each unique tag for `valence_shift` [-1,1], `arousal_shift` [-1,1], `emotions` dict → `tag_scores_cache.json`
 3. Scores merged into `df` as `tag_valence_shift`, `tag_arousal_shift`, `dominant_emotion`
 
 ### Genre fit (runs per genre, cached)
 - `score_all_genre_fits(df, genre, llm)` — Ollama scores each song 0–1 for a free-text genre/mood → `genre_fit_cache.json`
+- Each song's prompt is grounded with its known tags (`_merged_tags`: CSV genres + cached Last.fm tags from `song_tags_cache.json`), not just title/artist recall
 - Multiple genres: scores averaged across genres, result stored in `df["genre_fit"]`
+- Note: `genre_fit_cache.json` entries computed before this grounding was added were scored without tag context — delete the cache to force a re-score with grounding for a given genre request
 
 ### Playlist generation
 - `generate_waypoints` — linear interpolation from current → desired in n steps
@@ -71,6 +73,7 @@ Emotions are modelled as points in a 2D space: **valence** (unpleasant → pleas
   - Genre fit (weight 0.4): `(1 − genre_fit)²` penalty
   - Audio features (weight 0.2): `acousticness`, `danceability`, `tempo_norm`, `loudness_norm`
   - Directional filter: hard-exclude songs that backtrack > `backtrack_tolerance=0.05` or overshoot > `overshoot_tolerance=0.1` from the global journey direction
+  - Shortlist (`shortlist_size=15`): candidates are ranked by raw core distance first, and only the N closest are eligible for tag/genre/audio re-ranking — keeps those weights from pulling in a song that's a great mood/genre match but far from the target waypoint
 - `build_playlist` — loops waypoints, tracks `prev_v/prev_e`, passes global `journey_dv/journey_de` direction signs
 
 ## Cache files
@@ -105,7 +108,7 @@ Run with: `streamlit run app.py`
 
 ## Key constraints
 
-- **Never modify** cells [03], [11], [12], [24]–[31]
+- **Never modify** cells [03], [11], [24]–[31]
 - **Never modify** `generate_waypoints` (in notebook or `recommender.py`)
 - Notebook cells have no `id` fields after editing via JSON — use cell index for targeting
 - `Artist Name(s)` uses semicolons; `_clean_artist()` splits on `;` and strips feat. suffixes before Last.fm lookups
