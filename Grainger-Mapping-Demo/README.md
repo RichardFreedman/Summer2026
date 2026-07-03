@@ -5,7 +5,7 @@ bundle (`bundle/`) and an OCR'd TXT of the _Grainger's Collection of Music by Ot
 sample catalogue. The demo converts batches of TXT catalogue entries into intermediate JSONs
 to be loaded into an EMu system after manual review. 
 
-The streamlit is available [here](grainger-mapping-demo.streamlit.app).
+The streamlit is available at grainger-mapping-demo.streamlit.app.
 
 ## How to run
 
