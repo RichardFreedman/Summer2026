@@ -3,12 +3,14 @@
 This is a Streamlit demo of the TXT → structured-metadata pipeline, using the prompt
 bundle (`bundle/`) and an OCR'd TXT of the _Grainger's Collection of Music by Other Composers_ 
 sample catalogue. The demo converts batches of TXT catalogue entries into intermediate JSONs
-to be loaded into an EMu system after manual review.
+to be loaded into an EMu system after manual review. 
+
+The streamlit is available [here](grainger-mapping-demo.streamlit.app).
 
 ## How to run
 
     pip install -r requirements.txt
-    streamlit run app.py
+    streamlit run Home_🏠.py
 
 To query the LLM, you must enter an OpenAI API key in the sidebar.
 
