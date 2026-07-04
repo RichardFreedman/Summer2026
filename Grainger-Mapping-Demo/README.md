@@ -38,7 +38,8 @@ The idea is to host this on a Django site that can act as a dashboard for the fu
 uploaded PDF (OCR --> TXT --> JSON). This may require some cheap hosting.
 
 Before that, a sample EMu export from the Grainger curators is needed so I can customize the JSON schemas to
-what their backend actually looks like.
+what their backend actually looks like. A deterministic post-process cleaning is also needed to tie up some
+loose ends with the intermediate JSON (not yet available in this demo).
 
 
 # RAG System Demo

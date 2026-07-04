@@ -18,6 +18,9 @@ st.markdown(
     also have to be customized per institution, since every EMu integration is heavily customized. A sample EMu export
     is necessary to tailor the JSON schemas per institution.
 
+    A deterministic post-process cleaning is also needed to properly attribute the parties involved in each piece and to
+    link parent and child entries together. This post-processing is not yet present in this demo.
+
     Also included is a RAG (retrieval-augmented generation) dashboard that leverages the cleaning done for the above
     conversion by using the uniform entries as text chunks. Those chunks are vectorized and stored in a vector database
     before app deployment. The RAG system is capable of taking a needle-in-a-haystack query and looking for the text
