@@ -164,8 +164,8 @@ with tab_out:
         st.write("No parse yet for this batch.")
     else:
         # display review flags
-        flags = [{"object_number": r.get("object_number"), "reason": f.get("reason"), "note": f.get("note")} for r in records for f in (r.get("review_flags") or [])]
-        st.subheader(f"review_flags ({len(flags)})—possibly erroneous records; manually review before loading into EMu")
+        flags = [{"object_number": r.get("object_number"), "reason": f.get("reason"), "note": f.get("detail")} for r in records for f in (r.get("review_flags") or [])]
+        st.subheader(f"review_flags ({len(flags)})—possible errors to manually review")
         if flags:
             st.dataframe(flags, use_container_width=True)
         else:
