@@ -6,12 +6,10 @@ elif (st.session_state.email == '' or st.session_state.password == ''): st.heade
 else:
     # Gets desired collection from user
     st.header('Query A Collection')
-    if ('collection' not in st.session_state): st.session_state.collection = st.text_input('Collection ID:')
-    else: st.session_state.collection = st.text_input(label='Collection ID:', value=st.session_state.collection)
+    if ('collection' in st.session_state and st.session_state.collection != None): st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, st.session_state.collection_identifiers_list.index(st.session_state.collection))
+    else: st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, None, placeholder='Select Collection Identifier')
 
-
-
-    if (st.session_state.collection != ''):
+    if (st.session_state.collection != None):
         # Retrieves basic collection information
         query = '''
             query($identifier: ID!) {
@@ -46,7 +44,7 @@ else:
                 }
             }
             '''
-        variables = {'full_identifier': st.session_state.collection}
+        variables = {'full_identifier': str(st.session_state.collection)}
         response = st.session_state.session.post(
             'https://admin-catalog.paradisec.org.au/graphql',
             json={'query': query, 'variables': variables},
@@ -73,7 +71,7 @@ else:
                     }
                 }
             '''
-            variables = {'limit': st.session_state.enforced_page_limit, 'page': (page + 1), 'full_identifier': st.session_state.collection}
+            variables = {'limit': st.session_state.enforced_page_limit, 'page': (page + 1), 'full_identifier': str(st.session_state.collection)}
             response = st.session_state.session.post(
                 'https://admin-catalog.paradisec.org.au/graphql',
                 json={'query': query, 'variables': variables},
@@ -84,29 +82,19 @@ else:
             )
             collection_items.extend(response.json()['data']['items']['results'])
 
-        # col1, col2 = st.columns(2)
-
-        # col1.subheader('Items in Collection')
-        # col1.dataframe(pd.DataFrame(collection_items))
         st.subheader('Items in Collection')
         st.dataframe(pd.DataFrame(collection_items))
-        # col1.json(collection_items)
 
 
 
         # Retrieves specific item information
-        # col2.subheader('Specific Item Information')
-        # if ('item' not in st.session_state): st.session_state.item = col2.text_input('Item Full Identifier:')
-        # else: st.session_state.item = col2.text_input(label='Item Full Identifier:', value=st.session_state.item)
         st.subheader('Specific Item Information')
-        if ('item' not in st.session_state): st.session_state.item = st.text_input('Item Full Identifier:')
-        else: st.session_state.item = st.text_input(label='Item Full Identifier:', value=st.session_state.item)
+        if ('item' in st.session_state and st.session_state.item != None): st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, st.session_state.item_identifiers_list.index(st.session_state.item))
+        else: st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, None, placeholder='Select Item Full Identifier')
 
 
 
-        if (st.session_state.item != ''):
-            # item = st.session_state.item.strip('"')
-
+        if (st.session_state.item != None):
             query = '''
                 query($fullIdentifier: ID!) {
                     item(fullIdentifier: $fullIdentifier) {
@@ -185,7 +173,6 @@ else:
                     }
                 }
             '''
-            # variables = {'fullIdentifier': item}
             variables = {'fullIdentifier': st.session_state.item}
             response = st.session_state.session.post(
                 'https://admin-catalog.paradisec.org.au/graphql',
@@ -195,9 +182,5 @@ else:
                     'X-CSRF-Token': st.session_state.csrf_token
                 }
             )
-
-            # col2.write('All available item information (sub categories simplified):')
-            # col2.dataframe(pd.DataFrame(response.json()['data']))
             st.write('All available item information (sub object information simplified):')
             st.dataframe(pd.DataFrame(response.json()['data']))
-            # col2.write(response.json())

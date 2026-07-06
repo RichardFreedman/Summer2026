@@ -3,7 +3,17 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+# Setting up constants needed across pages and expressions large enough to avoid re-running
 st.session_state.enforced_page_limit = 500
+@st.cache_data
+def read_files():
+    with open('collection_identifiers.txt', 'r') as file: st.session_state.collection_identifiers_list = file.read().splitlines()
+    with open('collectors.txt', 'r') as file: st.session_state.collectors_list = file.read().splitlines()
+    with open('item_identifiers.txt', 'r') as file: st.session_state.item_identifiers_list = file.read().splitlines()
+    with open('languages.txt', 'r') as file: st.session_state.languages_list = file.read().splitlines()
+    with open('regions.txt', 'r') as file: st.session_state.regions_list = file.read().splitlines()
+    with open('universities.txt', 'r') as file: st.session_state.universities_list = file.read().splitlines()
+read_files()
 
 # Sets up session and login process
 st.session_state.session = requests.Session()
