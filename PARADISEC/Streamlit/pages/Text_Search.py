@@ -3,7 +3,7 @@ import streamlit as st
 if ('email' not in st.session_state or 'password' not in st.session_state): st.header('Login First!')
 elif (st.session_state.email == '' or st.session_state.password == ''): st.header('Login First!')
 else:
-    # TESTING
+    # NOTE Below commented code is for testing purposes/temporary
     # query = '''
     #     query {
     #         item(fullIdentifier: "MMT1-20170703a") {
@@ -28,6 +28,8 @@ else:
 
     # st.write(response.json())
 
+
+
     # query = '''
     #     query {
     #         items {
@@ -47,8 +49,6 @@ else:
     # total_items = response.json()['data']['items']['total']
     # pages = total_items // st.session_state.enforced_page_limit
     # if ((total_items % st.session_state.enforced_page_limit) != 0): pages = pages + 1
-
-
 
     # all_mimetypes = {}
     # no_mimetype_counter = 0
@@ -314,39 +314,99 @@ else:
 
 
 
+    # Clears all optional filters
+    def clear_filters():
+        st.session_state.filter_collection = None
+        # st.session_state.filter_collector = None
+        st.session_state.filter_region = None
+        # st.session_state.filter_university = None
+
+
 
     st.header('Filters')
+
     # Required language filter
     if ('filter_language' in st.session_state and st.session_state.filter_language != None): st.session_state.filter_language = st.selectbox('Language:', st.session_state.languages_list, st.session_state.languages_list.index(st.session_state.filter_language))
     else: st.session_state.filter_language = st.selectbox('Language:', st.session_state.languages_list, None, placeholder='Select Language (Required)')
 
-    if (st.session_state.filter_language != None):
-        # Additional optional filters
-        if ('filter_collection' in st.session_state and st.session_state.filter_collection != None): st.session_state.filter_collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, st.session_state.collection_identifiers_list.index(st.session_state.filter_collection))
-        else: st.session_state.filter_collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, None, placeholder='Select Collection Identifier (Optional)')
+    # Additional optional filters
+    if ('filter_collection' in st.session_state and st.session_state.filter_collection != None): st.session_state.filter_collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, st.session_state.collection_identifiers_list.index(st.session_state.filter_collection))
+    else: st.session_state.filter_collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, None, placeholder='Select Collection Identifier (Optional)')
 
-        # BUG Filtering by collector_name has no effect
-        # if ('filter_collector' in st.session_state and st.session_state.filter_collector != None): st.session_state.filter_collector = st.selectbox("Collector's Name:", st.session_state.collectors_list, st.session_state.collectors_list.index(st.session_state.filter_collector))
-        # else: st.session_state.filter_collector = st.selectbox("Collector's Name:", st.session_state.collectors_list, None, placeholder="Select Collector's Name (Optional)")
+    # BUG Filtering by collector_name has no effect
+    # if ('filter_collector' in st.session_state and st.session_state.filter_collector != None): st.session_state.filter_collector = st.selectbox("Collector's Name:", st.session_state.collectors_list, st.session_state.collectors_list.index(st.session_state.filter_collector))
+    # else: st.session_state.filter_collector = st.selectbox("Collector's Name:", st.session_state.collectors_list, None, placeholder="Select Collector's Name (Optional)")
 
-        if ('filter_region' in st.session_state and st.session_state.filter_region != None): st.session_state.filter_region = st.selectbox('Region:', st.session_state.regions_list, st.session_state.regions_list.index(st.session_state.filter_region))
-        else: st.session_state.filter_region = st.selectbox('Region:', st.session_state.regions_list, None, placeholder='Select Region (Optional)')
+    if ('filter_region' in st.session_state and st.session_state.filter_region != None): st.session_state.filter_region = st.selectbox('Region:', st.session_state.regions_list, st.session_state.regions_list.index(st.session_state.filter_region))
+    else: st.session_state.filter_region = st.selectbox('Region:', st.session_state.regions_list, None, placeholder='Select Region (Optional)')
 
-        # BUG Filtering by university_name has no effect
-        # if ('filter_university' in st.session_state and st.session_state.filter_university != None): st.session_state.filter_university = st.selectbox('University Name:', st.session_state.universities_list, st.session_state.universities_list.index(st.session_state.filter_university))
-        # else: st.session_state.filter_university = st.selectbox('University Name:', st.session_state.universities_list, None, placeholder='Select University Name (Optional)')
+    # BUG Filtering by university_name has no effect
+    # if ('filter_university' in st.session_state and st.session_state.filter_university != None): st.session_state.filter_university = st.selectbox('University Name:', st.session_state.universities_list, st.session_state.universities_list.index(st.session_state.filter_university))
+    # else: st.session_state.filter_university = st.selectbox('University Name:', st.session_state.universities_list, None, placeholder='Select University Name (Optional)')
 
-        # Search parameters
-        st.header('Search Parameters')
+    st.button('Clear Optional Filters', on_click=clear_filters, icon=':material/ink_eraser:')
 
-        search_types = ['Exact', 'Partial', 'Fuzzy', 'Semantic']
-        if ('search_type' in st.session_state and st.session_state.search_type != None): st.session_state.search_type = st.selectbox('Search Type:', search_types, search_types.index(st.session_state.search_type))
-        else: st.session_state.search_type = st.selectbox('Search Type:', search_types, None, placeholder='Select Type of Search')
 
-        if ('search_text' not in st.session_state): st.session_state.search_text = st.text_input('Search Text:')
-        else: st.session_state.search_text = st.text_input('Search Text:', st.session_state.search_text)
 
-        if (st.session_state.search_type != None and st.session_state.search_text != ""):
-            if st.button('Search', icon=":material/search:"):
-                # TODO Actual search functions
-                st.write('In Progress')
+    # Search parameters
+    st.header('Search Parameters')
+
+    search_types = ['Exact', 'Partial', 'Fuzzy', 'Semantic']
+    if ('search_type' in st.session_state and st.session_state.search_type != None): st.session_state.search_type = st.selectbox('Search Type:', search_types, search_types.index(st.session_state.search_type))
+    else: st.session_state.search_type = st.selectbox('Search Type:', search_types, None, placeholder='Select Type of Search')
+
+    if ('search_text' not in st.session_state): st.session_state.search_text = st.text_input('Search Text:')
+    else: st.session_state.search_text = st.text_input('Search Text:', st.session_state.search_text)
+
+    if (st.session_state.filter_language != None and st.session_state.search_type != None and st.session_state.search_text != ""):
+        if st.button('Search', icon=':material/search:'):
+            st.header('Search Results')
+
+            # TODO Actual search functions
+            st.write('In Progress')
+
+            # query = '''
+            #     query {
+            #         items {
+            #             total
+            #         }
+            #     }
+            #     '''
+            # response = st.session_state.session.post(
+            #     'https://admin-catalog.paradisec.org.au/graphql',
+            #     json={'query': query},
+            #     headers={
+            #         'Content-Type': 'application/json',
+            #         'X-CSRF-Token': st.session_state.csrf_token
+            #     }
+            # )
+
+            # total_items = response.json()['data']['items']['total']
+            # pages = total_items // st.session_state.enforced_page_limit
+            # if ((total_items % st.session_state.enforced_page_limit) != 0): pages = pages + 1
+
+            # all_item_identifiers = []
+            # for page in range(pages):
+            #     query = '''
+            #         query($page: Int!, $limit: Int!) {
+            #             items(limit: $limit, page: $page) {
+            #                 results {
+            #                     full_identifier
+            #                 }
+            #             }
+            #         }
+            #     '''
+            #     variables = {'limit': st.session_state.enforced_page_limit, 'page': (page + 1)}
+            #     response = st.session_state.session.post(
+            #         'https://admin-catalog.paradisec.org.au/graphql',
+            #         json={'query': query, 'variables': variables},
+            #         headers={
+            #             'Content-Type': 'application/json',
+            #             'X-CSRF-Token': st.session_state.csrf_token
+            #         }
+            #     )
+            #     for result in response.json()['data']['items']['results']: all_item_identifiers.append(result['full_identifier'])
+            #     st.write('Processing...Page Completed...')
+
+            # st.subheader('Processing Completed!')
+            # st.write("|".join(all_item_identifiers))

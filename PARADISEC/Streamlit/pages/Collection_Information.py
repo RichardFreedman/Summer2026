@@ -44,7 +44,7 @@ else:
                 }
             }
             '''
-        variables = {'full_identifier': str(st.session_state.collection)}
+        variables = {'full_identifier': st.session_state.collection}
         response = st.session_state.session.post(
             'https://admin-catalog.paradisec.org.au/graphql',
             json={'query': query, 'variables': variables},
@@ -71,7 +71,7 @@ else:
                     }
                 }
             '''
-            variables = {'limit': st.session_state.enforced_page_limit, 'page': (page + 1), 'full_identifier': str(st.session_state.collection)}
+            variables = {'limit': st.session_state.enforced_page_limit, 'page': (page + 1), 'full_identifier': st.session_state.collection}
             response = st.session_state.session.post(
                 'https://admin-catalog.paradisec.org.au/graphql',
                 json={'query': query, 'variables': variables},
@@ -87,100 +87,98 @@ else:
 
 
 
-        # Retrieves specific item information
-        st.subheader('Specific Item Information')
-        if ('item' in st.session_state and st.session_state.item != None): st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, st.session_state.item_identifiers_list.index(st.session_state.item))
-        else: st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, None, placeholder='Select Item Full Identifier')
+    # Retrieves specific item information
+    st.subheader('Specific Item Information')
+    if ('item' in st.session_state and st.session_state.item != None): st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, st.session_state.item_identifiers_list.index(st.session_state.item))
+    else: st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, None, placeholder='Select Item Full Identifier')
 
-
-
-        if (st.session_state.item != None):
-            query = '''
-                query($fullIdentifier: ID!) {
-                    item(fullIdentifier: $fullIdentifier) {
-                        access_class
-                        access_condition_name
-                        access_narrative
-                        born_digital
-                        boundaries {
-                            east_limit
-                            north_limit
-                            south_limit
-                            west_limit
-                        }
-                        citation
-                        collection {
-                            title
-                        }
-                        collector {
-                            name
-                        }
-                        content_languages {
-                            name
-                        }
-                        countries {
-                            name
-                        }
-                        created_at
-                        data_categories {
-                            name
-                        }
-                        data_types {
-                            name
-                        }
-                        description
-                        dialect
-                        digitised_on
-                        discourse_type {
-                            name
-                        }
-                        doi
-                        essences {
-                            filename
-                            permalink
-                        }
-                        essences_count
-                        full_identifier
-                        id
-                        identifier
-                        ingest_notes
-                        item_agents {
-                            role_name
-                            user_name
-                        }
-                        language
-                        metadata_exportable
-                        operator {
-                            name
-                        }
-                        original_media
-                        originated_on
-                        originated_on_narrative
-                        permalink
-                        private
-                        public
-                        received_on
-                        region
-                        subject_languages {
-                            name
-                        }
-                        title
-                        tracking
-                        university {
-                            name
-                        }
-                        updated_at
+    if (st.session_state.item != None):
+        query = '''
+            query($fullIdentifier: ID!) {
+                item(fullIdentifier: $fullIdentifier) {
+                    access_class
+                    access_condition_name
+                    access_narrative
+                    born_digital
+                    boundaries {
+                        east_limit
+                        north_limit
+                        south_limit
+                        west_limit
                     }
+                    citation
+                    collection {
+                        title
+                    }
+                    collector {
+                        name
+                    }
+                    content_languages {
+                        name
+                    }
+                    countries {
+                        name
+                    }
+                    created_at
+                    data_categories {
+                        name
+                    }
+                    data_types {
+                        name
+                    }
+                    description
+                    dialect
+                    digitised_on
+                    discourse_type {
+                        name
+                    }
+                    doi
+                    essences {
+                        filename
+                        permalink
+                    }
+                    essences_count
+                    full_identifier
+                    id
+                    identifier
+                    ingest_notes
+                    item_agents {
+                        role_name
+                        user_name
+                    }
+                    language
+                    metadata_exportable
+                    operator {
+                        name
+                    }
+                    original_media
+                    originated_on
+                    originated_on_narrative
+                    permalink
+                    private
+                    public
+                    received_on
+                    region
+                    subject_languages {
+                        name
+                    }
+                    title
+                    tracking
+                    university {
+                        name
+                    }
+                    updated_at
                 }
-            '''
-            variables = {'fullIdentifier': st.session_state.item}
-            response = st.session_state.session.post(
-                'https://admin-catalog.paradisec.org.au/graphql',
-                json={'query': query, 'variables': variables},
-                headers={
-                    'Content-Type': 'application/json',
-                    'X-CSRF-Token': st.session_state.csrf_token
-                }
-            )
-            st.write('All available item information (sub object information simplified):')
-            st.dataframe(pd.DataFrame(response.json()['data']))
+            }
+        '''
+        variables = {'fullIdentifier': st.session_state.item}
+        response = st.session_state.session.post(
+            'https://admin-catalog.paradisec.org.au/graphql',
+            json={'query': query, 'variables': variables},
+            headers={
+                'Content-Type': 'application/json',
+                'X-CSRF-Token': st.session_state.csrf_token
+            }
+        )
+        st.write('All available item information (sub object information simplified):')
+        st.dataframe(pd.DataFrame(response.json()['data']))
