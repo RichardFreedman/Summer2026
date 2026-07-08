@@ -1,4 +1,17 @@
 """
+Deterministic postprocessor that translates between the intermediary JSON and the final EMu export (to be imported into an EMu system).
+
+Unverified column names are noted here with <brackets> and False in the DEFAULT_CONFIG. They need to be replaced manually. EMu outputs are blocked while unverified columns exist.
+To push through EMu while unverified columns exist, pass --allow-unverified. This also appends "DRAFT_" to the start of the file names of the EMu outputs (DO NOT import these, they won't work)
+
+All flagged portions of records are written into a curator_review.csv to be manually reviewed in a spreadsheet. The CSV:
+- can only correct single-value fields, not fields with multiple nested subfields in them (those subfields must be corrected indvidually)
+- cannot correct untranslatable structural errors (e.g. missing creator attribution)
+- has three options for each flagged portion: ACCEPT, REJECT (deleted from the EMu output), and CORRECT (manually replace value in the spreadsheet)
+
+All flagged portions of eParties records are also written into a parties_review.csv that functions the same way as curator_review.csv.
+
+Completed reviews can be passed back into this postprocessor with --corrections PATH --parties-decisions PATH. MAKE SURE to rename the CSVs to something different from their original names(!!!)
 """
 
 
@@ -408,9 +421,25 @@ def write_tsv(path: Path, rows: list["OrderedDict[str, str]"]):
 
 def main(argv=None):
     """
+    Works with CLI by default when argv is None, but can also be called programmatically with main(argv=[CLI args]). 
+    Args:
+    python postprocess.py 
+    records: JSON 
+    --config: PATH(default emu_columns.json) 
+    --corrections PATH
+    --parties-decisions PATH 
+    --out PATH(default emu_out) 
+    --allow-unverified 
+    --init-config
+    
     Runflow:
+    Parse args > load config > load records > validate & dedupe records > apply corrections > build inter-record relationships > apply parties decisions > build curator_review.csv
+    > blocks output if there are unverified columns > outputs ecatalogue_import.tsv & eparties_import.tsv > outputs curator_review.csv & parties_review.csv & run_report.md
 
-
+    Exit:
+    0=all good
+    1=records failed validation against output_schema.json
+    2=unverified columns present, output TSVs blocked
     """
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -591,4 +620,3 @@ Input: `{args.records}` (sha256 {digest})
 
 if __name__ == "__main__":
     sys.exit(main())
-s
