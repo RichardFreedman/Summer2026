@@ -6,7 +6,7 @@ elif (st.session_state.email == '' or st.session_state.password == ''): st.heade
 else:
     # Gets desired collection from user
     st.header('Query A Collection')
-    if ('collection' in st.session_state and st.session_state.collection != None): st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, st.session_state.collection_identifiers_list.index(st.session_state.collection))
+    if ('collection' in st.session_state and st.session_state.collection != None): st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, st.session_state.collection_identifiers_list.index(st.session_state.collection), placeholder='Select Collection Identifier')
     else: st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, None, placeholder='Select Collection Identifier')
 
     if (st.session_state.collection != None):
@@ -89,7 +89,7 @@ else:
 
     # Retrieves specific item information
     st.subheader('Specific Item Information')
-    if ('item' in st.session_state and st.session_state.item != None): st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, st.session_state.item_identifiers_list.index(st.session_state.item))
+    if ('item' in st.session_state and st.session_state.item != None): st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, st.session_state.item_identifiers_list.index(st.session_state.item), placeholder='Select Item Full Identifier')
     else: st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, None, placeholder='Select Item Full Identifier')
 
     if (st.session_state.item != None):
