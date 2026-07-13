@@ -202,7 +202,7 @@ with tab_parse:
             flags = [{"object_number": r.get("object_number"), "reason": f.get("reason"), "note": f.get("detail")} for r in records for f in (r.get("review_flags") or [])]
             st.subheader(f"review_flags ({len(flags)})—possible errors to manually review")
             if flags:
-                st.dataframe(flags, width=True)
+                st.dataframe(flags, width="stretch")
             else:
                 st.write("None raised.")
             st.subheader("Records (intermediate JSON)")
@@ -322,6 +322,6 @@ with tab_post:
                         sep = "\t" if f.suffix == ".tsv" else ","
                         try:
                             st.dataframe(pd.read_csv(f, sep=sep, dtype=str).fillna(""),
-                                         width=True)
+                                         width="stretch")
                         except Exception:
                             st.code(f.read_text(encoding="utf-8")[:5000], language=None)
