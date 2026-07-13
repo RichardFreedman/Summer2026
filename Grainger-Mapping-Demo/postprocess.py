@@ -185,9 +185,7 @@ def apply_corrections(records: list[dict], path: Path):
                 obj, key = hit
                 old, new = obj[key], row.get("corrected_value", "")
                 if isinstance(old, (list, dict)):
-                    errors.append(f"{num}: '{row.get('field_path')}' is a structured "
-                                  "field; CSV corrections can only correct single-value fields. "
-                                  "Try to correct the nested subfield instead (e.g. related/0/object_number) "
+                    errors.append(f"{num}: '{row.get('field_path')}' is a structured field; CSV corrections can only correct single-value fields. Try to correct the nested subfield instead (e.g. related/0/object_number) "
                                   "or reject the record (deleting it from the generated TSV) if there's a genuine structural error, e.g. a missing creator attribution (which can't be expressed in CSV, unfortunately)")
                     continue
                 if isinstance(old, bool):

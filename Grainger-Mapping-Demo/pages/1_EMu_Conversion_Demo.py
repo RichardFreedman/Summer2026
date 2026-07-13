@@ -132,8 +132,7 @@ def _save_upload(upload, directory: Path) -> Path:
 
 
 st.title("Grainger catalogue → EMu structured metadata (demo)")
-st.caption("Tab 1: LLM; Parses entries into intermediate EMu-like JSON "
-           "Tab 2: Manual review + deterministic postprocessing of intermediate JSON to EMu import files")
+st.caption("Tab 1: LLM; Parses entries into intermediate EMu-like JSON. Tab 2: Manual review + deterministic postprocessing of intermediate JSON to EMu import files")
 
 with st.sidebar:
     st.header("Settings")
@@ -203,7 +202,7 @@ with tab_parse:
             flags = [{"object_number": r.get("object_number"), "reason": f.get("reason"), "note": f.get("detail")} for r in records for f in (r.get("review_flags") or [])]
             st.subheader(f"review_flags ({len(flags)})—possible errors to manually review")
             if flags:
-                st.dataframe(flags, use_container_width=True)
+                st.dataframe(flags, width=True)
             else:
                 st.write("None raised.")
             st.subheader("Records (intermediate JSON)")
@@ -323,6 +322,6 @@ with tab_post:
                         sep = "\t" if f.suffix == ".tsv" else ","
                         try:
                             st.dataframe(pd.read_csv(f, sep=sep, dtype=str).fillna(""),
-                                         use_container_width=True)
+                                         width=True)
                         except Exception:
                             st.code(f.read_text(encoding="utf-8")[:5000], language=None)
