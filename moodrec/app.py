@@ -1,8 +1,16 @@
+import os
+import json
+from collections import Counter
+
 import streamlit as st
+import streamlit.components.v1 as components
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import numpy as np
 import pandas as pd
+import networkx as nx
+import plotly.express as px
+from pyvis.network import Network
 
 from langchain_openai import ChatOpenAI
 from recommender import (
@@ -132,10 +140,234 @@ def quadrant_label(v, e):
 
 
 # ---------------------------------------------------------------------------
+# Network / heatmap helpers (Part 1c port from recommender.ipynb)
+#
+# enrich_dataframe() (recommender.py) doesn't add `all_tags` / `supergenre` —
+# those only exist in the notebook (cells 13 and 15). Reconstructed here from
+# the same cache files the notebook uses, so no recommender.py changes and no
+# live API calls in the common case (falls back to the same GPT mapping call
+# as the notebook only for genuinely new, uncached tags).
+# ---------------------------------------------------------------------------
+
+QUADRANTS = ["Stressed / Anxious", "Excited / Happy", "Sad / Depressed", "Calm / Relaxed"]
+SUPERGENRE_CACHE = "supergenre_cache.json"
+SUPERGENRES = ["Jazz", "Soul/R&B", "Hip Hop/Rap", "Rock", "Pop", "Folk/Country",
+               "Electronic/Dance", "Classical/Orchestral", "World Music", "Other"]
+MIN_TAG_FREQ = 4
+
+
+def _csv_genres(row):
+    val = row.get("genres", None)
+    if not val or isinstance(val, float):
+        return []
+    return [g.strip().lower() for g in str(val).split(",") if g.strip()]
+
+
+def split_genres(val):
+    if not val or isinstance(val, float):
+        return []
+    return [g.strip() for g in str(val).split(",") if g.strip()]
+
+
+@st.cache_data(show_spinner=False)
+def add_supergenre_column(df, _llm):
+    df = df.copy()
+    song_tags_cache = {}
+    if os.path.exists("song_tags_cache.json"):
+        with open("song_tags_cache.json") as f:
+            song_tags_cache = json.load(f)
+
+    def merged_tags(row):
+        csv_tags    = _csv_genres(row)
+        lastfm_tags = song_tags_cache.get(f"{row['title']}|||{row['artist']}", [])
+        return list(dict.fromkeys(csv_tags + lastfm_tags))
+
+    df["all_tags"] = df.apply(lambda r: ",".join(merged_tags(r)), axis=1)
+
+    supergenre_map = {}
+    if os.path.exists(SUPERGENRE_CACHE):
+        with open(SUPERGENRE_CACHE) as f:
+            supergenre_map = json.load(f)
+
+    unique_tags = sorted({t for tags in df["all_tags"].str.split(",") for t in tags if t})
+    missing = [t for t in unique_tags if t not in supergenre_map]
+    if missing:
+        prompt = (
+            "Map each of the following music genre/mood tags to exactly one of these "
+            "super-genre categories: " + ", ".join(SUPERGENRES) + ".\n"
+            "Return ONLY a valid JSON object mapping each tag string to one category "
+            "string (no extra text).\n"
+            "Tags: " + json.dumps(missing)
+        )
+        text = _llm.invoke(prompt).content
+        if "```" in text:
+            parts = text.split("```")
+            text = parts[1] if len(parts) >= 2 else parts[0]
+            if text.startswith("json"):
+                text = text[4:]
+        supergenre_map.update(json.loads(text.strip()))
+        with open(SUPERGENRE_CACHE, "w") as f:
+            json.dump(supergenre_map, f, indent=2)
+
+    df["supergenre"] = df["all_tags"].apply(
+        lambda s: supergenre_map.get(s.split(",")[0], "Other") if s else "Other"
+    )
+    return df
+
+
+@st.cache_data(show_spinner=False)
+def build_genre_zone_network(df):
+    """Super-genre -> emotional-zone bipartite graph (port of notebook cell 26)."""
+    sg_zone_counts = Counter()
+    for _, row in df.iterrows():
+        quadrant = quadrant_label(row["valence"], row["energy"])
+        sg_zone_counts[(row["supergenre"], quadrant)] += 1
+
+    G = nx.Graph()
+    G.add_nodes_from(QUADRANTS, kind="zone")
+    for (supergenre, quadrant), weight in sg_zone_counts.items():
+        if weight >= 2:
+            G.add_node(supergenre, kind="genre")
+            G.add_edge(supergenre, quadrant, weight=weight)
+    return G
+
+
+@st.cache_data(show_spinner=False)
+def build_supergenre_emotion_network(df):
+    """Super-genre -> discrete-emotion bipartite graph (port of notebook cell 30)."""
+    supergenre_emotion_counts = Counter()
+    for _, row in df.iterrows():
+        for emotion, _weight in row["top_emotions"]:
+            supergenre_emotion_counts[(row["supergenre"], emotion)] += 1
+
+    G = nx.Graph()
+    for (supergenre, emotion), weight in supergenre_emotion_counts.items():
+        if weight >= 4:
+            G.add_node(supergenre, kind="genre")
+            G.add_node(emotion, kind="emotion")
+            G.add_edge(supergenre, emotion, weight=weight)
+    return G
+
+
+@st.cache_data(show_spinner=False)
+def build_frequent_tags(df):
+    """Individual tags appearing on >= MIN_TAG_FREQ songs (port of notebook cell 23)."""
+    tag_song_freq = Counter()
+    for _, row in df.iterrows():
+        for tag in set(split_genres(row.get("all_tags"))):
+            tag_song_freq[tag] += 1
+    return {t for t, c in tag_song_freq.items() if c >= MIN_TAG_FREQ}
+
+
+@st.cache_data(show_spinner=False)
+def build_genre_zone_network_detailed(df, frequent_tags):
+    """Individual-tag -> emotional-zone bipartite graph (port of notebook cell 23)."""
+    genre_zone_counts = {}
+    for _, row in df.iterrows():
+        quadrant = quadrant_label(row["valence"], row["energy"])
+        for genre in split_genres(row.get("all_tags")):
+            if genre not in frequent_tags:
+                continue
+            key = (genre, quadrant)
+            genre_zone_counts[key] = genre_zone_counts.get(key, 0) + 1
+
+    G = nx.Graph()
+    G.add_nodes_from(QUADRANTS, kind="zone")
+    for (genre, quadrant), weight in genre_zone_counts.items():
+        if weight >= 2:
+            G.add_node(genre, kind="genre")
+            G.add_edge(genre, quadrant, weight=weight)
+    return G
+
+
+@st.cache_data(show_spinner=False)
+def build_tag_emotion_network(df, frequent_tags):
+    """Individual-tag -> discrete-emotion bipartite graph (port of notebook cell 33)."""
+    tag_emotion_counts = Counter()
+    for _, row in df.iterrows():
+        tags = set(split_genres(row.get("all_tags"))) & frequent_tags
+        for tag in tags:
+            for emotion, _weight in row["top_emotions"]:
+                tag_emotion_counts[(tag, emotion)] += 1
+
+    G = nx.Graph()
+    for (tag, emotion), weight in tag_emotion_counts.items():
+        if weight >= 2:
+            G.add_node(tag, kind="genre")
+            G.add_node(emotion, kind="emotion")
+            G.add_edge(tag, emotion, weight=weight)
+    return G
+
+
+@st.cache_data(show_spinner=False)
+def build_heatmap_data(df):
+    """Super-genre x emotion count matrix (port of notebook cell 36)."""
+    supergenre_emotion_counts = Counter()
+    for _, row in df.iterrows():
+        for emotion, _weight in row["top_emotions"]:
+            supergenre_emotion_counts[(row["supergenre"], emotion)] += 1
+
+    sg_degree, emo_degree = {}, {}
+    for (sg, emo), weight in supergenre_emotion_counts.items():
+        if weight >= 4:
+            sg_degree.setdefault(sg, set()).add(emo)
+            emo_degree.setdefault(emo, set()).add(sg)
+
+    supergenres = sorted(sg for sg, emos in sg_degree.items() if len(emos) >= 3)
+    emotions    = sorted(emo for emo, sgs in emo_degree.items() if len(sgs) >= 3)
+
+    matrix = np.array([
+        [supergenre_emotion_counts.get((sg, emo), 0) for emo in emotions]
+        for sg in supergenres
+    ])
+    return supergenres, emotions, matrix
+
+
+def render_pyvis_html(net, physics_enabled=True):
+    """Generate standalone HTML for a pyvis Network and patch in fixes pyvis's
+    default template is missing:
+      - a tooltip CSS override, without which multi-line hover tooltips render
+        as a single unbounded line that runs off the visible canvas
+      - a re-fit of the camera once physics settles. The template never calls
+        network.fit() after stabilization, so the view stays centered on the
+        nodes' initial random pre-physics positions while forceAtlas2Based /
+        repulsion spreads them out — on a sparse graph the settled layout ends
+        up mostly off-screen.
+      - if physics_enabled is False, physics stays on just long enough for the
+        layout to organise itself (same ~5s window as the fit polling) and is
+        then switched off, so nodes stay put and can be dragged individually
+        without the rest of the graph reacting."""
+    html_str = net.generate_html()
+    html_str = html_str.replace(
+        "</head>",
+        "<style>div.vis-tooltip { white-space: pre-wrap; max-width: 280px; }</style></head>",
+    )
+    freeze_after_settle = "false" if physics_enabled else "true"
+    html_str = html_str.replace(
+        "</body>",
+        "<script>"
+        "(function() {"
+        "  var count = 0;"
+        "  var timer = setInterval(function() {"
+        "    network.fit();"
+        "    count++;"
+        "    if (count > 20) {"
+        "      clearInterval(timer);"
+        f"      if ({freeze_after_settle}) {{ network.setOptions({{physics: {{enabled: false}}}}); }}"
+        "    }"
+        "  }, 250);"
+        "})();"
+        "</script></body>",
+    )
+    return html_str
+
+
+# ---------------------------------------------------------------------------
 # Main UI
 # ---------------------------------------------------------------------------
 
 df_base, llm = load_enriched_df()
+df_base = add_supergenre_column(df_base, llm)
 
 st.title("MoodRec")
 st.caption("Emotion-regulated playlists using the iso principle from music therapy.")
@@ -169,7 +401,9 @@ with st.sidebar:
     generate = st.button("Generate playlist", type="primary", use_container_width=True)
 
 # --- Main area ---
-tab_playlist, tab_scatter = st.tabs(["Playlist", "Song library"])
+tab_playlist, tab_scatter, tab_genre_network, tab_emotion_network, tab_heatmap = st.tabs([
+    "Playlist", "Song library", "Genre network", "Emotion network", "Genre × Emotion"
+])
 
 with tab_playlist:
     if not generate:
@@ -218,3 +452,274 @@ with tab_scatter:
     fig2 = plot_scatter(df_base)
     st.pyplot(fig2)
     plt.close(fig2)
+
+with tab_genre_network:
+    genre_view = st.radio(
+        "View", ["Super-genre", "Individual tags"],
+        horizontal=True, key="genre_network_view", label_visibility="collapsed",
+    )
+
+    if genre_view == "Super-genre":
+        st.markdown(
+            "Which broad genres in the library — Rock, Pop, Hip Hop/Rap, and so on — show up "
+            "in each of the four emotional quadrants, and how strongly. Hover a node to see "
+            "the exact breakdown; drag nodes around, the layout will settle again."
+        )
+
+        G1b = build_genre_zone_network(df_base)
+        supergenre_nodes = [n for n, d in G1b.nodes(data=True) if d["kind"] == "genre"]
+
+        net = Network(height="600px", width="100%", bgcolor="#ffffff", font_color="black",
+                      notebook=False, cdn_resources="in_line")
+
+        for zone in QUADRANTS:
+            top5 = sorted(G1b[zone].items(), key=lambda kv: kv[1]["weight"], reverse=True)[:5]
+            tooltip = f"{zone}\nTop super-genres:\n" + "\n".join(
+                f"  {g}: {d['weight']}" for g, d in top5
+            )
+            net.add_node(zone, label=zone, size=50, color="#fd8d3c", title=tooltip, shape="dot")
+
+        for sg in supergenre_nodes:
+            conns = sorted(G1b[sg].items(), key=lambda kv: kv[1]["weight"], reverse=True)
+            tooltip = f"{sg}\nConnects to:\n" + "\n".join(
+                f"  {z}: {d['weight']}" for z, d in conns
+            )
+            net.add_node(sg, label=sg, size=30, color="#6baed6", title=tooltip, shape="dot")
+
+        for u, v, d in G1b.edges(data=True):
+            net.add_edge(u, v, value=d["weight"] / 2, title=f"weight: {d['weight']}")
+
+        net.set_options("""
+        {
+          "physics": {
+            "enabled": true,
+            "solver": "forceAtlas2Based",
+            "forceAtlas2Based": {
+              "gravitationalConstant": -50,
+              "centralGravity": 0.01,
+              "springLength": 120,
+              "springConstant": 0.08
+            },
+            "stabilization": {"iterations": 150}
+          }
+        }
+        """)
+
+        physics_on = st.toggle("Physics", value=True, key="genre_sg_physics")
+        components.html(render_pyvis_html(net, physics_enabled=physics_on), height=650)
+        st.caption("Edge thickness shows how many songs in that genre land in that emotional zone.")
+
+    else:
+        frequent_tags = build_frequent_tags(df_base)
+        st.markdown(
+            f"The same relationship at the individual-tag level — every genre/mood tag "
+            f"appearing on at least {MIN_TAG_FREQ} songs in the library ({len(frequent_tags)} "
+            "tags), rather than the clustered super-genres above. Denser, but shows exactly "
+            "which specific tags — not just broad genres — drive each emotional quadrant."
+        )
+
+        G1 = build_genre_zone_network_detailed(df_base, frequent_tags)
+        genre_nodes = [n for n, d in G1.nodes(data=True) if d["kind"] == "genre"]
+
+        net = Network(height="600px", width="100%", bgcolor="#ffffff", font_color="black",
+                      notebook=False, cdn_resources="in_line")
+
+        for zone in QUADRANTS:
+            top5 = sorted(G1[zone].items(), key=lambda kv: kv[1]["weight"], reverse=True)[:5]
+            tooltip = f"{zone}\nTop genres:\n" + "\n".join(
+                f"  {g}: {d['weight']}" for g, d in top5
+            )
+            net.add_node(zone, label=zone, size=40, color="#fd8d3c", title=tooltip, shape="dot")
+
+        for genre in genre_nodes:
+            conns = sorted(G1[genre].items(), key=lambda kv: kv[1]["weight"], reverse=True)
+            tooltip = f"{genre}\nConnects to:\n" + "\n".join(
+                f"  {z}: {d['weight']}" for z, d in conns
+            )
+            net.add_node(genre, label=genre, size=15, color="#6baed6", title=tooltip, shape="dot")
+
+        for u, v, d in G1.edges(data=True):
+            net.add_edge(u, v, value=d["weight"] / 2, title=f"weight: {d['weight']}")
+
+        net.set_options("""
+        {
+          "physics": {
+            "enabled": true,
+            "solver": "forceAtlas2Based",
+            "forceAtlas2Based": {
+              "gravitationalConstant": -50,
+              "centralGravity": 0.01,
+              "springLength": 100,
+              "springConstant": 0.08
+            },
+            "stabilization": {"iterations": 150}
+          }
+        }
+        """)
+
+        physics_on = st.toggle("Physics", value=True, key="genre_tag_physics")
+        components.html(render_pyvis_html(net, physics_enabled=physics_on), height=650)
+        st.caption(
+            f"{len(genre_nodes)} individual tags shown (appearing on ≥ {MIN_TAG_FREQ} "
+            "songs); edge thickness shows how many songs with that tag land in that zone."
+        )
+
+with tab_emotion_network:
+    emotion_view = st.radio(
+        "View", ["Super-genre", "Individual tags"],
+        horizontal=True, key="emotion_network_view", label_visibility="collapsed",
+    )
+
+    if emotion_view == "Super-genre":
+        st.markdown(
+            "Which discrete emotions — joy, nostalgia, rebellion, and so on — are most "
+            "associated with each broad genre in the library. Hover a node to see the exact "
+            "breakdown."
+        )
+
+        G3 = build_supergenre_emotion_network(df_base)
+        genre_nodes_g3   = [n for n, d in G3.nodes(data=True) if d["kind"] == "genre"]
+        emotion_nodes_g3 = [n for n, d in G3.nodes(data=True) if d["kind"] == "emotion"]
+
+        net = Network(height="600px", width="100%", bgcolor="#ffffff", font_color="black",
+                      notebook=False, cdn_resources="in_line")
+
+        for emotion in emotion_nodes_g3:
+            top3 = sorted(G3[emotion].items(), key=lambda kv: kv[1]["weight"], reverse=True)[:3]
+            tooltip = f"{emotion}\nTop super-genres:\n" + "\n".join(
+                f"  {sg}: {d['weight']}" for sg, d in top3
+            )
+            net.add_node(emotion, label=emotion, size=25, color="#fd8d3c", title=tooltip, shape="dot")
+
+        for sg in genre_nodes_g3:
+            top3 = sorted(G3[sg].items(), key=lambda kv: kv[1]["weight"], reverse=True)[:3]
+            tooltip = f"{sg}\nTop emotions:\n" + "\n".join(
+                f"  {emo}: {d['weight']}" for emo, d in top3
+            )
+            net.add_node(sg, label=sg, size=35, color="#6baed6", title=tooltip, shape="dot")
+
+        for u, v, d in G3.edges(data=True):
+            net.add_edge(u, v, value=d["weight"] / 2, title=f"weight: {d['weight']}")
+
+        net.set_options("""
+        {
+          "physics": {
+            "enabled": true,
+            "solver": "forceAtlas2Based",
+            "forceAtlas2Based": {
+              "gravitationalConstant": -50,
+              "centralGravity": 0.01,
+              "springLength": 120,
+              "springConstant": 0.08
+            },
+            "stabilization": {"iterations": 150}
+          }
+        }
+        """)
+
+        physics_on = st.toggle("Physics", value=True, key="emotion_sg_physics")
+        components.html(render_pyvis_html(net, physics_enabled=physics_on), height=650)
+        st.caption(
+            "This network illustrates the semantic gap: the same super-genre can carry very "
+            "different emotional textures, which is why genre labels alone are insufficient "
+            "for emotion regulation."
+        )
+
+    else:
+        frequent_tags = build_frequent_tags(df_base)
+        st.markdown(
+            f"The same relationship at the individual-tag level — every genre/mood tag "
+            f"appearing on at least {MIN_TAG_FREQ} songs, paired with discrete emotions, "
+            "rather than the clustered super-genres above. Much denser, so it uses stronger "
+            "node repulsion to spread the layout out."
+        )
+
+        G4 = build_tag_emotion_network(df_base, frequent_tags)
+        genre_nodes_g4   = [n for n, d in G4.nodes(data=True) if d["kind"] == "genre"]
+        emotion_nodes_g4 = [n for n, d in G4.nodes(data=True) if d["kind"] == "emotion"]
+
+        net = Network(height="600px", width="100%", bgcolor="#ffffff", font_color="black",
+                      notebook=False, cdn_resources="in_line")
+
+        for emotion in emotion_nodes_g4:
+            top3 = sorted(G4[emotion].items(), key=lambda kv: kv[1]["weight"], reverse=True)[:3]
+            tooltip = f"{emotion}\nTop genre tags:\n" + "\n".join(
+                f"  {tag}: {d['weight']}" for tag, d in top3
+            )
+            net.add_node(emotion, label=emotion, size=25, color="#fd8d3c", title=tooltip, shape="dot")
+
+        for tag in genre_nodes_g4:
+            top3 = sorted(G4[tag].items(), key=lambda kv: kv[1]["weight"], reverse=True)[:3]
+            tooltip = f"{tag}\nTop emotions:\n" + "\n".join(
+                f"  {emo}: {d['weight']}" for emo, d in top3
+            )
+            net.add_node(tag, label=tag, size=15, color="#6baed6", title=tooltip, shape="dot")
+
+        for u, v, d in G4.edges(data=True):
+            net.add_edge(u, v, value=d["weight"] / 2, title=f"weight: {d['weight']}")
+
+        net.set_options("""
+        {
+          "physics": {
+            "enabled": true,
+            "solver": "repulsion",
+            "repulsion": {
+              "nodeDistance": 150,
+              "springLength": 200,
+              "springConstant": 0.01
+            },
+            "stabilization": {"iterations": 200}
+          }
+        }
+        """)
+
+        physics_on = st.toggle("Physics", value=True, key="emotion_tag_physics")
+        components.html(render_pyvis_html(net, physics_enabled=physics_on), height=650)
+        st.caption(
+            f"{len(genre_nodes_g4)} genre tags, {len(emotion_nodes_g4)} emotions, "
+            f"{G4.number_of_edges()} edges (weight ≥ 2)."
+        )
+
+with tab_heatmap:
+    st.markdown(
+        "How song counts for each super-genre break down across discrete emotions — "
+        "useful for spotting which genres carry which emotional signals most strongly."
+    )
+
+    heatmap_supergenres, heatmap_emotions, matrix = build_heatmap_data(df_base)
+
+    fig3 = px.imshow(
+        matrix,
+        x=heatmap_emotions,
+        y=heatmap_supergenres,
+        color_continuous_scale="YlOrRd",
+        text_auto=True,
+        labels=dict(x="Emotion", y="Super-genre", color="Songs"),
+    )
+    fig3.update_traces(
+        hovertemplate="Super-genre: %{y}<br>Emotion: %{x}<br>Song count: %{z}<extra></extra>",
+    )
+    fig3.update_layout(title="Super-genre × Emotion — Song Counts", xaxis_tickangle=-45)
+    st.plotly_chart(fig3, use_container_width=True)
+
+    st.subheader("Emotional profile by super-genre (normalised)")
+    normalised_matrix = matrix / matrix.sum(axis=1, keepdims=True)
+    fig4 = px.imshow(
+        normalised_matrix,
+        x=heatmap_emotions,
+        y=heatmap_supergenres,
+        color_continuous_scale="YlOrRd",
+        text_auto=".0%",
+        labels=dict(x="Emotion", y="Super-genre", color="Share"),
+    )
+    fig4.update_traces(
+        hovertemplate="Super-genre: %{y}<br>Emotion: %{x}<br>Share of songs: %{z:.1%}<extra></extra>",
+    )
+    fig4.update_layout(xaxis_tickangle=-45)
+    st.plotly_chart(fig4, use_container_width=True)
+
+    st.markdown(
+        "The normalised version above divides each row by its own total, making "
+        "lower-volume super-genres like Jazz and Folk/Country comparable to Rock despite "
+        "having far fewer songs in the library."
+    )

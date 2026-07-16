@@ -5,3 +5,6 @@ requests
 langchain-openai
 streamlit
 python-dotenv
+networkx
+pyvis
+plotly
