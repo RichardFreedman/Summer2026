@@ -11,7 +11,7 @@ import numpy as np
 import pandas as pd
 import requests
 from dotenv import load_dotenv
-from langchain_ollama import ChatOllama
+from langchain_openai import ChatOpenAI
 
 load_dotenv()
 
@@ -19,7 +19,7 @@ load_dotenv()
 # Constants
 # ---------------------------------------------------------------------------
 
-OLLAMA_MODEL     = "llama3.2"
+OPENAI_MODEL     = "gpt-4.1-mini"
 LASTFM_API_KEY   = os.environ.get("LASTFM_API_KEY", "")
 
 SONG_TAGS_CACHE  = "song_tags_cache.json"
@@ -286,7 +286,7 @@ def _save_cache(cache: dict) -> None:
         json.dump(cache, f, indent=2)
 
 
-def _score_tag_single(tag: str, llm: ChatOllama, cache: dict) -> None:
+def _score_tag_single(tag: str, llm: ChatOpenAI, cache: dict) -> None:
     prompt = (
         f'Score the music genre/mood tag "{tag}" on three dimensions.\n'
         "Return ONLY valid JSON with exactly this structure (no extra text):\n"
@@ -305,7 +305,7 @@ def _score_tag_single(tag: str, llm: ChatOllama, cache: dict) -> None:
         pass
 
 
-def _score_tag_batch(tags: list, llm: ChatOllama, cache: dict) -> None:
+def _score_tag_batch(tags: list, llm: ChatOpenAI, cache: dict) -> None:
     prompt = (
         "Score each of the following music genre/mood tags on three dimensions.\n"
         "Return ONLY a valid JSON object mapping each tag to its scores (no extra text):\n"
@@ -328,7 +328,7 @@ def _score_tag_batch(tags: list, llm: ChatOllama, cache: dict) -> None:
             _score_tag_single(tag, llm, cache)
 
 
-def aggregate_tag_scores(track_tags: dict, llm: ChatOllama,
+def aggregate_tag_scores(track_tags: dict, llm: ChatOpenAI,
                          progress_callback=None) -> dict:
     cache       = _load_cache()
     unique_tags = sorted({t for tags in track_tags.values() for t in tags})
@@ -447,7 +447,7 @@ def load_dataframe() -> pd.DataFrame:
     return df.reset_index(drop=True)
 
 
-def enrich_dataframe(df: pd.DataFrame, llm: ChatOllama) -> pd.DataFrame:
+def enrich_dataframe(df: pd.DataFrame, llm: ChatOpenAI) -> pd.DataFrame:
     track_tags = generate_all_tags(df)
     track_agg  = aggregate_tag_scores(track_tags, llm)
 

@@ -2,6 +2,6 @@ pandas
 numpy
 matplotlib
 requests
-langchain-ollama
+langchain-openai
 streamlit
 python-dotenv

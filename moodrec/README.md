@@ -28,12 +28,8 @@ python --version
 pip install -r requirements.txt
 ```
 
-### 3. Install Ollama
-Ollama runs the local LLM (`llama3.2`) used for tag scoring and genre fit.
-```
-curl -fsSL https://ollama.com/install.sh | sh
-ollama pull llama3.2
-```
+### 3. Set your OpenAI API key
+OpenAI (`gpt-4.1-mini` by default) is used for tag scoring and genre fit. Get a key at https://platform.openai.com/api-keys, then add it to `.env` as `OPENAI_API_KEY` (see [API keys](#api-keys)).
 
 ### 4. Run MoodRec
 
@@ -54,8 +50,8 @@ Run all cells in order from top to bottom.
 ## How it works
 
 1. **Song library** — `MoodRec_Songs.csv` (367 songs with Spotify audio features)
-2. **Tag enrichment** — Genre/mood tags sourced from the CSV and Last.fm API, merged per song, then scored by Ollama for emotional valence and arousal
-3. **Genre fit** — Ollama scores each song against your genre preference (0–1), cached to `genre_fit_cache.json`
+2. **Tag enrichment** — Genre/mood tags sourced from the CSV and Last.fm API, merged per song, then scored by OpenAI for emotional valence and arousal
+3. **Genre fit** — OpenAI scores each song against your genre preference (0–1), cached to `genre_fit_cache.json`
 4. **Playlist generation** — Linear waypoints from current → desired emotion; each song picked by multi-dimensional distance (valence/energy + tags + genre fit + audio features)
 
 ---
@@ -84,8 +80,8 @@ moodrec/
 ├── MoodRec_Songs.csv     # 367-song library with Spotify audio features
 ├── requirements.txt
 ├── song_tags_cache.json  # Last.fm tags per song (cached)
-├── tag_scores_cache.json # Ollama tag scores (cached)
-└── genre_fit_cache.json  # Ollama genre fit scores (cached)
+├── tag_scores_cache.json # OpenAI tag scores (cached)
+└── genre_fit_cache.json  # OpenAI genre fit scores (cached)
 ```
 
 ---
@@ -96,11 +92,11 @@ Copy `.env.example` to `.env` and fill in your key — it is gitignored and neve
 
 ```
 cp .env.example .env
-# then edit .env and paste your Last.fm API key
+# then edit .env and paste your Last.fm and OpenAI API keys
 ```
 
 - **Last.fm** — Free API key at https://www.last.fm/api. Add it to `.env` as `LASTFM_API_KEY`.
-- **Ollama** — No key needed; runs locally.
+- **OpenAI** — API key at https://platform.openai.com/api-keys. Add it to `.env` as `OPENAI_API_KEY`. Usage is billed per request (tag scoring and genre fit calls, cached to disk after first run).
 
 ---
 

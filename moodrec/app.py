@@ -4,9 +4,9 @@ import matplotlib.patches as mpatches
 import numpy as np
 import pandas as pd
 
-from langchain_ollama import ChatOllama
+from langchain_openai import ChatOpenAI
 from recommender import (
-    OLLAMA_MODEL,
+    OPENAI_MODEL,
     load_dataframe,
     enrich_dataframe,
     score_all_genre_fits,
@@ -23,7 +23,7 @@ st.set_page_config(page_title="MoodRec", page_icon="🎵", layout="wide")
 @st.cache_resource(show_spinner=False)
 def load_enriched_df():
     with st.spinner("Starting up — loading songs and enriching with tags (first run only)..."):
-        llm = ChatOllama(model=OLLAMA_MODEL, temperature=0)
+        llm = ChatOpenAI(model=OPENAI_MODEL, temperature=0)
         df  = load_dataframe()
         df  = enrich_dataframe(df, llm)
     return df, llm
