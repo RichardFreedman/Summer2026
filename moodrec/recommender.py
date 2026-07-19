@@ -433,9 +433,13 @@ def score_all_genre_fits(df, genre_request: str, llm,
 # ---------------------------------------------------------------------------
 # Pipeline helpers used by app.py
 # ---------------------------------------------------------------------------
+# correcting path for Streamlit production deployment
+DATA_DIR = Path(__file__).parent
 
 def load_dataframe() -> pd.DataFrame:
-    df = pd.read_csv("MoodRec_Songs.csv")
+    df = pd.read_csv(DATA_DIR / "MoodRec_Songs.csv")
+# def load_dataframe() -> pd.DataFrame:
+    # df = pd.read_csv("MoodRec_Songs.csv")
     df = df.rename(columns={"Track Name": "title", "Artist Name(s)": "artist"})
     df.columns = [c.lower().replace(" ", "_") for c in df.columns]
     keep = ["title", "artist", "valence", "energy",
