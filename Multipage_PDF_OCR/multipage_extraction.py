@@ -16,7 +16,6 @@ def extract_page(path):
         texts.extend(item.get('rec_texts', []))
     return {"pagenum":num, "text":texts}
 
-
 if __name__ == "__main__":
     pdfpath=input("Path to PDF: ")
     document = pymupdf.open(pdfpath)
