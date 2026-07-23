@@ -9,3 +9,5 @@ Kraken OCR was more powerful than both Tesseract and PaddleOCR, but required far
 OCRopus worked quite well running normally, but I ran into issues when attempting to use it with multiprocessing. It might be worth revisiting for someone who is more experienced with multiprocessing.
 
 Other OCR packages I didn't try but might have promise are EasyOCR and Textract, the latter advertises similar performance to an LLM based OCR system, but requires linking to an AWS account and a persistent internet connection.
+
+multipdf_extraction.py is an alteration of multipage_extraction.py made to work with multiple pdf files at once.
