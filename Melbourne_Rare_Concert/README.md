@@ -14,7 +14,7 @@ I've attached a collection of text files containing text extracted via OCR from 
 --Additional information (for event)  
 --Sections  
 ---Section type (act, part, full performance (if no clear division) etc.)  
----Section name. 
+---Section name  
 ---Additional information (for section)  
 ---Performances  
 ----Performance type (ie. song, scene, interlude)  
