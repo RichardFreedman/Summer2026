@@ -24,4 +24,4 @@ I've attached a collection of text files containing text extracted via OCR from 
 ----Additional information (for performance)  
 "
 
-This prompt resulted in both of the files contained in the "extracted_texts" folder. The JSON structure was reviewed using Pydantic to verify correctness. The validity and structure of the JSON file was tested using Pydantic and a separate Claude model. 
+This prompt resulted in both of the files contained in the "extracted_texts" folder. The validity and structure of the JSON file was tested using Pydantic and a separate Claude model. 
