@@ -2,26 +2,26 @@ Extracted_texts contains data OCR'd from the Melbourne Rare Books Concert Collec
 
 "
 I've attached a collection of text files containing text extracted via OCR from numerous concert/performance programs. Each page of text is separated, as are the individual lines of text (though they are not numbered like the pages). Some errors may have occurred when extracting the text (misspellings, formatting errors, etc.). If it is obvious that a mistake was made, you may treat the text as it would be if "corrected," otherwise, simply take the text as is. You are a musicologist, and your job is to extract the data from this text and format it into a JSON file containing data regarding the various events detailed in the programs. I've included the format which I would like you to use to create the JSON file. Treat each additional dash as an "indent" (a subsection of the previous header). Include every field in every section of the overall file, though it is okay to have the field be "None" if no relevant information is present. If multiple events are contained in a single program, treat each event as separate. Once you have created the JSON file, please report any irregularities worth reviewing  (ie. completely incomprehensible text, duplicate entries, etc.)  
--Events
---Event name
---Event Date
---Event Venue
---Event Location
---Presenter/Sponsor of event (if single entity, otherwise put in later credits)
---Event Type (concert, opera, etc.)
---Credits
+-Events  
+--Event name  
+--Event Date  
+--Event Venue  
+--Event Location  
+--Presenter/Sponsor of event (if single entity, otherwise put in later credits)  
+--Event Type (concert, opera, etc.)  
+--Credits  
 ---All credits across all acts/songs as well as the overall performance credits. Format this as a dictionary with keys being the role and names being the values. If multiple names are credited with the same role, use a comma to separate the names (ie. {violins : J. Jones, H. Smith}). If an individual only performs within one part of the performance, include that information in the role (ie. {composer (act 1) : T. Robertson})
---Additional information (for event)
---Sections
----Section type (act, part, full performance (if no clear division) etc.)
----Section name
----Additional information (for section)
----Performances
-----Performance type (ie. song, scene, interlude)
-----Performance name
-----Lyrics/transcript (if available)
-----Based on tune (if song)
-----Additional information (for performance)
+--Additional information (for event)  
+--Sections  
+---Section type (act, part, full performance (if no clear division) etc.)  
+---Section name. 
+---Additional information (for section)  
+---Performances  
+----Performance type (ie. song, scene, interlude)  
+----Performance name  
+----Lyrics/transcript (if available)  
+----Based on tune (if song)  
+----Additional information (for performance)  
 "
 
 This prompt resulted in both of the files contained in the "extracted_texts" folder. The JSON structure was reviewed using Pydantic to verify correctness.
