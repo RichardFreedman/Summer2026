@@ -97,6 +97,7 @@ In the notebook these are set in **Step 1**. In the app they are sidebar sliders
 
 ## API keys
 
+### Local development
 Copy `.env.example` to `.env` and fill in your key — it is gitignored and never committed.
 
 ```
@@ -106,6 +107,19 @@ cp .env.example .env
 
 - **Last.fm** — Free API key at https://www.last.fm/api. Add it to `.env` as `LASTFM_API_KEY`.
 - **OpenAI** — API key at https://platform.openai.com/api-keys. Add it to `.env` as `OPENAI_API_KEY`. Usage is billed per request (tag scoring and genre fit calls, cached to disk after first run).
+
+### Deployed / shared demo (Streamlit Community Cloud)
+For a workshop demo hosted straight from this repo, don't hand out keys — set them as **secrets** in the app dashboard instead, so attendees never see them and nothing sensitive goes into the repo:
+
+1. Deploy the app at https://share.streamlit.io, pointing at `app.py` in this repo.
+2. In the app's dashboard, go to **Settings → Secrets** and paste:
+   ```toml
+   OPENAI_API_KEY = "sk-..."
+   LASTFM_API_KEY = "..."
+   ```
+3. Save — Streamlit restarts the app with those values available as `st.secrets`.
+
+`recommender.py` checks `st.secrets` automatically whenever the corresponding environment variable (or `.env` entry) isn't set, so no code changes are needed to move between local `.env` use and a deployed secrets-based demo.
 
 ---
 

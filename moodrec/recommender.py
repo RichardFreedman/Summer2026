@@ -18,6 +18,30 @@ from langchain_openai import ChatOpenAI
 
 load_dotenv()
 
+
+def _load_streamlit_secrets_into_env() -> None:
+    """On Streamlit Community Cloud, keys are configured as st.secrets rather
+    than a .env file — copy any of ours into os.environ so this module (and
+    langchain_openai's own env-var lookup for OPENAI_API_KEY) don't need to
+    know which source they came from. No-op locally when no secrets.toml
+    exists, or outside a Streamlit context entirely."""
+    try:
+        import streamlit as st
+        secrets = st.secrets
+    except Exception:
+        return
+    for key in ("OPENAI_API_KEY", "LASTFM_API_KEY"):
+        if not os.environ.get(key):
+            try:
+                value = secrets.get(key)
+            except Exception:
+                value = None
+            if value:
+                os.environ[key] = value
+
+
+_load_streamlit_secrets_into_env()
+
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
