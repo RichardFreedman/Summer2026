@@ -1,13 +1,12 @@
 import streamlit as st
 import pandas as pd
 
-if ('email' not in st.session_state or 'password' not in st.session_state): st.header('Login First!')
-elif (st.session_state.email == '' or st.session_state.password == ''): st.header('Login First!')
+if (st.session_state.logged_in == False): st.header('Login First!')
 else:
     # Gets desired collection from user
     st.header('Query A Collection')
-    if ('collection' in st.session_state and st.session_state.collection != None): st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, st.session_state.collection_identifiers_list.index(st.session_state.collection), placeholder='Select Collection Identifier')
-    else: st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, None, placeholder='Select Collection Identifier')
+    if ('collection' in st.session_state and st.session_state.collection != None): st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, st.session_state.collection_identifiers_list.index(st.session_state.collection), placeholder = 'Select Collection Identifier')
+    else: st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, None, placeholder = 'Select Collection Identifier')
 
     if (st.session_state.collection != None):
         # Retrieves basic collection information
@@ -21,12 +20,8 @@ else:
         '''
         variables = {'identifier': st.session_state.collection}
         response = st.session_state.session.post(
-            'https://admin-catalog.paradisec.org.au/graphql',
-            json={'query': query, 'variables': variables},
-            headers={
-                'Content-Type': 'application/json',
-                'X-CSRF-Token': st.session_state.csrf_token
-            }
+            st.session_state.API_URL,
+            json = {'query': query, 'variables': variables}
         )
 
         st.subheader('Collection Title')
@@ -46,17 +41,13 @@ else:
             '''
         variables = {'full_identifier': st.session_state.collection}
         response = st.session_state.session.post(
-            'https://admin-catalog.paradisec.org.au/graphql',
-            json={'query': query, 'variables': variables},
-            headers={
-                'Content-Type': 'application/json',
-                'X-CSRF-Token': st.session_state.csrf_token
-            }
+            st.session_state.API_URL,
+            json = {'query': query, 'variables': variables}
         )
 
         total_items = response.json()['data']['items']['total']
-        pages = total_items // st.session_state.enforced_page_limit
-        if ((total_items % st.session_state.enforced_page_limit) != 0): pages = pages + 1
+        pages = total_items // st.session_state.PAGE_LIMIT
+        if ((total_items % st.session_state.PAGE_LIMIT) != 0): pages = pages + 1
 
         collection_items = []
         for page in range(pages):
@@ -71,14 +62,10 @@ else:
                     }
                 }
             '''
-            variables = {'limit': st.session_state.enforced_page_limit, 'page': (page + 1), 'full_identifier': st.session_state.collection}
+            variables = {'limit': st.session_state.PAGE_LIMIT, 'page': (page + 1), 'full_identifier': st.session_state.collection}
             response = st.session_state.session.post(
-                'https://admin-catalog.paradisec.org.au/graphql',
-                json={'query': query, 'variables': variables},
-                headers={
-                    'Content-Type': 'application/json',
-                    'X-CSRF-Token': st.session_state.csrf_token
-                }
+                st.session_state.API_URL,
+                json = {'query': query, 'variables': variables}
             )
             collection_items.extend(response.json()['data']['items']['results'])
 
@@ -89,8 +76,8 @@ else:
 
     # Retrieves specific item information
     st.subheader('Specific Item Information')
-    if ('item' in st.session_state and st.session_state.item != None): st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, st.session_state.item_identifiers_list.index(st.session_state.item), placeholder='Select Item Full Identifier')
-    else: st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, None, placeholder='Select Item Full Identifier')
+    if ('item' in st.session_state and st.session_state.item != None): st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, st.session_state.item_identifiers_list.index(st.session_state.item), placeholder = 'Select Item Full Identifier')
+    else: st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, None, placeholder = 'Select Item Full Identifier')
 
     if (st.session_state.item != None):
         query = '''
@@ -173,12 +160,8 @@ else:
         '''
         variables = {'fullIdentifier': st.session_state.item}
         response = st.session_state.session.post(
-            'https://admin-catalog.paradisec.org.au/graphql',
-            json={'query': query, 'variables': variables},
-            headers={
-                'Content-Type': 'application/json',
-                'X-CSRF-Token': st.session_state.csrf_token
-            }
+            st.session_state.API_URL,
+            json = {'query': query, 'variables': variables}
         )
         st.write('All available item information (sub object information simplified):')
         st.dataframe(pd.DataFrame(response.json()['data']))
