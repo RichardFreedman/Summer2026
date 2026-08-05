@@ -1,17 +1,22 @@
-import streamlit as st
-import requests
-from bs4 import BeautifulSoup
 import base64
-import os
+from bs4 import BeautifulSoup
 import hashlib
+import mimetypes
+import os
+import requests
+import streamlit as st
 from urllib.parse import urlparse, parse_qs
 
-# Setting up constants needed across pages and functions large enough to avoid re-running
+# Initial setup
 st.session_state.API_URL = 'https://admin-catalog.paradisec.org.au/graphql'
 st.session_state.PAGE_LIMIT = 500
 
+mimetypes.add_type('application/eaf+xml', '.eaf')
+mimetypes.add_type('application/flextext+xml', '.flextext')
+mimetypes.add_type('application/x-subrip', '.srt')
+
 @st.cache_data
-def read_files():
+def read_files() -> dict:
     lists = {}
     with open('collection_identifiers.txt', 'r') as file: lists['collection_identifiers_list'] = file.read().splitlines()
     with open('collectors.txt', 'r') as file: lists['collectors_list'] = file.read().splitlines()
@@ -44,11 +49,8 @@ with st.sidebar:
 # Gets login information from user
 st.header('Log Into PARADISEC')
 
-if ('email' not in st.session_state): st.session_state.email = st.text_input('Email:', on_change = login, icon = ':material/mail:')
-else: st.session_state.email = st.text_input('Email:', st.session_state.email, on_change = login, icon = ':material/mail:')
-
-if ('password' not in st.session_state): st.session_state.password = st.text_input('Password:', type = 'password', on_change = login, icon = ':material/key:')
-else: st.session_state.password = st.text_input('Password:', st.session_state.password, type = 'password', on_change = login, icon = ':material/key:')
+st.text_input('Email:', key = 'email', on_change = login, icon = ':material/mail:', persist_state = 'session')
+st.text_input('Password:', key = 'password', type = 'password', on_change = login, icon = ':material/key:', persist_state = 'session')
 
 
 
@@ -77,7 +79,7 @@ if (st.session_state.logging_in):
 
 
 
-        # Gets authentication token to access raw files
+        # Gets authentication token and sets up session to access raw files
         if (st.session_state.logged_in):
             # PKCE security to protect against authorization code interception attacks
             verifier = base64.urlsafe_b64encode(os.urandom(40)).rstrip(b'=').decode()
@@ -109,7 +111,11 @@ if (st.session_state.logging_in):
                 }
             )
 
-            st.session_state.raw_file_auth_token = token_response.json()["access_token"]
+            raw_file_auth_token = token_response.json()["access_token"]
+
+            st.session_state.raw_session = requests.Session()
+            st.session_state.raw_session.params.update({'disposition': 'inline'})
+            st.session_state.raw_session.headers.update({'Authorization': f'Bearer {raw_file_auth_token}'})
 
     st.session_state.logging_in = False
 

@@ -1,5 +1,6 @@
-import streamlit as st
 import pandas as pd
+import streamlit as st
+import time
 
 if (st.session_state.get('use_dev', False)): st.switch_page('pages/Collection_Information_dev.py')
 
@@ -7,8 +8,7 @@ if (st.session_state.logged_in == False): st.header('Login First!')
 else:
     # Gets desired collection from user
     st.header('Query A Collection')
-    if ('collection' in st.session_state and st.session_state.collection != None): st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, st.session_state.collection_identifiers_list.index(st.session_state.collection), placeholder = 'Select Collection Identifier')
-    else: st.session_state.collection = st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, None, placeholder = 'Select Collection Identifier')
+    st.selectbox('Collection ID:', st.session_state.collection_identifiers_list, None, key = 'collection', placeholder = 'Select Collection Identifier', persist_state = 'session')
 
     if (st.session_state.collection != None):
         # Retrieves basic collection information
@@ -40,7 +40,7 @@ else:
                     total
                 }
             }
-            '''
+        '''
         variables = {'full_identifier': st.session_state.collection}
         response = st.session_state.session.post(
             st.session_state.API_URL,
@@ -70,6 +70,7 @@ else:
                 json = {'query': query, 'variables': variables}
             )
             collection_items.extend(response.json()['data']['items']['results'])
+            time.sleep(0.2)
 
         st.subheader('Items in Collection')
         st.dataframe(pd.DataFrame(collection_items))
@@ -78,8 +79,7 @@ else:
 
     # Retrieves specific item information
     st.subheader('Specific Item Information')
-    if ('item' in st.session_state and st.session_state.item != None): st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, st.session_state.item_identifiers_list.index(st.session_state.item), placeholder = 'Select Item Full Identifier')
-    else: st.session_state.item = st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, None, placeholder = 'Select Item Full Identifier')
+    st.selectbox('Item Full Identifier:', st.session_state.item_identifiers_list, None, key = 'item', placeholder = 'Select Item Full Identifier', persist_state = 'session')
 
     if (st.session_state.item != None):
         query = '''
