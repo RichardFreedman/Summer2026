@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "embedding_model": "text-embedding-3-large",
+  "chunk_size": 2000,
+  "chunk_overlap": 300,
+  "collection_name": "NT1_eaf"
+}
