@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from urllib.parse import quote
 
-if (st.session_state.get('use_dev', False)): st.switch_page('pages/Text_Search_dev.py')
+if (not st.session_state.get('use_dev', False)): st.switch_page('pages/Text_Search.py')
 
 if (st.session_state.logged_in == False): st.header('Login First!')
 else:

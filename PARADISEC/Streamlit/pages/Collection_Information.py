@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 
+if (st.session_state.get('use_dev', False)): st.switch_page('pages/Collection_Information_dev.py')
+
 if (st.session_state.logged_in == False): st.header('Login First!')
 else:
     # Gets desired collection from user
