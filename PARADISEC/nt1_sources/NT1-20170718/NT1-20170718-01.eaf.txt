@@ -1,0 +1,4 @@
+default: (NT) NGo stringband, kutae
+default: gas nen stringband kipe mai?
+default: Wol wo 2 ko? (TT) Ga ga kipe to teetwei
+default: Wol wo tu ga ipo inrok, ga iskei pan me ruipe ta to

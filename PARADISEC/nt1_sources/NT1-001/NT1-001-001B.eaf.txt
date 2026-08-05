@@ -1,0 +1,341 @@
+Channel1: [Suppose you want to say, I started to eat the]
+Channel1: Malfanenen ato na ka fam wak
+Channel1: [and]
+Channel1: [then]
+Channel1: [I finished eating it]
+Channel1: Kai pe pam silua
+Channel1: [slowly] Kai pe pam silua
+Channel1: [Um and]
+Channel1: [what about]
+Channel1: [I killed the pig]
+Channel1: A wat waak
+Channel1: A wat waak
+Channel1: [pig]
+Channel1: [pig hemi waak]
+Channel1: [xx]
+Channel1: [xx]
+Channel1: [alright, now , if you want to say]
+Channel1: [I came from Vila]
+Channel1: [xx]
+Channel1: A patok efil mai
+Channel1: na ka fakot waak
+Channel1: [and I]
+Channel1: [xx]
+Channel1: slat waak pak sto
+Channel1: sslat waak pak efil
+Channel1: [Wedensday 11th October Eratap]
+Channel1: [Silas Alban]
+Channel1: [xx]
+Channel1: [yam]
+Channel1: nawi
+Channel1: [yard] elol
+Channel1: [xx you] ag
+Channel1: [xx]
+Channel1: kol [yellow]
+Channel1: [tie] m̃nam̃on
+Channel1: [yes]
+Channel1: ore
+Channel1: [yesterday] nanom
+Channel1: [young] fsofus
+Channel1: [your]
+Channel1: ag ku
+Channel1: [yours]
+Channel1: tegaag
+Channel1: [youself]
+Channel1: ag m̃as
+Channel1: [where]
+Channel1: esua
+Channel1: [which]
+Channel1: tefla
+Channel1: tetfale
+Channel1: [which] tetfale
+Channel1: [whip]
+Channel1: fsei
+Channel1: [whisper]
+Channel1: taalaklak [whistle]
+Channel1: safieu
+Channel1: [wild] tetaar [who]
+Channel1: [who] fei [whose] teni fei
+Channel1: [whose] teni fei
+Channel1: [way]
+Channel1: [sorry why]
+Channel1: nlaken iku
+Channel1: [wife]
+Channel1: mtulep
+Channel1: [wild] m̃iil
+Channel1: [win]
+Channel1: pei
+Channel1: [wing]
+Channel1: nakorwen
+Channel1: [whip]
+Channel1: tuktao [sorry wipe] tuktao
+Channel1: [wisdom]
+Channel1: nametmatuan
+Channel1: [wise]
+Channel1: metmatu
+Channel1: [with]
+Channel1: skoti
+Channel1: [woman] nmatu
+Channel1: [womb]
+Channel1: naal ni teesa
+Channel1: [work]
+Channel1: weswes
+Channel1: [world]
+Channel1: emeromen
+Channel1: [worm]
+Channel1: aslot
+Channel1: [worry]
+Channel1: mroput
+Channel1: tut
+Channel1: [write]
+Channel1: mtir
+Channel1: [vehicle]
+Channel1: loto
+Channel1: loto
+Channel1: ko raru ni ntan
+Channel1: [verse]
+Channel1: namet nafsan
+Channel1: [very]
+Channel1: i trau
+Channel1: saofi [?]
+Channel1: [voice]
+Channel1: nale
+Channel1: [vomit]
+Channel1: lu
+Channel1: [waiste]
+Channel1: nmalon
+Channel1: [wait]
+Channel1: tokraki
+Channel1: [wake]
+Channel1: pilo
+Channel1: ko tokleg
+Channel1: [walk]
+Channel1: siwer
+Channel1: [want]
+Channel1: mur
+Channel1: [war]
+Channel1: nafkal
+Channel1: [warm]
+Channel1: ftin
+Channel1: [wash]
+Channel1: [watch]
+Channel1: leka
+Channel1: [water]
+Channel1: naai
+Channel1: [we]
+Channel1: akit
+Channel1: [weak]
+Channel1: mailumlum
+Channel1: [wear]
+Channel1: ofa
+Channel1: [weather]
+Channel1: mal
+Channel1: [wedding]
+Channel1: nlakwen
+Channel1: [Wednesday]
+Channel1: aliat fnau
+Channel1: [weight]
+Channel1: [weight]
+Channel1: namtenwen
+Channel1: [well]
+Channel1: eluk
+Channel1: [wet]
+Channel1: lom
+Channel1: [whale]
+Channel1: tafra
+Channel1: [what]
+Channel1: nafte
+Channel1: [when]
+Channel1: sefmal
+Channel1: [tow]
+Channel1: puet
+Channel1: [towel]
+Channel1: [towel]
+Channel1: [toy]
+Channel1: tefsirsir
+Channel1: [tree]
+Channel1: nkas
+Channel1: [truck]
+Channel1: [trick]
+Channel1: sursur
+Channel1: [then]
+Channel1: nanre
+Channel1: [turtle]
+Channel1: afsak
+Channel1: [twelve]
+Channel1: ralim iskei atmat inru
+Channel1: [twenty]
+Channel1: ralim inru
+Channel1: [twice]
+Channel1: nrak kaaru
+Channel1: [twin]
+Channel1: natraan
+Channel1: [twist]
+Channel1: fiif
+Channel1: [two]
+Channel1: inru
+Channel1: [umbrella]
+Channel1: sulok
+Channel1: [unable]
+Channel1: kano
+Channel1: [unasked]
+Channel1: paos mau
+Channel1: [unattended]
+Channel1: pan mau
+Channel1: [unbelief]
+Channel1: sralesok mau
+Channel1: [unborn]
+Channel1: ta to paakor mau
+Channel1: [underneath]
+Channel1: etan
+Channel1: [understand]
+Channel1: a tae
+Channel1: [universe]
+Channel1: emermen
+Channel1: [up]
+Channel1: elag
+Channel1: [wes]
+Channel1: [tame]
+Channel1: maomao
+Channel1: [taro]
+Channel1: ntal
+Channel1: [task]
+Channel1: nawesien sees
+Channel1: [taught]
+Channel1: plaksok
+Channel1: [teacher]
+Channel1: teplaksok
+Channel1: [teeth]
+Channel1: mpat
+Channel1: [tell]
+Channel1: tli
+Channel1: [temple]
+Channel1: sum̃tap
+Channel1: [text]
+Channel1: tus
+Channel1: [thankyou]
+Channel1: faftai
+Channel1: [there]
+Channel1: sampe
+Channel1: [they]
+Channel1: gar
+Channel1: [thick]
+Channel1: matol
+Channel1: [thief]
+Channel1: kano pnak
+Channel1: [thin]
+Channel1: mrara
+Channel1: [think]
+Channel1: mro
+Channel1: [third]
+Channel1: kaatol
+Channel1: [thirst]
+Channel1: manreu
+Channel1: [thrity]
+Channel1: ralim itol
+Channel1: [throat]
+Channel1: nkaasap̃o
+Channel1: [thunder]
+Channel1: tfa
+Channel1: [tie]
+Channel1: motsoki
+Channel1: [time]
+Channel1: maal
+Channel1: [tired]
+Channel1: maos
+Channel1: [today]
+Channel1: mees
+Channel1: [tongue]
+Channel1: namnem
+Channel1: o namen
+Channel1: [tonight]
+Channel1: mees p̃og
+Channel1: [top]
+Channel1: elag
+Channel1: [touch]
+Channel1: tkal
+Channel1: [tough]
+Channel1: kerkrai
+Channel1: [steal]
+Channel1: pnak
+Channel1: [still]
+Channel1: tortor
+Channel1: [still]
+Channel1: [stump]
+Channel1: nlaken
+Channel1: [stick]
+Channel1: nrankas
+Channel1: ko nkas
+Channel1: [stiff]
+Channel1: kerkrai
+Channel1: [stink]
+Channel1: [stink]
+Channel1: suk
+Channel1: [stink]
+Channel1: p̃o
+Channel1: tanre
+Channel1: [stir]
+Channel1: tanre
+Channel1: [stone]
+Channel1: faat
+Channel1: [stop]
+Channel1: pnut
+Channel1: [storm]
+Channel1: nlagwat
+Channel1: [story]
+Channel1: natrauswen
+Channel1: [straight]
+Channel1: lek
+Channel1: leg
+Channel1: [strong]
+Channel1: kerkrai
+Channel1: [sad]
+Channel1: suus
+Channel1: ko mimi
+Channel1: sus ko mimi
+Channel1: [sugar]
+Channel1: nap̃rai
+Channel1: [sun]
+Channel1: aal
+Channel1: [Sunday]
+Channel1: naliati pei
+Channel1: [survey]
+Channel1: m̃ol
+Channel1: [survive sorry survive]
+Channel1: [sweat]
+Channel1: maon
+Channel1: [sweet]
+Channel1: kakas
+Channel1: [swell]
+Channel1: toop
+Channel1: [swim]
+Channel1: loos
+Channel1: [swine]
+Channel1: wak
+Channel1: [swing]
+Channel1: sal
+Channel1: [tapo?]
+Channel1: lita [?]
+Channel1: [tail]
+Channel1: napuen
+Channel1: [take]
+Channel1: slati
+Channel1: [talk]
+Channel1: pees
+Channel1: [tall]
+Channel1: pak elag
+Channel1: [slap
+Channel1: nrpagi
+Channel1: nrpagi
+Channel1: [sleep]
+Channel1: matur
+Channel1: [slow]
+Channel1: fraak
+Channel1: [small]
+Channel1: seeserik
+Channel1: [smell]
+Channel1: nap̃o
+Channel1: [smile]
+Channel1: muur
+Channel1: [smile]
+Channel1: mtamurmur

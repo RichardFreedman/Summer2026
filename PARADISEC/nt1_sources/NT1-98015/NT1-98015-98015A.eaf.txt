@@ -1,0 +1,666 @@
+Tier-0: [lead in silence]
+Tier-0: id 31 October, Endis reading words
+Tier-0: kat porpres npatin
+Tier-0: p̃roro
+Tier-0: nrig
+Tier-0: ntan
+Tier-0: nafet
+Tier-0: puk
+Tier-0: kuom
+Tier-0: p̃aup̃al
+Tier-0: ftom
+Tier-0: fusuer
+Tier-0: kat
+Tier-0: urur
+Tier-0: telekor
+Tier-0: kuyaf
+Tier-0: nagal
+Tier-0: sisi
+Tier-0: nmarit
+Tier-0: tok
+Tier-0: ulu
+Tier-0: por
+Tier-0: krip
+Tier-0: tam̃as
+Tier-0: pakofai
+Tier-0: gar
+Tier-0: ntar
+Tier-0: nfer
+Tier-0: ser
+Tier-0: tm̃en sali
+Tier-0: nuof
+Tier-0: m̃tal
+Tier-0: nam̃as
+Tier-0: m̃al na kilkilwen
+Tier-0: pulp̃au
+Tier-0: tafafu
+Tier-0: mal
+Tier-0: mankerkrei
+Tier-0: ga
+Tier-0: np̃au
+Tier-0: met matur
+Tier-0: p̃auftin
+Tier-0: m̃ol
+Tier-0: mol
+Tier-0: tap̃ou
+Tier-0: takinrog
+Tier-0: nam?
+Tier-0: nam̃kano
+Tier-0: naam?
+Tier-0: nator
+Tier-0: nam̃ek ilaotiktik
+Tier-0: nrag
+Tier-0: tlai
+Tier-0: elagsau
+Tier-0: us
+Tier-0: ntaknatu
+Tier-0: nafanu sa
+Tier-0: welu
+Tier-0: ataf
+Tier-0: esa
+Tier-0: kia
+Tier-0: katom
+Tier-0: of
+Tier-0: sul
+Tier-0: nap̃kal
+Tier-0: m̃aser
+Tier-0: paikor
+Tier-0: sil
+Tier-0: srakro
+Tier-0: mu
+Tier-0: mapul
+Tier-0: gki
+Tier-0: ntap̃rai
+Tier-0: nega
+Tier-0: maur
+Tier-0: tp̃e
+Tier-0: p̃usai
+Tier-0: tartar wes
+Tier-0: m̃la
+Tier-0: p̃akati
+Tier-0: tm̃en [hesitation]
+Tier-0: tm̃en p̃etnrakati
+Tier-0: kut
+Tier-0: katsoki
+Tier-0: sai ki naar
+Tier-0: fainteki
+Tier-0: motsoki
+Tier-0: pus maan
+Tier-0: m̃ol
+Tier-0: nam̃or
+Tier-0: nfal
+Tier-0: nametfau
+Tier-0: liksaal
+Tier-0: skasok
+Tier-0: tigtig
+Tier-0: sup̃sup?
+Tier-0: os
+Tier-0: ftin
+Tier-0: tfale
+Tier-0: kefi
+Tier-0: silf
+Tier-0: tasok
+Tier-0: tifli iskei
+Tier-0: ptol
+Tier-0: mol
+Tier-0: plakori
+Tier-0: maarik
+Tier-0: naun
+Tier-0: tkan
+Tier-0: taktak naniu
+Tier-0: kat naniu
+Tier-0: koof
+Tier-0: kineu
+Tier-0: m̃ol
+Tier-0: seraletuok
+Tier-0: su
+Tier-0: a su naftinwen
+Tier-0: naatap
+Tier-0: naanik
+Tier-0: preg wel
+Tier-0: puet soksoki
+Tier-0: sarsoki
+Tier-0: ur
+Tier-0: mlau
+Tier-0: nakur
+Tier-0: sikskei
+Tier-0: man seserik
+Tier-0: matuktukurik
+Tier-0: p̃el
+Tier-0: em̃rom
+Tier-0: naal
+Tier-0: naal raru
+Tier-0: naal nasum?
+Tier-0: naken
+Tier-0: til nafsansa
+Tier-0: suer naat
+Tier-0: pesp̃ot
+Tier-0: p̃atfat
+Tier-0: ter
+Tier-0: naur
+Tier-0: karkar
+Tier-0: mukalkal
+Tier-0: neu
+Tier-0: susa
+Tier-0: karkor
+Tier-0: Yesu
+Tier-0: papuen
+Tier-0: kano
+Tier-0: nasun
+Tier-0: krokur
+Tier-0: nrilkau
+Tier-0: sok pak etan
+Tier-0: sok
+Tier-0: namlaskos
+Tier-0: nmalok
+Tier-0: kamp̃or
+Tier-0: p̃i
+Tier-0: watiam
+Tier-0: krakpun
+Tier-0: pkapun
+Tier-0: sik
+Tier-0: wal nrea
+Tier-0: nap̃utwen
+Tier-0: tam̃el
+Tier-0: tap̃etu
+Tier-0: masmes
+Tier-0: tm̃otum
+Tier-0: pul
+Tier-0: pul nkas
+Tier-0: sikti
+Tier-0: sap̃le
+Tier-0: klop nap̃rai
+Tier-0: napkun
+Tier-0: kumol
+Tier-0: naturiai
+Tier-0: latana
+Tier-0: kapu
+Tier-0: temlap
+Tier-0: fkar
+Tier-0: en
+Tier-0: entan
+Tier-0: psol
+Tier-0: ntawutmal
+Tier-0: pei
+Tier-0: nam̃romin
+Tier-0: nru
+Tier-0: natur mus
+Tier-0: tap
+Tier-0: tgof
+Tier-0: nrog lele
+Tier-0: manimat
+Tier-0: p̃oot
+Tier-0: ptuki namle
+Tier-0: tum̃alu
+Tier-0: maur
+Tier-0: kotfak
+Tier-0: pram
+Tier-0: natam̃ol psir
+Tier-0: limnai
+Tier-0: npakor
+Tier-0: pai
+Tier-0: nrakut
+Tier-0: ske
+Tier-0: tuleg
+Tier-0: namrem
+Tier-0: tp̃il nkap
+Tier-0: napil
+Tier-0: sor
+Tier-0: nasul
+Tier-0: lewi
+Tier-0: nanromien
+Tier-0: pasa
+Tier-0: naik maan
+Tier-0: nasok nkanr
+Tier-0: naf
+Tier-0: pur
+Tier-0: nrog perkat
+Tier-0: of
+Tier-0: ntankep
+Tier-0: ofag
+Tier-0: tatu
+Tier-0: tatu raru
+Tier-0: namal nkas
+Tier-0: pisp̃lolo
+Tier-0: lemis
+Tier-0: leser
+Tier-0: lel namrun
+Tier-0: nremet
+Tier-0: m̃alosak
+Tier-0: nem̃ap̃m̃ap?
+Tier-0: pitar
+Tier-0: kut
+Tier-0: nrom
+Tier-0: maat
+Tier-0: namat rar
+Tier-0: nag
+Tier-0: nam̃sat
+Tier-0: nal narun
+Tier-0: matsik
+Tier-0: pirket
+Tier-0: p̃au taarag
+Tier-0: krakpes
+Tier-0: sm̃ol
+Tier-0: tut naniu
+Tier-0: pul
+Tier-0: minrog
+Tier-0: nanwei
+Tier-0: kalo
+Tier-0: natam̃ol
+Tier-0: magko
+Tier-0: maurikat
+Tier-0: nansiik
+Tier-0: natog
+Tier-0: maniot
+Tier-0: lap
+Tier-0: nkis
+Tier-0: ferfer
+Tier-0: naftorien
+Tier-0: nlakwen
+Tier-0: nak nrain
+Tier-0: ptour
+Tier-0: natir
+Tier-0: fisfis
+Tier-0: m̃iit
+Tier-0: tefkau
+Tier-0: mases
+Tier-0: iak
+Tier-0: nap̃et
+Tier-0: nap̃kas
+Tier-0: tekatpi
+Tier-0: nalkis
+Tier-0: maumau
+Tier-0: neet
+Tier-0: patlas
+Tier-0: seltra
+Tier-0: tlasi
+Tier-0: nafkou
+Tier-0: gaf
+Tier-0: m̃au naliati
+Tier-0: tak maloput
+Tier-0: namal taaf
+Tier-0: ntafatu
+Tier-0: mantap̃arp̃ar
+Tier-0: kraksmanr
+Tier-0: sraf
+Tier-0: sursap?
+Tier-0: krakpel
+Tier-0: srafnoi
+Tier-0: kau imo
+Tier-0: atlag
+Tier-0: pulp̃og
+Tier-0: katnam
+Tier-0: iak
+Tier-0: rait
+Tier-0: raitok
+Tier-0: ntaf
+Tier-0: lagarof
+Tier-0: pakmaalep
+Tier-0: palkias
+Tier-0: nkanr
+Tier-0: nrus
+Tier-0: nlel
+Tier-0: lao
+Tier-0: polfai
+Tier-0: kano neu
+Tier-0: kipwi
+Tier-0: nakte
+Tier-0: nrpasok
+Tier-0: tep̃lasnakin
+Tier-0: karo
+Tier-0: puu
+Tier-0: nagi
+Tier-0: nam̃el
+Tier-0: natunrun
+Tier-0: nafon
+Tier-0: nalauna
+Tier-0: p̃anuk
+Tier-0: nfar
+Tier-0: napot
+Tier-0: nafil
+Tier-0: arum
+Tier-0: nanu
+Tier-0: nkaso
+Tier-0: ntau
+Tier-0: nuk
+Tier-0: tarag
+Tier-0: faum
+Tier-0: atlag faum
+Tier-0: tesa faum
+Tier-0: nanrognrogon
+Tier-0: atlag karu
+Tier-0: p̃og
+Tier-0: ilfot
+Tier-0: tiik
+Tier-0: waser
+Tier-0: nres
+Tier-0: sum̃sm̃ol
+Tier-0: pier
+Tier-0: nagor
+Tier-0: malfanen
+Tier-0: mer
+Tier-0: palkor
+Tier-0: laokro
+Tier-0: namos
+Tier-0: wit
+Tier-0: ni
+Tier-0: nrap
+Tier-0: motu
+Tier-0: nafitiawian
+Tier-0: kapuer
+Tier-0: matu tiawi
+Tier-0: tuei
+Tier-0: iskei
+Tier-0: m̃as
+Tier-0: maaf
+Tier-0: maag
+Tier-0: p̃elgat
+Tier-0: plag
+Tier-0: ko
+Tier-0: m̃ol
+Tier-0: p̃rakot
+Tier-0: mtapes
+Tier-0: p̃otae
+Tier-0: ifmertik
+Tier-0: p̃et
+Tier-0: taligftin
+Tier-0: waal nakit
+Tier-0: mam
+Tier-0: nmaron imiit
+Tier-0: lu
+Tier-0: raru m̃ol
+Tier-0: nsem?
+Tier-0: ekat
+Tier-0: ektem
+Tier-0: mlap̃erik
+Tier-0: mlapuas
+Tier-0: sokfal
+Tier-0: piatlak
+Tier-0: mapul
+Tier-0: pai
+Tier-0: gafgef
+Tier-0: nawes
+Tier-0: palus
+Tier-0: sek
+Tier-0: suar
+Tier-0: ntai
+Tier-0: mana
+Tier-0: nipu
+Tier-0: nau
+Tier-0: naki
+Tier-0: nfak
+Tier-0: nparom
+Tier-0: nuo
+Tier-0: kor
+Tier-0: kotieu
+Tier-0: tol
+Tier-0: awo alua
+Tier-0: nrep nrapagi
+Tier-0: les
+Tier-0: ntm̃at
+Tier-0: nlakotao
+Tier-0: nanu
+Tier-0: plik
+Tier-0: mul
+Tier-0: nlak nait
+Tier-0: nlas
+Tier-0: kano
+Tier-0: kotieu
+Tier-0: natam̃ol
+Tier-0: nrafi
+Tier-0: telomlom
+Tier-0: lei
+Tier-0: far
+Tier-0: ki faar ki naki
+Tier-0: pai nafum̃kas
+Tier-0: pregfu
+Tier-0: inror
+Tier-0: wak
+Tier-0: elkao
+Tier-0: alak
+Tier-0: konrkai
+Tier-0: liu
+Tier-0: naulum
+Tier-0: kin
+Tier-0: laufal
+Tier-0: Ekasik
+Tier-0: Elunak
+Tier-0: Epkat
+Tier-0: Esirsak
+Tier-0: sago
+Tier-0: slaur
+Tier-0: Nai sraper
+Tier-0: Earteuteu
+Tier-0: Efaatposfiu
+Tier-0: Egis
+Tier-0: Ekasufat
+Tier-0: Ekmalsog
+Tier-0: Elak katapel
+Tier-0: Elak naipir
+Tier-0: Elak ntraopit
+Tier-0: Elak tuplis
+Tier-0: Elignairo
+Tier-0: Em̃asin
+Tier-0: Emetp̃er
+Tier-0: Emetaikes
+Tier-0: Emtapenr
+Tier-0: Em̃urpau
+Tier-0: Enfet
+Tier-0: Epakor
+Tier-0: Ep̃aor
+Tier-0: Ep̃au napkas
+Tier-0: Ep̃uf
+Tier-0: Eraniau
+Tier-0: Erasa
+Tier-0: Erkao
+Tier-0: Eskaotae
+Tier-0: Etilkit
+Tier-0: Etroki
+Tier-0: Naigot
+Tier-0: natin
+Tier-0: tastes
+Tier-0: gkem
+Tier-0: kamarat
+Tier-0: nafnag ni afsak
+Tier-0: namkaanr
+Tier-0: suski
+Tier-0: tatakal
+Tier-0: natfer
+Tier-0: m̃orm̃rom
+Tier-0: nanrup?
+Tier-0: naroi
+Tier-0: m̃al nlawen
+Tier-0: nrali
+Tier-0: slo
+Tier-0: sii loop
+Tier-0: nakoi
+Tier-0: put
+Tier-0: Naariar
+Tier-0: nagis
+Tier-0: tu
+Tier-0: lul
+Tier-0: sup? lua
+Tier-0: sai suek
+Tier-0: sik
+Tier-0: tiik
+Tier-0: nakik
+Tier-0: nam̃tam̃ot
+Tier-0: faria
+Tier-0: tfarfar
+Tier-0: poler
+Tier-0: petet
+Tier-0: laosok
+Tier-0: lup?
+Tier-0: smani
+Tier-0: suman
+Tier-0: lot
+Tier-0: tafesfes
+Tier-0: fnau
+Tier-0: flak
+Tier-0: tien
+Tier-0: puri
+Tier-0: kis
+Tier-0: kuti
+Tier-0: worwi
+Tier-0: manmun
+Tier-0: p̃op?
+Tier-0: fon
+Tier-0: nrau
+Tier-0: napos
+Tier-0: woi
+Tier-0: noop
+Tier-0: nap̃ei luk
+Tier-0: punopun
+Tier-0: fu
+Tier-0: pu
+Tier-0: tkau
+Tier-0: safei
+Tier-0: mok npatin iskei
+Tier-0: mok
+Tier-0: sul
+Tier-0: fatsaal
+Tier-0: p̃opu
+Tier-0: naup̃o
+Tier-0: tof
+Tier-0: nruski
+Tier-0: tik
+Tier-0: sai
+Tier-0: metmaat
+Tier-0: maa kapu
+Tier-0: tanum?
+Tier-0: Kwinslan
+Tier-0: pnut
+Tier-0: p̃op?
+Tier-0: smus
+Tier-0: plak
+Tier-0: us
+Tier-0: sin
+Tier-0: nop iser
+Tier-0: tuput
+Tier-0: sik
+Tier-0: kusu
+Tier-0: met
+Tier-0: fai mantu
+Tier-0: fai p̃og
+Tier-0: fai
+Tier-0: ptak
+Tier-0: wesi
+Tier-0: miel
+Tier-0: ntan
+Tier-0: m̃lato
+Tier-0: sunra
+Tier-0: nkaspau
+Tier-0: nasul
+Tier-0: nmaat
+Tier-0: nskau
+Tier-0: tum̃o
+Tier-0: nragi keftin
+Tier-0: sif
+Tier-0: tum̃om tao
+Tier-0: mer
+Tier-0: ler wes
+Tier-0: surwel
+Tier-0: termau
+Tier-0: marmar
+Tier-0: p̃ip?
+Tier-0: sisi
+Tier-0: ser
+Tier-0: atol kanr
+Tier-0: soklep
+Tier-0: nfat
+Tier-0: matu
+Tier-0: nrafkor
+Tier-0: kintapul
+Tier-0: naan
+Tier-0: mam
+Tier-0: matu
+Tier-0: nua nkas mam
+Tier-0: sok
+Tier-0: naiser
+Tier-0: naum?
+Tier-0: sel naai
+Tier-0: takto
+Tier-0: natik nai
+Tier-0: napu
+Tier-0: kof
+Tier-0: susu katog
+Tier-0: fatmpasok
+Tier-0: nparfat
+Tier-0: nar fat
+Tier-0: mlil
+Tier-0: lul
+Tier-0: tal ki naki
+Tier-0: pau nmarit
+Tier-0: pau
+Tier-0: nasuk
+Tier-0: tkas
+Tier-0: tar
+Tier-0: to itar
+Tier-0: nako
+Tier-0: nakonkas
+Tier-0: nasinren
+Tier-0: marit
+Tier-0: nmai
+Tier-0: ntuk
+Tier-0: mtet
+Tier-0: nsat nawi
+Tier-0: liuliu
+Tier-0: manopnop
+Tier-0: eslaor
+Tier-0: kau
+Tier-0: selsel
+Tier-0: folfolm̃ak ki nar
+Tier-0: nam̃tam̃ot
+Tier-0: nasoksok
+Tier-0: etak
+Tier-0: sman
+Tier-0: pir naal
+Tier-0: wasao
+Tier-0: wosau
+Tier-0: man nap̃lo
+Tier-0: mermer
+Tier-0: mrag
+Tier-0: fit
+Tier-0: lul
+Tier-0: nrogtesa
+Tier-0: rowat
+Tier-0: nlae
+Tier-0: nati
+Tier-0: natien
+Tier-0: ntas
+Tier-0: nawen
+Tier-0: makos
+Tier-0: tien
+Tier-0: nap̃el [correction]
+Tier-0: napel
+Tier-0: tut
+Tier-0: aliat toknak
+Tier-0: mas
+Tier-0: nam̃tam̃ot
+Tier-0: menal
+Tier-0: na
+Tier-0: kafrag
+Tier-0: mkalkal
+Tier-0: mamuen
+Tier-0: laglag
+Tier-0: kapil
+Tier-0: mtas
+Tier-0: sarsar
+Tier-0: kar
+Tier-0: soro
+Tier-0: elau
+Tier-0: nalwaniksu
+Tier-0: nariuriu
+Tier-0: natiktik ntas
+Tier-0: takuer
+Tier-0: nkasakien
+Tier-0: nafetfet
+Tier-0: tekaru
+Tier-0: temen karu
+Tier-0: namtlen
+Tier-0: lek nat
+Tier-0: npatin
+Tier-0: nras
+Tier-0: katp̃o
+Tier-0: sor
+Tier-0: naitar

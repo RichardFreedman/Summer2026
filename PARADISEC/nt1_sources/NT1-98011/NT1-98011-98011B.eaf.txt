@@ -1,0 +1,344 @@
+default: tmak ina inom plisman,
+default: go kineu plak paluk
+default: paluk ne ito etan sanie,
+default: tesa ga ki nagien Samuel.
+default: paluk go ito nanre, nagien Brother Henry.
+default: Malen tem mom imat komam ra mer pak plisman,
+default: me tem mom ga ipei pi plisman ni Franis.
+default: 1914 to 1918, taos malpei nafkal p̃ur ni France go German.
+default: Kin isil service mal ne, go tmak ipan pato weswes emar,
+default: Caldonie.
+default: Ipan pa to Caldonie ntau ipat.
+default: iweswes plak komanda polis ni Franis,
+default: ntau ipat ipato Caldonie,
+default: oh tmak ga ipes wi ki lanwis ni  Mare,
+default: i pes wi ki  lanwis ni Emar.
+default: Naturiai ni Emar, Caldonie nen ru ma pak sa, r
+default: u mai ru tae tmak, ru mai ru olwei mai pak esum̃,
+default: ru pusreki nafsan gar.
+default: Mam uto leker tefla upo sup̃nekir,
+default: lanwis gar ipi te gar tem mom ga itae iwi
+default: (N) Ag ku tae pes ni nanre ni Sputan? Ipi atlak  sputan ni natkon ?
+default: ® Atap nrogo ru tili mau
+default: (N) Sputan, te te naot sesserik nen ru to ni mal ni nmalko?
+default: ® Ha nmal ni nmalko (N) Sput seserik, segal legal, itik?
+default: ® Hm (
+default: N) Natamol olsem  hairy i kat long fala ea. Istap or ear blong olketa i sharp, olsem (N) Itik ® Itik
+default: (N) Olsem wan kain natopu ® Mam ga itik. Tego neu  alek  Esanr (Santo).
+default: Mi luk long Santo pik ia ga ipi atlaken nam̃er seserik,
+default: me ru kerkrai a,
+default: ku leka ru ses teflan to
+default: me 44 kalon tramia ifulap long kerosene, putum long paksait blong em, ale iko.
+default: You think se bambae iko foldaon pe iko, you luk iko,
+default: me nigmam san ga itik,
+default: nigmam ga taos natopu nigmam, taos ga wan kia, atli.
+default: Nigmam ru pi tlak natopu teplan m̃as,
+default: me reki nen upi tlak natam̃ol teflan ga itik.
+default: Go nigmam tiawi ni Erakor, tetwei gar ru.
+default: Malen gospel imai ru puet sok kospel.
+default: Go ru pi tlak nanromien.
+default: Ipi nlaken ru puet natam̃ol lap, ni naur ur,
+default: North pak South, telap kin ru tu Erakor tu,
+default: kin ru mai kin rui pi tiawi tu Erakor tu.
+default: Ku kano pamori na, natam̃ol ne ipi rili natam̃ol ni Erakor.
+default: Ipi tlak stranger kin ru tu,
+default: tiawi lap ni North kin ru tu Erakor tu.
+default: Taos tiawi ru puetir ru mai rekir nen
+default: natam̃ol lap rui  pe to mat nafkal ni namrem,
+default: go iwel kia Erakor ito pak lag.
+default: Ipi nlaken teni naurur ru mai go Erakor i puet sokir,
+default: nen ipregi ru mai lap nen,
+default: ru pan ru pi atlak nmatu, ru pi atlak tesa, ru preg natkon ip̃ur,
+default: kin mes telap ru tu natkon Erakor.
+default: Kineu tmal ipi tesa ni  sister ni naot pomal.
+default: Me raitok ipi teni  Ambae.
+default: Kineu rai rok ga ipi teni  Ambae.
+default: Ambae natkon iskei ru soso ki nagire.
+default: Ga, kin rai tok ito wes mai,
+default: me tmak ga ipi family ni naot,
+default: Erakor, nagien  Anidre, Anidre Kalrongo,
+default: family nigmam kin  i join ki family Korman mana,
+default: Mifala ol sem family nome ia.
+default: Mi safe talem se Korman i olsem wan, smol kasin brother blong mi.
+default: Me olketa tu plante ided,
+default: a inside long family blong mi fala, mi wan nomo mi olfala istap.
+default: Me olketa everi wan oli lus fins.
+default: (N) Me nbak ne (Nambaga) Ni tete natkon ni Vanuatu, nabaga ipi nkas f̃ur, ipi nkas nen ipi atlak natuam ipa to
+default: ® Ha ore, tete naor, tete naor ipi atlaken
+default: (N) Me itik kin Erakor
+default: ® he ilakor pi tenaor namlas,
+default: namlas nen ru preg telm̃at wes mana,
+default: me reki natkon ga itik.
+default: Tete naor ni namlas ipi tlaken,
+default: tenen ru so so  ki, na lisepsep. Ntuan
+default: (N) Ru pregi nafte?
+default: ® Taosi wel kia ru taos natam̃ol me ga ru ses serik a.
+default: Me nalur itop, ru taos na, ru taos monkey.
+default: Me gar ru pes tu kano tae, gar ru pi tlak spesel nafsan gar
+default: (N) Me ru preg nawesien sa
+default: ® Ore gar ru o, ru to preng sa ki sernale,
+default: ru pitlak tesa,
+default: tete natam̃ol ru to lek  tete kin ru sol tesa gar ur napu, taos nmatu.
+default: Go komam  usoso ki ntuam,
+default: Bislama ru so so ki lisepsep.
+default: Nigmam tete tiawi nigmam nen ru pei ki mam,
+default: taos kineu paluk kin nagien Henry,
+default: ga ipei ki wou,
+default: ki pe
+default: imat nrus pi twei,
+default: ating ited oua 20 year finis.
+default: Emi bin bon long 1913
+default: Mi mi bon long 1919,
+default: kot kes ia mi no safe sipos emi foldaon  street longo chanel blong em,
+default: be mi fala iluk olsem, wanem oli stap judjem man long court kes.
+default: (N) Pe ni join kot ru to pes ki Franis ko English ko Bislama
+default: ® Ikat Franis iko itok long Franis, and ikat ol translator ol stap.
+default: Olsem ol native oli ko oli tok Bislama.
+default: Emia oli school English oli translate iko long English.
+default: English ol tok long English.
+default: Judge blong em istap long English side.
+default: (N) Me ag ku tae mtalu nafte olsem assident? Franis ko English ipi namtaluan?
+default: ® Tenen ga, i ga ru preg nafsan pan pan pan nafsan inom,
+default: ale judge nran ru ra po check ki nafsan, rak tok nar iskei po check ki,
+default: English go Franis ra po check ki, check ki pan pan, ra leka na ileg  usrek
+default: Franis itili tefla, English itili tefla,
+default: ise tufala isain of se iorait imas olsemia.
+default: Emi foldaon street long lo,
+default: Agreement emi blong you mi tu fala nao isain long em nao,
+default: ale emia nao oli kari out judgement istap long em nao. j
+default: udgem man olsem ia olsem ia, taem olsem taem olsem
+default: ore mam ko fo pa taos, ko, fo pak bik na nam̃as
+default: upan tak inrog kot, ru po sos tenen ru preg  trabol ru mai.
+default: Ale ruk fo pestafir, pestafir pestafir pan pan
+default: iwel ipi kilty ni tene se you naw you quilty orait mifala ilokem nao.
+default: Mifala ilokem nao, pulum iko stap wan sait.
+default: Ko ko sipos ikatchem narawan fulmap pakeken,
+default: emia oli kilty, mifala iputum lok nomo long ples ia
+default: (N) Me ru to si si ni emlakul?
+default: ® Ore, itaos a ga ru sosor ki man bus, me gar ru pes ki Bislama
+default: oli understand wanem ikut wanem ino kut.
+default: Be taem oli mistake,
+default: oli safe se mbae oli ko long  punshment nao.
+default: (N) Me nawesien negag taos polisman. Ag ku preg sisi, ag ku pan siwer namlas emlakul
+default: ® Ha ha, komam u siwer tefla,
+default: uskot komanda polis, komanda polis iskot mam.
+default: Ga  ga isol sisi me komam ga u siwer mol,
+default: komam upu madrak.
+default: Me komanda polis ga iwes sisi,
+default: go komam upan teplan m̃as upreg kot
+default: inom koi mer ler, me ikerkrai,
+default: (N) Ag ku mtak?
+default: ® Oh malen ku bak, ku pan lek na pik nambas tefla nam̃er knen, ku mtak
+default: nlaken gar ga ru tik ki sorri a.
+default: Malen ipes nafsan gar me ku po sup̃neki.
+default: Go ku tae nafsan gar itili tefla,
+default: gar ru kano lus polet iskei, karis iskei, ru kano lus wes  w[a]k ko kaw.
+default: Ke mas lus wes natam̃ol iskei,
+default: ipi tlak karis ten, ipreng
+default: pta kin ito, ke fo fia na karis ten ne ipi tlak natam̃ol tene kin karis ten ne ruk fo pami
+default: tkan wan man bus ru pregi ki.
+default: Telap  u pregi ru mai pak klabus,
+default: tete ru mur ruk mai lek wou reki tenamrun, ano o me iwi.
+default: (With Arnold) (N) atao record ki ? (A) fei
+default: (A) atrau sup̃meki ntan,
+default: nlaken awo berry ga me ito em̃rom skot nam̃er ne,
+default: ana ana apap me ipuel,
+default: ale esec ina imai go atrau nrikin kin na e teni atpap ki.
+default: Me teni nafte? go ana a po ta tae mau,
+default: me kai pe siwer na ka fan kia go
+default: alek nafet, alek natus nen pan pan po p am̃ori na,
+default: iskei ku sraf wes nagi nat ku ta mtir mau.
+default: Go ana oh kafo mer pei pan tua ki,
+default: ke frengi go ka fo pkaskei sati siwer pa, nlaken,
+default: (W) me max sai kin ka ilek na, (A) me max sai go ipato, (W) me itli na itfale.
+default: (A) ga itili na itkmori komam umai me trabol ga itapi kineu mau gar kia,  ana iwi pa mas pa. Paskotir pa.
+default: (W) i ore ta br ga wan kia ato na ka faus ki iwel ita pregi mau me ke mai tli mas, e (A) ha ha.
+default: Ga ipo tli na iwia kineu asemsem na ka fak kot.
+default: Me kineu ga aso a skotir malen ru pato min,
+default: me malran kin ru preg na,
+default: (W) ru preg nafte (A) ru p̃ rai na, ru preeg notis bot tenen kineu ata tae mau,
+default: oh me iwi, teflan, malran
+default: aliat fnau p̃ulp̃og, p̃a fo pan,
+default: p̃a fan, p̃a fo tmom nrikir ki na komam umau me kineu atap preg te namrun mau
+default: (W) ore mega so so ipan lek tal nanom reki ntan ni etan,
+default: na Kalotip me george ra to pan swer vida kat ntan, ( )
+default: (A) ore vida, (W) vida ikros itkos, me inrogo, ru nrogo isa wes,  ru pan nrik so so ki, go so so imai ripot kir,
+default: imur na ruk fuetir aliat fnau me ga ke fo mai.
+default: So so ke mai go ke fo the til te nanroan, so so itli na ruk fu berry 90 i me ana
+default: (A) roger (W) roger nlaken gar ru pe win wes lis ki na esa go rui pe tu papa ga ki,
+default: (A) papa ga ki. (W) so so kin ipo preg berry, ipus berry me ana berry go roger, nen rak fan pi witness ga
+default: nlaken ntan ne ga ru pe lakor ptu kin tu
+default: (A) teni natkon ki. (W) naftuan ne.
+default: Ale runa ru to go tal imai.
+default: Tal imai, go isos ipe berry imai go ipestafi
+default: go bo tal isos berry imai go ipestafi. Go berry ina iwi, imer sos roger maxsai imai, roger me imai go tuk fo pas, komom unomser tae sa, gar ga rak fo sh skot kineu.
+default: (A) Me nlaken amroki iri naor ni apu Robert ga ipiatlak nor naos ses.
+default: Naor nakon kia apu George mana mana ru tkos to
+default: (W) ore me imai pak nanre, ne, (A) ha ha nanre ne toklos apu George mai.
+default: Me kin tefla go pa
+ga imer pi teni nam̃erennen pan kia, ha ha,
+default: (wi) gar ra to ple ki Kalomuen kat sua,
+default: (A) naor skei mau ne,
+default: me gar ra pei pan lakor ple ki kalomuen pan, kalomuen ga itor losir go gar rai pe tao ale malfane ra toklos matu tar go,
+default: ra tli na, ra lakor naikin ki na ke tem tmalu naor ne.
+default: Me nafsan nen ra to pan nrik vida kin ga itapi nafsan nen rak nen n rikin kin mau, gar rak mai nrik so so, alick sualo,
+default: gar ruk nrikir ki nafsanu nne, nlaken ga ga ipal, bisness ga itap pi tega mau,
+default: ga imai rent ki ntan gar u, itkos ipaktofi ser, atlang
+default: ga ra na rak fle ki olfala ne, rato po mer ple ki,
+default: me iwi na ruk fan gar lengi.
+default: Nlaken nafet tiawi ga rui pe preg sernale ga ki pe leng su,
+default: ku mer kano pan pueri iler, ga ki pe pi naftuan su, ki pe pi tega kia.
+default: Ore.
+default: Ra to traus ntan, ku nrog teplan ra to trau si.
+default: Ipi tlak ntan iskei ito elau
+default: (N) ntan ni? (A) ntan ni Aalik Sualo.
+default: Okey ipi tlak kasin ga iskei, inru,
+default: ra to ple ki matu r tar ne, tli na ke tmalo naor ne
+default: W) nmatu ni iran. (A) nmatu ni iran nagien vida.
+default: ga ipi na ba hai
+default: (N) Mikrotek? ipi nmatu ni ( ) (W) yes, ga wan kia (A) ga wan kia (N) ru maet ki nafte,
+default: (A) ru maet ki ntan, nlakens imurina, ntan ipi ntan ni e tmer,
+default: me tetwei, okey kafo tli tefla, taos ag ku pitlak tesa iskei
+default: kineu apiatlak tesa iskei,
+default: me tesa neu inrom ag me tesa gae ga ita nromik mau, me tesa neu inrom ag, ag ku tua, taos na tenamrun nen ku pi atlaken.
+default: Ifla pi loto ko ifla pi ntan ko kat wang ki. Tesa ga ikano, imer kano maet ki kineu,
+default: nlaken kineu tesa neu i pol wii wi ki ag, ga wan kin tiawi ga
+ru pregi me ga rui pe ptu kin su.
+default: Go malfane ki pe pak ru tigpiel ki ntan.
+default: Ale sualo imar ke to etan, me Berry mana ru pitlak naor ses,
+default: me itli na, “ag p̃a fo pitlak naor neu etan, ka fo pitlak naor gag. Me kineu ka fo tu ang nanre etmat.”
+default: Okey rui pe leg kin ki pe nom,
+default: malfanen ru preg nasum̃. Go nmatu tar nen ito rent ki.
+default: Ito rent ki nasum̃ go rato pan pleki.
+default: Me instet nen rak ple ki alick sualo, go ra pan pleki nuf nmatu, ni iran, iran ga itik ki bisness
+nlaken ga ipan rent ki nasum̃ m̃as
+default: gar rak mas lek alick sualo, me gar nrikirki ki ga ru po mai pak na na mes p̃ul p̃ong pesptair aliat fnau,
+default: tefuan natus knen ki.
+default: (N) go ipi atlak, olsem olsamting ia olsem olketa blong tanna, (A) ore (N) ke fo pato aliat fnau, (W) ore ki pe to kot.
+default: Teni krup nig mam ni emten a. (A) teni emten teni tana, ipi toskei ke fo tu aliat fnau,
+default: nlaken ku tae, tetwei start kin, itap pi stat mai, me kin ru mai pak efat.
+default: Mal na, taos mal na ipi mal ptae.
+default: Okey ku mai ku tae pol prakot ki sernale,
+default: me mai pak mal ni mes,
+default: ku kano pol prakot ki sernale nlaken mes natam̃ol iwel kia mal ni mes, ikerkrai,
+default: malfane natam̃ol iwel kia ru po to lae letae sernale.
+default: Go natam̃ol ru imer plekir kat sernale pal pal, ntan, me tefser ser
+default: nlaken tenen imai pak elang, education, imai pak elang,
+default: education imai pak elang go na mal ikerai,
+default: ga wan kin ipreg, ku tae tenen, ka nrik ag kin, itap pi teni nmaeto mau, me ag p̃a fo maet, nlaken kufla tik ki fat. Ko kufla tik ki nafnalg, ka pestaf wi ag p̃a fo maet ki kineu.
+default: nlaken mes, taos mes itefla,
+default: (N) kuf lat ki fat? (A) ha, (N) kuf la flat ki flat ki fat (A) ore, itapi flat mau, ha ha ha ha, ku fnal ki fat, kuf fnal ki. Fnal flat ga nafsan nig namer tar,
+default: me fnal fnal ki mane,
+default: go itapi tena [fnal] ki mane mau, pana fnal ki fat,
+default: okey ka mer mai pak tep̃tae,
+default: naliati nen p̃a tmalu kin pa ler pak Australia,
+default: tuk fo lakor pei gag preg nafnag ses,
+default: tuk gag preg nafnag ses esa tuk a gaag fam kenom go p̃a fo pa.
+default: Kineu ka fo nrikin ki. Komam rak fo gag preg nafnag ses,
+default: ko gag fam me p̃a fo pa.
+default: naliati nen p̃a na patmalu, pa to san leng pak Australia
+default: ko p̃a fei pan patu taon, (N) atatae mau nlaken plen itmalu, 7.30 long mornw morning (A) p̃ulp̃ong (N) pul pong.
+default: Go ata tae mau ifuel kafo matur taon, go nlaken loto itik (A) loto itik, (N) naor (A) napu,
+default: (N) amro kin ka fo pan No 18, (A) pa No 18 fo pan no 18, (N) amro kin, nen ka fo matur taon, kafo matur taon (A) ag p̃a fo matur taon,
+default: (N) olsem p̃og ni 17, (A) no 17 (N) ore (A) nlaken No 18 p̃a fo tmalu. (N) p̃ul p̃og rik
+default: (A) p̃ul p̃og rik oh, o iwi nen tuk min pan pan No 17, o a pes fkar,
+default: (N) ha ore, (A) nlaken ag p̃a fo pan matur? No 17, (N) amro kina a
+default: (A) okey ifuel kin ag pa fan matur no 17, go pa fei priper ki san ku na p̃a matur wes.
+default: (N) ha ha. (A) okey akit tu to sa, kot fan pan pan itkal pong go ko fo pan pus ag,
+default: (N) ore (A) teflan kin iwi, kineu ka fo lek loto,
+default: ka fo lek loto, itfale go kineu ka to mos ag, ka fo msagik, (N) ore,
+default: (A) ore me neu ana ka fo gag trausi teflan kin nmaiwen neu nanre,
+default: go kai pe nrus metpakor te te naor,
+default: nlaken kineu malran ato school,
+default: kai pe metpaakro me ka til te te naor (N) ore, (A) kai pe tae ki malran ata tik ki traoses.
+default: Ato karo los, okey u skul pan pan pan pan,
+default: me kin skul school nigmam, ore katli teflan ka fo ta til skul mana mau,
+default: ka fo til nakom mas, atao skul ato klas 4
+default: malran atmalu ases, api tlak ntau, ntau twelof ntau twelof, amai, anom skul,
+default: ale amai ato sur kopra, ases me ato sur kopra, a sur kopra ilakor pi 19,
+default: ag p̃a fei ta teip mau me kafei to gag traus te te naor, nlaken kineu kai pe met pakro
+default: (N) me ato teip. (A) ha me ku teip ko itik (N) ore atateip, ka teip ki natrauswen nega, me patri inod inokut nao.
+default: (A) pa fei traem krak pni, p̃a fei tream pelgati.
+default: (W) emi wan tawien blong mi, me tawien blong you emi man we.
+default: Atrau na man narsait, go ina man narsait we, go ana, man narsait wu, be arnauld emi no brother blong mi ia,
+default: kano ni ambai iskei, (A) he nafet brother neu mas kia, (W) kano iskei ito preg service bus, (A) ha brother neu kia, kia ita smok mau, amos.
+default: Ki ito pa bas blu, (W) ore, (A) brata kia, brother neu kia.
+default: (W) ga itapi teni ambai mau?
+(A) he me ga, brother neu wan kia, (W) ore, (A) papa brother ipi teni ambai me mama ipi mama egun ni egun (W) ga wan ki ipo na kineu ga a pi af ambai, kineu ga mama nigmam ipi ambae, nega,
+default: (A) papa ipi ambai me mama ipi egun, (W) ga ipo nrik kineu kin tefla (A) kineu api brother, api brother, (W) ina he brother neu kia,
+default: ga ito pa pas blu, (A) bos blu bas tesa kia, ga kia, (W) me ga inrir kineu kin me ametpakro na ka tili. (A) brother kia ga wan ki okey aileen ga ipi sister ga,
+default: me nlaken kineu, ru adoptat ki kineu a pi brother gar. A pi adopted brother gar
+default: (N) adopted tap̃as, (A) api tap̃as go, api tap̃as go malran useserik go kineu a lekor wer.
+default: Malran ru pan pan kin, gar ru pat a, malran ru top go kineu a sef kir,
+default: kineu a sef a mai tu napu.
+default: A to napu pan kin kai pe mai to san to mes, me ato pan mal sik skei go kineu apap neu ita m̃ol to apap wi neu,
+default: (N) ore, (A) apap ga ita wie neu m̃ol to, (N) egun (A) egun, me mama neu ki pe mat, (N) ore
+default: (A) me api tlak korek paluk. Api tlak p̃aluk inru, iskei ki pe mat, iseki m̃as im̃ol ga ito taon,
+default: me korek, api atlak  korek itol,
+default: api tlak korek itol mam u lim.
+default: Ku leka, me kin taos natrauswen go ku to tli, teni na, natrauswen ni na natrauswen ni Queensland,
+default: anrus nrogo tiawi iskei inimam trausi.
+default: Go tetwei, me ga ipi te te tiawi ni, tiawi nigmam, tiawi ni natkon me nlaken isa kin ka tli me ka fo psir.
+default: Me olfala nen ato mrokin ifmer to,
+default: ke fo gag traus pta ki ore, malfanen ga ita mol, iwelkia mam upi taos papa ipi, papa nigmam iskei,
+default: me nafet tiawi, tiawi wi nen gar rutae ruk traus rui pe nomser mat,
+default: (N) ore, me ifwel ag ku pan leka korem (A) ore (N) aileen, (A) apo paus kin ki,
+default: ha, ha (N) te te natrauswen ki, (A) kineu ka fo paus kin ki.
+default: (N) sanpe (A) nlaken wel kafauskin ki
+default: ga itae to tau kin ko. Iwel itau kin (N) itik (A) kineu ka fo fea, ko kineu ka fo leka fea m̃as, ka fea pan ke nom go ka fo trausi, (N) itik ku tae leka nasum̃ ni library m̃as, (A) ku kano slatlua pak ektem,
+default: okey ka fauskin ke tau ki ka leka pan inom, okey kineu ka fo tae mtiri
+default: iwelkia bislama itili na itefla, me kineu atae apo teflan ka fo mtiri pak nafsan, me kineu ka fo mai gag trausi,
+default: (N) me natus, ipi ni nafsan, (A) ipi nafsan, (N) ore, tenen ipi ( ) ipi (A) ha
+default: (N) Ni Schutz ipi nafsan m̃as.
+default: smol english, be nafsan,
+default: (A) nlaken nafsan ito elag go english ito etan (N) ore, ore,
+default: (A) me nlaken nafsan ito elag oh me iwel english ito etan, imin ki se ag ku tae, ku understand ki nafte kin lanwis itli.
+default: Me taosi welkia, ha itik ileg ileg,
+default: me nafsan nig mam ni egun, ga ipi tkaskei nafsan ni erakor
+default: kutae, nlaken ea, taos nafsan, erakor ina nafsan, egun ina nafesana iwel kia in rus ki kaptel imer nru, (N) me ipi
+nafesana, (A) nafesana, (N) nafesana, ore,
+default: (A) esa ru tli na, nafsan, ga ru pregi im̃it, nafsan m̃it komam upregi ipram,
+default: (N) nafsan (A) nafsan go esa ru na “p̃a mai” egun ru na “p̃au mai” ku leka,
+default: me ipi toskei
+default: (N) me ag ku tae nafsan ni elop, (A) he (N) ikerkrai, (A) ikerkrai,
+default: nafsan ni elop i hu hu hu hu teplan p̃a ku leka, ikerkrai,
+default: me gar ga ru tae nafsan nigmam go ru tae nafsan ni erakor.
+default: Me kin reki nafsan gar, ipi tlak te te tiawi ni esa ru tae pes ki ru ta nrog tae,
+default: gar ru mer pestafir ki nafsan ni erakor, me ru kano pestafir ki nafsan ni elop.
+default: Elop ga ru tae pestafir ki nafsan gar, me gar ga ru pes ki nafsan ni erakor.
+default: Me kineu amrokina, kin ato tli p̃ul p̃og,
+default: kia apo to nrik awo will kina, kineu alek mus ra pa loto, amrokina c ag ku pan traus skot kalsong.
+default: Dick Lauto (N) ore, (A) ku pan traus skoti tetemal ko itik? (N) itik ka fo, pe ka fo, ka fo pestafir, pestaf (A) ngas, (N) me atatae mau me aliat Friday.
+default: Ka fo, ka fo pan skot Harry (A) pa fan skot Harry, Harry ore,
+default: go ga ipi olfala nen, ga ito pa pas mai
+default: me ag kuipe pestafi tete mal, (N) fei (A) ag kui pe pestafi ko itik kui pestafi ko itik (N) oh ntau nen ipa. Kai pe pes tafi ses,
+default: (A) ha ntau nen pa, (N) ore ntau nen pa, me mes, itik.
+default: me amu amurin na, rekina, amro kinen itae tete natrauswen, (K) oh ga itae natrauswen lap teni America,
+default: America, ga ipi atlak natrauswen ne. Natrauswen ni America na ga, ru tili itfale kia. Ru na tetwei America ru mai pak san, ale
+default: i nlaken komam rapo tap tae mau. Ga itae wi ki natrauswen ni tetwei, me kaltap̃au ki pe gag traus ko itik?
+default: (N) itik imal, (A) imal (W) ina ke fei to rik, (N) ita preg ptaki,
+default: (A) ita preg pta ki natrauswen ga mau, ke lakor pei pus tete na, natrauswen, six pen ke mer pak elag.
+default: Ho, yes itrau wi pe wi.
+default: Ato[xx] nrkin kin kia itli na ke fo pan mal na, ana he tuk fo gag preg nafnag ses, (W) fei, (A) ana he takfo gag preg nafnag ses, ka fo ga wat to ses keskei, ga preg kapu,
+default: (W) ga preg nafnag ses, (A) ga preg nafnag ses, (W) plak to, (A) fam, fam su
+default: me p̃a fo pato pa, (N) inom ore, emi emi orait, (A) ga
+ipi nam roan nigmam, ga itapi (N) you no mekem had wok (A) he itik, ga itapi, komam una, etik mega i, me itapi ag p̃a, tapi, ag ag pa freng nawesien gag,
+default: pa freg nawesien gag me ga ito komam m̃as kuleka, ga ito komam mas itapi nat, mau komam,
+default: he me fei kin ipa loto ne, (W) group ni lipakoa kia. Sormon iplaker, ilakor pi te family gar ito drive wes, alek imer pan nrakaru.
+default: (A) me loto ni suan kia?.
+default: Hm-m kala me api tlak, he tik o,
+default: kui pe finis ki nafet tiawi ni erakor?
+default: (N) malfane, (A) ore itik (N) ipi atlak te te nafsan amurin, (A) itik me p‘a leka, kafo nrik ag ki nik kutae ipiatlak nlaken
+default: if taos kineu, kineu kin aleng na ka flak ag,
+default: kineu aleg na ka flak ag, pak pestafik skot natam̃ol, ne, anrik natam̃ol kina ga imai reki natrauswen teflane, pa ga trausi,
+default: nlaken ipi tlak tiawi nmatu lap kin ru tu,
+default: me nlaken malran ag ku pan teflan gar ru fo sup̃neki ku tae.
+default: Me iwel kin kineu atli nlaken kin[e] atrau tae na kineu kin atrau leng nen ka flak ag, aplak ag
+default: (W) aga pestaf tai Harry, (A) ha ore. Ka flak
+ag me ipi tlak tiawi iskei me am, ka to traem, itapi traem, mau, me ka fo nrikin ki na
+default: p̃a fan ke gag traus ses,
+default: olfala ne, me amet pakro na ka fo nrikin ki, me kafestafi ke nom kineu ka fo pareki ag mai,
+default: kineu ka fo pareki ag, akit tak fo nru pa,
+default: he tatel a will (W) ha (A) tatel,
+default: iak ni su mana. (W) he atae, me ki pe traus ko itik
+default: [child crying out]

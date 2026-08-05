@@ -1,0 +1,130 @@
+default: [fourth of January 1996 with Silas Alban]
+default: [forest]
+default: namlas
+default: [forget]
+default: metp̃akro
+default: [forgive]
+default: nratap̃aar
+default: [forty]
+default: ralim iskei go atmat ipat
+default: ralim iskei go atmat ipat
+default: atmat ipat
+default: [forward]
+default: nakpei
+default: [four]
+default: ipat
+default: ipata
+default: ino ifat
+default: ipat
+default: [fowl]
+default: too
+default: [friend]
+default: asel
+default: [of]
+default: aslak
+default: [fright]
+default: mtakwen
+default: ko a mtak
+default: [from]
+default: nlaken
+default: [front]
+default: nakpei
+default: [fruit]
+default: nuankas
+default: [fulfil]
+default: i pi lesok
+default: [full]
+default: p̃ur
+default: [furious]
+default: nmaeto
+default: nmaeto
+default: [future]
+default: tete mal ke fo mai
+default: [xxx]
+default: nlag kerai
+default: [game]
+default: nameswen
+default: [garden]
+default: talm̃aat
+default: talm̃aat
+default: [plantation]
+default: naroi
+default: [gecko]
+default: sulprog
+default: sulprog
+default: [get]
+default: pitlaken
+default: [get]
+default: slati
+default: [giant or strongman]
+default: m̃aau
+default: [giggle]
+default: mailum
+default: mailum fkar
+default: [smile]
+default: mtamurmur
+default: nap̃raksa
+default: nap̃raksa
+default: [girl]
+default: teesa nmatu
+default: [girlfriend]
+default: asel nmatu
+default: aslak nmatu
+default: aslak nmatu ko asel
+default: aslak nmatu
+default: [glad]
+default: semsem
+default: [greedy]
+default: natam̃ool fam toop
+default: kai pe fam su
+default: kineu a fam toop
+default: [mi mi kakae tumas]
+default: [be even naoia oli stap yusem kaen ia]
+default: pam toop
+default: [be pam toop ia i no mekem sens tumas]
+default: [taem we mi mi stap kakae mi save talem se]
+default: malen a to pam toop
+default: malen a to pam toop
+default: [mi mi stap]
+default: [go]
+default: fa
+default: [go]
+default: [go ia yu save talem se]
+default: pa o p̃a fa
+default: tua kin
+default: tua kin
+default: goat
+default: nanan
+default: [god]
+default: Atua
+default: [good]
+default: [or kind]
+default: i wi
+default: i wi
+default: [segalegale
+default: , tok blo Tongoa go Not Efate
+default: [hem i smolsmol dwaf]
+default: [hem i save kaekae ol man?]
+default: [sam olsem oli  oli segalegale oli diskraebem se  hemia long lanwis blong nara saed ia Tongoa]
+default: [xx segalgale ia oli se]
+default: [talem olsem se devil ah?]
+default: [sam oli se oli kakae man]
+default: [i gat long ples ia]
+default: [mifala i kolem]
+default: ntwam sputan
+default: [long graon yu talemaot ntan]
+default: ntan
+default: [so ntan neu?]
+default: [can you say nametraun (testing inpos]
+default: nametrau
+default: [nametrau blong mi?]
+default: nametrau neu
+default: neu
+default: namtetrau gaag
+default: gaag
+default: nametrau gaag
+default: p̃a fak esua
+default: p̃a fak esua
+default: p̃a fan mer ler
+default: pan hemi defren
+default: p̃a fan mer ler

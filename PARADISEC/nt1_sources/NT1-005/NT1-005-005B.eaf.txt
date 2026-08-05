@@ -1,0 +1,300 @@
+default: kakae pipes ileg, akit takai pipes i leg. [elicitation]
+default: Yu putum k long plesia
+default: kineu pan pa to tli
+default: pa to til, til, til wou
+default: p̃a to til wou, olsem istret
+default: p̃a to til wou
+default: (NT)Me hemia, takai, akit taki, mi no save hem
+default: akit takai pe pes
+default: olsem we yu tufala yu wok [xx] long wan man, yu tufala i
+default: talem wan samting finis, istret finis
+default: hemi go nao, i olsem hem i stap, i jalus long yu o mi no save
+default: olsem ia, mifala  i kolem tilususi
+default: pa to tli,se  olsem Linuk hem i stap bambae
+default: taem hem i go yumi tufala istap tokbaot Linuk nao. (NT)tok bihaen? (KN) A!
+default: (NT) Be hemia 'takai', mi no sa
+default: (KN) takai?olsem, we yumi tufala istap stori abaot, talem hem, takai
+default: takai, olsem we yumi tufala stap talem hem
+default: (NT) ok so yu sa talem akai?
+default: (KN)No (NT)or rakai?
+default: (KN) Rakai, rakai olsem we
+default: wan man olsem we yutufala i stap storian
+default: yumifala isave talem wan, sam man olsem we yu kam nao mi talem se
+default: ikat wan man Eton ikam yestedei. Olsem yutufala yustap talem wanem samting yutufala i wantem
+default: mitufala istap tokbaot samting we
+default: yumi no talem aot nem blon yu
+default: bu mi taelm se yu go bambae yu kam bak yu talem [xx]
+default: wan samting we mi mi wantem
+default: yu go save gud long we bifo yu kam long plesia
+default: sapos yu kam bak oraet bambae mi mi askem but mi mi no talem se bambae ...
+default: koma ratotli rato inru ramur ratae tenamrun
+default: no, mi no talem olsem, taem mi talem se, yu go
+default: ale bambae samtaem be yu kam bak, bambae mi askem yu wan samting.
+default: [silence]
+default: (NT)Hemi no kaipe pes
+default: (KN) Yes olsem yumitufala i tokbaot, olsem yumitufala i talem finis
+default: olsem mitufala i talem mi talem long man yumitufala i toktok finis
+default: yu go, bambae yu kam bak , raipe pes su
+default: go ga ki pe ler pak Eton pa
+default: raipe pes su, mitufala i toktok finis.
+default: [silence]
+default: (NT) If wel kuf pam naik nen p̃a famsak
+default: p̃a famsak, (KN) p̃a famsak? a
+default: [NTasking question]
+default: p̃a fo msak
+default: bambae yu sik
+default: [silence]
+default: [NTasking questions]
+default: amer, o afmer? (KN) afmer (NT) bae mi traem
+default: [silence]
+default: (NT) Rapan  sok ki asler / sok kin asler
+default: (KN) Rapan sok ki aslak ko alser
+default: aslak i min yu, olsem tudei yu kam
+default: yu kam kam aot long mifala, mo yu stap long
+default: haos bling mi, mifala, [wan so] ku mai sok ki aslam
+default: [silence]
+default: (NT) Ok nao, tok
+default: hem i want kaen wael ken? Tok
+default: Ku sulsli ki tok? (KN) ftok
+default: [silence]
+default: (KN) Yu save yu bin talem long mi
+default: yu talem se bambae yumi tekem sam waelken i kam be
+default: mi mekem redi finis istap
+default: be tedei, mifala ikolem ftok
+default: waelken, ftok, olsem mekem waelken, mifala ikolem nawus
+default: be taem mi mekem gogo i klin, mi klinim, i
+default: mi luk we ples i no stret
+default: bambae yu putum long faea mekem i stret gud, mifala i kolem ftok
+default: olsem we taem we mi putum ara long hem, mifala i kolem timen
+default: [laughs]
+default: i redi nao
+default: bambae, olsem mi talem long yu, bambae yu mekem sam e
+default: ara [child crying]
+default: (NT) nap̃rarai (KN) nap̃rairei, hemia i olsem
+default: nap̃rairei hem i stap long wanem ia, long riva, yu luk plante long riva
+default: Teouma i gat plante, olsem
+default: but mifala i kolem wan samting i olsem
+default: mi kolem wan samting mifala i stap kaekae oltaem
+default: mifala i kolem wanem ia, naftekia nap̃rairei, i taos nana?
+default: nafis a?
+default: nap̃rairei i seserik taos nafis
+default: a,
+default: i gat wan samting mifale i stap kaekae, hemi olsem e, wanem ia, nap̃rairei
+default: mifala taem hem i go istap gogo kol taem, hem i mekem wanem ia
+default: kakae blong hem ating samtaem yu kaekae sam
+default: samtaem long Vila be yu no save
+default: mifala i kolem nafis
+default: nafis
+default: (NT) Be hemi olsem frut blong hem o?
+default: (Iokopeth) [xx] oli stap salem
+default: (KN) A ting, mi mi ting samtaem yu kaekae but yu no save wan man i taelm long yu
+default: mifala i kolem wanem ia, nap̃rairei,
+default: hem i no gat frut long hem a? Be hem i gru long graon, i go
+default: go [xxx] ided ided i olsem wael ken
+default: (NT) be nafis hem i olsem ol
+default: (KN) hemi olsem, tufala oli stret, but hem igat wanem ia
+default: but end blong hem taem blong Novemba
+default: March, April, taem we i gat
+default: flawa i gat, frut blong hem, be yu kaekae i gut
+default: (Linuk) [xx] ia i stap long riva, i stap gru long riva, be hemia oli kaekae oli stap planem long garen
+default: [xx] i pi olsem hemia i stap gru long riva
+default: olsem suga ken nomo be i smol
+default: (NT) Hemi no olsem oli singaotem long PNG bitbit? No?
+default: hemi wan, hemi gru olsem ,be yu jas kaekae everiwan
+default: i gru long graon olsem be yu kaekae evriwan
+default: (Linuk) yu kaekae antap, tap long hem nao
+default: i no olsem sam frut we i mekem kaekae blong hem istap taem olsem, be hemia i mekem kaekae
+default: blong hem
+default: (NT) be taem yu kaekae yu mas karem aot hol plant, o yu save livim sam i stap gru?
+default: afta? (Linuk) No, taem yu go, yu pulum, pulumaot [xx] blong hem nomo be stampa i stap , mo bae i gru bakegen
+default: [ah, child crying]
+default: nakul
+default: i walu nakul ma srakro
+default: (KN) naklul oslem skin blong hem, naklul
+default: naklul olsem we storian ia italem se
+default: hem i go nao i tekem aot wanem ia
+default: skin blong hem, ale
+default: i srakro, i putum sam ples we  man i no save luk
+default: i srakro, (NT) me naskon?
+default: (KN) naskon o naklun i semak
+default: naklun, i olsem olsem, singlet blong mi ia, o sot blong yu ia
+default: bambae, yu gerap, yu tekem aot
+default: olsem naklun, imin naskon o
+default: wanem ia, yes, ol skin blong hem a?
+default: hem i go i haedem i srakro
+default: naklun, a [laughs]
+default: (NT) be, hem i no nkal (KN) no
+default: naklun, i olsem skin blong hem
+default: yu save ol wanem ia, ol devel
+default: hem i wantem haedem sam ples blong man i no luk, i no luk save
+default: be bambae hem i jenjem, hem, bambae hem i kamaot long yu
+default: bambae yu luk yu ting se narafala man be sem man nomo taem i kam
+default: bikos hemi go i haedem wanem ia
+default: naklun, skin blong hem
+default: (NT) Ku lek nap̃ei selwan ku nan p̃a freg namrun
+default: [silence]
+default: (KN)  bae yu putum g long ples ia, ku nag
+default: [silence]
+default: sapos yu luk forwad, sapos yu wantem e
+default: ku lek nap̃ei, olsem taem we olsem yu stap long
+default: taem yu go olsem ia, i olsem foret blong yu i go fastaem oltaem
+default: ku na p̃a freg, sapos yu wantem mekem wan samting, bambae
+default: yu no luk bak, yu luk foret nomo
+default: [silence]
+default: (NT) breast hem i nais, naisum, (KN) yes, sapos mi talem se, e, sapos i kam aotsaed, ku lek naisum i paakor
+default: naisum yes, [laughs]
+default: (NT) after, nangalat, mo ol smol nil i stap
+default: yu singaotem ol nil olsem naisum?
+default: (Linuk) taos, na, naisum i  olsem, nil blong aranis, mandarin, mifala i talem olsem, nais
+default: (NT) semak? (Linuk) Yes
+default: sapos yu luk aranis, mifala i talem se m̃ol , nais m̃ol
+default: (KN) a,  olsem we aranis yu luk we hem i sap gud, mifala i kolem nais m̃ol ol laem, nais laem
+default: nais mandarin
+default: (KN) ol olget a samting we oli gat nel
+default: mifala i kolem nais
+default: sam rop we i gat nem blong hem bambae mi talem
+default: nais [xx] yu luk wanem ia
+default: anisakel a?
+default: hemia mifala i talem, bikos hemi gat nil tu
+default: nais anisakel
+default: (NT) go nanggalat?
+default: (KN) naggalat i dfren
+default: bambae sapos yu go i gat flawa blong hem i gat lif blong hem
+default: sapos yu go yu tajem long skin blong yu
+default: i katik, nkraful
+default: i katik (NT) be nem blong naggalat? (KN) Gkar
+default: but i gat tu kaen long them, a? Wan we
+default: i stap long we, yu luk save finis
+default: but wan yu save go past long hem,
+default: be taem yu kam, bambae taem yu go swim long solwata, o swim ling waota, bae yu faenem we
+default: a yes, hemia nao. But narawan, o, i no gud
+default: semtaem we i tajem body blong yu, yu save nogo
+default: [laughs]
+default: mifala i kolem nkrafuul
+default: (NT) Hem we su save stret? (KN) yes
+default: [silence]
+default: namtagot - ?   makas blong graon
+default: o makas blong wanem ia faea
+default: namtam̃ot nkap, ko namtam̃ot ntan
+default: olsem graon
+default: namtam̃ot
+default: i gat wan kaen tri we nem blong hem hemi namtam̃ot? (KN) No
+default: (Linuk) Ore, me apap, nkas iskei kia ru sosoki namtagot
+default: (NT) namtagot (Linuk) kia, nkas iskei kia
+default: (KN) Nkas? (Linuk) Nkas
+default: (NT) yu yusum blong mekem haos
+default: (KN) [xx a itu ona]? nana, nkas nen i got ko i tfale?
+default: (Linuk) Nkas iskei rusosoki namtagot
+default: [silence]
+default: (NT) oli se yu save bonem long faea
+default: [silence]
+default: (KN) Tu sosoki [xx] namtagot?
+default: i ta pi namtam̃ot mau me namtagot
+default: [silence]
+default: (Linuk) i pak ena, i pato Epagpag to
+default: (KN) I pato Epagpag to, (Linuk) me teesa ru satir ru preg ru to preg naar mana kin i got, welkia i tae ipuetlu na naskom, preg nasok na teesa.
+default: (KN) Ipi nagien ki? Ore, yes, hem i save
+default: Hemi luk long saed long ol
+default: Forari,
+default: nam̃lek? nam̃lem
+default: yes, olsem, trak blong yu
+default: olsem yu o mi
+default: nam̃olien - life , nam̃olik - body blo yu
+default: [silence]
+default: nam̃or - hole
+default: olsem we yu mekem wan hol i stap
+default: p̃alekor nam̃or got rarito [?]
+default: i gat tu, nam̃or, nam̃oru - dip si
+default: be nam̃or - yu putum wan hol klosap long haos blo yu, nam̃or
+default: [silence]
+default: naper o nater [child crying]  , wall blong haos
+default: akit tu tli itfale kin  nana, taos nana, p̃ag nasum̃
+default: ko, nana, m̃al nasu, ku ..
+default: mi traem luk buk blong yu?   naper o nater
+default: [silence]
+default: naper a tap tae
+default: teflan ka tli .. [charlie enters - Pulpog wi]
+default: [...]
+default: Charlie - mi go long ospital, karem meresin
+default: N) Ku tae tli nafsan ni ..? [joke?]
+default: [silence]
+default: oof? ofa
+default: sapos mi laekem wan klos, but yu wantem go samples be yu neked yu stap, bambae mi talem se, p̃a of nkal neu pak etalm̃aat
+default: olsem mi talem se yu putum klos blong mi go long garen
+default: of nkal neu . (NT) Be of yu save talem, olsem, break?
+default: no, hemia nao i talem
+default: wear
+default: putum wan pikinini o wan man long bak blong yu, hemia of
+default: o yu pulum rop, yu ron i go yu fas long hem
+default: ku of nmarit, ku of teesa, ku of nkal
+default: [silence]
+default: (KN) [talking to Charlie] Ra tu malfane pregi, a, Sailas i pregi i mur na ke trau [xxx] nafsan tmalua ...[?]
+default: [silence]
+default: pura - double
+default: samtaem yu sa luk ol frut i gat tu long hem
+default: hemia nao yu talem se hemia hemi pura
+default: be wan samting we hemi 'wide' or 'broad', molmol?
+default: pram - long, be wide? p̃olplo
+default: p̃olplo
+default: [laughs]
+default: sapos yu putum ip̃olplo i stret
+default: ol taem yu putum i long foret, nkal i polplo,
+default: yu no save tlem se tebel polplo, no
+default: nap̃olplowen , yes
+default: p̃aluk - brother blong yu. [checked an old source that said it was sibling]
+default: [more about paluk]
+default: no stret, korek i stret
+default: [child crying]
+default: ironing clothes
+default: ku, ona, ku ter nkal
+default: nkal gaag welkia i [putkro to?] go [xx] ter nkal gaag
+default: ko baebae mi talem long woman o wan man, e p̃a fan ter nkal neu
+default: npat faat = iron (n)
+default: [chat]  [xx?]
+default: p̃ip̃ - ku p̃ip̃ nkas
+default: a p̃i naniu, yes, hem i stret, katem wan wud i sot fala olsem, hemia mifala i kolem p̃ip̃
+default: [silence]
+default: raki, klosap?
+default: a torakik - yu wait long mi, mi wet long yu
+default: euut - shore, raki - from
+default: [silence]
+default: two meanings
+default: safeu - whistle
+default: [silence]
+default: sagien  no > sanien
+default: namtagwen i tli tefla
+default: eh itik! sanpe, sanien, ntagien
+default: sampe, sanie, sa
+default: longwe - sampe
+default: sanie - klosap, esa, here sampe
+default: [laughs]
+default: saspe -
+default: sapos mi talem se pa fak esampe, pak fak esua? I gat nem blong hem i stap.
+default: ka fak egis
+default: [laughs]
+default: (Limaas] ...
+default: sespal - semak wetem sees?   seeserik? (plante samting)  semak
+default: sespal i minim se mo smol
+default: [child talking in distant background]
+default: sil, hide?  enter
+default: [silence]
+default: srakro - yu haedem
+default: [silence]
+default: sua - yu kasem wan sick - a su msak
+default: [silence]
+default: ku tae natrauswen nen kia [ nalona ] natus gaag ga Limaas? Ga ki. Kia Wai, me Kalpog me , gar kin
+default: su namsaki
+default: kineu amsak
+default: sapos yu talem se olsem wanem long yu, bambae yu talem se mi sik
+default: bambae mi askem yu ku su sef namsaki, ale
+default: naoia i talem nao fiva o apuuk, amlanr , pau ki ftin
+default: wan sik i stap ron naoia, olgeta oli bin kasem
+default: ruipe sua
+default: malfane kineu a sua
+default: [silence] be sua yu talem wea
+default: [silence]
+default: part blong kokonas
+default: nlak naniu
+default: nmal naniu
+default: naapas
+default: naul naniu = naapas naniu       kak - kak naniu,

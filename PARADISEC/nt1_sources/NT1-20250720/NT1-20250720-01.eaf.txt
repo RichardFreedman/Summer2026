@@ -1,0 +1,327 @@
+default: [Sunday 20th July, Erakor with Litrapang (and Johnny Alfos)
+default: [clap for synchronising video]
+default: Nao olsem mi talem, ni nafsan, ag ku tae tli naflak gaag?
+default: (L) Kineu a pi naflak nm̃aal
+default: (NT) Go nametrau gaag ru pi teni esua?
+default: (L) Tiawi neu i to Erontp̃au mai
+default: (NT) Tiawi nanre ni apap? (L) ni apap
+default: Nanre ni iak
+default: tiawi neu i to Futuna mai
+default: apu i pi teni Futuna i mai lak Erakor
+default: (NT) Tkanwan kin i mai pak Erakor?
+default: (L) A tap tae mau, teetwei, na, tiawi ru siwer, ru mai pak, mal, i lakor pi mal ni Amerika
+default: ru siwer mai pak na Efat
+default: (NT) Mal ni nafkal
+default: (L) Mal ni nafkal. Wol wo tu
+default: (NT) Me ag ku paakor sef ntau? (L) Kineu a paakor naentin forti tu
+default: (NT) em̃rom nafkal (L) Em̃rom nafkal
+default: ntau atlag Maj,
+default: namba telef maj naentin forti tu
+default: (NT) Ore, go malfanen, ipi maal gaag, ku tae tli tenen kin ku muurin
+default: taosi kin nanre ni apap
+default: tiawi neu i to Erontp̃au mai
+default: malen kin i tao Erontp̃au
+default: ru mai to, preg natkon gar Ep̃uuf
+default: ru mai to Ep̃uuf
+default: ru laap ru mai ru pak serser
+default: tete tiawi ru pak Em̃el
+default: tete tiawi ru pak not Efate
+default: tete ru pak Efil
+default: tete ru mai pak Ep̃ag, tete ru mai pak Erakor
+default: tiawi ni Erakor ru mai to
+default: Ep̃uf, ru su mai pak Ekasufaat
+default: ru mai to Ekasufaat
+default: ale ru mai preg natkon
+default: tete ru mai preg natkon gar esa
+default: mis i plaker, ru to sa ale mis ru preg
+default: natowen gar esa, magko i pi laen ur esa
+default: i nom ale ru po su pak elau Egiis
+default: ru pake elau Egis, to elau Egiis ale ru po pak naor
+default: ru pak naor ale tenen ru to
+default: ru pak Ep̃ag, ru to Ekasufaat, ru tao Ekasufaat ru pak
+default: Efatkepil
+default: san ru sosoki Ernagir
+default: ru to Ernagir, ale teni Efil ru tmalu Ernagir ru pak naor Efil
+default: teni Ep̃ag ru pak Ep̃ag
+default: tenen kin ru pak Em̃eel
+default: gar ru pak Em̃eel
+default: tene kin ru pak not Efate, not Efate
+default: tete tiawi nen kin ru mai siwer teflan go kineu a taer
+default: (NT) Malen ku tli Ep̃uuf, Ep̃uuf i pi namlas
+default: (L) Ep̃uuf i pi namlas, me tiawi ru preg natkon gar wes
+default: (NT) Me natkon fserser ko natkon iskei m̃as?
+default: (L) Ru pi natkon fserser kin ru mai paakruk wes
+default: Ale ru po frafer
+default: me tete tiawi ru pnut pato
+default: ru preg natowen gaar, i nom kin me ru po to mai, rXX mai
+default: (NT) Go ag tu tae nagi ser natkon nen ru to Ep̃uuf?
+default: (L) Tenen kin, a pan leka, me
+default: a sup̃neki nagi
+default: (NT) I lakor pi, a tap tae mau, me ser natkon i pitlak naflak knen? (L) Ore
+default: (NT) Nafte kin i pi naflak taosi kin Erakor i pitlak naflak knen?
+default: (L) Malen ru mai i pitlak naflak nm̃aal
+default: naflak nm̃aal gar kin ru pitlak ntan esa, ru pan kon Ertap
+default: Eum sanpe, i pi, iptilak naflak ni natograu
+default: nawi natograu, gar kin i to Eum sanpe
+default: Ale naflak ni natook
+default: ga kin i to nanre ne
+default: i to Ekasufaat pak Efatkepil, ale i pak
+default: Sisaid, Vila Bes
+default: naflak ni natook, nawi
+default: natograu ipi nawi
+default: (NT) Go ser natkon nen i to namlas
+default: i pitlak naflak nen ru pi
+default: tenen i pi ni namlas
+default: go tenen kin ru to ntas, ru pitlak naflak nen ru paakor ntas (L) Ore ru pitlak naflak ne i to ntas
+default: tete ru pitlak naflak nen i to ntan
+default: i pitlak naflak kram
+default: kram
+default: (NT) Go Ep̃ag i pitlak naflak knen?
+default: i pi nafte, Ep̃ag?  (JA) nlaken naflak ru pitkaskei, ru to ru lak
+default: ru tigpiel
+default: (NT) Go, ntau naentin fifti mana ag ku preg nafte esa?
+default: Ku skul esa? (L) Kineu a skul naor
+default: a kul naor naentin fifti, apap nigmam i pan pi polis
+default: ale komam u pato taon
+default: ntau i tool
+default: naentin fifti faef,
+default: naentin fifti siks, naentin fifti sefen
+default: u mer ler pak natkon
+default: (NT) Me ku skul sto
+default: (L) A skul franis skul ntau inru
+default: a tao franis skul, a mer skul Bahai
+default: ntau inru inom kin me
+default: apap neu i ler mai , go kineu me a ler mai
+default: a lak, a pitlak ntau twenti
+default: (NT) Go ku lak natam̃ool ni Erakor? (L) Ore
+default: natam̃ool ni Erakor
+default: (NT) Ku pitlak teesa ipi?
+default: (L) A pitlak teesa ru pi twelef
+default: (NT) Kerkerai!!
+default: (L) Maarik neu i pi naflak kram, naflak ni ntas
+default: me, naflak ni maarik naot, Waia
+default: xx ga
+default: (NT) Ku pe leka mal ni nlagwat?
+default: nen i wat naor sees?
+default: naentin fifti naen Kristof
+default: (JA) Uma i mai naentin eiti sefen
+default: (L) naentin fifti naen kin nlagwat i nom komam u nrookot mai pak Efat
+default: malen u mai to Efat kin u preg natowen nigmam ur
+default: natkon esa, preg ki natkon
+default: u to sa. Tiawi nigmam nen ru siwer ur ser naor mai, ru to sa
+default: ru mai, tete ru mat
+default: tiawi neu inru, ra mat Eluuk
+default: tiawi neu inru ra mer mat naor
+default: nanre ni taos apap neu
+default: i po mai mat Efat
+default: (NT) Mama gaag (L) Mama neu apap ga i mat naor, iak ga
+default: (NT) go papa ga ipi teni sa ko?
+default: (L) Papa ni mama neu i pi teni Futuna
+default: (NT) Nanre ni apap gaag? (L) Nanre ni apap neu i pi teni sa
+default: (NT) Apap ga i pi ni esa, go mama ga i pi ni esa? (L) Ore
+default: (NT) Go  a nrogo nen te natam̃ool ru tli na i pitlak
+default: nafsan fserser nig Efat ... , malpei i pitlak nafsan laap ru tkos
+default: (JA) Efat, ga i pi nafsan iskei m̃as, Em̃eel
+default: go Efil m̃as ki rak p̃onp̃et ki nafsan ni Efat
+default: Elop i pees go u tae (NT) U tae, me i
+default: (JA) I nre
+default: (NT) Go Masaleo?
+default: te naat ru tli na Masaleo i pi nafsan iskei nanre ni Paonangisu? (JA) Misleo,
+default: (NT) Matool pak Pangpang nlaken a muur na ka
+default: spos i gat wan lanwis long we bae mi rikodem olgeta
+default: (JA) Nafsan raon Efat, u nrus unrus
+default: nre nre sees m̃as
+default: Ertap go Erakor go Ep̃ag ru pes me, Eton
+default: Pangpang ru pes, i nre
+default: (L) Ru pes u nrog tae, me tete nafsan ru nrea
+default: tete nafsan gar i taos nafsan nigmam i pitkaskei nafsan nigmam
+default: ru nrea me u tae
+default: (NT) Ku tae nagi natkon?
+default: naur fserser?
+default: [showing the maps in the dictionary of placenames]
+default: (JA) I pitlak natkon seseerik
+default: wel ga i mrotae to kin go ke fo tli
+default: teetwei perkati
+default: tiawi i nru nrus mai sampen mai pak Ekasufaat, me Ekasufaat mai pak sa, go san pak elag Egiis
+default: i nrus mal ni namsaki
+default: namsaki i mai, natam̃ool ru
+default: ru msak kerkrai, ru matmat
+default: mal ne hospital i tiik, ga wa m̃ol ntas
+default: ru boil ki nafnag ntas, ru min ntas,
+default: ru slati i pi meresin gar
+default: (L) Kineu a pi tresura ni PWMU
+default: ntau inru, ale
+default: komam u to saisei
+default: elol p̃ur go u saisei ki naur tep̃al, i tiik ki nasum̃
+default: mal neu, neu a pi tresura, go a pregi
+default: ru sat kapa, ale kineu a pei weluer ki
+default: kapa i pi siks
+default: ale a tli na kapa ki ko mer welu kineu ko sat
+default: kapa ale tu preg nasum̃ gakit
+default: esum̃ nen i to mees ne
+default: naentin eiti
+default: eiti faev kin a pi tresura ni PW
+default: eiti fave go eiti siks
+default: ru lao ki nasum̃ ni PW to tkal mees
+default: (NT) Ku tae tete nalag ni malpei? Taosi kin nalag ni natrausuen?
+default: (L) A metpakro
+default: (JA) Nagi gaag fei? (NT) Kineu? Nick
+default: (JA) oh! (NT) Malpei a matur skot William Wayane
+default: (JA) Johnny Alfos
+default-cp: Can you tell me your naflak?
+default-cp: I am naflak nm̃aal (yam)
+default-cp: And your family came from where?
+default-cp: My people came from Erontp̃au
+default-cp: On your father's side?
+default-cp: On my mother's side
+default-cp: her people cam from Futuna
+default-cp: My grandfather was from Futuna and married in to Erakor
+default-cp: How did he come to Erakor
+default-cp: I don't know, bu tthey moved around, it was at the time of America
+default-cp: they cam to Efate
+default-cp: In the war
+default-cp: yes, World War Two
+default-cp: When were you born. (L) I was born in 1942
+default-cp: in the war
+default-cp: the month of March
+default-cp: number 12 March 1942
+default-cp: (NT) Ok, it is your time now, you can speak about what you want
+default-cp: ok, on my father's side
+default-cp: my peole came from Erontp̃au
+default-cp: when they left Erontp̃au
+default-cp: they came, they made a village at Bufa
+default-cp: they came to Bufa
+default-cp: many of them went different places
+default-cp: some went to Mele
+default-cp: Some went to north Efate
+default-cp: some went to Vila
+default-cp: Some to Pango, some to Erakor
+default-cp: old people of Erakor they came to
+default-cp: Bufa, they cqme down to Ekasufaat
+default-cp: then they made a village
+default-cp: some made their village here
+default-cp: the missionary brought them and they made
+default-cp: their lives here, he mangoes are a line they followed here
+default-cp: then they went down to the coast at Egiis
+default-cp: they went to Egiis, then they went to the island
+default-cp: they went to the island
+default-cp: they went to Pango, they went to Ekasufaat, they left Ekasufaat, then went  to
+default-cp: Efatkepil
+default-cp: The place they call Ernagir
+default-cp: They were at Ernagir, those from Vila left Ernagir and went to Vila island
+default-cp: those from Pango went to Pango
+default-cp: those who went to Mele
+default-cp: went to Mele
+default-cp: Those that went to north Efate went to north Efate
+default-cp: some old people that walked here, I know them
+default-cp: (NT) When you say Bufa, it is the bush
+default-cp: (L) Bufa is the bush, but the old people made their village there
+default-cp: (NT) But lots of different villlages or just one?
+default-cp: (L) They were different villages that grouped together
+default-cp: then they split up
+default-cp: but some old people stayed there
+default-cp: they made their lives there,
+default-cp: (NT) And do you know the names of the villages at Bufa
+default-cp: I saw them, but
+default-cp: I don't know the names
+default-cp: (NT) And does each village have its own naflak?
+default-cp: What is Erakor's naflak
+default-cp: when they came there was naflak nm̃aal
+default-cp: naflak nm̃aal , they had land here, they stopped at Eratap
+default-cp: Teouma is the natograu naflak
+default-cp: the yam, natograu, they are at Teouma
+default-cp: And the natook naflak (yam)
+default-cp: that is the one on that side
+default-cp: it is at Ekasufaat to Efatkepil, then it went
+default-cp: to Seaside and Vila Base
+default-cp: the natook naflak
+default-cp: natograu is a yam
+default-cp: (NT) And each village in the bush
+default-cp: it has a naflak that is
+default-cp: from the bush
+default-cp: and the ones at the sea, they have naflak that are of the sea (L) Yes, they have naflak of the sea
+default-cp: and some have naflak that are of the land
+default-cp: there is naflak kram (clam)
+default-cp: clam
+default-cp: And does Pango have a naflak?
+default-cp: they exchange (women)
+default-cp: And what did you do in the 1950s?
+default-cp: did you go to school here? (J) I went to school on the island
+default-cp: nineteen fifty, then out father went to be police
+default-cp: we lived in town
+default-cp: for three years
+default-cp: 1955
+default-cp: 1956, 1957
+default-cp: we came back to the village
+default-cp: did you go to school in town
+default-cp: I was at the French school for 2 years
+default-cp: I left, and then went to Bahai
+default-cp: two years, then
+default-cp: my father came back and I came back
+default-cp: I married when I was twenty
+default-cp: (NT) Did you marry someone from Erakor (L) yes
+default-cp: Erakor man
+default-cp: (NT) How many children?
+default-cp: (L) I have 12 children
+default-cp: (NT) Strong
+default-cp: My husband is naflak kram, a sea naflak
+default-cp: the naflak of the chief Waia (Tenene)
+default-cp: (NT) Have you seen cyclones?
+default-cp: that hit the small island
+default-cp: 1959, Christophe
+default-cp: Uma hit in 1987
+default-cp: (L) 1959 after the cyclone, we crossed over to Efate
+default-cp: when we came to Efate we made our life
+default-cp: in the village here
+default-cp: we stay here. Our old people walked all ov er, they are here
+default-cp: they came, some died
+default-cp: our two old people, they died at Eluuk
+default-cp: our two old people, they died at the island
+default-cp: on my father's side
+default-cp: he died on Efate
+default-cp: My mother , her father died on the island
+default-cp: is your father from here?
+default-cp: my mother's father is from Futuna
+default-cp: My father's family is from here
+default-cp: and your father's mother too (L) Yes
+default-cp: I have heard some people have
+default-cp: different languages from Efate,
+default-cp: (JA) Efate is just one language, Mele
+default-cp: and Ifira are different from Efate languages
+default-cp: Lelepa speaks and we can hear it
+default-cp: it is turned
+default-cp: some people tell me Masalaeo is a language of Painangisu (JA) Misleo
+default-cp: I'm going to Pagpang because I want to
+default-cp: (JA) language round Efate it is close up
+default-cp: turned just a little
+default-cp: Eratap, Erakor, Pango , they talk, and Eton
+default-cp: Pangpang talks, they turn is a little
+default-cp: (L) They speak and we understand, but some language is turned
+default-cp: some of their language is like ours, it is the same as our language
+default-cp: they turn it, but we know
+default-cp: Do you know names of villages? (showing the map of places from the dictionary)
+default-cp: different places?
+default-cp: (JA) There are small vilalges
+default-cp: if she recognised them she would tell
+default-cp: long ago
+default-cp: old people moved toe Ekasufaat, to here, to Egiis
+default-cp: they came in teh time of sickness
+default-cp: the sickness came, people were sick and dying, from malaria, diarhea
+default-cp: then there was no hospital, just salt water
+default-cp: you boil food in seawater, they drank seawater
+default-cp: they took it, it was their medecine
+default-cp: (L) I was treasrur of the PWMU
+default-cp: for 2 years
+default-cp: we would meet
+default-cp: we met on a large yard or a clearing, we had no house
+default-cp: in my tiem, when I was treasurer, I made
+default-cp: that we got tin, I helped them
+default-cp: to get six tin sheets
+default-cp: I said, here's tin, you help me
+default-cp: to get tin to make our house
+default-cp: the house that is there today
+default-cp: 1985 I was treasurer of the PW
+default-cp: 85 and 86
+default-cp: they set up the PW building, there til today
+default-cp: Do you know any songs from long ago, like songs from stories?
+default-cp: I forget
