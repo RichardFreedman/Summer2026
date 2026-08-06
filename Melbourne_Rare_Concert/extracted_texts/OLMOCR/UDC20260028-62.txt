@@ -1,0 +1,1080 @@
+=== Page 1 ===
+11TH CONCERT.
+
+Royal
+Victorian Liedertafel
+
+Town Hall, Melbourne.
+
+Thursday Evening, 31st October,
+1907
+
+=== Page 2 ===
+Kruse's Fluid Magnesia
+
+... For ...
+
+Indigestion, Biliaryness, and Acidity.
+
+A MILD APERIENT FOR OLD and YOUNG.
+
+Allays Feverish conditions due to the Vaccination and Teething of Infants.
+
+CAUTION.—The Genuine KRUSE'S is manufactured by the Sole Proprietors—
+
+Felton, Grimwade & Co.
+
+whose name appears on every label.
+
+=== Page 3 ===
+PROGRAMME
+OF GRAND PERFORMANCE OF
+SIR EDWARD ELGAR'S...
+Dream of Gerontius,
+Thursday Evening, October 31, 1907,
+AT 8 P.M.
+
+ARTISTES:
+Madame Gregor Wood,
+Mr. Gregor Wood,
+Mr. Horace Stevens,
+Leader of the Orchestra, Mr. George Weston.
+Organist, Mr. Mansley Greer.
+The Royal Victorian Liedertafel
+and Full Orchestra,
+Conductor, Mr. Ernest Wood.
+
+=== Page 4 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 5 ===
+The
+Royal Victorian Liedertafel.
+
+PATRONS:
+HIS EXCELLENCY THE RIGHT HONOURABLE
+LORD NORTHCOTE, C.B., G.C.I.E.
+GOVERNOR-GENERAL OF THE COMMONWEALTH OF AUSTRALIA
+HIS EXCELLENCY MAJOR-GENERAL THE HON. SIR REGINALD
+ARTHUR JAMES TALBOT, K.C.B.
+
+PATRONESS:
+JANET LADY CLARKE
+
+PRESIDENT:
+THE HON. F. S. GRIMWADE.
+
+VICE-PRESIDENTS:
+W. H. FELSTEAD, Esq.
+THE RIGHT HON., THE LORD MAYOR, CR. H. WEEDON.
+H. BYRON MOORE, Esq.
+SIR ARTHUR SNOWDEN, K.B.
+
+COMMITTEE:
+MR. JOHN ADCOCK
+MR. H. T. GARRETT
+MR. A. W. JACK
+MR. G. J. JOHNSON
+MR. E. MILLER
+MR. S. J. PERRY
+
+CONDUCTOR:
+MR. ERNEST WOOD
+
+HON. PIANIST:
+MR. MANSLEY GREER
+DEPUTY HON. PIANIST: MR. HAROLD C. SMITH
+
+HON. ORGANIST:
+MR. G. B. FENTUM
+
+HON. TREASURER:
+MR. W. F. RASHLEIGH
+
+HON. LIBRARIAN:
+MR. H. W. SEYMOUR
+
+DEPUTY HON. LIBRARIAN:
+MR. JOHN STATTERS
+
+ASSISTANT HON. LIBRARIAN: MR. CHARLES FOSTER
+
+HON. AUDITORS:
+MESSRS. A. E. WHITEHEAD AND A. J. FULLER
+
+HON. SECRETARY:
+MR. E. L. WILSON
+
+OFFICE:
+W. H. GLEN & CO., 272 AND 274 COLLINS STREET
+
+=== Page 6 ===
+Royal Victorian Liedertafel.
+
+1st Tenors.
+Manson, D. E. (Captain)
+Aylwin, A. R.
+Annois, W.
+Bailey, J. A.
+Brunton, W.
+Bett, D. M.
+Champion, Alfd.
+Christian, R. A.
+Cameron, M.
+Donaldson, J. P.
+Dodd, Harry
+Fullagar, A. G.
+Felstead,
+Gray, E. S.
+Harvey, H. J.
+Jefferson, A. E.
+Jewell, A.
+Johnson, G. J.
+Kendall, J.
+Lester, A. A.
+Monteith, H.
+McDonough, A. E.
+McDowen, G.
+Pardy, A.
+Possier, J. L.
+Shea, J.
+Symons, S.
+Sherar, A.
+Swinburne, B. H.
+Thackeray, J.
+Travis, C.
+Wyatt, W. F.
+Whitby, F. G
+
+2nd Tenors.
+Tuohy, W. E. (Captain)
+Boyce, F. R.
+Bennett, J. H.
+Chad, A. H.
+Conradt, G. A.
+Cornell, W. A.
+Cousell, H.
+Edmanson, W. L.
+Eddie, W. F.
+Ford, W. H.
+Flood, W. H.
+Foye, W. H.
+Gray, Thos.
+Hall, A. G.
+Kerr, J. H.
+Lang, J.
+Lester, A. G.
+Morgan, C. W.
+Miller, C.
+Moore, R. J.
+McBeath, F.
+McCutcheon, O. B.
+Nicholls, H. C.
+Nicholson, G. C.
+Pleasents, E. A.
+Porter, W. E.
+Restorck, E. J.
+Roberts, T. B.
+Robertson, P.
+Rouvray, C. P.
+Seymour, H. W.
+Sinclair, E.
+Wells, A. E.
+Young, R.
+
+1st Basses.
+Orr, R. Stanley (Captain)
+Aylwin, P. J.
+Attwood, W. J.
+Abrecht, L.
+Bishop, A. A.
+Brown, E. H.
+Benson, H.
+Chambers, W. J.
+Cobb, H.
+Cole, W. J.
+Coppard, G. P.
+Crane, J. R.
+Cross, G. E.
+Davies, F. J.
+Fawcett, Jas.
+Fuller, A. J.
+Geer, Chas.
+Garrett, H. T.
+Gardy, C. E.
+Gerson, Jos.
+Harris, S. A.
+Hoggs, N.
+Inglis, A. E.
+Jack, A. W.
+Jolley, R.
+Kelly, A.
+Lang, E. J.
+Langford, C. F.
+Miller, E.
+Mulvany, J. H.
+Mellor, F.
+Morphet, G. T.
+Mackay, F. S.
+McFarlane, W. A.
+McCutcheon, A.
+McFarlane, P.
+Pearse, G.
+Pincus, S.
+Rendle, Samuel
+Rowe, R. T.
+Rice, E. J.
+Ralph, H. J.
+Seale, E.
+Stillwell, H. S.
+Trevean, W.
+Thompson, R. L.
+Thompson, W. C.
+Thompson, R. H.
+Whitehead, F. S.
+Whitehead, A. E.
+Wilson, E. L.
+Wilcox, W.
+Wishart, R. L.
+Weir, A. J.
+
+2nd Basses.
+Tipton, R. B. (Captain)
+Adcock, A.
+Brown, G. H.
+Bowden, W. J.
+Bishop, A. P.
+Berry, Alfd.
+Bayley, J. H.
+Black, J. E.
+Blanchard, J.
+Buhler, F. L.
+Casper, E.
+Church, S. W.
+Collier, F. R.
+Crouch, C. S.
+Davies, H.
+Dean, A. J.
+Felstead, H. J.
+Frankland, J.
+Forster, W. T.
+Goad, J. T.
+Goode, W.
+Lee, H. M.
+Manton, G. J.
+Moore, E. A.
+Murray, Dr. H. L.
+Morgan, H. E.
+Millar, R.
+Mercer, H. S.
+Moran, Jas.
+McLean, A. W.
+Newbury, C. R.
+Pepper, F.
+Perry, S. J.
+Patterson, R.
+Patrick, W.
+Rasleigh, W. F.
+Stewart, A.
+Samuels, J. W.
+Statters, J.
+Tainsh, W. A.
+Taylor, P. H.
+Thomas, F. W.
+Thewlis, A.
+Ternes, H. A.
+Todd, J. A.
+Vasey, A.
+White, T. E.
+Waldron, E.
+Whitehead, J. F.
+Woodman, C. H.
+
+Roll Secretary: W. Wilcox,
+
+ASSOCIATED LADIES' CHOIR. CHOIR OF BOYS.
+
+=== Page 7 ===
+The Orchestra.
+
+Violins—
+Mr. Weston (Leader)
+,, Adams
+Miss Archibald
+Mr. Brigha
+,, Brennecke
+,, Coy
+,, Curcio
+Miss Coddon
+,, Gillbanks
+,, Heffernan
+Mr. Hume
+,, Hunter
+,, Montague
+,, North
+,, Parkes
+Miss Pierce
+,, Suggeden
+,, Sandford
+Mr. Schieblich
+Miss Whitley
+,, Walters
+Mr. Zelman
+
+Violas—
+Mr. Dawson
+Miss Charge
+Mr. Josephi
+Miss McMahon
+Mr. Oberdorf
+,, Schrader
+
+Violoncellos—
+Mr. Hattenbach
+,, Argenzio
+,, Montague
+,, Roubardi
+Miss Reid
+
+Basses—
+Mr. Haigh
+,, Briese
+,, Graham
+,, Thatcher
+Mr. Stoneham
+,, Russel
+
+Piccolo—
+Mr. Ricco
+
+Flutes—
+Mr. Thompson
+,, Gill
+
+Cor. Anglais—
+Dr. Rudall
+
+Clarionets—
+Mr. Lyons
+,, Griffin
+
+Bass Clarinet—
+Mr. Tipping
+
+Bassoons—
+Mr. Lupton
+,, Brigginsshaw
+
+Horns—
+Mr. Lawrence Toole
+,, Wood
+,, Barwood
+,, Finlay
+
+Trumpets—
+Mr. Levy
+,, Jochimsen
+,, Osborne
+
+Trombones—
+Mr. Lawson, jun.
+,, Burns
+,, Lawson, sen.
+
+Tuba—
+Mr. Vick
+
+Tympani—
+Mr. Brunning
+
+Gran Casa & Tam Tam—
+Mr. Raper
+
+Side Drums, Bells and Triangle—
+Mr. Gunningham
+
+Glockenspiel—
+Mr. Harold Smith
+
+Piati—
+Mr. Sutton Crow
+
+Manager
+Mr. G. H. Miller.
+
+=== Page 8 ===
+W. H. GLEN & CO.
+IMPORTERS OF
+Pianos, Organs, Music, and Musical Instruments of all kinds.
+
+SOLE AGENTS for the
+Steinway Piano, Recognised as the Most Perfect Instrument of the Present Century;
+The Bluthner Piano,
+Accepted as the Best Drawingroom Pianoforte Manufactured;
+and the
+Albert Fahr Piano, Which for Tone, Touch, & Durability has no Equal among Medium Pianos.
+
+Herr de Chaneet, the well-known composer of "In the Cathedral," and musical adjudicator of the Melbourne A.N.A., says of the "FAHR" PIANO:—
+"I have found it right for tone, durability, and keeping in tune. As a medium piano I consider it unsurpassable."
+
+Price, £45
+The above Pianos can be had on easy terms from 20/- monthly.
+
+PIANOS, ORGANS, &c., Tuned and Repaired. INSPECTION INVITED.
+
+W. H. GLEN & CO., 272 Collins St., Melbourne.
+
+=== Page 9 ===
+The whole of this Music has been generously donated to the Liedertafel by the President, the Hon. F. S. GRIMWADE.
+
+THE DREAM OF GERONTIUS.
+
+By SIR EDWARD ELGAR.
+
+Characters Represented:
+
+PART I.
+
+<table>
+  <tr>
+    <th>Gerontius</th>
+    <th>Mr. Gregor Wood.</th>
+  </tr>
+  <tr>
+    <th>Assistants</th>
+    <th>THE LIEDERTAFEL.</th>
+  </tr>
+  <tr>
+    <th>The Priest</th>
+    <th>Mr. Horace Stevens.</th>
+  </tr>
+</table>
+
+ARGUMENT.
+
+Gerontius, lying at the point of death, sees in a dream the passing of his soul from earth towards the judgment seat of the Almighty.
+
+Part I. of the Poem is descriptive of the last moments on earth of the departing spirit. Gerontius, surrounded by his friends, feels that he is being called away, and prays for the sustaining presence of the Almighty in his extremity. A sense of impending ruin disquiets his thoughts from time to time, but supported by the intercessory prayers of the priests and his friends, he repeats the Creed and gradually falls into a sleep ending in death.
+
+In Part II. the disembodied soul of Gerontius awakens to consciousness and feels itself being borne onward by unseen hands. The song of the Guardian Angel is heard, rejoicing in the completion of his work, and that the child of clay confided to his care is saved. The Soul questions the Angel, and learns that it is being carried towards the Throne of God. On the way they encounter a cloud of Demons, hungry and wild to gather souls for hell, who mock and jeer at the heavenly aspirations of "low-born clods of brute earth." On approaching nearer to and passing through the gateway of the House of Judgment they are met by a Choir of Angelicals singing praises and thanksgiving. Then, as the veiled presence of God is reached, echoes are heard of the earthly voices of the friends of Gerontius, and the priests reciting the "Subvenite," while the Angel of the Agony pleads before the Throne of Grace for the dying and the dead. The soul is then tenderly consigned to the penal waters by the Guardian Angel, who promises to return, after the night of trial, and awaken the Soul to a glad to-morrow. The voices of the Angelicals are again faintly heard singing the hymn, "Praise to the Holiest," and the work closes with a beautiful seven-fold Amen.
+
+=== Page 10 ===
+OAKLEY, ADAMS & CO.'S
+CHATEAU YERING CLARET
+THE BEST AUSTRALIA PRODUCES
+CHAMPION PRIZE 1905, 1906, 1907.
+ADDRESS:
+345 COLLINS STREET, MELBOURNE.
+TEL. 857.
+
+=== Page 11 ===
+GERONTIUS.
+
+JESU, MARIA—I am near to death.
+And Thou art calling me; I know it now.
+Not by the token of this faltering breath,
+This chill at heart, this dampness on my brow.
+
+(Jesu, have mercy! Mary, pray for me!)
+'Tis this new feeling, never felt before,
+(Be with me, Lord, in my extremity!)
+That I am going, that I am no more.
+'Tis this strange innermost abandonment.
+(Lover of souls! great God! I look to Thee.)
+This emptying out of each constituent
+And natural force, by which I come to be.
+Pray for me, O my friends; a visitant
+Is knocking his dire summons at my door,
+The like of whom, to scare me and to daunt,
+Has never, never come to me before:
+
+So pray for me, my friends, who have not strength to pray.
+
+ASSISTANTS.
+Kyrie eleison, Christe eleison, Kyrie eleison.
+Holy Mary, pray for him.
+All holy Angels, pray for him.
+Choirs of the righteous, pray for him.
+All Apostles, all Evangelists, pray for him.
+All holy Disciples of the Lord, pray for him.
+All holy innocents, pray for him.
+All holy martyrs, all holy Confessors,
+All holy Hermits, all holy Virgins,
+All ye Saints of God, pray for him.
+
+GERONTIUS.
+
+Rouse ye, my fainting soul, and play the man;
+And through such waning span
+Of life and thought as still has to be trod,
+Prepare to meet thy God.
+And while the storm of that bewilderment
+Is for a season spent,
+And, ere afresh the ruin on me fall,
+Use well the interval.
+
+ASSISTANTS.
+Be merciful, be gracious; spare him, Lord.
+Be merciful, be gracious; Lord, deliver him.
+From the sins that are past,
+From thy drown and Thine ire;
+From the perils of dying;
+From any complying
+With sin, or denying
+His God, or relying
+On self, at the last;
+From the nethermost fire;
+From all that is evil;
+From power of the devil;
+Thy servant deliver,
+For once and for ever.
+By Thy birth, and by Thy Cross,
+Rescue him from endless loss;
+By Thy death and burial,
+Save him from a final fall;
+By Thy rising from the tomb,
+By Thy mounting up above,
+By the Spirit's gracious love,
+Save him in the day of doom.
+
+GEBONTIUS.
+
+Sanctus fortis, Sanctus Deus,
+De profundis oro te,
+Miserere, Judex meus,
+Parce mihi, Domine.
+
+Firmly I believe, and truly
+God is Three, and God is One:
+And I next acknowledge duly
+Manhood taken by the Son.
+And I trust and hope most fully
+In that Manhood crucified;
+And each thought and deed unruly
+Do to death, as He has died.
+Simply to His grace and wholly
+Light and life and strength belong
+And I love, supremely, solely,
+Him the holy, Him the strong.
+Sanctus fortis, Sanctus Deus,
+De profundis oro te,
+Miserere, Judex meus,
+Parce mihi, Domine.
+
+And I hold in veneration,
+For the love of Him alone.
+Holy Church, as His creation,
+And her teachings, as His own.
+And I take with joy whatever
+Now besets me, pain or fear,
+And with a strong will I sever
+All the ties which bind me here.
+Adoration aye be given.
+With and through the angelic host.
+To the God of earth and heaven,
+Father, Son, and Holy Ghost.
+Sanctus fortis, Sanctus Deus,
+De profundis oro te,
+Miserere, Judex meus,
+Moruis in discrimine.
+
+I can no more; for now it comes again,
+That sense of ruin, which is worse than pain,
+That masterful negation and collapse
+Of all that makes me man.
+
+And, crueller still,
+A fierce and restless fright begins to fill
+The mansion of my soul. And, worse and worse,
+Some bodily form of ill
+Floats on the wind, with many a loathsome curse
+Tainting the hallowed air, and laughs, and haps
+Its hideous wings,
+And makes me wild with horror and dismay
+O Jesu, help! pray for me, Mary, pray!
+Some Angel, Jesu! such as came to Thee
+In Thine own agony—
+Mary, pray for me. Joseph, pray for me.
+Mary, pray for me.
+
+ASSISTANTS.
+Rescue him, O Lord, in this his evil hour,
+As of old so many by Thy gracious power—
+Now from the waters in a saving home:
+(Amen.)
+Job from all his multiform and fell distress; (Amen).
+
+=== Page 12 ===
+You really must not
+NEGLECT YOUR SKIN and HAIR.
+
+A GOOD HEAD OF HAIR creates a Fascination all its own. It is the theme of Bards and the song of Poets. It gives charm and Beauty to the most common-place profile. You can add to your good appearance by treating your Hair with E. HOLLAND'S HAIR SPECIFICS. They are the result of twenty-eight years of assiduous study of the Hair and its Treatment, and contain all the essential elements necessary to produce and to keep healthy a good Head of Hair. They are used by nearly all the leading people in this and the other States, and Doctors recommend his treatment as the best obtainable for weak and falling Hair.
+
+E. HOLLAND can be consulted daily at his fine new Rooms, next to Argus Office. Telephone 2387.
+
+—For Beautiful HAIR at all AGES—Consult E. HOLLAND HAIR Specialist 193 Collins St! MELBOURNE
+
+BAYLEY & McGILL,
+City Mercers and Outfitters,
+Shirt and Pyjama Makers.
+
+Gentlemen's Underwear in Natural Wool.
+Fine Balbriggan and Airtex Cellular.
+Our Unsurpassed Soft Tunic Shirts, Stiff Cuffs, or with Narrow Bands and Detachable Cuffs, 5/6, in latest designs in Oxford, Zephyr, and Cellular Shirtings.
+Welch, Margetson's Dress Shirts, 6/6.
+Woodrow's and Tress's Straw Boaters, latest shapes.
+Light Fancy Vests, new designs.
+Tennis Shirts and Trousers. Cycling Outfits.
+
+60 ELIZABETH STREET.
+
+=== Page 13 ===
+Moses from the land of bondage and despair.
+(Amen.)
+David from Golia and the wrath of Saul:
+(Amen.)
+    ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...
+
+=== Page 14 ===
+RICHARDS' BOOTS
+
+'Phone 3339.
+115 SWANSTON ST.
+(NEXT TALMA'S)
+--- MELBOURNE. ---
+
+THE "DAISY" TAN GLACE SANDALETTE.
+
+GENT'S—Snow's (American) Glace Kid Bals. ... ... 16/9
+,, Willow Calf Bals. "The Paramount" ... ... 16/9
+
+LADIES'—"Gibson Girl" Champagne Kid Ribbon-tie Shoes 16/9
+,, "Gibson Girl" Enamelled Kid Ribbon-tie Shoes ... 14/9
+,, "The Henley" Shoes, Grey Canvas, one strap ... 6/11
+
+THE BURMAH
+LADIES' TOILET SALON
+
+HAIRDRESSING in the Latest Styles.
+Shampooing and Scalp Treatment.
+—— Massage a Speciality. ——
+Manicuring, Ladies and Gentlemen. Single Lessons given.
+
+CHAMPION'S BUILDINGS (No. 7, 2nd Floor).
+59 SWANSTON STREET.
+Take Lift. Miss C. EVANS.
+
+=== Page 15 ===
+SOUL.
+I would have nothing but to speak with thee
+For speaking's sake. I wish to hold with thee
+Conscious communion; though I fain would know
+A maze of things, were it but meet to ask,
+And not a curiousness.
+
+ANGEL.
+You cannot now
+Cherish a wish which ought not to be wished.
+
+SOUL.
+Then I will speak. I ever had believed
+That on the moment when the struggling soul
+Quitted its mortal case, forthwith it fell
+Under the awful Presence of its God,
+There to be judged and sent to its own place.
+What lets me now from going to my Lord?
+
+ANGEL.
+Thou art not let; but with extremest speed
+Art hurrying to the Just and Holy Judge.
+
+SOUL.
+Dear Angel, say,
+Why have I now no fear at meeting Him?
+Along my earthly life, the thought of death
+And judgment was to me most terrible.
+
+ANGEL.
+It is because
+Then thou didst fear, that now thou dost not fear.
+Thou hast forestalled the agony, and so
+For thee the bitterness of death is passed.
+Also, because already in thy soul
+The judgment is begun.
+
+ANGEL.
+A message falls upon thee, as a ray
+Straight from the Judge, expressive of thy lot.
+That calm and joy uprising in thy soul
+Is first-fruit to thee of thy recompense,
+And heaven begun.
+
+SOUL.
+Now that the hour is come, my fear is fled;
+And at this balance of my destiny,
+Now close upon me, I can forward look
+With a serenest joy.
+
+But hark! upon my sense
+Comes a fierce hubbub, which would make me fear
+Could I be frighted.
+
+ANGEL.
+We are now arrived
+Close on the judgment-court; that sullen howl
+Is from the demons who assemble there.
+Hungry and wild, to claim their property,
+And gather souls for hell. Hist to their cry.
+
+SOUL.
+How sour and how uncoutn a dissonance!
+
+DEMONS.
+Low-born clods
+Of brute earth,
+They aspire
+To become gods,
+By a new birth.
+And an extra grace,
+And a score of merits,
+As if aught
+Could stand in place
+Of the high thought,
+And the glance of fire
+Of the great spirits,
+The powers blest,
+The lords by right,
+The primal owners,
+Of the proud dwelling
+And realm of light.—
+Dispossessed,
+Aside thrust.
+Chucked down,
+By the sheer might
+Of a despot's will,
+Of a tyrant's frown,
+Who after expelling
+Their hosts gave.
+Triumphant still,
+And still unjust,
+Each forfeit crown
+To psalm-droners,
+And canting groaners,
+To every slave,
+And pious cheat,
+And crawling knave,
+And licked the dust
+Under his feet.
+
+ANGEL.
+It is the restless panting of their being:
+Like beasts of prey, who, caged within their bars,
+In a deep hideous purring have their life,
+And an incessant pacing to and fro.
+
+DEMONS.
+The mind bold
+And independent.
+The purpose free,
+So we are told.
+Must not think
+To have the ascendant.
+What's a saint?
+One whose breath
+Doth the air taint
+Before his death;
+A bundle of bones,
+Which fools adore.
+Ha! ha!
+When life is o'er.
+
+=== Page 16 ===
+By Appointment to His Excellency the Governor, Sir REGINALD TALBOT, K.C.B.
+
+"TAKE MY ADVICE"
+
+GO TO... ALFRED NOTT, Ophthalmic Optician,
+145-147 COLLINS STREET, MELBOURNE (Opposite Scots' Church),
+For Spectacles and Eyeglasses.
+Oculists' work our Speciality. Maker of the New "Toric Periscopic" Lens
+'Phone 2684. The Lens for comfort and elegance.
+
+Percy Lindsay
+
+=== Page 17 ===
+Virtue and vice,
+A knave's pretence,
+'Tis all the same;
+Ha! ha!
+    Dread of bell-fire,
+Of the venomous flame.
+    A coward's plea.
+Give him his price,
+Saint though he be.
+Ha! ha!
+    From shrewd good sense
+    He'll slave for hire.
+Ha! ha!
+    And does but aspire
+To the heaven above
+    With sordid aim,
+And not from love.
+    Ha! ha!
+
+SOUL.
+I see not those false spirits: shall I see
+My dearest Master, when I reach His throne?
+
+ANGEL.
+Yes,—for one moment thou shalt see thy Lord.
+One moment; but thou knowest not, my child,
+What thou doth ask: that sight of the Most Fair
+Will gladden thee, but it will pierce thee too.
+
+SOUL.
+Thou speakest darkly, Angel! and an awe
+Falls on me, and a fear lest I be rash.
+
+ANGEL.
+There was a mortal, who is now above
+In the mid glory: he, when near to die,
+Was given communion with the Crucified,—
+Such, that the Master's very wounds were stamped
+Upon his flesh, and, from the agony
+Which thrilled through body and soul in that embrace,
+Learn that the flame of the Everlasting Love
+Doth burn ere it transform.
+
+CHOIR OF ANGELICALS.
+Praise to the Holiest in the height,
+And in the depth be praise:
+
+ANGEL.
+    . . . . Hark to those sounds!
+They come of tender beings angelical,
+Least and most childlike of the sons of God.
+
+CHOIR OF ANGELICALS.
+Praise to the Holiest in the height,
+And in the depth be praise:
+In all His words most wonderful;
+Most sure in all His ways!
+
+To us His elder race He gave
+To battle and to win,
+Without the chastisement of pain.
+Without the soil of sin.
+The younger son He willed to be
+A marvel in His birth;
+Spirit and flesh His parents were:
+His home was heaven and earth.
+The Eternal blessed His child, and armed,
+And sent Him hence afar,
+To serve as champion in the field
+Of elemental war.
+To be His Viceroy in the world
+Of matter, and of sense;
+Upon the frontier, towards the foe.
+A resolute defence.
+
+ANGEL.
+We now have passed the gate, and are within
+The House of Judgment. . . .
+
+SOUL.
+The sound is like the rushing of the wind—
+The summer wind—among the lofty pines.
+
+CHOIR OF ANGELICALS.
+Glory to Him, who evermore
+By truth and justice reigns:
+Who tears the soul from out its case.
+And burns away its stains!
+
+ANGEL.
+They sing of thy approaching agony,
+Which thou so eagerly didst question of.
+
+SOUL.
+My soul is in my hand: I have no fear,—
+But hark! a grand mysterious harmony:
+It floods me, like the deep and solemn sound
+Of many waters.
+
+ANGEL.
+And now the threshold, as we traverse it,
+Utters aloud its glad responsive chant.
+
+CHOIR OF ANGELICALS.
+Praise to the Holiest in the height.
+And in the depth be praise:
+In all His words most wonderful;
+Most sure in all His ways!
+O loving wisdom of our God!
+When all was sin and shame.
+A second Adam to the fight
+And to the rescue came.
+O wisest love! that flesh and blood
+Which did in Adam fail,
+Should strive afresh against the foe.
+Should strive and should prevail:
+And that a higher gift than grace
+Should flesh and blood refine,
+God's Presence and his very Self,
+And Essence all divine.
+
+=== Page 18 ===
+O generous love! that He who smote
+In man for man the foe,
+The double agony in man
+For man should undergo.
+
+And in the garden secretly,
+And on the cross on high,
+Should teach His brethren and inspire
+To suffer and to die.
+
+Praise to the Holiest in the height,
+And in the depth be praise:
+In all His words most wonderful;
+Most sure in all His ways!
+
+ANGEL.
+Thy judgment now is near, for we are come
+Into the veiled presence of our God.
+
+SOUL.
+I hear the voices that I left on earth.
+
+ANGEL.
+It is the voice of friends around thy bed.
+Who say the "Subvenite" with the priest.
+Hither the echoes come; before the Throne
+Stands the Great Angel of the Agony.
+The same who strengthened Him, what time He knelt
+Lone in the garden shade, bedewed with blood.
+That Angel best can plead with Him for all
+Tormented souls, the dying and the dead.
+
+ANGEL OF THE AGONY.
+Jesu! by that shuddering dread which fell on Thee;
+Jesu! by that cold dismay which sickened Thee;
+Jesu! by that pang of heart which thrilled in Thee;
+Jesu! by that mount of sins which crippled Thee;
+Jesu! by that sense of guilt which stifled Thee;
+Jesu! by that innocence which girdled Thee;
+Jesu! by that sanctity which reigned in Thee;
+Jesu! by that Godhead which was one with Thee;
+Jesu! spare these souls which are so dear to Thee,
+Souls, who in prison, calm and patient, wait for Thee;
+Hasten, Lord, their hour, and bid them come to Thee,
+To that glorious home, where they shall ever gaze on Thee.
+
+SOUL.
+I go before my Judge.
+
+VOICES ON EARTH.
+Be merciful, be gracious; spare him, Lord.
+Be merciful, be gracious, Lord, deliver him.
+
+ANGEL.
+Praise to His name!
+O happy, suffering soul! for it is safe,
+Consumed, yet quickened, by the glance of God
+
+SOUL.
+Take me away, and in the lowest deep
+There let me be,
+And there in hope the lone night-watches keep,
+Told out for me.
+There motionless and happy in my pain.
+Lone, not forlorn,—
+There will I sing my sad perpetual strain,
+Until the morn,
+There will I sing, and soothe my stricken breast,
+Which ne'er can cease
+To throb, and pine, and languish, till possess
+Of its Sole Peace.
+There will I sing my absent Lord and Love:—
+Take me away.
+That sooner I may rise, and go above,
+And see Him in the truth of everlasting day.
+
+SOULS IN PURGATORY.
+Lord, Thou hast been our refuge: in every generation;
+Before the hills were born, and the world was: from age to age Thou art God.
+Bring us not, Lord, very low: for Thou hast said, Come back again, ye sons of Adam.
+Come back, O Lord! how long: and be entreated for Thy servants.
+
+ANGEL.
+Softly and gently, dearly-ransomed soul,
+In my most loving arms I now enfold thee.
+And, o'er the penal waters, as they roll,
+I poise thee, and I lower thee, and hold thee.
+And carefully I dip thee in the lake,
+And thou, without a sob or a resistance,
+Dost through the flood thy rapid passage take,
+Sinking deep, deeper, into the dim distance.
+Angels, to whom the willing task is given,
+Shall tend, and nurse, and lull thee, as thou liest;
+And Masses on the earth, and prayers in heaven,
+Shall aid thee at the Throne of the Most Highest.
+Farewell, but not for ever, brother dear,
+Be brave and patient on thy bed of sorrow:
+Swiftly shall pass thy night of trial here,
+And I will come and wake thee on the morrow.
+
+SOULS.
+Lord, Thou hast been our refuge, &c.
+Amen.
+
+CHOIR OF ANGELICALS.
+Praise to the Holiest, &c. Amen.
+
+CARDINAL NEWMAN.
+
+=== Page 19 ===
+Memoranda.
+
+In connection with the Subscription to the Royal Victorian Liedertafel the designation of the Classes is as follows:—
+
+Class A.—£1 1s.  Class B.—£1 11s. 6d.  Class C.—£2 2s.
+
+Class A.—Two tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—8 TICKETS.
+
+Class B.—Three tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—11 TICKETS.
+
+Class C.—Five tickets for each Concert to ladies and gentlemen, and two for each Concert to gentlemen only—19 TICKETS.
+
+Those joining now will be charged pro rata.
+
+The Office is at W. H. Glen & Co., 272/4 Collins Street.
+
+E. LIONEL WILSON,
+Hon. Secretary.
+
+=== Page 20 ===
+TRUTHS WORTH KNOWING
+
+Roupacuria
+Cures speedily Roup, Catarrh, Chicken Pox in Poultry. Brushed on Birds' Head only.
+TRY IT. STOREKEEPERS.
+
+Floretta
+Cures speedily Croup, Diphtheria in Poultry. A Sure Preventative. Given in Bird's Drinking Water.
+No more Wasters in the Chicken Pens.
+TESTIMONIALS SAY SO.
+
+Marvellette
+Cures speedily Colds, Coughs, Hoarseness, Asthma, Quinsy, and all affections of the Throat. PLEASANT TO TAKE.
+ALL CHEMISTS AND STOREKEEPERS.
+
+459 & 461 Little Collins St. West
+
+MCCARRON, BIRD & CO., COLLINS STREET.

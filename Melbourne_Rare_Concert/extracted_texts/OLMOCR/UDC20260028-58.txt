@@ -1,0 +1,886 @@
+=== Page 1 ===
+6TH CONCERT.
+
+Royal
+Victorian Liedertafel
+
+Town Hall, Melbourne
+
+Friday Evening, 7th December.
+
+MCCARRON, BIRD & CO., 479 COLLINS STREET.
+
+=== Page 2 ===
+Kruse's Fluid Magnesia
+
+For ...
+Indigestion, Biliousness, and Acidity.
+
+A MILD APERIENT FOR OLD and YOUNG.
+
+Allays Feverish conditions due to the Vaccination and Teething, of Infants.
+
+CAUTION.—The Genuine KRUSE'S is manufactured by the Sole Proprietors—
+
+Felton, Grimwade & Co.
+whose name appears on every label.
+
+=== Page 3 ===
+6th CONCERT.
+
+The Royal
+Victorian Liedertafel
+CONDUCTOR: MR. ERNEST WOOD.
+
+Town Hall, Melbourne,
+Friday Evening, 7th December, 1906.
+
+THE SOCIETY WILL BE ASSISTED BY
+
+Miss Lilian Reid,
+SOPRANO
+
+Madame Agnes Janson,
+CONTRALTO
+
+Mr. G. Thexton Morphet,
+BARITONE
+
+Mr. C. B. Fentum,
+ORGANIST
+
+Mr. Ernest Wood,
+CONDUCTOR.
+
+=== Page 4 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 5 ===
+The
+Royal Victorian Liedertafel.
+
+PATRONS:
+HIS EXCELLENCY THE RIGHT HONOURABLE
+LORD NORTHCOTE, C.B., G.C.I.E.
+GOVERNOR-GENERAL OF THE COMMONWEALTH OF AUSTRALIA
+HIS EXCELLENCY MAJOR-GENERAL THE HON. SIR REGINALD
+ARTHUR JAMES TALBOT, K.C.B.
+
+PATRONESS:
+JANET LADY CLARKE
+
+PRESIDENT:
+THE HON. SIR SAMUEL GILLOTT, K.B., M.L.A.
+
+VICE-PRESIDENTS:
+W. H. FELSTEAD, Esq.
+THE HON. F. S. GRIMWADE.
+H. BYRON MOORE, Esq.
+SIR ARTHUR SNOWDEN, K.B.
+
+COMMITTEE:
+MR. JOHN ADCOCK
+MR. F. R. BOYCE
+MR. A. W. JACK
+MR. G. J. JOHNSON
+MR. E. MILLER
+DR. H. L. MURRAY
+MR. S. J. PERRY
+MR. F. W. THOMAS
+
+CONDUCTOR:
+MR. ERNEST WOOD
+
+HON. PIANIST:
+MR. MANSLEY GREER
+DEPUTY HON. PIANIST: MR. HAROLD C. SMITH
+
+HON. ORGANIST:
+MR. G. B. FENTUM
+
+HON. TREASURER:
+MR. W. F. RASHLEIGH
+
+HON. LIBRARIAN:
+MR. H. W. SEYMOUR
+
+DEPUTY HON. LIBRARIAN:
+MR. JOHN STATTERS
+
+ASSISTANT HON. LIBRARIAN: MR. CHARLES FOSTER
+
+HON. AUDITORS:
+MESSRS. A. E. WHITEHEAD AND E. SIMMONDS
+
+HON. SECRETARY:
+MR. E. L. WILSON
+
+OFFICE:
+W. H. GLEN & CO., 272 AND 274 COLLINS STREET.
+
+=== Page 6 ===
+The Orchestra.
+
+Violins—
+Mr. A. Zelman
+Miss Archibald (Leader)
+Mr. Brennecke
+,, Cane
+,, Coy
+,, Curcio
+,, Chatley
+Miss Cuddon
+,, Grubbanks
+Mr. Hume
+,, Hunter
+Miss Heffernan
+Mr. Lomax
+,, Montague
+Miss Mercer
+Mr. North
+,, Parkes
+,, Sutchich
+Miss Suggden
+,, Sandford
+,, Whitley
+Mr. Zeplin
+
+Violas—
+Mr. Dawson
+,, Briglia
+Miss Charge
+Mr. Joseph
+,, Schneider
+
+Violoncellos—
+Mr. Hattenbach
+,, Hilles
+,, Montague
+,, Roubaudi
+
+Basses—
+Mr. Haigh
+,, Connelly
+,, Fries
+,, Williams
+
+Flutes—
+Mr. Bollingbroke
+,, Ricco
+
+Piccolo—
+Mr. Thorne
+
+Oboes—
+Mr. Hunter
+,, Gill
+
+Clarionets—
+Mr. Lyons
+,, Griffin
+
+Bassoons—
+Mr. Ingamells
+,, Lupton
+
+Horns—
+Mr. Gervasoni
+,, Findley
+,, Barwood
+,, Levy
+
+Trumpets—
+Mr. Stoneham
+,, Jochimsen
+
+Trombones—
+Mr. Downes
+,, Mayes
+,, Rowe
+
+Bass Tuba—
+Mr. Lelliott
+
+Harps—
+Mr. Barker
+,, Cerbasi
+
+Tympani—
+Mr. Ramage
+
+ASSOCIATED LADIES' CHOIR (150 VOICES).
+
+McCarron, Bird & Co.
+Record Chambers
+TELEPHONE 67.
+479 COLLINS ST., MELBOURNE.
+
+PRINTERS.....
+PUBLISHERS.....
+STATIONERS.....
+LITHOGRAPHERS
+&c. &c.
+
+AND AT SYDNEY,
+44 PITT STREET.
+TELEPHONE 297.
+
+=== Page 7 ===
+<table>
+  <tr>
+    <th colspan="6">Royal Victorian Liedertafel.</th>
+  </tr>
+  <tr>
+    <th colspan="6">1st Tenors.</th>
+  </tr>
+  <tr>
+    <td>Manson, D. E.<br>(Captain)</td>
+    <td>Donaldson, J. P.</td>
+    <td>Kendall, J.</td>
+    <td>Simmonds, E.</td>
+  </tr>
+  <tr>
+    <td>Aylwin, A. R.</td>
+    <td>Dodd, Harry</td>
+    <td>Lester, A. A.</td>
+    <td>Sherar, A.</td>
+  </tr>
+  <tr>
+    <td>Annois, W.</td>
+    <td>Pullagar, A. G.</td>
+    <td>Metzth, H.</td>
+    <td>Withburne, B. H.</td>
+  </tr>
+  <tr>
+    <td>Bailey, J. A.</td>
+    <td>Felstead, J.</td>
+    <td>M'Donald, A. E.</td>
+    <td>Thackeray, J.</td>
+  </tr>
+  <tr>
+    <td>Brunton, W.</td>
+    <td>Gray, E. S.</td>
+    <td>M'Dowell, G.</td>
+    <td>Tafis, C.</td>
+  </tr>
+  <tr>
+    <td>Bett, D. M.</td>
+    <td>Hall, H. J.</td>
+    <td>M'Beath, F.</td>
+    <td>Wyatt, W. F.</td>
+  </tr>
+  <tr>
+    <td>Champion, Alfd.</td>
+    <td>Iliffe, John</td>
+    <td>Paterson, D.</td>
+    <td>Whitby, F. G.</td>
+  </tr>
+  <tr>
+    <td>Christian, R. A.</td>
+    <td>Jack, T.</td>
+    <td>Rouvray, C. P.</td>
+    <td>Woess, Carl</td>
+  </tr>
+  <tr>
+    <td>Cameron, M.</td>
+    <td>Jefferson, A. E.</td>
+    <td>Shea, J.</td>
+    <td>Watts, W.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Johnson, G. J.</td>
+    <td>Symons, S.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="6">2nd Tenors.</th>
+  </tr>
+  <tr>
+    <td>Tuohy, W. E.<br>(Captain)</td>
+    <td>Desseter, D. R.</td>
+    <td>Lang, J.</td>
+    <td>Restorck, E. J.</td>
+  </tr>
+  <tr>
+    <td>Boyce, F. R.</td>
+    <td>Edmanson, W. L.</td>
+    <td>Lester, A. G.</td>
+    <td>Roberts, T. B.</td>
+  </tr>
+  <tr>
+    <td>Bennett, J. H.</td>
+    <td>Eddie, W. F.</td>
+    <td>Murray, B. L.</td>
+    <td>Robertson, F.</td>
+  </tr>
+  <tr>
+    <td>Charles, A. H.</td>
+    <td>Ford, W. H.</td>
+    <td>Morgan, C. W.</td>
+    <td>Rodger, N.</td>
+  </tr>
+  <tr>
+    <td>Conradi, G. A.</td>
+    <td>Flood, W. H.</td>
+    <td>Miller, C.</td>
+    <td>Seymour, H. W.</td>
+  </tr>
+  <tr>
+    <td>Cornell, W. A.</td>
+    <td>Fuge, W. H.</td>
+    <td>Moore, R. J.</td>
+    <td>Sinclair, E.</td>
+  </tr>
+  <tr>
+    <td>Coulseil, H.</td>
+    <td>Gray, Thos.</td>
+    <td>M'Cucheon, O. B.</td>
+    <td>Street, Chas.</td>
+  </tr>
+  <tr>
+    <td>Chandler, H. H.</td>
+    <td>Greenwood, J. R.</td>
+    <td>Nicholls, H. C.</td>
+    <td>Templeton, H. O.</td>
+  </tr>
+  <tr>
+    <td>Crow, J. Sutton</td>
+    <td>Hall, A. G.</td>
+    <td>Nicholson, G. C.</td>
+    <td>Wells, A. E.</td>
+  </tr>
+  <tr>
+    <td>Danks, F. W.</td>
+    <td>Jones, H. H.</td>
+    <td>Pleasants, E. A.</td>
+    <td>Young, R.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Kerr, J. H.</td>
+    <td>Porter, W. E.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="6">1st Basses.</th>
+  </tr>
+  <tr>
+    <td>Orr, R. Stanley<br>(Captain)</td>
+    <td>Davies, F. J.</td>
+    <td>Lewis, T. G.</td>
+    <td>Rice, E. J.</td>
+  </tr>
+  <tr>
+    <td>Aylwin, P. J.</td>
+    <td>Evers, A. B.</td>
+    <td>Lang, E. J.</td>
+    <td>Ralph, H. J.</td>
+  </tr>
+  <tr>
+    <td>Allen, C. E.</td>
+    <td>Fawcett, Jas.</td>
+    <td>Langford, C. F.</td>
+    <td>Slade, H.</td>
+  </tr>
+  <tr>
+    <td>Attwood, W. J.</td>
+    <td>Fuller, A. J.</td>
+    <td>Miller, E.</td>
+    <td>Smith, Joshua</td>
+  </tr>
+  <tr>
+    <td>Abrecht, L.</td>
+    <td>Ferguson, R.</td>
+    <td>Mulvany, J. H.</td>
+    <td>Smith, H. S.</td>
+  </tr>
+  <tr>
+    <td>Bishop, A. A.</td>
+    <td>Gear, Chas.</td>
+    <td>Mellor, W.</td>
+    <td>Trevan, W.</td>
+  </tr>
+  <tr>
+    <td>Browne, A. H.</td>
+    <td>Garrity, J. C.</td>
+    <td>Mora, Jas.</td>
+    <td>Templeton, T. H.</td>
+  </tr>
+  <tr>
+    <td>Benson, H.</td>
+    <td>Garthy, C. E.</td>
+    <td>Morphet, G. T.</td>
+    <td>Thompson, R. L.</td>
+  </tr>
+  <tr>
+    <td>Barr, J. D.</td>
+    <td>Gerson, Jos.</td>
+    <td>Mackay, F. S.</td>
+    <td>Thomson, W. C.</td>
+  </tr>
+  <tr>
+    <td>Bottoms, A. C.</td>
+    <td>Heathershaw, S. A.</td>
+    <td>Matthews, A.</td>
+    <td>Thompson, R. H.</td>
+  </tr>
+  <tr>
+    <td>Coie, J. H.</td>
+    <td>Hogg, N.</td>
+    <td>M'Crindle, W. A.</td>
+    <td>Whitehead, F. S.</td>
+  </tr>
+  <tr>
+    <td>Coppard, G. P.</td>
+    <td>Hunt, A.</td>
+    <td>M'Cucheon, A.</td>
+    <td>Whitehead, A. E.</td>
+  </tr>
+  <tr>
+    <td>Coxson, H.</td>
+    <td>Jones, W. J. Bowden</td>
+    <td>McFarlane, P.</td>
+    <td>Wilson, C. L.</td>
+  </tr>
+  <tr>
+    <td>Crane, J. R.</td>
+    <td>Jock, A. W.</td>
+    <td>Pearse, C.</td>
+    <td>Wood, H. Y.</td>
+  </tr>
+  <tr>
+    <td>Grass, G. E.</td>
+    <td>Jolley, R.</td>
+    <td>Pinch, C.</td>
+    <td>Wilcox, W.</td>
+  </tr>
+  <tr>
+    <td>Crump, A. R.</td>
+    <td>Knight, W., Jun.</td>
+    <td>Rendle, Samuel</td>
+    <td>Weir, A. J.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Kelly, A.</td>
+    <td>Rowe, R. T.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="6">2nd Basses.</th>
+  </tr>
+  <tr>
+    <td>Tipton, R. B.<br>(Captain)</td>
+    <td>Deakes, A. J.</td>
+    <td>Morgan, H. E.</td>
+    <td>Statters, J.</td>
+  </tr>
+  <tr>
+    <td>Adcock, J.</td>
+    <td>Felthi, H. J.</td>
+    <td>Millar, R.</td>
+    <td>Tainsh, W. A.</td>
+  </tr>
+  <tr>
+    <td>Bona, E.</td>
+    <td>Frankland, J.</td>
+    <td>Murray, N.</td>
+    <td>Taylor, P. H.</td>
+  </tr>
+  <tr>
+    <td>Brown, G. H.</td>
+    <td>Forster, W. T.</td>
+    <td>Mercer, H. S.</td>
+    <td>Thomas, F. W.</td>
+  </tr>
+  <tr>
+    <td>Bowden, W. J.</td>
+    <td>Goad, J. T.</td>
+    <td>M'Lean, A. W.</td>
+    <td>Thewlis, A.</td>
+  </tr>
+  <tr>
+    <td>Bishop, A. P.</td>
+    <td>Gairn, A. B.</td>
+    <td>Newbury, C. R.</td>
+    <td>Ternes, H. A.</td>
+  </tr>
+  <tr>
+    <td>Berry, Alfd.</td>
+    <td>Goode, W.</td>
+    <td>Pepper, F.</td>
+    <td>Todd, J. A.</td>
+  </tr>
+  <tr>
+    <td>Bayley, J. H.</td>
+    <td>Hynes, H. C.</td>
+    <td>Parry, S. J.</td>
+    <td>Ure, E. A.</td>
+  </tr>
+  <tr>
+    <td>Blair, E. E.</td>
+    <td>Harvey, N. K.</td>
+    <td>Paterson, R.</td>
+    <td>Vasey, A.</td>
+  </tr>
+  <tr>
+    <td>Blanchard, J.</td>
+    <td>Jones, Walter</td>
+    <td>Patrick, W.</td>
+    <td>Vivian, R.</td>
+  </tr>
+  <tr>
+    <td>Buhler, F. L.</td>
+    <td>Lee, H. M.</td>
+    <td>Rashleigh, W. F.</td>
+    <td>White, T. E.</td>
+  </tr>
+  <tr>
+    <td>Casper, E.</td>
+    <td>Lewis, W. E.</td>
+    <td>Stewart, A.</td>
+    <td>Waldron, E.</td>
+  </tr>
+  <tr>
+    <td>Church, S. W.</td>
+    <td>Manton, G. G.</td>
+    <td>Sturrock, J.</td>
+    <td>Whitehead, J. F.</td>
+  </tr>
+  <tr>
+    <td>Davies, H.</td>
+    <td>Moore, E. A.</td>
+    <td>Samuels, J. W.</td>
+    <td>Woodman, C. H.</td>
+  </tr>
+</table>
+
+Roll Secretary: W. Wilcox,
+
+=== Page 8 ===
+W. H. GLEN & CO.
+IMPORTERS OF
+Pianos, Organs, Music, and Musical Instruments of all kinds.
+
+SOLE AGENTS for the
+Steinway Piano,
+The Bluthner Piano,
+Accepted as the Best Drawingroom Pianoforte Manufactured;
+and the
+Albert Fahr Piano,
+Which for Tone, Touch, & Durability has no Equal among Medium Pianos.
+
+Herr de Chaneet, the well-known composer of "In the Cathedral," and musical adjudicator of the Melbourne A.N.A., says of the "FAHR" PIANO:—
+"I have found it right for tone, durability, and keeping in tune. As a medium piano I consider it unsurpassable."
+
+Price, £45
+The above Pianos can be had on easy terms from 20/- monthly.
+
+PIANOS, ORGANS, &c., Tuned and Repaired. INSPECTION INVITED.
+
+W. H. GLEN & CO., 272 Collins St., Melbourne.
+
+=== Page 9 ===
+Programme
+
+German Requiem
+FOR
+SOLI, CHORUS, AND ORCHESTRA.
+
+JOHANNES BRAHMS,
+(Op. 45).
+
+Royal Victorian Liedertafel,
+Associated Ladies' Choir, and Orchestra
+
+Soprano Solo—Miss LILIAN REID.
+Baritone Solo—Mr. G. THEXTON MORPHET.
+
+The following notes are principally taken from Masters of German Music, by Mr. J. A. Fuller Maitland.
+
+The Requiem, which was finished in 1868, and first produced, in a complete form, at Bremen, on Good Friday in that year, was the first work which established Brahms' fame, and has been described as "the greatest achievement of modern sacred music in Germany." It is not a "Requiem" in the ordinary acceptation of the term. It is in reality a Sacred Cantata, composed to words selected from the Holy Scripture, in illustration of the joys of the blessed and the glories of the life to come. It exhibits throughout a striking originality. In his desire to shadow forth the glories of a higher state of existence, the composer has availed himself of the latest resources of modern music, including the most complicated orchestral effects, and choral passages of almost unconquerable difficulty.
+
+The first chorus (I.) opens with the calm utterance of the words "Blessed are they that mourn"; succeeded by the promise "They
+
+=== Page 10 ===
+Buy your
+PIANO and ORGAN
+FROM
+CARNEGIE & SONS
+106 Elizabeth Street, Melbourne.
+NEXT BLOCK ARCADE.
+
+SOLE AGENTS FOR THE
+RÖNISCH Pianos, GORS & KALLMANN Pianos,
+BELL ORGANS.
+Also the well-known ...
+ANGELUS PIANO PLAYER
+with its Wonderful Phrasing Lever.
+
+Cash or Terms from 20/- monthly.    Inspection Invited.
+
+=== Page 11 ===
+MELBOURNE TOWN HALL.
+
+Tuesday Evening next, 11th Dec.
+
+Under the Distinguished Patronage of Her Excellency LADY NORTHCOTE.
+
+The Melbourne Symphony Orchestra
+
+President: Professor MARSHALL-HALL.
+Hon. Conductor ALBERTO ZELMAN, Jun.
+Leader: Mr. J. B. NORTH.
+
+Programme:
+
+SYMPHONY IN D ... "The Clock" ... ... Haydn
+VORSPIEL ... ... "Lohengrin" ... ... Wagner
+OVERTURE ... "The Magic Flute" ... Mozart
+ORCHESTRAL SUITE "Peer Gynt" ... ... Grieg
+    (a) "Morgenstimmung"
+    (b) "Death of Asa"
+    (c) "Anitra's Dance"
+"ELSA'S DREAM" (Lohengrin) ... ... ... Wagner
+"HEAR YE, ISRAEL" (Elijah) ... ... Mendelssohn
+
+Vocalist - Miss MAUDE HARRINGTON.
+
+Seats may be Reserved for a Booking Fee of 1/6 per Seat.
+BOX PLAN NOW OPEN AT ALLAN'S.
+
+=== Page 12 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 13 ===
+that sow in tears shall reap in joy," set to music of the most consolatory character. In this movement an indescribable richness of tone is produced by the skilful management of the stringed band, from which the violins are altogether excluded.
+
+The next number (II.) opens with a Funeral March. The idea is that of the whole human race marching in solemn procession to the grave, and this idea has inspired Brahms to the composition of a march unlike all marches that were ever written. It is in triple-time—the measured tramp of no ordinary host. The effect is heightened by the employment of unison in the vocal parts at the words "Behold all flesh is as the grass." The imagery of these words, perhaps connected with the "sowing in tears" of the preceding chorus, suggests the passage from the Epistle of St. James, "The husbandman waiteth for the precious fruit of the earth"; and this leads to the beautiful fugal setting of the words "The redeemed of the Lord shall return." The repetition of the words "joy everlasting," with which the chorus closes, is a most striking contrast to the gloom of the beginning.
+
+The third number (III.) starts with a Baritone Solo, "Lord make me to know," melodious, expressive, and pre-eminently vocal. The Chorus then repeat the same words, as also in the next section, "Verily mankind walketh in a vain show." At the words "Now, Lord, O what do I wait for," the voice parts become more involved and the music more agitated, leading up to a very fine climax at the words "My hope is in Thee." Here the four sections of the choir enter successively from the lowest register of the bass to the high soprano, suggesting the idea of a hope built upon a sure foundation, and leading into the splendid fugue "But the righteous souls are in the hand of God," in which the same impression of stability and permanence is conveyed, and is indeed accentuated by its being constructed throughout one continuing Pedal note.
+
+After the assurance as to the destiny of the "righteous souls," it is natural to turn to the joys of their abode, and in the next number (IV.) "How lovely is thy dwelling place!" the perfect peace of heaven is reflected. Attention may be drawn to the fine fugal treatment of the words "They praise Thy Name evermore," towards the end of this movement.
+
+The subject of the next number (V.) is that of comfort to mourners, based on the happy state of the holy dead. The loss of the composer's mother is said to have determined its form, which is that of a soprano solo, accompanied by a quiet chorus, which repeats the words "As one whom his own mother comforteth, so will I comfort you."
+
+The sixth chorus (VI.) begins with a passage of simple four-part harmony, "Here we have no continuing place," and the baritone solo entering at the words "Lo! I unfold unto you a mystery," the thoughts are led on to the change from mortality to immortality, on which the burial service lays stress. To English ears the re-setting of "For the trumpet shall sound," &c., may seem almost sacrilegious; but it must be remembered that the Messiah is far less familiar in Germany than here. The dramatic passages descriptive of the "mystery" serve as a preparation for the calm dignity and devotional grandeur of the double fugue, "Lord, Thou art worthy."
+
+=== Page 14 ===
+You really must not
+NEGLECT YOUR SKIN and HAIR.
+
+A GOOD HEAD OF HAIR creates a Fascination all its own. It is the theme of Bards and the song of Poets. It gives charm and Beauty to the most common-place profile. You can add to your good appearance by treating your Hair with E. HOLLAND'S HAIR SPECIFICS. They are the result of twenty-eight years of assiduous study of the Hair and its Treatment, and contain all the essential elements necessary to produce and to keep healthy a good Head of Hair. They are used by nearly all the leading people in this and the other States, and Doctors recommend his treatment as the best obtainable for weak and falling Hair.
+
+E. HOLLAND can be consulted daily at his fine new Rooms, next to Argus Office. Telephone 2387.
+
+—For Beautiful HAIR at all AGES—Consult
+E. HOLLAND
+HAIR Specialist
+193 Collins St.
+MELBOURNE.
+
+Gentlemen! Go to
+60 ELIZABETH STREET,
+FOR
+Tennis Shirts, Jackets, Trousers, Sashes, and Caps.
+Fancy Vests, White and Fancy Shirts.
+Newest Goods in Underwear, Sox, Braces, and
+Latest Shapes in Straw and Felt Hats.
+Shirts made to Measure, or repaired equal to New.
+
+BAYLEY & McGILL.
+
+=== Page 15 ===
+Then the final number (VII.), with a reminiscence of the first movement, brings back the thoughts of the blest departed, and closes the work with a calm pathos which is the more effective from its contrast with the jubilant outburst of praise of the preceding chorus.
+
+I.
+
+CHORUS.
+
+Blessed are they that mourn, for they shall have comfort. They that sow in tears shall reap in joy. Who goeth forth and weepeth, and beareth precious seed, shall doubtless return with rejoicing and bring his sheaves with him.
+
+II.
+
+CHORUS.
+
+Behold all flesh is as the grass, and all the goodliness of man is as the flower of grass: for lo! the grass withereth, and the flower thereof decayeth. Now therefore be patient. O my brethren, unto the coming of Christ. See how the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early rain, and the latter rain. So be ye patient. Behold all flesh is as the grass, &c.
+
+Albeit the Lord's word endureth for evermore. The redeemed of the Lord shall return again, and come rejoicing unto Zion; gladness, joy everlasting, joy upon their heads shall be; joy and gladness, these shall be their portion, and tears and sighing shall flee from them.
+
+III.
+
+BARITONE SOLO and CHORUS.
+
+Lord, make me to know the measure of my days on earth, to consider my frailty, that I must perish. Surely all my days here are as an hand-breadth to Thee, and my lifetime is as nought to Thee.
+
+BARITONE SOLO.
+
+Verily mankind walketh in a vain show, and his best state is vanity. He passeth away like a shadow, he is disquieted in vain, he heapeth up riches, and cannot tell who shall gather them.
+
+=== Page 16 ===
+CHORUS.
+
+Verily mankind walketh in a vain show, and his best state is altogether vanity.
+
+BARITONE SOLO and CHORUS.
+
+Now, Lord, O what do I wait for? My hope is in Thee.
+But the righteous souls are in the hand of God, nor pain nor grief shall nigh them come.
+
+IV.
+
+CHORUS.
+
+How lovely is Thy dwelling place, O Lord of Hosts!
+For my soul it longeth, yea fainteth for the courts of the Lord; my soul and body crieth out, yea for the living God.
+Blest are they, O blest are they that dwell within Thy house. They praise Thy name evermore; they praise Thee.
+
+V.
+
+SOPRANO SOLO.
+
+Ye now are sorrowful, howbeit ye shall again behold Me, and your heart shall be joyful, and your joy no man taketh from you.
+
+CHORUS.
+
+Yea I will comfort you, as one whom his own mother comforteth.
+
+SOPRANO SOLO.
+
+Look upon me! Ye know that for a little time labour and sorrow were mine, but at the last I have found comfort.
+
+CHORUS.
+
+Yea I will comfort you.
+
+VI.
+
+CHORUS.
+
+Here on earth have we no continuing place: howbeit we seek one to come.
+
+=== Page 17 ===
+BARITONE SOLO and CHORUS.
+
+Lo, I unfold unto you a mystery. We shall not all sleep when he cometh, but we shall all be changed, in a moment, in the twinkling of an eye, at the sound of the trumpet. For the trumpet shall sound, and the dead shall be raised incorruptible, and all we shall be changed.
+
+BARITONE SOLO.
+
+Then what of old was written, the same shall be brought to pass:—
+
+CHORUS.
+
+For death shall be swallowed in victory. Grave, where is thy triumph! Death, O where is thy sting!
+
+CHORUS.
+
+Worthy art Thou to be praised, Lord of honour and might, for thou hast earth and heaven created, and for Thy good pleasure all things have their being, and are and were created.
+
+VII.
+
+CHORUS.
+
+Blessed are the dead which die in the Lord, from henceforth; saith the Spirit; that they rest from their labours, and that their works follow after them.
+
+=== Page 18 ===
+By Appointment to His Excellency the Governor, Sir REGINALD TALBOT, K.C.B.
+
+"TAKE MY ADVICE"
+
+GO TO... ALFRED NOTT, Ophthalmic Optician,
+145-147 COLLINS STREET, MELBOURNE
+(Opposite Scots' Church),
+For Spectacles and Eyeglasses.
+Oculists' work our Speciality. Maker of the New "Toric Periscopic" Lens.
+'Phone 2684. The Lens for comfort and elegance.
+
+Percy Lindsay
+
+=== Page 19 ===
+RHAPSODIE.
+(FRAGMENT AUS GETHE'S "HARZREISE IM WINTER.")
+FOR
+CONTRALTO SOLO, CHORUS OF MEN'S VOICES, AND ORCHESTRA.
+
+BY JOHANNES BRAHMS (Op. 53)
+
+Royal Victorian Liedertafel and Orchestra
+SOLOIST—MADAME AGNES JANSON.
+
+The deep majestic expression which the greatest musical classic of our time has given to the words of Goethe, establishes the work under notice as one of the highest manifestations of lofty subjectivity and profound contemplation that we worship in art. The Solo voice is responsible for the text throughout. The entry of Tenors and Basses—each in two parts—is made at the words, "But if from thy Psalter."
+
+JOHANNES BRAHMS, born 1833 at Hamburg; as a boy excited great attention both by compositions and pianoforte playing. In 1874, he was made a member of the Academy of Arts at Berlin. Excepting opera, Brahms cultivated nearly every branch of musical composition. Powerful, original and versatile, Brahms, more than any other, sums up in his strongly-marked individuality the varying elements: classical as well as romantic, of contemporaneous culture. His imagination, to which he at first allowed too free a scope (about to Op. 10), he bridled by severe study and rigid self-criticism; and although reflection plays a large part in his compositions, he produced abundance of music of a thoroughly spontaneous and inspired character. His melodies possess inexhaustible variety, ranging from naive simplicity and a dreamy poetical tenderness peculiar to himself, to stirring pathos, striking force, and glowing passion; always remaining pregnant and concise. His harmony, often surprisingly bold and original, is subordinated to the dictates of a high artistic idea, which permeates and controls the formal construction of his works, in which an admirable mastery of contrapuntal art is often exhibited. His songs extend from the simplest specimens of popular melody to the richest and most complicated forms of art.
+
+But who goes there apart? In the brake his pathway is lost;
+Close behind clash the branches together, the grass rises again, the desert engulfs him.
+Who can comfort his anguish?
+Who, if balsam be deathly,
+If the hate of men from the fulness of love be drained.
+He that was scorned turned to scorner, lonely now devours all he hath of worth in a barren self-seeking.
+
+=== Page 20 ===
+But if from Thy Psalter, all-loving Father, one strain can but come to his hearing,
+Oh! enlighten his heart!
+Lift up his o'er-clouded eyes where are the fountains hard by the thirsty one in the desert.
+But if from Thy Psalter, all-loving Father, one strain can but come to his hearing,
+Oh! enlighten his heart. enlighten his heart.
+
+GOD SAVE THE KING.
+
+Memoranda.
+
+In connection with the Subscription to the Royal Victorian Liedertafel the designation of the Classes is as follows:—
+
+Class A.—£1 1s.  Class B.—£1 1s. 6d.  Class C.—£2 2s.
+
+Class A.—Two tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—8 TICKETS.
+
+Class B.—Three tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—11 TICKETS.
+
+Class C.—Five tickets for each Concert to ladies and gentlemen, and two for each Concert to gentlemen only—19 TICKETS.
+
+It has been arranged to make 31st December, 1906, the end of the Society's first season, and after that date the financial year will commence on the 1st of January.
+
+Those joining now will be charged pro rata.
+
+The Office is at W. H. Glen & Co., 272/4 Collins Street.
+
+E. LIONEL WILSON,
+Hon. Secretary.
+
+=== Page 21 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 22 ===
+The Kodak
+is a Modern Camera meeting the demands of all.
+
+A CHILD CAN USE IT.
+
+NO DARK ROOM REQUIRED.
+
+BAKER & ROUSE Pty. Ltd.
+Sole Australian Agents for KODAK Ltd.
+"The Block," 284 Collins Street, Melbourne.
+And at SYDNEY, BRISBANE, and ADELAIDE.
+
+McCayron, Bird and Co., Printers, 479 Collins-street.

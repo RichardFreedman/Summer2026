@@ -1,0 +1,783 @@
+=== Page 1 ===
+Melbourne
+Liedertafel.
+
+Town Hall
+Melbourne
+
+Monday Evening,
+November 3rd,
+1902.
+
+278th
+Concert.
+
+=== Page 2 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 3 ===
+Melbourne Liedertafel
+
+INSTITUTED 1868.
+RE-CONSTITUTED 1879.
+
+Patrons:
+HIS EXCELLENCY THE GOVERNOR
+SIR GEORGE SYDENHAM CLARKE,
+K.C.M.G., F.R.S.
+HIS EXCELLENCY
+SIR JOHN MADDEN, K.C.M.G.,
+LIEUTENANT-GOVERNOR.
+
+Patroness:
+JANET, LADY CLARKE.
+
+President.
+SIR MALCOLM McEACHARN,
+K.B., M.P.
+
+Vice-Presidents:
+THE HON. F. S. GRIMWADE, M.L.C.
+THE HON. SIR ARTHUR SNOWDEN, K.B., M.L.C.
+E. G. FITZGIBBON, Esq., C.M.G.
+THE HON. SIR SAMUEL GILLOTT, K.B., M.L.A.
+The Right Worshipful the Mayor of Melbourne.
+
+Council:
+Representing
+Subscribing Members.
+Representing
+Performing Members.
+MR. J. D. LAW. DR. H. L. MURRAY.
+MR. CARL PINSCHOF. MR. J. McCULLAGH.
+MR. DAVID ABBOTT. MR. S. J. PERRY.
+MR. J. H. THOMPSON. MR. W. H. FLOOD.
+HON. WM. KNOX, M.H.R. MR. F. W. THOMAS.
+
+Representing Orchestra.
+MR. J. W. DAWSON.
+MR. E. I. HOLDER.
+MR. F. TAYLOR.
+DR. MACGILLCUDDY.
+
+Hon. Life Conductor:
+HERR JULIUS SIEDE.
+
+Hon. Treasurer.
+MR. H. E. MORGAN.
+
+Hon. Conductor.
+PRO. MARSHALL-HALL.
+
+Hon. Auditors:
+MR. E. L. WILSON.
+MR. A. E. WHITEHEAD
+
+Conductor:
+MR. AUGUST SIEDE.
+
+Hon. Librarian:
+MR. J. STATTERS.
+
+Hon. Pianist & Organist.
+MR. MANSLEY GREER.
+
+Asst. Hon. Librarian:
+MR. W. WILCOX.
+
+Deputy Hon. Pianists:
+MR. H. S. ELVINS.
+MISS N. A. BILLINGS.
+
+Hon. Secretary:
+JOHN ADCOCK.
+
+=== Page 4 ===
+The Orchestra
+
+Violins—
+*Mr. Dawson (leader)
+*Miss E. Adams.
+  Mr. Adams,
+  *Mr. Krawkowski,
+  *Mr. North.
+  *Dr. MacGillicuddy.
+  *Mr. Danne.
+  *Mr. Dunne.
+  *Miss Abercrombie.
+  *Miss Moss.
+  *Miss White.
+  *Miss Parry.
+  *Mrs. Green.
+  *Miss McFarlane.
+  *Miss Riley.
+  *Mr. C. A. Smith.
+  *Mrs. Savage.
+  *Mr. Johnson.
+  *Mr. Hume.
+  *Mr. La Feuillade.
+  *Mr. L'Estrange.
+  *Mr. Hornby.
+    Mr. Parkes.
+    Mr. Hunter.
+    Mr. Brennecke.
+    Mr. Jochimson.
+
+Violas—
+  Mr. Schraeder.
+  Miss Z. Daley.
+
+Cellos—
+  Herr Hattenbach
+  *Mr. Hore.
+  *Mr. M. Bell.
+
+Double Basses—
+  *Mr. C. Haigh.
+  *Mr. Rowe.
+  *Mr. E. I. Holder.
+
+Flutes—
+  Mr. Russell.
+  *Mr. Friedmann.
+  *Mr. Holmes.
+
+Oboes—
+  *Mr. F. Taylor
+  *Mr. H. Gill.
+
+Clarionets—
+  *Mr. J. C. Dunlop.
+  *Mr. Brodribb.
+
+Bassoons—
+  Mr. Ingamels.
+  *Mr. Hornidge.
+
+Horns—
+  Mr. Kühr.
+  *Mr. Wood.
+  *Mr. Barwood.
+
+Trumpets—
+  *Mr. A. Haigh.
+  *Mr. Jackson.
+
+Trombones—
+  Mr. J. Lawson.
+  *Mr. Downes.
+  Mr. A. Lawson.
+
+Tuba—
+  Mr. Lutich.
+
+Triangle—
+  Mr. Watmuff.
+
+Tympani—
+  Mr. Clay.
+
+*Members of Melbourne Liedertafel Orchestra (with which is incorporated the Hawthorn Orchestral Society).
+
+=== Page 5 ===
+Members of the Choir
+
+FIRST TENOR.
+Pardy, Alfred (Capt.)
+Dickins, J. J.
+Dyer, J.
+Hardy, J. W.
+Thackeray, J.
+Donaldson, J. P.
+Fullager, A. G.
+Harvey, H. J.
+*Pergerson, J.
+McCullagh, J.
+Robinson, H. J.
+*Sherlock, H. D.
+Allan, J. C.
+Gladman, F. E.
+McDowall, Geo.
+Richardson, Geo.
+Shea, J.
+Harris, S.
+Schellenberger, H.
+Bird, J.
+
+SECOND TENOR.
+Humphrey, Geo. (Capt.)
+Randell, W. R.
+Flood, W. H.
+Pleasant, E. A.
+*Ramsay, T. G.
+Gray, Thos.
+Gason, E.
+Nicholson, Geo. C.
+Lang, J.
+Robertson, P.
+*Clarke, A. W.
+Edmanson, W. L.
+Templeton, H. O.
+James, W. H.
+Tuck, W. E.
+Roddiek, A.
+Cornell, W. E.
+Shovelton, H.
+Coussell, H.
+McCutcheon, O. B.
+Smith, H. F.
+
+FIRST BASS.
+Walsh, E. T. (Capt.)
+Rendle, S.
+Whitefield, F. S.
+George, J.
+Templeton, Capt. T. H.
+Garrett, H. T.
+Bishop, A. A.
+*Hedding, Jas.
+Haybottel, A. S.
+Judd, W. A.
+Day, Geo. A.
+Wilcox, W.
+Smith, H. W.
+Whitehead, A. E.
+Brown, E. H.
+Hanify, F.
+Crane, J. R.
+Lang, E. J.
+Phelan, C. H.
+Shannon, W. M.
+Wild, C.
+Trevein, W.
+Fenton, G. C.
+*Downie, J. R.
+Skillcorn, T. F.
+Moran, H.
+Dicker, A.
+Coxson, H.
+Lyons, R. A.
+Ferguson, R. A.
+Mathews, W. H.
+
+SECOND BASS.
+Casper, E. (Capt.)
+Statters, J.
+Murray, Dr. H. L.
+Pepper, F.
+Jones, Walter C.
+Willingly, A.
+Adcock, J.
+White, T. E.
+Griffiths, H. L.
+*Heathershaw, J. T.
+Bona, E.
+Brown, G. H.
+Morgan, H. E.
+Skeete, J. W.
+Heath, C. S. R.
+Perry, S. J.
+Sayer, J. F.
+Watson, J.
+Ure, E. A.
+Bishop, A. P.
+Hynes, H. C.
+Lewis, W. E.
+Nicoll, R. G.
+Thomas, F. W.
+Court, F.
+Berry, Alfred
+Wild, T. A.
+Day, A. J.
+Lindon, H.
+Waldie, E.
+Todd, C.
+Nichol, J. A.
+
+Roll Secretary: H. W. SMITH.
+
+(*) Signifies on leave.
+
+Associated Ladies' Choir of 150 voices.
+
+=== Page 6 ===
+Programme.
+
+Under the Baton of
+Mr. August Siede.
+
+Part 1.
+
+BALLAD—
+
+"Lord Ullin's Daughter"
+
+Hamish MacCunn
+
+Liedertafel,
+Associated Ladies' Choir,
+and Orchestra.
+
+A CHIEFTAIN to the highlands bound
+Cries "Boatman, do not tarry!
+And I'll give thee a silver pound
+To row us o'er the ferry."
+
+"Now who be ye would cross Lochgyle
+This dark and stormy water?"
+"Oh, I'm the chief of U'vas' Isle,
+And this, Lord Ullin's daughter."
+
+And fast before her father's men,
+Three days we've fled together,
+And should he find us in the glen,
+My blood would stain the heather.
+
+His horsemen hard behind us ride;
+Should they our steps discover,
+Then who will cheer my bonny bride,
+When they have slain her lover?
+
+Out spake the hardy highland wight,
+"I'll go, my chief, I'm ready!
+It is not for your silver bright,
+But for your winsome lady.
+
+And by my word, the bonny bird
+In danger shall not tarry,
+So though the waves are raging white,
+I'll row you o'er the ferry."
+
+=== Page 7 ===
+By this the storm grew loud apace,
+The water wraith was shrieking,
+And in the scowl of heaven each face
+Grew dark as they were speaking.
+
+But still as wilder blew the wind,
+And as the night grew drearer,
+Adown the glen rode armed men,
+Their tramping sounding nearer.
+
+"Oh haste thee, haste!" the lady cries,
+"Though storms around us gather,
+I'll meet the raging of the skies,
+But not an angry father."
+
+The boat has left the stormy land,
+A stormy sea before her,
+When, oh, too strong for human hand,
+The tempest gather'd o'er her.
+
+And still they rowed amidst the roar
+Of waters fast prevailing:
+Lord Ullin reached the fatal shore,
+His wrath was changed to wailing.
+
+For sore dismayed, thro' storm and shade,
+He did his child discover:
+One lovely arm she stretched for aid,
+And one was round her lover.
+
+"Come back, come back!" he cried in grief
+Across the stormy water,
+And I'll forgive your Highland chief,
+My daughter! oh, my daughter!"
+
+'Twas vain: the loud waves lashed the shore,
+Return or aid preventing,
+The waters wild went o'er his child,
+And he was left lamenting.
+
+OVERTURE—
+
+"Oberon"
+
+Weber
+
+The Orchestra.
+
+=== Page 8 ===
+"ELEGY"
+
+Specially Composed for and Dedicated to the Melbourne Liedertafel
+
+By August Siede
+
+(Conducted by the Composer.)
+
+MR. SIEDE'S composition is for full chorus and orchestra, and is entitled "Elegy," the words being selected from the three last wonderful stanzas of Shelley's "Adonais." This work bears few or no traces of the novice, its technique is mastery, both in the severe grip of form and in the polyphonic style of the part writing. It is above all fermented by vivid poetic feeling from first to last. Its deep sadness shows never a touch of morbidity, but is permeated by a certain objective grandeur, which at times is imposing.
+
+WHY linger, why turn back, why shrink, my heart?
+Thy hopes are gone before: from all things here
+They have departed; thou should'st now depart!
+
+The soft sky smiles, the low wind whispers near;
+'Tis Adonais calls! Oh, hasten thither,
+No more let Life divide what Death can join together.
+
+That Light whose smile kindles the universe,
+That Beauty in which all things work and move,
+That Benediction, which the eclipsing Curse
+Of birth can quench not,
+Now beams on me
+Consuming the last clouds of cold mortality.
+
+The breath whose might I have invoked in song,
+Decends on me: my spirit's bark is driven
+Far from the shore, far from the trembling throng
+Whose sails were never to the tempest given;
+The massy earth and spher'd skies are riven!
+I am borne darkly, fearfully, afar;
+Whilst burning through the inmost veil of Heaven
+The soul of Adonias, like a star,
+Beacons from the abode where the Eternal are.
+
+=== Page 9 ===
+Part 2.
+
+"Siegfried Idyll" Wagner
+The Orchestra.
+
+Scenes from...
+OLAV TRYGVASON
+(BJÖRNSTERNE BJÖNSON)
+For Solo Voices, Choir and Orchestra.
+By Edvard Grieg
+Op. 50.
+
+OLAV TRYGVASON, a descendent of Harold Haarfager (the first king of Norway), was brought up at the court of Gardarikke (Russia), and was baptised in England while on a Viking raid. When he learned that Norway was dissatisfied with her king (a scion of an older branch of the same race), he resolved upon conquering the kingdom and converting the people to Christianity. Richly endowed by nature, he was superior of all his contemporaries in bodily and spiritual gifts, and so comely to behold that none had seen his like; he was revered in the middle ages as the noblest example of the Norman race; he conquered more by his personality than by his sword. He commenced his struggle in the Drontheim district, and the beginning of this conflict is depicted in the scenes of the drama here set to music.
+
+The action takes place in an ancient Norman temple in the Drontheim district, at the time of Olaf Trygvason's appearance. Period—End of the tenth century.
+
+=== Page 10 ===
+A Woman                Miss Hesketh Jones
+The Volva              Mr. E. A. Ure
+A Sacrificer
+
+Liedertafel.
+Associated Ladies' Choir,
+and Orchestra.
+
+A Sacrificer—
+THOU to whom fancy lends many titles,
+    Giver of runes and of magic!
+Working before the world's beginning,
+Thou who outgazeth from Lidskialf.
+
+Men—
+Hear us!
+
+A Woman—
+Tender mother Frigga, sorrowing for Balder;
+Bearing in thy bosom all worldly woe;
+Comforter of Odin, nourisher of nature,
+Drawing all life and care into Fensal.
+
+Women—
+Hear us!
+
+The Sacrificer—
+Trudyang's Hlorrida, Bilskirner's Yireflame,
+Thou of the strength-belt and hammer,
+Shield of the Aesir and of the Northmen,
+Ever the dread of the giants.
+
+Men—
+Hear us;
+
+The Woman—
+Beauteous weeping goddess, silent widow Vannadis
+Love's dis-tress thine own loss taught unto thee!
+Let our tears of sorrow with thine own be mingled;
+Thou who dost govern half of the living.
+
+Women—
+Hear us!
+
+The Sacrificer—
+Horn-beating Heindal, Ull in Ydaler,
+Nyord, mighty north-dweller, hear us!
+Algenheim's joy, Landvida's sorrow,
+Long-bearded minstrel, and thou Tyr.
+
+=== Page 11 ===
+Men—
+Hear us!
+
+The Woman—
+Ever-youthful Idun, Sif of golden harvests,
+Saga of the streamlet, Skada of the hills,
+All ye mighty Aesir, Vanir and Valkyrie,
+Here our complaining, earthward oh hasten!
+
+Women—
+Here us!
+
+Men and women—
+Other gods are now arising,
+Gods of power, gods of battle:
+Help us, Mitgard trembles,
+Gods alone with gods can wrestle!
+
+(All kneeling.)
+Ye who from the Urdar fountains pour life-strength
+into our bosoms,
+Ye alone who know his will, the Father in gold-caped Gimle;
+Ye in Odin's ear who whisper softly as each day
+awakens,
+Ye who were ere world's beginning,
+Ye who will be when 'tis wasted,
+Show our fates the way to him, the god so long
+awaited—
+Hear us!
+
+The Volva—
+(From an elevation in the foreground)—
+
+'Tis not enough that ye invoke Nornir and Aesir,
+Runes must be graven duly
+Evil to disperse from the pathway which to the gods
+doth lead.
+There, see the gathered hosts
+Upon their horns howling, to hide our voices,
+That the gods never may hear us!
+
+Men and women—
+O prophetess mighty, rise in thy magic!
+Fill heaven and earth with Odin's word!
+
+The Volva—
+(Raises herself so that she stands high above all the others)—
+
+Spirits base, basely mastered, ye who come from the
+southland,
+With Hel soon shall feast be holden!
+Plague shall gnaw, serpents send through your veins
+deadly venom!
+Let Hel's hounds awake, howling and foaming,
+Monsters filled with madness, for your blood thirsting
+blindly!
+For Hel no fitter food can afford them!
+
+=== Page 12 ===
+With Hel! spirits base, basely mastered, ye who come from the southland,
+With Hel, here in the north, your feast is.
+
+Men and women—
+O prophetess mighty, rise in thy magic!
+Fill heaven and earth with Odin's word!
+
+The Volva—
+(Who has been carving runes now continues to cut eagerly)
+Spirits base, basely mastered, ye who come from the southland,
+To Hel soon shall your way be wended!
+Evil ones away! the Thunderer's weapon awaits ye!
+Runes I wrote on a staff I rent from the altar of Odin.
+To Hel straightway its charm consigns ye.
+To Hel! Runes will lead Lokis lot unto the doors of his daughters,
+With Hel ye shall devour that writing.
+
+(She casts the Rune-staff on the holy fire, which immediately bursts into flames that ascend to the roof of the Temple. A horrible din, accompanied by thunder in the distance, shakes the Temple.)
+
+Men and women—
+(Kneeling in terror)-
+Wondrous word of Odin goes
+To black abyss, to heaven's height,
+Aweful, returneth the answer.
+
+The Volva—
+Answer came from Hel, from high gods;
+All fear it, yet not I.
+Now let us kneel to them!
+Every path is free!
+So I will pray them first.
+Gods, ye holy, eternal gods!
+Are ye here? Then heed me!
+Where find we the fiat which governs our fate?
+Where bends your balance, ordering all?
+Show, ah! show to me, ye mighty ones,
+Where ye will strike the evil Olaf?
+Gods all-governing, endless, omnipotent Aesir; I pray;
+Devoted to Odin from my youth.
+By the grey wolf's heart, by the raven's tongue,
+By my sacrifice in sleepness nights, I pray you!
+Show me, mighty ones, where ye will strike the evil Olaf.
+
+(A crash of thunder and the back of the Temple is shattered. The Temple is seen in the distance enclosed in flames and smoke. Thunder continually heard until the Temple becomes invisible.)
+
+The Volva, men and women—
+Here! here! hasten the holy ones!
+Here! here! strikes him the vengeance of heaven!
+
+=== Page 13 ===
+In our hall he must enter,
+Let him go in, ne'er to come forth again.
+
+(With Mockery.)
+Let this be told to him—
+We will believe if he comes safely forth.
+Let his god go in to our gods!
+If he safely come forth, we will believe.
+
+All— (Turning towards the gods)—
+Thanks for the token, solace it sends to us.
+Thanks for the token, faith it confirms!
+Choice of thy children, come then, oh king, to us;
+Come to thy children, strife will be short!
+Now will the gods themselves go on their gladsome way,
+Now will the gods themselves grant us their grace!
+Lit from our land by fire, lo, he shall leave us;
+Loki shall lighten him hence unto Hel!
+
+(Assembling round the images of the gods.)
+Three nights besought we, suing like son to sire,
+Three nights we pleaded, heard is our prayer.
+
+The Sacrificer and Elders having procured horns form a circle round the three "Holy Firs," afterwards advancing and seating themselves at the sides. The Sacrificer, having made the "hammer sign" over the horns, proceeds to render the following song.
+
+The Sacrificer—
+Raise high the horn, great host-father, Odin's horn,
+Raise high the horn, upheave it for him.
+High altar fires, and Akethor's hammer-sign.
+High altar fires have hallowed it.
+
+Men and women—
+Gladly we join in
+Games for the gracious god,
+Gladly we join in
+Outbursts of joy!
+
+(Preparations are made by the people for a dance. The men leap over the "Holy Fire," lifting the women over on both sides. Then commences a Temple dance in which all join.)
+
+Quartette—
+Give to all gods a grace-cup of gratitude,
+Give to all gods your greatest of gifts.
+
+Men and women—
+Horns fill for Akethor, Drontheimer's deity,
+Fill them to Akethor, daring in fight.
+    Gladly then, etc.
+Fill up to Nyord and Frey, harvest and fish they send,
+Fill up to Nyord and Frey, harvest fair, haul of fish,
+To freedom, and faith.
+    Gaily then, etc.
+
+=== Page 14 ===
+Beakers to Braga, bring we with holy vows,
+Beakers to Braga, brimming we raise!
+Offerings of flesh and blood
+To Braga we all freely bring.
+    Gaily then, etc.
+
+    Women—
+O ye Asynier, honour we offer thee,
+All ye Asynier, honour and praise!
+Nourish, oh mild ones, men with your mother milk,
+Nourish us ye who move us with might!
+Young men and maidens, grandsire and grandmother,
+Honour for aye the gods ever green?
+    Gaily then, etc.
+
+    Men and women—
+Glorious Disir, gliding like doves around!
+Glorious Disir, death making glad!
+Guarding ye, follow friendly our future fate,
+Guarding ye, follow us, hail to your flight!
+Fortune of fathers, holdeth the hamingja
+Fortune of fathers and of the race.
+
+    Women—
+O ye Asynia, etc.
+
+    Men and women—
+Earthmen and Kobalds, deepening the ground for us
+Earthmen and Kobalds, hail to your kind!
+Hail to the highest spirit that hides in the hills!
+Hail I tiny elves who frolic in flow'rs.
+Hail our upholder, guardian of house and halls,
+Hail who upholdshest harbour and holm.
+    Gaily then, etc.
+
+Faith of our fatherland, love thou dost light in us,
+Faith of our fatherland, moving all men.
+We will defend thee, fight for our father's faith,
+We will defend thee, future be ours,
+We will defend thee, source of our weal and woe,
+We will defend thee, fount of great deeds.
+
+Three nights besought we suing, like son to sire,
+Three nights we prayed, and heard was our prayer
+The first night offered we bowls of bloody sacrifice,
+On the first offered we oxen with prayer.
+Next night guest-offering gave we the gracious gods,
+Over their images uttering prayer.
+On the third night fair dream faces favoured us,
+On the third night we danced and we sang,
+Gladly we joined in games to the gracious gods
+Gaily we joined in outbursts of joy.
+
+=== Page 15 ===
+Notice to
+Choir and Orchestra.
+
+Ladies and Gentlemen of the Choir are particularly requested to attend Meeting and Rehearsal at the Society Rooms on Monday, the 17th November, at 8 p.m.
+
+Members of Orchestra are requested to meet at Rooms on Tuesday, November 11th, at 8 p.m.
+
+=== Page 16 ===
+Special Notice
+
+The Council of the Liedertafel has much pleasure in announcing the successful inauguration of the "Siede Fund," which is being raised to enable our Conductor, Mr. August Siede, to pay a twelve months visit to Europe, to there study the latest developments in his art.
+
+Many of Australia's most promising vocalists and instrumentalists have been sent to Europe, some of whom have achieved world-wide fame, but this is the first time that a proposal has been brought forward to send home an Australian composer and conductor, and the cordial co-operation of members and the musical public is invited to assist in bringing this movement to a successful issue.
+
+=== Page 17 ===
+The sum of £120 has already been subscribed and the Hon. Secretary will be pleased to receive subscriptions from any lady or gentleman desirous of furthering the movement.
+
+A Grand Concert ...
+will be tendered to
+Mr. Siede, in the
+Melbourne Town Hall
+on
+Monday evening, 24th November next,
+which
+Madame Melba
+has most kindly promised to attend,
+the date having been fixed at her special request.
+
+JOHN ADCOCK,
+Hon. Secretary.
+
+=== Page 18 ===
+Notice to Members
+
+Choir Rehearsals are held on Monday and Orchestral Rehearsals on Tuesday evenings, at 8 p.m., at Society's Rooms, Independent Hall, Russell Street.
+
+The thanks of the Society are due to Messrs. W. H. Glen & Co., Collins Street, for use of Box Office.
+
+Ladies and Gentlemen wishing to join the Society, either as Subscribing or Performing Members, are requested to communicate with the Hon. Sec. c/o Messrs. Glen & Co., Collins Street, who will be pleased to forward all information required.
+
+=== Page 19 ===
+---
+primary_language: None
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 20 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
