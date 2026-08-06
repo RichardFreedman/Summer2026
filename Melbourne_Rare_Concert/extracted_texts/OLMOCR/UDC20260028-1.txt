@@ -1,0 +1,667 @@
+=== Page 1 ===
+CONCERT PROGRAM
+
+SEASON 1967~1968
+
+MUSASHINO ACADEMIA MUSICAЕ
+TOKYO JAPAN
+
+=== Page 2 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 3 ===
+CONTENTS
+
+REGULAR CONCERTS
+    Orchestra ................................................................. 1
+    Chamber Orchestra ..................................................... 1
+    Wind Ensemble .......................................................... 2
+
+CHARITY CONCERT ............................................................. 3
+
+SPECIAL CONCERTS
+    Detlef Kraus Piano Recital ............................................. 4
+    A Concert of Chamber Chorus .......................................... 5
+    Carl Seeman Piano Recital ............................................. 6
+    Lev Oborin Piano Recital .............................................. 6
+    Amadeus Webersinke Organ Recital ................................... 7
+    Henri Honegger Cello Recital ......................................... 7
+    Wilhelm Kempff Piano Recital ......................................... 8
+    Claus Ocker Bariton Recital .......................................... 8
+    Georg Vasarhelyi Piano Recital ....................................... 8
+    A Concert in Celebration of the Completion of a New Mozart Hall ................................................................. 9
+
+STUDENT RECITALS ............................................................. 10
+
+WEDNESDAY CONCERT SERIES .............................................. 15
+
+GROUP CONCERTS ............................................................. 20
+
+=== Page 4 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 5 ===
+REGULAR CONCERTS
+
+SYMPHONY ORCHESTRA
+
+Saturday, 1st July, 1967 at 7.00 p.m./Tokyo Bunka-Kaikan
+
+CONDUCTOR: Dr. HANS HÖRNER
+SOLOISTS: MASANOBU KOSHINO, KUNIO HIRANO, Piano
+
+W. A. Mozart .............................................Concerto for 2 pianos E flat major K. 365
+(Cadenza by Mozart)
+F. Schubert ...............................................Symphony No. 8 b minor <Unfinished>
+A. Dvorák ..................................................Symphony No. 8 G major Op. 88
+
+CHAMBER ORCHESTRA
+
+Friday, May 12, 1967 at 7.00 p.m./Iino Hall
+
+CONDUCTOR: HANS HÖRNER
+SOLOIST: AIKO KATO, ETSUKO OHYA
+
+C. Ph. Em. Bach ...........................................Sinfonia C major (W. 182/3)
+J. S. Bach ..................................................Concerto for 2 Violins d minor (BWV. 1043)
+W. A. Mozart ..............................................Adagio and Fugue c minor K. 546
+W. A. Mozart ..............................................Divertimento No. 11 D major K. 251
+E. Grieg ....................................................Aus Holbergs Zeit, Op. 40
+
+=== Page 6 ===
+WIND ENSEMBLE (Chamber Music)
+
+Friday 7th July, 1967/7.00 p.m./Tokyo Bunka-kaikan (Recital Hall)
+
+CONDUCTOR: MASAJI KATO
+
+W. A. Mozart .........................Serenade No. 11 for Winds in E flat major K. 375
+L. Thuille .............................Sextet for Piano and Winds B flat major Op. 6
+A. Glazounow .............................................Quatuor for Saxophone Op. 109
+R. Strauss.............................................Serenade in E flat major Op. 7
+
+WIND ENSEMBLE
+
+Saturday, January 20, 1968 at 3:00 p.m./Beethoven Hall
+
+CONDUCTOR: MASAJI KATO
+
+H. Hanson .............................................Chorale and Alleluia
+H. Tomasi .............................................Fanfares Liturgiques
+M. Gould .............................................Symphony for Band
+P. A. Grainger ........................................Lincolnshire Posy for Band
+R. Mennin.............................................Canzona
+
+=== Page 7 ===
+CHARITY CONCERT
+
+Monday, December 4, 1967 at 7:00 p.m./Tokyo Bunka Kaikan
+
+J. Haydn
+Oratorio "Die Schöpfung"
+
+CONDUCTOR: FERDINAND GROSSMANN
+SOLOISTS: Gabriel/Sachiko Ichinose (Soprano)
+          Eva/Kiyoko Ichida (Soprano)
+          Uriel/Akihiko Fujinuma (Tenor)
+          Adam & Recitative/Eishi Kawamura (Bariton)
+          Raphael/Kiyoshi Oda (Bass)
+          Chorus & Orchestra Musashino Academia Musicae
+
+=== Page 8 ===
+SPECIAL CONCERTS
+
+DETLEF KRAUS PIANO RECITAL
+
+Tuesday, April 25, 1967 at 7:00 p.m.
+Tokyo Bunka Kaikan Recital Hall
+
+L. v. Beethoven .............................................Variations on Paisiello's duet  G major
+Sonata  c minor  Op. 10/1
+Sonata "Appassionata"  f minor  Op. 57
+
+J. Brahms .....................................................Intermezzo  A flat  major  Op. 76/3
+Intermezzo  B flat  major  Op. 76/4
+Capriccio  c sharp minor  Op. 76/5
+Variations and Fugue on a Theme by Händel  Op. 24
+
+=== Page 9 ===
+A CONCERT of CHAMBER CHORUS
+
+Saturday, July 8, 1967 at 3:00 p.m./Mozart Hall
+
+CONDUCTOR: MALCOLM JOHNS from Wayne State University
+TETSUYA OYAKAWA
+
+I. FOUR SERIOUS SONGS
+   Whitney-Kramer ..................................................No man is an island
+   Negro Spiritual ..................................................Deep River
+   Healey Willan ..................................................Rise up, my love, my Fair one
+   Randall Thompson ................................................Alleluia
+
+II. A GROUP OF AMERICAN FOLK SONGS
+   Luigi Zaninelli ..................................................American suite
+   Old Folk Song ..................................................Comin' through the rye
+   Appalachian ..................................................Black is the color of my true love's hair
+   Traditional ..................................................Reuben and Rachel
+
+III. TWO SELECTIONS FROM BROADWAY MUSICALS
+   Jerome Kern ..................................................All the things you are
+   Richard Rodgers ................................................"Carousel" Medley
+
+IV. Yoshinao Nakada ................................................Wasurenagusa (Day lily)
+   Natsu no Omoide (A memory of summer)
+   Nemu no Hana (Flower of silk tree)
+
+V. Akira Ogura ..................................................Three Hyuga Folk songs
+
+VI. Toshimitsu Tanaka .............................................Shiki (Four seasons)
+
+=== Page 10 ===
+CARL SEEMANN PIANO RECAITAL
+
+Wednesday, October 20, 1967 at 3:10 p.m./Beethoven Hall
+
+J. S. Bach ............................................................from 6 Partitas
+
+    No. 1  B flat major
+    No. 2  c minor
+    No. 4  D major
+
+LEV OBORIN PIANO RECITAL
+
+Thursday, October 26, 1967 at 4.00 p.m.  Beethoven Hall
+
+W. A. Mozart .....................................................Sonata  A major  K. 331
+F. Chopin ............................................................Sonata  b flat minor  Op. 58
+A. I. Khachaturian ................................................Poem
+S. Rachmaninoff .....................................................Preludes  Op. 23-1
+                                                                 Op. 32-5
+                                                                 Op. 23-7
+S. Prokofiev ........................................................Sonata  No. 7  Op. 83
+
+=== Page 11 ===
+AMADEUS WEBERSINKE ORGAN RECITAL
+
+Tuesday, November 14, 1967 at 3:00 p.m./Beethoven Hall
+
+J. S. Bach ....................................................Organ Mass (Klavierübung, Vol. 3)
+
+Prelude
+Kyrie, God the Father everlasting
+    Christ, Redeemer of the World
+    Kyrie, oh God the Holly spirit
+    To God alone on high be praise
+These are the Ten Commandments
+    We all believe in one God Father
+    Our Father in the heaven
+    Christ, our Lord to Jordan came
+    From the depths I call to thee
+    Jesus Christ our Savior
+    Fuga
+
+HENRI HONEGGER CELLO RECITAL
+
+Wednesday, November 29, 1967 at 3:10 p.m.
+Thursday, December 7, 1967 at 4:00 p.m./Mozart Hall
+
+J. S. Bach ....................................................6 suites for Violoncello
+
+    No. 1  G major (BWV 1007)
+    No. 2  d minor (BWV 1008)
+    No. 3  C major (BWV 1009)
+    No. 4  Es major (BWV 1010)
+    No. 5  c minor (BWV 1011)
+    No. 6  D major (BWV 1012)
+
+=== Page 12 ===
+WILHELM KEMPFF PIANO RECITAL
+
+Friday, November 24, 1967 at 3:00 p.m./Beethoven Hall
+
+D. Scarlatti .................................................. 3 Sonatas  D major, C major, A major
+L. v. Beethoven .................................................. Rondo  G major  Op. 51/2
+F. Schubert .................................................. Moments Musicaux  Op. 94
+C major, A flat major, f minor, c sharp minor
+J. Brahms .................................................. Rhapsody  Es dur
+
+CLAUS OCKER BARITON RECITAL
+
+Saturday, February 3, 1968 at 2:00 p.m./Mozart Hall
+
+F. Schubert "Winterreise"
+
+Piano: Jurius Severin
+
+GEORG VASARHELYI PIANO RECITAL
+
+Wednesday, February 14, 1968 at 7:00 p.m.
+Tokyo Bunka-Kaikan Recital Hall
+
+F. Schubert .................................................. Sonata  G major (D.V. 894)
+R. Schumann .................................................. Phantasy  C major  Op. 17
+F. Liszt .................................................. Hungarian Rhapsody  No. 8
+Z. Kodály .................................................. Lament
+B. Bartók .................................................. Abend auf dem Lande
+Klänge der Nacht
+Hetzjagd
+
+=== Page 13 ===
+A Concert in CELEBRATION of the COMPLETION of a NEW MOZART HALL
+
+Saturday, Sunday, May 20-21, 1967 at 3:00 p.m.
+
+J. S. Bach ..................................................... Concerto for two violins d minor
+
+W. A. Mozart .................................................. Piano Quintet E flat major K. 452
+                                                    Piano Sonata F major K. 332
+                                                    Adagio and Fugue c minor K. 546
+
+F. B. Mendelssohn ............................................. Piano Trio No. I d minor Op. 49
+
+F Schubert ..................................................... Liebesbotschaft
+                                                    An die Leyer
+                                                    Der Wanderer an den Mond
+                                                    Im Abendroth
+                                                    Erlkönig
+
+J. Brahms ..................................................... An die Nachtigall
+                                                    Immer leiser wird mein Schlummer
+                                                    Sonntag
+                                                    In stiller Nacht
+                                                    Vergebliches Ständchen
+
+H. Wolf ....................................................... Gebet
+                                                    Auf ein altes Bild
+                                                    Anakreonsgrab
+                                                    Blumengruss
+                                                    Kennst du das Land
+
+=== Page 14 ===
+STUDENT RECITALS
+
+Every student enrolled in the post-graduate courses leading to either master's degree or artist's diploma is required to give a recital at the end of the school year.
+Programs listed here are performed by three or four students as a group.
+
+Monday, May 15, 1967 at 2:00 p.m. / Mozart Hall
+
+J. S. Bach ......................................................... Capriccio B flat major
+Partita No. 2 c minor
+
+L. v. Beethoven .................................................. 15 Variations Op. 35
+32 Variations Op. 191
+Sonata f minor Op. 57
+
+R. Schumann ..................................................... Symphonic Etude
+
+J. Brahms ......................................................... Sonata f minor Op. 5
+
+F. Chopin ......................................................... Polonaise f sharp minor Op. 44
+
+Tuesday, May 16, 1967, at 2:00 p.m. / Mozart Hall
+
+Ch. W. Gluck ..................................................... Deh! Placetevi con me!
+Che faro senza Euridice
+
+G. F. Händel ..................................................... Aria des Bertarido "Rodelinda"
+Szene und Arie des Siroe "Siroe"
+
+F. Schubert ...................................................... Schwanengesang
+
+H. Wolf .......................................................... Und Willst du deinen Liebsten
+Benedeit die selge Mutter
+Wer sein holdes Lieb veeloren
+Gesegnet sei
+Gebet
+Auf ein altes Bild
+Denk'es, o Seele!
+Fussreise
+Der Tambour
+Selbstgestandnis
+
+O. Respighi ..................................................... No, non e' morto il figlio tuo
+Stornello
+
+=== Page 15 ===
+Thursday, June 22, 1967 at 4:00 p.m./Mozart Hall
+
+G. F. Händel .................................................... Suite d minor
+L. v. Beethoven ................................................ Six Variations Op. 34 F major
+F. Schubert .................................................... Sonata Op. Posth B major
+A. Berg .......................................................... Sonata Op. 1 b minor
+C. Debussy ..................................................... L'isle Joyeuse
+
+Friday, June 23, 1967 at 4:00 p.m./Mozart Hall
+
+J. S. Bach ..................................................... Toccata D major
+L. v. Beethoven ................................................ Sonata Op. 101 A major
+R. Schumann ................................................... Kinderszenen Op. 15
+B. Bartok ...................................................... 3 Rondos
+S. V. Rakhmaninov ........................................... Prelude Op. 32 No. 12 g sharp minor
+No. 5 G major
+Op. 23 No. 5 g minor
+
+Tuesday, December 19, 1967 at 1:00 p.m./Mozart Hall
+
+L. v. Beethoven ................................................ Sonata A flat major Op. 110
+F. Schubert .................................................... Sonata a minor Op. 42
+R. Schumann ................................................... Carnaval Op. 9
+Kreisleriana Op. 16
+
+Wednesday, December 20, 1967 at 1:00 p.m./Mozart Hall
+
+F. Schubert .................................................... Sonata G major Op. 78
+J. Brahms ...................................................... Vraiations and Fugue on a Theme by Händel
+F. Chopin ...................................................... Sonata No. 2 b flat minor Op. 35
+C. Debussy .................................................... Prélude Ier Livre
+La Danse de Pack
+
+=== Page 16 ===
+Thursday, December 21, 1967 at 1:10p.m./Mozart Hall
+
+R. Schumann .........................................................Fantaisie C major Op. 17
+F. Chopin .............................................................Sonata b flat minor Op. 35
+C. Franck .............................................................Prelude, Choral and Fugue
+
+Tuesday, January 9, 1968 at 1:10p.m./Mozart Hall
+
+J. Haydn .............................................................A pastoral Song
+                                                    She never told her love
+                                                    Piercing Eyes
+                                                    The Spirits' Song
+L. v. Beethoven ..................................................“Sechs Lieder von Gellert” Op. 48”
+F. Schubert .........................................................“Die Schöne Müllerin”
+R. Schumann .......................................................Aus dem Schenkenbuch im Divan
+                                                    Widdung
+                                                    Wehmut
+                                                    Zwielicht
+                                                    Schöne Fremde
+J. Brahms ...........................................................Der Jäger
+                                                    Liebestreu
+                                                    Mir wandelten
+                                                    Das Mädchen spricht
+                                                    Vergebliches Ständchen
+H. Wolf ............................................................from “Spanisches Liederbuch”
+                                                    from “Italienisches Liederbuch”
+
+=== Page 17 ===
+Thursday, January 11, 1968 at 2:00 p.m./Mozart Hall
+
+J. F. Händel .................................................. Del mio core "Orfeo"
+
+J. Haydn .................................................... Rezitative and Aria of Galathea
+                                                    "Acis and Galathea"
+
+G. Rossini .................................................. La Regata veneziana
+
+H. Wolf ..................................................... Die Bekehrte
+                                                    Mignon
+                                                    Die Nacht
+                                                    Nun lass uns (Italienisches)
+
+R. Strauss .................................................. Du meines Herzens krönelein
+                                                    Ich trage meine Minne
+                                                    Zueignung
+                                                    Allerseelen
+                                                    Cäcilie
+
+R. Hahn .................................................... En Prison
+                                                    Si mes vers avaient des ailes
+                                                    Mai
+
+G. Verdi ................................................... "Un ballo in maschera" Morrō, ma prima in grazia
+                                                    "La forza del destino" Madre pietosa Virgine
+
+G. Puccini .................................................. "La Bohème" Si, Mi chiamano Mimi
+                                                    Donde lieta usci
+                                                    Sono andati!
+
+=== Page 18 ===
+Thursday, January 12, 1968 at 2:30 p.m./Mozart Hall
+
+A. Falconieri .........................................................Bella porta di rubini
+                                                                 Occhietti amati
+
+G. Caccini.................................................................Amor ch'attendi
+
+Ph. Vitali.................................................................Pastorela ove tascondi
+
+Stradella .................................................................Se nel ben sempre incostante
+
+Caspani .................................................................Augellin vago e carono
+
+V. Bellini.................................................................Vaga luna, che inargenti
+
+G. Donizetti ............................................................Amore e morte
+
+A. F. Tenaglia ..........................................................Begli ochi, mercie!
+
+C. Bottegari ............................................................Mi Parto
+
+S. Donaudy.............................................................Ah, mai non cessate
+                                                                 Spirate pur, spirate
+                                                                 Date abbiento al mio dolore
+
+O. Respighi............................................................Non, non e morto il figlio tuo
+
+W. A. Mozart ..........................................................“Bastiano and Bastiana”
+                                                                 Aria and Duet
+
+G. Donizetti..........................................................“Don Pasquale” Romanza
+
+G. Verdi ...............................................................“Don Carlo” Aria (Rodrigo)
+
+=== Page 19 ===
+WEDNESDAY CONCERT
+
+Wednesday concert series, open to the public, are considered an integral part of the course in music appreciation. Guest performers, members of the faculty and selected students of the Musashino Academia Musicae take part in the concerts.
+
+April 12, 1967
+
+Christian Desbats Organ Recital
+
+G. P. de Palestrina ................................................................. 2 Ricercari
+
+D. Buxtehude ................................................................. "Herzlich tut mich verlangen"
+                                                                                   "Wie schön leuchtet der Morgenstern"
+
+F. Couperin (Le Grand) ..................................................... Plain chant du premier Kyrie
+                                                                                   Fugue sur les jeux d'anches
+                                                                                   Benedictus
+                                                                                   Dialogue sur la veix humaine
+
+P. Du Mage ................................................................. Grand Jeu (1708)
+
+A. Cellier ................................................................. Psaume 65, "O Dieu, la gloire qui t'est due"
+                                                                                   "Eglises et Paysages" (1ère partie)
+
+J. S. Bach ................................................................. "Ach Gott, vom Himmel sieh darein"
+                                                                                   "Herzlich tut mich verlangen"
+                                                                                   Pastorale
+                                                                                   Prelude and triple Fugue E flat major
+
+=== Page 20 ===
+April 19, 1967                Joint Concert of F. Lichnewsky & J. E. L. Lichnewsky
+
+J. M. Leclair .....................................................Sonata No. 6 "Le Tombeau"
+D. Scarlatti ........................................................Pastorale
+                                                    Caprice
+                                                    La Chasse
+L. Daquin ..........................................................Le Coucou
+E. Bloch .............................................................Baal Shem
+F. Chopin ...........................................................Etude cis moll Op. 10 No. 4
+                                                    Ballade g moll Op. 23
+M. Ravel ...........................................................Tzigane
+G. Fauré ............................................................Sonata No. 1 La majeur
+
+May 10, 1967                Joyce Hedges Piano Recital
+
+D. Scarlatti .......................................................Sonata
+                                                    E major (L. 23)
+                                                    f sharp minor (L. 294)
+                                                    F major (L. 474)
+Marcello—Bach ..................................................Concerto D minor
+W. A. Mozart .....................................................Rondo A minor K. 511
+C. M. v. Weber ..................................................Sonata A flat major Op. 39
+R. Schumann .....................................................Toccata Op. 7
+N. K. Medtner ..................................................."Four Fairy Tales" Op. 26
+A. N. Skriabin ..................................................Etude D flat major Op. 8/10
+                                                    Rondo C major
+                                                    Etude F sharp major Op. 7/4
+
+=== Page 21 ===
+May 17, 1967
+Margarita Schack Soprano Recital
+Piano: Carlos Manso
+
+L. v. Beethoven .................................................................Marmotte
+F. Schubert .................................................................An die Musik
+                                                                 Meeresstille
+                                                                 Forelle
+R. Schumann.................................................................Frauenliebe und Leben
+J. Brahms .................................................................Vergebliches Ständchen
+R. Strauss.................................................................Zueignung
+H. J. Koellreutter ..........................................................“Kulka-Chants”
+
+June 7, 1967
+A Concert of Telemann Ensemble
+
+J. S. Bach.................................................................Concerto E major for violin and string orchestra
+G. F. Händel .................................................................Concerto B flat major for 2 oboes and string orchestra
+G. Ph. Telemann ..........................................................Tafelmusik
+
+June 28, 1967
+Vocal Concert by Students
+
+Lieder by F. Schubert, J. Brahms H. Wolf, and R. Strauss
+
+September 13, 1967
+Klaus Hellwig Piano Recital
+
+L. v. Beethoven .................................................................Sonata c minor Op. 10/1
+F. Schubert .................................................................Sonata B flat major D.V. 960
+R. Schumann .................................................................Toccata C major Op. 7
+                                                                 “Phantasiestücke” Op. 12
+I. Stravinski .................................................................From “Pétrouchka”
+
+=== Page 22 ===
+October 11, 1967
+String Ensemble by Students
+
+J. Haydn .................................................... Quartet b flat minor Op. 76 No. 2
+Quartet B flat major Op. 76 No. 4
+
+W. A. Mozart.................................................. Quartet B flat major K. 458
+Quartet d minor K. 421
+
+November 1, 1967
+Piano Concert by Students
+
+Works by J. S. Bach, R. Schumann, F. Liszt, F. Chopin and C. Franck.
+
+November 15, 1967
+Christian Desbats Organ Recital
+
+G. Frescobaldi ............................................. Toccata avanti la messa dell'i apostoli
+Toccata cromatica per l'elevatione
+Canzona dopo l'epistola
+
+J. S. Bach .................................................. Canzona
+
+Nicole de Grigny ........................................... Kyrie, fugue, recit de cromorne, trio en dialogue, dialogue sur les grands jeux, Et in terra pax
+
+J. Pachelbel .................................................. Magnificat F major
+
+C. Saint-Saëns .............................................. Prélude en mi bémol
+
+C. Franck .................................................... Prélude, fugue et variation
+
+O. Messiaen .................................................. Apparition de l'église éternelle
+
+J. Langlais ................................................... Hommage à Frescobaldi
+
+November 22, 1967
+String Ensemble by students
+
+F. Schubert .................................................. Quartet d minor
+
+F. B. Mendelssohn ......................................... Quartet E flat major Op. 12
+
+A. Dvorák ................................................... Quartet F major Op. 96 (American)
+
+G. Fauré ..................................................... Quartet e minor Op. 121
+
+=== Page 23 ===
+November 22, 1967
+
+Vocal Ensemble
+
+W. A. Mozart ....................................................."Le Nozze di Figaro"
+No. 20  Che soave zeffiretto
+"Don Giovanni"
+No. 7  La ci darem la mano
+"Die Zauberflöte"
+No. 7  Männern, welche Liebe fühlen
+No. 1  Zu Hilfe! zu Hilfe
+No. 5  Hm, Hm
+
+G. Rossini ....................................................."Mose in Egypt"
+Quartet
+
+G. Verdi ....................................................."La Traviata"
+Parigi, u cara
+"Rigoletto"
+Un di, se ben rammentomi
+
+G. Puccini ....................................................."Madama Butterfly"
+Scuoti quella fronda
+"Gianni Schicchi"
+Terzetto
+
+January 10, 1967
+
+Duo Piano Concert
+Hans Martin & Desbats
+
+J. C. Bach .....................................................Sonata  No. 3  F major
+W. A. Mozart .....................................................Sonata  D major
+J. Brahms .....................................................Walzs  Op. 39
+G. Fauré .....................................................Dolly
+D. Milhaud .....................................................Scaramouche
+
+=== Page 24 ===
+GROUP CONCERTS
+
+Group concerts are planned all students to participate in one of the concerts. Through these performances each student has an opportunity of appearing before their teachers and fellow students.
+
+On account of space consideration we have to omit programs of the concerts.
+
+=== Page 25 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 26 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---

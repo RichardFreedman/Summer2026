@@ -1,0 +1,834 @@
+=== Page 1 ===
+THE ROYAL METROPOLITAN LIEDERTAFEL.
+R.M.L.
+
+=== Page 2 ===
+---
+primary_language: en
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 3 ===
+159th Concert
+
+The Royal Metropolitan Liedertafel
+
+Conductor: Mr. Julius Herz
+
+Nineteenth Season—Third Concert
+
+Town Hall, Melbourne
+
+Monday Evening, 29th February, 1892
+
+=== Page 4 ===
+Memorandum
+
+The Hon. Secretary will be glad to receive Nominations for Ladies and Gentlemen who desire to become Subscribers to the Society.
+
+ENTRANCE FEE ... ... ... 10s. 6d.
+
+ANNUAL SUBSCRIPTION, charged pro rata £2 2s.
+
+284 & 286 COLLINS STREET.
+
+=== Page 5 ===
+The Royal Metropolitan Liedertafel
+
+PATRON
+HIS EXCELLENCY THE RIGHT HONOURABLE
+THE EARL OF HOPE TOUN, G.C.M.G.
+
+PRESIDENT
+THE HON. JUDGE CASEY, C.M.G.
+
+VICE-PRESIDENT
+H. BYRON MOORE, Esq.
+
+CONDUCTOR
+MR. JULIUS HERZ
+
+HON. PIANIST
+MR. G. B. FENTUM
+
+HON. TREASURER
+MR. A. G. S. WILLIAMS
+
+HON. LIBRARIAN
+MR. H. O. CAPES
+
+ASSISTANT LIBRARIAN
+MR. C. FOSTER
+
+COMMITTEE
+MR. E. MILLER
+MR. P. ST. J. MURPHY
+MR. S. MOYLE
+MR. G. SMIBERT
+MR. J. F. WHYTE
+
+HON. AUDITORS
+MESSRS. A. J. MASTERS & E. SIMMONDS
+
+HON. SECRETARY
+MR. CHARLES D. DIXON
+
+OFFICE
+ALLAN & CO., COLLINS STREET
+
+=== Page 6 ===
+Members
+
+Tenors
+
+A. Cameron .. 1870
+R. Jones .. 1870
+W. H. Williams .. 1873
+W. H. Peryman .. 1873
+C. P. Rouvray .. 1870
+E. Simmonds .. 1873
+S. Symons .. 1876
+W. Watts .. 1876
+J. Kendall .. 1876
+G. F. Smith .. 1878
+F. G. Whitby .. 1879
+J. Iliffe .. 1880
+W. G. Bundy .. 1880
+A. Sherar .. 1881
+W. D. Prichard .. 1881
+E. S. Webster .. 1882
+T. Jack .. 1878
+W. B. Hayward .. 1882
+J. Bradshaw .. 1886
+J. J. Doyle .. 1886
+W. Brown .. 1886
+P. Kendall .. 1887
+J. L. Carnegie .. 1888
+W. C. Fraser .. 1889
+R. H. Hayes .. 1889
+W. Kennedy .. 1889
+G. Smibert .. 1873
+A. Jones .. 1889
+D. R. F. Youl .. 1889
+E. Taffs .. 1890
+A. H. Carleton .. 1890
+H. S. Dickson .. 1881
+J. Felstead .. 1877
+F. L. Outtrim .. 1890
+F. Stapley .. 1891
+N. P. Lenehan .. 1891
+C. Miller .. 1870
+J. S. Ridley .. 1874
+J. A. Ure .. 1876
+A. J. Campbell .. 1878
+C. D. Dixon .. 1874
+A. G. S. Williams .. 1880
+C. M. Lilburne .. 1880
+J. L. Williams .. 1881
+R. J. Moore .. 1881
+W. H. Ford .. 1882
+J. H. Kerr .. 1883
+L. Hart .. 1884
+A. J. Sage .. 1886
+G. W. J. Blom .. 1887
+S. E. Dixon .. 1883
+A. M'Laren .. 1887
+W. G. Barkley .. 1888
+H. Seymour .. 1888
+F. Poolman .. 1888
+H. O. Capes .. 1888
+T. U. Jones .. 1889
+G. G. Jordan .. 1890
+W. H. Longbottom .. 1890
+J. F. Whyte .. 1877
+P. A. Weston .. 1891
+T. Searelle .. 1891
+S. Fripp .. 1882
+J. B. Pewtress .. 1892
+
+Basses
+
+E. Miller .. 1870
+J. Fordyce .. 1872
+T. J. Connor .. 1873
+C. F. Wenborn .. 1873
+A. W. Jack .. 1875
+G. Wrigley .. 1879
+A. L. Pryde .. 1879
+J. H. Mulvany .. 1880
+J. O. Cartwright .. 1880
+J. W. Eggleston .. 1871
+R. L. Thompson .. 1881
+W. Greig .. 1882
+R. Jolly .. 1879
+J. Bowley .. 1887
+S. J. Warnock .. 1887
+E. H. Bardwell .. 1887
+R. T. Rowe .. 1875
+H. J. Ralph .. 1888
+W. A. Gilbert .. 1890
+W. Mellor .. 1889
+E. J. Rice .. 1885
+S. Ellis .. 1889
+S. J. Bruce .. 1890
+R. G. Gladstones .. 1891
+T. L. Powell .. 1891
+R. B. Riddall .. 1891
+R. W. Foster .. 1891
+D. Wright .. 1870
+S. Moyle .. 1871
+W. F. Rashleigh .. 1873
+C. H. Woodman .. 1879
+M. St. J. Kennedy .. 1874
+F. W. White .. 1879
+W. M. Ure .. 1871
+H. Rose .. 1880
+J. Keyston .. 1883
+W. Urie .. 1884
+E. Walsh .. 1885
+W. Boyle .. 1886
+J. S. Duke .. 1886
+W. Goode .. 1872
+A. Stewart .. 1882
+R. Paterson .. 1887
+P. St. J. Murphy .. 1887
+H. E. Hooke .. 1888
+A. M'Cllelland .. 1889
+J. H. Bayley .. 1889
+T. Groube .. 1881
+G. F. Savage .. 1890
+D. J. Dunlop .. 1890
+W. Attwood .. 1890
+A. E. Finley .. 1890
+H. M. Lee .. 1890
+A. E. Johns .. 1890
+R. J. Burrowes .. 1891
+W. L. Gordon .. 1891
+
+=== Page 7 ===
+The Grand Orchestra
+
+Including effective Members of the Melbourne Amateur Orchestral Society (Mr. John Iliffe, Hon. Secretary).
+
+1st Violins
+Mr. Geo. Weston (Leader)
+  " Max Klein
+  " F. Dierich
+  " Geo. Ryder
+  " J. Iliffe
+  " A. Levy
+  " A. Bowden
+  " E. Rooke
+  " O. Krakowski
+Miss Flo. Lewis
+  " A. Krakowski
+
+2nd Violins
+Mr. H. Weinberg
+  " J. W. Dawson
+  " H. Levy
+  " R. Powers
+Miss F. Charge
+  " A. E. Garner
+  " R. Payne
+  " A. Wood
+  " Clara Ellis
+  " M. Hood
+  " M. Bookless
+
+Violas
+Mr. E. A. Jäger
+  " Fred. Tate
+  " P. Isaacs
+Mrs. A. H. Williams
+Miss K. Stores
+
+Cellos
+Mr. G. E. Howard
+Dr. Stokes
+Mr. A. Johnston
+  " A. H. Williams
+  " C. Brittan
+  " J. M. Rooke
+Master E. Levy
+
+Double Bass
+Mr. W. Brown
+  " Herman Linder
+  " J. Meldrum
+  " P. Stender
+
+Flutes
+Dr. Rudall
+Mr. A. Webb
+  " W. T. Sprod
+
+Oboes
+Mr. J. P. Hornidge
+  " D. E. Williams
+
+Clarionettes
+Mr. A. Hess
+  " W. Robb
+  " H. Green
+  " W. Brown
+
+Bassoons
+Mr. T. McCoy
+  " C. Rudall
+
+Horns
+Mr. C. Peckotsch
+  " A. E. Flewin
+  " O. Kuhe
+  " H. Kuhe
+  " F. S. Barwood
+
+Cornets
+Mr. T. Riley
+  " C. Calvin
+  " C. Parry
+  " J. E. Barwood
+
+Trombones
+Mr. C. Peckotsch
+  " A. Calvin
+  " A. Hopkins
+
+Tuba
+Mr. Morley
+
+Tympani
+Mr. W. H. Bickerton
+
+Side Drums
+Mr. A. Smith
+
+Grand Cas & Cymbals
+Mr. P. Brown
+
+Harp
+Mr. W. T. Barker, A.R.A.M.
+
+=== Page 8 ===
+THE SOCIETY WILL BE ASSISTED BY
+
+Miss Lalla Miranda
+
+Signor Attilio Buzzi
+
+Mr. G. B. Fentum, Hon. Pianist
+
+AND
+
+Grand Orchestra Leader: MR. GEORGE WESTON
+
+including
+
+THE MELBOURNE AMATEUR ORCHESTRAL SOCIETY
+
+=== Page 9 ===
+Programme
+
+PART I
+
+"What music is this?"
+"I do but partly know, Sir. It is music in parts."
+"Know you the musicians?"
+"Wholly, Sir."
+—Troilus and Cressida
+
+Cantata—"The Maid of Orleans"
+Heinrich Hofmann
+
+ENGLISH VERSION BY MRS. JOHN P. MORGAN
+
+Heinrich Josef Franz Hofmann, who was born at Berlin in 1842, first came into notice as a rising musician by his "Hungarian Suite" for orchestra, which was produced in 1873. This met with an enthusiastic reception throughout Germany; and the composer followed up his initial success in the following year with a symphony to which he gave the name "Frithjof," while in 1875 he brought out a cantata on the subject of "Die schöne Melusine," both of these works displaying his powers in a highly favourable light. The work performed this evening is an admirable example of his style, which though it still bears traces of the influence of other composers, notably Wagner, and occasionally Bizet, will be generally admitted to be characterized by melodic gifts of a high order, coupled with mastery over the resources of orchestral colour, and imbued throughout with true dramatic feeling.
+
+PART I.—A brief orchestral prelude—sostenuto—leads to a spirited chorus wherein the pleasures of the vintage and the virtues of wine are duly set forth. This joyous strain is interrupted by the arrival of a band of peasants with tidings of the ravages caused by the conquering English troops, and all
+
+=== Page 10 ===
+bewail their own weakness and the restless might of the foe. Joan appears, and after declaring her supernatural mission, breaks into a triumphant song in which the chorus, infected by her dauntless spirit, subsequently join. The stirring melody of this number, with its fine instrumentation and the effective use made of the harp, cannot fail to appeal to all who hear it.
+
+PART II.—After a few characteristic bars of introduction, the King welcomes his soldiers, who have brought Joan to him, clad in full armour. In answer to his inquiry, the King is told that when the troops were on the point of yielding, this young maid had come to their assistance, and that by her aid they had routed the enemy. Joan's solo, telling of the mysterious command she had received whilst praying before a picture of the Madonna in her native village, is preceded by a striking passage from the clarionet, and the opening subject in A minor is accompanied alternatively with the woodwind and the muted strings; the same motif is then given in the major, an almost martial character being here imparted to it by the use of trumpets. In answer to further questions from the King, Joan foretells that she will bring him victorious to Rheims, and the army with a shout demands that she shall at once lead them against the foe. This concluding number of Part II. is a finely-written double chorus, the two divisions, after a brief duet for Joan and the King, uniting in an ensemble which, from a musical standpoint, is undoubtedly the climax of the whole work.
+
+PART III.—Joan of Arc, betrayed into the hands of the English, has miraculously escaped, and once more led her countrymen to victory, but at the cost of a fatal wound. The French soldiers, believing her to be dead, sing a solemn funeral march; but reviving a little, she asks where she is, and is surprised to find herself with her friends. The cantata concludes with the death of Joan, who gives utterance to her belief in the everlasting joys in store for her, while the chorus indulge in lamentations at the untimely death that thus overtakes the saviour of her country.
+
+FIRST PART
+
+The autumn is coming, full ripe is the vine,
+The rich juices rising to burst from their shrine;
+    Warmest glow of summer sunshine
+        Drinking deep in quiet might,
+    Haply of their own joy dreaming,
+        Waxing strong to fulness bright.
+Press out the rich juices, free, glowing and clear,
+That bring to all hearts strength, joy and good cheer.
+
+Half-chorus.—He whom fate unkind hath driven,
+    All.—Drink its juices, comfort rife;
+Half-chorus.—Who his heart from hope hath riven,
+    All.—Findeth here new strength and life.
+Half-chorus.—Who his love to vow not daring,
+
+=== Page 11 ===
+All.— Courage drink for love's first kiss.
+    He who love's delight is sharing,
+    Laud in vine, laud in wine,
+        His joy and bliss.
+        The juices are flowing,
+            Now fill high the cask,
+        Its fires all glowing
+            In slumber to bask.
+Now that deeper sleep may darkle
+    Let the hammer stroke resound,
+That in golden life it sparkle,
+    As the glass goes round and round.
+        Then pour out its juices, &c.
+Hold! and silence all your merry singing;
+Not glasses' clangour, sabre stroke
+Demands our Fatherland from ye.
+
+Vintagers.—
+Why startle us here 'mid our pleasure?
+Your tidings tell—what hath befallen us?
+
+Chorus of Peasants.—
+England's rudest lords are coming,
+    O'er the sea t' invade our land—
+To make desolate our meadows,
+    Spreading death with sword and brand.
+Ev'rywhere are they victorious,
+    Ruin threatens all our host;
+Only Orleans ours remaining,
+    Last defence our land can boast.
+Even there now stand our foemen,
+    In their strong o'erpow'ring might,
+With their thousand throats of fire,
+    Scatt'ring ruin, death, and night.
+
+Vintagers and Peasants.—
+Woe unto us! Our joys, but just beginning,
+    Already die at danger's breath.
+A nobler blood than blood of vintage
+    Asks the cruel Vintager—Death.
+
+=== Page 12 ===
+Woe, woe, too powerless our arm,
+    To save our routed host from flight;
+Who here will rescue, and who be guarding,
+    Our native hearth, our toils requite?
+Help us, O God! Preserve our firesides
+    From war's red flaming fire and death!
+Woe unto us! Our joys, but just beginning,
+    Already die at danger's breath.
+
+Joan.—
+Who will your saviour be?
+    I have that task!
+Of God anointed, me 'tis given,
+    Our Fatherland's deliverer to be.
+
+That which an army may not dare,
+Shall I achieve by Heaven's might alone!
+Ask not that which my mouth may never dare to tell:
+The King alone shall know it all.
+Look up in hope!
+Your own fair meadows shall still remain war's carnage far:
+My footsteps victory shall order,
+Farewell, farewell! I follow mine own star.
+
+    Lo, what a wonder, doth here her holy presence wake!
+        The simple maid, transfigured, shining,
+        Words of mystery she spake.
+
+Joan.—Now to Thy care, all pure and holy,
+    Leave I my dear ones in their stress:
+        Thy ray divine illumine lowly
+            The way my land to save and bless.
+A simple maid Thou hast appointed,
+    To show the might of God, to war;
+For Thee raised up, of Thee anointed,
+    Following to victory my star.
+Thy ray divine aye lighting me,
+The way my land to save and bless.
+I follow to victory my star. Farewell!
+
+=== Page 13 ===
+SECOND PART.
+
+King.—My welcome to ye, noble warriors!
+    What bring ye me? have tidings had?
+    And who is yonder lovely maid,
+    In glittering armour clad?
+
+Warriors' Chorus.—
+    We would, o'ercome in bloody battle,
+        Our host surrender to its foes,
+    When lo, before us, our eyes beheld it,
+        A sudden, mighty wonder rose.
+    For from the wood toward us gliding,
+        Darted a virgin glorious fair,
+    Adorned with armour of a goddess,
+        The battle watching there.
+    A holy light from heavenly height
+        O'ershone her armour, splendour rife,
+    And with strong hand she caught high our banner,
+        And led us on to war and strife.
+    Then fled our foemen in wildest tumult,
+        No leader's voice they hear or know;
+    From terror dazed, plunge man and horse,
+        O'er rocks into the stream below.
+    And so we won the awful fight,
+        By this fair virgin's wondrous might.
+
+King.—How marvellous!
+    Who art thou, mighty presence?—speak!
+
+Joan.—Only a shepherd's child am I.
+
+King.—And how hath God thee victor crowned?
+
+    Chorus.—Speak! How hath God us victors crowned?
+
+Joan.—Near my home, my native village,
+    Stands an old Madonna shrine;
+    And there, on my knees, I oft have knelt,
+    In fervent, ardent prayer.
+    And I prayed to God's own mother:
+    O, avert the tide of war,
+    And in mercy guard from danger
+    Our King for evermore.
+
+=== Page 14 ===
+Then near me the Holy Virgin stood and spake:
+Joan, arise! Leave thy hearthstone,
+For the Lord hath thee to higher duty called.
+Bear this sword, and bear this banner,
+Forth away to holy war;
+Slay, destroy my people's foemen,
+For thou shalt aye victor be.
+
+Before this mighty wonder, still every doubtful feeling,
+In lowliness we bend us, before the Virgin kneeling.
+
+King.—Thine eye sweet innocence is beaming,
+    Most marvellous seems what thou hast wrought.
+If thou the future, too, can'st tell me
+    (Hear well the question I have brought)——
+Shall I to Rheims as conquering victor go?
+
+Joan.—Thro' thousand foes I'll lead thee safely—go!
+
+Chorus.—
+Give us the maiden as our army's leader,
+We'll follow blind, where'er the godly maid shall guide.
+Her seeress eyes aye be our leader,
+To guard her well, we draw our daring swords.
+Not e'en a world in arms have we to fear,
+If she before our armed host doth go.
+The god of victory beside her rideth,
+She lead us on, we'll follow blind,
+Where the godly maid shall guide,
+She lead us on, the mighty one in battle, she lead us on.
+She lead us on to holy battle, she lead us on to war.
+
+Joan.—Not e'en a world in arms have ye to fear,
+    If I before your armed host may go. I lead ye on.
+    The god of victory beside me rideth, I lead ye on.
+    Not e'en a world in arms have ye to fear,
+    If I before your armed host may go,
+    I lead ye on to war, to holy war.
+
+=== Page 15 ===
+THIRD PART
+
+Warriors' Chorus.—
+
+Mourn, mourn for our lost heroine—
+Comrades, mourn for the glorious maiden;
+She that us from our foes hath saved,
+God hath called to Himself on high.
+She is no more—no more will she watch o'er us;
+Her eyes no more of earth shall ever see,
+She soars above, a spirit glorious,
+Seeing our grief no more, sees not our sorrow.
+She opens, see, her eyes, she lives!
+Here to us from the grave returned?
+Conquering death?
+
+Joan.—Where am I?
+
+King.—In thy true friends' hold, in thy King's own arms,
+    With thine own folk, with thine own people.
+
+Joan.—No, I am no enchantress, believe me I am not!
+
+King.—Thou art holy as the angels;
+    And our dull eyes were but with night bedimmed.
+
+Joan.—And am I truly here, with mine own folk,
+    And am no more despised and rejected?
+    Ye curse me not, look on me kindly here?
+    I'd see my banner, see it not; where is it?
+    Never without my banner dare I near ye;
+    From my high Master given me in trust,
+    Before His throne I lay it down for ever.
+    I dare to show it, for I bore it true.
+
+King.—Lo, here an angel dieth!
+
+Joan.—The Holy Virgin nears again to greet me;
+    See ye yon rainbow span the ether blue,
+    And heaven opening its golden portal?
+    Amid the angel choir she brightly stands;
+    She holds the Eternal Son upon her breast,
+
+=== Page 16 ===
+Her arms outstretching smilingly toward me.
+O whither? Lightest clouds upbear me high,
+The heavy armour winged robe outspreading.
+Away, the earth is left behind,
+Brief is all pain, and joy eternal.
+
+King.—Ah soon was her pure holy spirit
+    From earthly woe to sever,
+And angels bear her to that land,
+    Where joy shall reign for ever.
+
+"Here let us breathe."
+    —The Taming of the Shrew
+
+INTERVAL OF FIVE MINUTES
+
+=== Page 17 ===
+"Still be kind,
+And eke out our performance with your mind."
+—Henry V.
+
+PART II
+
+Part Song—"The Two Roses" Werner
+
+Liedertafel
+
+On a bank two roses fair,
+    Wet with morning showers,
+        Filled with dew in fragrance grew,
+As I, pensive, full of care,
+    Gathered two sweet flowers.
+        Tell me roses, truly tell
+        If my fair one loves me well.
+
+This in leaves of white array'd,
+    Not a speck to dim them,
+        So I find the spotless mind
+Which adorns my lovely maid—
+    Innocence's emblem.
+        Tell me then, and truly tell
+        If my fair one loves me well.
+
+Like her cheeks, the blushing ray
+    Which thy bud encloses,
+        Brighter far than you they are;
+But her charms if I should say,
+    Ye'll be jealous, roses.
+        Tell me then, and truly tell
+        If my fair one loves me well.
+
+=== Page 18 ===
+Vocal March—"The Tyrolese Hunters"
+Roschat
+Liedertafel and Orchestra
+
+HALLO! Hallo!
+Now hunters come away, for early breaks the day;
+With rifles prov'd and tried we range the mountain side,
+Keep distance every man, each nook and covert scan:
+From by the forest end to where the two ways blend.
+
+Yoho, yoho, yoho! There something crouches low;
+What eyes can shine like that? It is a mountain cat.
+'Tis only so I fear: It is a crouching deer;
+Surround it every way, before it steals away.
+
+See now he springs and flies, and for the forest tries,
+But there the hunters stand, with steady eye and hand.
+And crack it goes, yoho! the ball has laid him low;
+A noble beast is he, and killed most manfully.
+
+Here from the waterfall we send a hunter's call,
+To glad the list'ning ear of wives and sweethearts dear.
+So gently timid they, that if we shoot they say—
+"Ah me! there's someone hurt to-day."
+
+O sweethearts in the vale, you from afar we hail,
+With joyful notes that tell that all with us is well,
+Yet here awhile we roam: and with the evening come
+To seek our dear and quiet home.
+
+Tra la, la la, la la! then there's hurrah, hurrah!
+For such a bonny land, for vales and mountains grand.
+And here's hurrah, hurrah! for wives and maidens true.
+Sweethearts, we shout for you, hurrah!
+
+An eye that never fails, a heart that never quails,
+A cheek aglow with health, is more than idle wealth.
+Hallo! hallo, hallo! a-hunting we will go;
+By topmost crag and peak our timid prey we seek,
+Hallo! hallo, hallo! a-hunting we will go:
+Full quickly flies the day: Hallo, hallo, away!
+
+=== Page 19 ===
+Italian Serenade—"Venetia"  W. J. Jude
+
+(FIRST TIME)
+
+EXPRESSLY COMPOSED FOR AND DEDICATED TO MISS MIRANDA
+
+Miss Lalla Miranda
+
+The moon is bright, the skies are clear,
+And as of old, we two are here,
+Tra la la!
+In these old scenes of wild delight
+In old Venetia here to-night.
+Yes, we are here, Love, you and I,
+Alone to breathe and sigh,
+Our heart's deep love for ever true,
+O! love me, Love, for I love you.
+
+While the stars in heaven are shining,
+I will love thee evermore,
+Love for thee this heart is pining,
+Love is waking as of yore.
+
+Thou hast my heart and I have thine,
+I know my Love that thou art mine,
+Tra la la!
+With all my heart I love but thee,
+Venetia has but one for me.
+In all my dreaming thou art nigh,
+To love thee not would be to die,
+Oh! life is young, and all is bright,
+In old Venetia here to-night.
+While the stars, &c.
+
+Entr'acte—"Colombe"  Gounod
+Orchestra
+
+=== Page 20 ===
+18
+Song—"When Sorrow Sleepeth"
+Land-Elsässer
+(WITH HUMMING ACCOMPANIMENT)
+Signor Buzzi and Liedertafel
+
+When sorrow sleepeth, wake it not,
+    But let it slumber on;
+If grief is for a while forgot,
+    Its power that while is gone.
+The mind may from the pause gain strength
+    To grapple with its foe,
+And thence may rise to prove, at length,
+    Triumphant over woe.
+When sorrow sleepeth, wake it not,
+    O wake it not.
+
+To mourn the lost, we sigh for care,
+    We grieve, by sin opprest;
+And all a secret burden bear,
+    For earth is not our rest.
+Then watch thy thoughts, thy words restrain,
+    Each heart its burden knows;
+One little word, all light and vain,
+    May break that heart's repose.
+When sorrow sleepeth, wake it not,
+    O wake it not.
+
+Valse Lente
+Orchestra
+Delibes
+
+Grand Duo—"Nella Notte" (Huguenots)
+Meyerbeer
+Miss Lalla Miranda, Signor Buzzi and Orchestra
+
+=== Page 21 ===
+Grand Double Chorus—
+"Bacchus" (Antigone) Mendelssohn
+Liedertafel and Orchestra
+
+FAIR Semele's high-born son,
+Thou many-named one,
+Thou, who callest thy father the Thunderer Jove!
+Object of beautiful Italia's love;
+Thou, who crownest what Ceres bestoweth on all
+To thee now we call!
+Hear us, Bacchus, in Thebe, thy Bacchante's home,
+Where the bright Ismenus, rolling her waters,
+Unites the Dragon's sons and daughters.
+
+On thy mount's double-crested heights,
+Thy votive flames ascending,
+With Corycian nymphs attending,
+Grace thy mystic rites;
+While pure Castalia laves the ground,
+Thy lofty Nysian summit sings, ivy crowned,
+    Thy praise!
+    Vine and tree
+    Warble to thee.
+Thy votive trains chant thy lays;
+Thy sacred chorus raises
+And Thebes' fanes resound thy praises.
+    Hear us, Bacchus!
+
+Above all the rest,
+Thebes thou hast guarded and blest.
+She was its pride,
+Who, clasping the Thunderer, died;
+And now, seeking its lost repose,
+We pray thee to come and heal its woes.
+O, hither bend,
+From thy Parnassian heights descend,
+Or from over Euboea's billows;
+    Hear us, Bacchus!
+
+=== Page 22 ===
+Thou whose power inspires
+All our torch-lit star-vieing choirs,
+Guide our dance and lead our song,
+Son of Jove for ever young!
+Come with mirth and revelry;
+Bring thy Naxian nymphs with thee;
+Come, and let them, bounding before us,
+Chime and time the tip-toe chorus,
+To praise thee, adore thee, great Iacchus!
+    Hear us, Bacchus!
+
+GOD SAVE THE QUEEN
+
+"And so, God give you quiet rest to-night,
+Good night. —— Come, Gentlemen."
+    —Richard III.
+
+=== Page 23 ===
+---
+primary_language: None
+is_rotation_valid: True
+rotation_correction: 0
+is_table: False
+is_diagram: False
+---
+
+=== Page 24 ===
+TOWN HALL,
+MELBOURNE
+MONDAY EVENING
+29TH FEBRUARY, 1892.
+
+NINETEENTH SEASON
+THIRD CONCERT.
