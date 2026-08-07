@@ -1,0 +1,729 @@
+=== Page 1 ===
+CROSS
+
+=== Page 2 ===
+TALK 3
+
+=== Page 3 ===
+16 March 1968
+Asahi Hall, Tokyo
+sponsored by the American Cultural Center with the cooperation of the Asahi Newspaper company
+主催 アメリカ文化センター　後援 朝日新聞社
+
+=== Page 4 ===
+CROSS TALK TOKYO
+
+In the 1967-68 season, CROSS TALK presented Japanese first performances of works by the following composers and film makers:
+
+<table>
+  <tr>
+    <th>ASHLEY</th>
+    <th>AUSTIN</th>
+    <th>BABBITT</th>
+    <th>BEHRMAN</th>
+    <th>CAGE</th>
+  </tr>
+  <tr>
+    <td>CHIHARA</td>
+    <td>FREUND</td>
+    <td>ICHIYANAGI</td>
+    <td>IIMURA</td>
+    <td>IVES</td>
+  </tr>
+  <tr>
+    <td>KOSUGI</td>
+    <td>LUCIER</td>
+    <td>MARTIRANO</td>
+    <td></td>
+    <td>MATSUDAIRA</td>
+  </tr>
+  <tr>
+    <td>MIZUNO</td>
+    <td>MORRIS</td>
+    <td>MUMMA</td>
+    <td>NELSON</td>
+    <td>SATIE</td>
+  </tr>
+  <tr>
+    <td>SCHILLING</td>
+    <td>SUBOTNICK</td>
+    <td></td>
+    <td>REICH</td>
+    <td>REYNOLDS</td>
+  </tr>
+  <tr>
+    <td>TAKAHASHI</td>
+    <td>TAKEDA</td>
+    <td>TAKEMITSU</td>
+    <td></td>
+    <td>YUASA</td>
+  </tr>
+</table>
+
+During the winter of 1968-69, CROSS TALK will sponsor the first festival of live electronic music in Japan. Several guest composer/engineers from the United States are expected. In addition, general demonstrations for the public; special work sessions on basic technical resources (e.g., ring modulators, photo cells, computer applications, etc.); open rehearsals; experimental presentations; and public events are planned.
+
+Later in the spring of 1969, several days of intermedia events will be held, including performances of IANNIS XENAKIS' Terretektorn for 88 players seated among a circularly arranged audience; JOHN CAGE's as yet incomplete HPSCHD for fifty computer-derived tapes and harpsichord soloist; and the premiere of Flight-Operatic by TORU TAKEMITSU, for orchestra, mime, dancers, film, tape, and so on.
+
+Various other events on a smaller scale will be presented from time to time, as announced.
+
+=== Page 5 ===
+
+
+=== Page 6 ===
+CROSS TALK 3
+16 March 1968
+
+* BRASS (1967)
+    brass quintet, film, projections
+    (film by David Freund and Larry Austin)
+        Larry Austin
+
+BRANCHES (1966)
+    2 bsn, perc
+        Paul Chihara
+
+* NOTES FROM THE UNDERGROUND (1966)
+    vc, celesta, pno, perc, 4-channel amplification
+        Robert Morris
+
+**A FIELD (1968)
+    2 string instruments
+        Akimichi Takeda
+
+* COMPOSITION FOR FOUR INSTRUMENTS (1947-48)
+    fl, cl, vl, vc
+        Milton Babbitt
+
+**DISTRIBUTIONS (1968)
+    string quartet, filters, ring modulator
+        Yori-Aki Matsudaira
+
+* SHELTER 9999 (1967)
+    film with 4-channel electronic sound
+    (film by Takahiko Imura)
+        Alvin Lucier
+
+**World Premiere        * First Japanese Performance
+
+=== Page 7 ===
+クロス・トーク 3
+昭和43年3月16日
+
+*ブラス（1967）
+管楽五重奏、映画、スライド投影
+（映画制作：デヴィド・フルンド、オースティン）
+
+ラリー・オースティン
+
+*ブランチズ（1966）
+バスーン（2）、打楽器
+
+千原 ポール・清弘
+
+*アンダー・グラウンドからの手記（1966）
+チェロ、チェレスタ、ピアノ、打楽器、4チャンネル増幅
+
+ロバート・モリス
+
+**《場》2人の奏者のための（1968）
+弦楽器奏者（2）
+
+武田 明倫
+
+*4つの楽器のためのコンポジション（1947〜48）
+フルート、クラリネット、ヴァイオリン、チェロ
+
+ミルトン・バビット
+
+**分 布（1968）
+弦楽四重奏、フィルター、リング変調器
+
+松平 賢 暁
+
+*シェルター9999（1967）
+映画、4チャンネルの電子音響
+（映画制作：飯村隆彦）
+
+アルヴィン・ルシエ
+
+*印は日本初演　**印は世界初演
+
+=== Page 8 ===
+Distributions（分布）へのノート
+
+1966～67年にかけて作曲。前方から弦楽四重奏が、そして後方からは四重奏中の2パートをリング変調した音響がきこえてくる。
+次の諸要素から成る。
+O：弦楽器の調弦を模した短かい部分でAとCを内包している。
+A：やや長い持続のクラスター。徐々にDに近づく。
+B：アルペジオ音型。複雑化されたCとDに似た性格をおびる。
+C：グリッサンド。Dに接近する。
+D：騒音、極端な状態では事実上Eに等しい。聴覚の分解能力を考えるならば、極度に複雑なものは、かえって単純なものとし
+て理解されるからである。
+E：間（ま）
+各要素は、その持続や出現順序に関してボアソン分布や正規分布などのような分布に従っている。全体的には単純→複雑という傾向に配列されているが、この複雑化の過程で各要素はまったく逆の性質をもったものに変質してしまう（例：A→D、B→C & D、C→DそしてD→E）。最後は最も複雑な要素がおかれているので、聴覚的には単純→複雑→単純という形式をもつようにきこえる。
+（松平頼曉）
+
+アルヴィン・ルシエ
+1931年、ニューハンプシャーのナシュア生れのアメリカの作曲家。エール大学、ブランダイス大学に学んだのち、フルブライト奨学金によりローマに留学。現在はブランダイス大学の室内合唱団および電子音楽スタジオのディレクターである。
+かれは1967年春、ソニック・アーツ・グループのメンバーとして欧州各地をまわり、ライヴ・エレクトロニック・ミュージックを紹介したほか、アメリカ各地でも活動をつづけている。いっぽうブランダイス大学室内合唱団の指揮者としても、ブラウン、ケージ、一柳慧、シュトックハウゼンなどの作品を積極的に初演。こうした作品が米オデッセイ（コロムビア）からLPでだされている。
+＜ピアノのアクション・ミュージック＞ 1962
+＜ソリストのための音楽＞ 1965
+　　脳波（アルファ・リズム）の増幅
+＜ホイッスラー＞ 1966
+＜北米タイム・キャプセル＞ 1967
+
+=== Page 9 ===
+left: page from Distributions by Yori·Aki Matsudaira (composer's copyright)
+above: pages from A Field by Akimichi Takeda (composer's copyright)
+
+=== Page 10 ===
+美術手帖
+毎月16日発売
+定価250円
+
+美術手帖はまもなく300号をむかえます。しかし—美術雑誌としての役割はすでに破り、領域の拡張をめざしています。変貌する“芸術”とともに現代のトップをゆく明日の芸術家を支える羅針盤です。ほんの一例ですが、例えばこんな特集をしています。
+
+1968年1月号　エレクトロニック時代の芸術——芸術の日常化
+2月号　もうひとつのイメージ文化
+3月号　変貌するオブジェ
+4月号　地方の前衛——意識と活動の実態
+5月号　混沌のなかの造形教育、LSD—芸術—創造
+6月号　記号の構造学—原始呪術から都市文明(予告)
+
+1967年12月号　マカルーハン理論と現代芸術
+11月号　日本のアンダーグラウンド・アート
+10月号　ポップ・アート
+9月号　裁かれる今日の芸術
+8月号　明日の芸術のゆくえ、EXPO'67と現代芸術
+7月号　世界のヤンガー・ジェネレーション
+6月号　環境芸術—芸術の環境化と環境の芸術化
+5月号　ハプニングとは何か
+
+BSS 美術出版社
+東京都新宿区市谷本村町15　電話(260)2151
+
+=== Page 11 ===
+clockwise from the right:
+Yasuhiko
+Iiyoshi
+Junosuke
+Okuyama
+Saburo
+Ueki
+Yori-Aki
+Matsudaira
+Ken
+Itabashi
+Masaaki
+Yamazaki
+Tadao
+Takahashi
+
+Left to right:
+Yasuhiko
+Iiyoshi
+Yori-Aki
+Matsudaira
+Saburo
+Ueki
+
+=== Page 12 ===
+composers
+
+in
+
+UE
+
+apostel
+bartok
+bedford
+bennett
+berg
+berio
+birtwistle
+boulez
+bussotti
+cardew
+cerha
+dallapiccola
+halffter
+haubenstock-ramati
+hoffmann
+jelinek
+kagel
+komorous
+kopelent
+kupkovic
+krenek
+liebermann
+lindholm
+ligeti
+logothetis
+messiaen
+nilsson
+otte
+paccagnini
+pousseur
+schoenberg
+schuller
+stockhausen
+skalkottas
+webern
+wilkinson
+wood
+
+UNIVERSAL EDITION
+
+=== Page 13 ===
+飯村隆彦
+
+1937年生れの実験映画作家。1960年に慶応大学を卒業後、映画の制作に専心。1964年のブリュッセル実験映画祭では、日本の若い一群の作家たちの作品がそろって受賞したが、そのなかには、かれの〈オナン〉も含まれていた。同年、フィルム・アンデパンダンを組織し、日本のアンダー・グラウンド・フィルムの活動をつづけた。1966年、ハーバード大学の国際セミナーに招かれて渡米。
+
+代表作としては、〈オナン〉〈ラヴ〉〈デリバット王国の舞踏会〉などがある。
+
+〈シェルター9999〉について
+
+この作品はアルヴィン・ルシエと渡米中の飯村隆彦の近作の共同作品。4つの要素が同時的にパフォーマンスされていく。その4要素とはまず35分の黒白フィルム。それにループになった4本のエンドレスの黒白フィルム。これには戦術的な意味でパンチがいれられて穴があけられている。さらにこの他にアクチュアルな問題をとらえて撮影した12枚のカラー・スライドが併映される。そしてこれらの映像にたいして、4チャンネルの音響がかみあわされていくが、これはかならずしも映像とシンクロナイズする意図があたえられてはいない。
+
+これらの映像は指定にしたがって上映されていくが、それぞれがほとんど同時にダブって映写されていく。そしてその場合、色彩フィルターとレンズによって、これらの映像が変形されつづける。
+
+テープの音は、3次元の方向性をもつ物体の振動のうちで、とくに一方向の振動についてのみ敏感にキャッチし、とりだした音によっている。こうしてさまざまな視覚的、聴覚的な繰り返しがおこなわれていくのだが、その組み合わせがいつも変化していくことによって、強烈な印象とサイケデリックな効果がうみだされていくのである。
+
+オーケストラルスペース'68
+武満徹十一柳慧・企画 構成
+
+6月4日 東京文化会館ホール
+6月7日 日比谷公会堂
+6月5日 日経ホール
+
+■指揮：小沢征爾
+秋山和慶
+日本フィルハーモニー交響楽団
+
+■オーケストラ作品
+ブラウン
+ケージ
+クセナキス
+武満徹
+一柳慧
+ペンデレツキー
+湯浅譲二
+レイノルズ
+
+■室内楽作品
+高橋悠治
+ライヒ
+ベルリオ
+ペンデレッキー他
+
+=== Page 14 ===
+真に《良い雑誌》とは
+Magazine For Family 月刊 ほるぷ
+みんなの広場であるべき
+いよいよ発売開始！
+定期購売申し込み受付中
+★定期購読（お支払いは後納）
+3ヶ月 ￥540　6ヶ月 ￥1,080　12ヶ月 ￥2,160
+★お申し込みは…
+東京都千代田区麴町3の2　相互第一ビル
+月刊ほるぷ編集センター　TEL（262）6649・6698
+
+=== Page 15 ===
+Roger Reynolds
+Joji Yuasa
+Tadao Iwamoto
+Hiroshi Kumagai
+Toshi Ichiyanagi
+Takehisa Kosugi
+Junosuke Okuyama
+Kenichi Nagata
+Yoko Hayashi
+
+=== Page 16 ===
+日本の電子音楽
+5月新譜盤
+SJV-1515
+¥1,500
+諸井十黛
+7のヴァリエーション
+武満 徹
+空、馬、そして死
+湯浅譲二
+プロジェクション・エセム
+プラスティク
+黛 敏郎
+マルチピアノのための
+カンパノロジー
+一柳 慧
+シチュエイション
+石井真木
+波 紋
+JAPANESE ELECTRONIC MUSIC
+
+注目を集める
+ビクターの"今日の音楽シリーズ"
+
+オーケストラル・スペース（第2集） SJV-1513 ¥1,500
+リゲティ・クセナキス・ケージ・レイノルズ・安達元彦 作品
+* 指揮＝小沢征爾／若杉 弘 読売日本交響楽団・演奏
+
+オーケストラル・スペース（第1集） SJV-1501 ¥1,500
+武満 徹・一柳 慧・湯浅譲二・高橋悠治 作品
+* 指揮＝小沢征爾／若杉 弘 読売日本交響楽団・演奏
+
+武満 徹の音楽 SJV-1503〜6（4枚組） ¥6,000
+第21回芸術祭賞（文部大臣賞）受賞に輝く名盤
+
+現代の日本音楽・3人集 SJV-1509 ¥1,500
+作曲＝武満 徹／間宮芳生／松本雅夫
+
+＜映画館という名の演奏会場＞シリーズ 各 ¥450
+第1集（武満徹・他人の顔／林 光・白昼の通り魔／他） SGC-46
+第2集（武満徹・紀の川・あこがれ・映画音楽集） SGC-71
+第3集（佐藤勝・湖の琴／林 光・アンデスの花嫁） SGC-72
+
+Orchestral Space Vol. 2—LIGETI: Atmospheres. XENAKIS: Strategie. CAGE: The Wonderful Widow of 18 Springs. ADACHI: Concerto Grosso. REYNOLDS: Ambages. SJV-1513
+Orchestral Space Vol. 1—TAKEMITSU: Arc. TAKAHASHI: Chromamorphe II. ICHIYANAGI: Life Music. YUASA: Inter-penetration. SJV-1501
+Works of Toru TAKEMITSU—Seiji Ozawa conducting SJV-1503〜6
+The Sounds of Japan—Modern Masterpieces for Traditional Instruments. SJV-1509
+
+ビクター
+VICTOR COMPANY OF JAPAN, LTD. 3-4 KASUMIGASEKI, CHIYODA-KU, TOKYO,
+
+=== Page 17 ===
+CROSS TALK 2,
+open rehearsal:
+Robert Ashley's
+in memoriam...
+ESTEBAN GOMEZ
+
+CROSS TALK 2
+Salvatore Martirano:
+BALLAD
+
+=== Page 18 ===
+Flute
+Karen Reynolds
+Clarinet
+Kenichi Nagata
+Bassoon
+Muneo Tozawa
+Bassoon
+Takeshi Yamamoto
+Percussion
+Koichi Yamaguchi
+Piano
+Roger Reynolds
+Celesta
+Aki Takahashi
+Violin
+Yoko Hayashi
+Cello
+Tadao Iwamoto
+
+String Quartet:
+Violin
+Saburo Ueki
+Violin
+Ken Itabashi
+Viola
+Masaaki Yamazaki
+Cello
+Tadao Takahashi
+Ring Modulator
+Junosuke Okuyama
+
+Brass by Larry Austin is available from Composer/Performer Edition, 330 University Avenue, Davis, Calif. 95616; Milton Babbitt's Composition for Four Instruments from Theodore Presser Co., Bryn Mawr, Penn.; Branches by Paul Chihara from Wimbledon Music, P.O. Box 1261, Grand Central Station, New York, N.Y. 10017. For information on works by Morris, Takeda, Matsudaira, and Lucier, write to the American Cultural Center, Sanno Grand Bldg., 14-2 Nagata-cho, 2-chome, Chiyoda-ku, Tokyo. Telephone 581-6611.
+
+The engineer responsible for coordinating the electronic equipment for this concert is Junosuke Okuyama.
+
+Verbal and written translations of the program notes from English into Japanese and from Japanese into English were done by Gen Iwasaki and Sumio Kambayashi, Kuniharu Akiyama, and Roger Reynolds.
+
+Milton Babbitt's Composition for Four Instruments was prepared by Roger Reynolds; Yori-Aki Matsudaira's Distributions was prepared by Haruhiko Iiyoshi.
+
+CROSS TALK is sponsored by the American Cultural Center - Donald Albright, director - with the cooperation of the Asahi Newspaper Company. Coordinators: Kuniharu Akiyama, Roger Reynolds, Karen Reynolds, and Joji Yuasa.
+
+Photos by Osamu Enomoto. Electronic equipment supplied by Trio Corporation.
+
+ORCHESTRAL SPACE 2
+Orchestral programs: June 4, Tokyo Festival Hall; June 7 Hibiya Hall
+SEIJI OZAWA and KAZUYOSHI AKIYAMA conducting the Japan Philharmonic Symphony
+BROWN, CAGE, ICHIYANAGI, PENDERECKI, REYNOLDS, TAKEMITSU, XENAKIS, YUASA
+
+Chamber program: June 5, Nikkei Hall
+BERIO, BEHRMAN, ICHIYANAGI, KOSUGI, PENDERECKI, REICHI, REYNOLDS, TAKAHASHI, TAKEMITSU
+
+=== Page 19 ===
+フルート
+K. レイノルズ
+クラリネット
+永田健一
+バスーン
+戸沢宗雄
+"
+山本武司
+打楽器
+山口浩一
+ピアノ
+R. レイノルズ
+チェレスタ
+高橋アキ
+ヴァイオリン
+林よう子
+チェロ
+岩本忠生
+弦楽四重奏
+植木三郎
+"
+板橋健
+"
+山崎正秋
+"
+高橋忠男
+変調器
+奥山重之助
+指揮
+飯吉靖彦
+R. レイノルズ
+
+■〈クロス・トーク〉コンサートはアメリカ文化センター（館長ドナルド・オーブライト）の主催のもとに、企画・構成ロジャー・レイノルズ、カレン・レイノルズ、湯浅謙二、秋山邦晴によって、今回も組織されました。
+なお、プログラムの翻訳には、岩崎元、上林澄雄両氏らの手をわざらわしました。感謝します。
+
+■今回の再生装置には、トリオ株式会社のご好意により、総合アンプ、スピーカー・システムが提供されました。
+
+■〈クロス・トーク〉の第2回特別コンサートが、2月18日（日）に、アメリカ文化センター講堂でおこなわれました。当日は2時、4時30分、7時の3回、おなじプログラムで上演されました。が、毎回満員の盛況でした。とりあげたのは、映画〈カルダーの世界〉1950（ハーバート・マター作品、音楽・ジョン・ケージ）、〈劇場とエンジニアリングの9夜〉1966（アルフォンス・シリング制作）の2本の異色の記録映画のほか、一柳慧のライヴ・エレクトロニック・ミュージック〈エクステンデッド・ヴォイセス〉1967、ゴードン・ムンマ〈メイサ〉1967、武満徹のテープのためのモンタージュ〈懐しのサンフランシスコ〉がテープ演奏されました。
+
+=== Page 20 ===
+(AUSTIN, BABBITT)
+
+LARRY AUSTIN was born in Oklahoma in 1930. He studied composition with Darius Milhaud, Andrew Imbrie, and Seymour Shifrin while at North Texas State University and the University of California, at Berkeley. Since 1958, he has taught at the University of California, Davis, and formed the New Music Ensemble (NME) with his colleagues there. This group of composer/performers is particularly devoted to evolving new concepts of group improvisation. Mr. Austin has also been instrumental in organizing a music publishing service "Composer/Performer Edition" (CPE) and edits the unique avant garde music magazine, Source. His works include: Improvisations for Orchestra and Jazz Soloists (1963); The Maze for three percussionists, dancer, tape, machines, and projections (1966); Changes for trombone and tape (1966); Accidents for electronically prepared piano, tape, mirrors, actions, and projections (1967); and Bass, a theater piece in open style for contrabass, tape, and film (1967). Mr. Austin's compositions are published by MJQ Music, Inc. and by CPE, and are recorded on Columbia and NME Records.
+
+BRASS was commissioned by the American Brass Quintet with the aid of a research grant from the University of California, Davis. It was filmed in New York City during September of 1967 at the Merce Cunningham Foundation dance studio. Brass is dedicated to my instrument, the trumpet. It was conceived as a silent movie with live electronic sound. Rather than hearing a prerecorded sound track, the movie-goer hears, in actual performance, live electronic music created by the cast (the American Brass Quintet) at the same time the movie is being shown. The sounds are produced by means of special electronically amplified mutes, which make it possible for the audience to hear instrumental sounds that would normally be inaudible beyond a few feet. These "micro-sounds" are electronically modified and finally amplified through speakers in the hall. The players "play" the movie and the slides. They receive some information about what to play from their own images on the screen (density, articulation, texture, timing, instrumentation, timbre, etc.) and the remainder (frequency, intensity, envelope, rhythm, event sequence, etc.) from the color slides of brass tablatures superimposed over the film. Except for the first and last, the slides are faded in and out at random intervals in any order.
+
+The stereophonic tape used at this concert was taken from the November 6, 1967 performance by the American Brass Quintet, and sound modification was achieved by means of Buchla Associates Electronic Modular System equipment. There should be no attempt to synchronize the tape and film.
+
+-Larry Austin
+
+MILTON BABBITT was born in Philadelphia in 1916, and entered New York University in 1931 as a student of mathematics and logic. The impact of Schoenberg and Webern redirected his interest towards music, however, and he began study in composition with Marion Bauer and Philip James in New York. Later he worked with Roger Sessions at Princeton, obtaining his MA in 1942. Mr. Babbitt has taught both mathematics and music at Princeton, where he has been on the faculty since 1938. He is co-director of the Columbia-Princeton Center for Electronic Music. As the leading American theoretician for the post-Webern school, he has written numerous technical articles on serial procedures. His compositions include: Composition for Twelve Instruments (1948); two string quartets (1948 and 1954); Composition for Tenor and Six Instruments (1958-60); Composition for Synthesizer, generated on the RCA Electronic Sound Synthesizer (1961); Ensembles for Synthesizer (1961-63); and Philomel for soprano, recorded soprano, and synthesized sound (1963). A number of Mr. Babbitt's works are available from Associated Music Publishers, and his music is recorded on Columbia and Composers Recordings Incorporated.
+
+=== Page 21 ===
+ラリー・オースティン
+
+1930年オクラホマ生れのアメリカの作曲家。ダリウス・ミヨー、日本に滞在していたことのあるアンドリュー・アンブリイ、それにシーモア・シフリンらに師事して、北テクサス州立大学、カリフォルニア大学（パークレイ）で作曲を学ぶ。1958年以来、カリフォルニア大学（デーヴィス）で教え、またニュー・ミュージック・アンサンブル（N・M・E）を組織した。このN・M・Eは、作曲家・演奏家からなるグループで、グループによる作曲をめざすいわゆるグループ・インプロヴィゼーションの新しい概念を推しすすめてきた。このグループに刺激されて、おなじような組織イタリーの〈ヌオヴァ・コンソナンツァ〉グループなどがすでにうまれている。
+
+オースティンは、またコンポーザー・パフォーマー・エディション（C・P・E）という出版社を設立。〈ソース Source〉と名づける前衛音楽のためのユニークな雑誌の編集や楽譜・レコードの出版をおこなっている。
+
+〈オーケストラとジャズ独奏者のための即興曲〉 1963年
+〈メーズ（迷路）〉 1966  3人の打楽器奏者、ダンサー、テープ、機械映像による
+〈変化〉 1966  トロンボーン、テープ
+〈アクシデンツ〉 1967  電子的変調ピアノ  テープ、フィルム
+
+オースティンの作品は、MJQ出版社とC・P・E出版社から出版されており、レコードが米コロムビア N・M・Eから発売されている。
+
+この〈プラス〉という作品は、サウンド・トラックなしの映画とライヴ・エレクトロニックとの結合からなる。アメリカン管楽五重奏団の委嘱でつくられたが、フィルムは1967年9月にマース カニングハム スタジオで撮影。スライド部分は オープン フォームとよぶ構想のもとに2年間かかって作成された。
+
+音は弱音器のなかに仕掛けたマイクをとおして電子的に増幅・変調されたが これをわたしはマイクロ サウンドと呼びたい。演奏は映画中にでてくるアメリカン管楽五重奏団のメンバーによるものだが、フィルムとスライドを上映しながら、それにしたがって奏法を考えて演奏されたもので、今回のテープは1967年11月6日に演奏されたもの。
+
+上演に際しては映像とテープは同時性（シンクロ）をもつ必要はない。（作曲者）
+
+Larry Austin ラリー・オースティン
+
+=== Page 22 ===
+(BABBITT, CHIHARA)
+
+COMPOSITION FOR FOUR INSTRUMENTS was composed in 1947-48 and is the second of six works entitled "compositions" extending over a fifteen-year period (the first was Three Compositions for Piano, 1946-47). I chose this term not only to avoid titles with historical or formal connotations, and to suggest (in order to prepare the listener for) a certain degree of abstractness and formalism, but primarily to provide information about the musical "language" employed and specific characteristics of the individual work. In the former case, the term "composition" is associated with the operations on permutations corresponding to a familiar representation of the customary transformations of the twelve-tone system; while in the latter case the term is applied to partitions in which the order of parts is significant, corresponding musically to the registral and timbral partitioning of the twelve-tone aggregate: the unit of ensemble progression, whose "parts" are always segments of a twelve-tone set, and, therefore an ordered pitch collection.
+
+Composition for Four Instruments is the second work I completed after a war-enforced, six-year respite from composition. Before and during this period I was engrossed in the compositional extension and generalization of the Schoenbergian principle of "combinationality," and the Webernian technique of set construction by derivation. In this piece, the twelve-tone set is never presented in an explicit manner. The sets that constitute the pitch material of the individual instruments are all "derived" (by the three operations of the twelve-tone system) from the four discrete hexachords of the work's set, and share a common hexachordal combinationality with each other and with the set of the work. The opening clarinet solo begins by exposing an all-interval set, which functions thereafter as a foreground thematic set. It is produced by a registral delineation of the compositional set's opening trichord and three transformations that form, together, the first of the eight aggregates making up this section. From an awareness of this aspect of the work's structure, its most immediate design characteristic - the fifteen instrumentally defined sections - is observed to function as a large-scale analogue to that disposition of trichords.
+
+Composition for Four Instruments is also the second of my completed works in which the temporal dimension is structured in terms of the formation and transformational principles of the twelve-tone pitch-class system. Thus, it is not just serialized but twelve-tone serialized. It embodies not just a contextual analogy, but a compositional definition of the temporal elements of attack point and metrical organization. Time perception is scaled "intervallically" (with duration functioning as temporal interval) and, thereby, invariants under the operations of the system assume an empirical status in the time domain, one that is closely comparable to their position in the pitch domain.
+
+- Milton Babbitt
+
+PAUL CHIHARA was born in Seattle in 1938. He studied at Cornell University, earning a BA in English and a DMA in music. Later he worked privately with Nadia Boulanger in Paris, under a Cornell travel grant; at the Hochschule für Musik in West Berlin, with a Fulbright Fellowship; and for two summers at Tanglewood, once as a student of Gunther Schuller. Mr. Chihara's Four Pieces for Orchestra won the "Lili Boulanger Memorial Award" in 1963, and his Concerto for Viola and Orchestra was presented by the Baltimore Symphony in 1965. He is now an Assistant Professor in the music department at UCLA. Various instrumental and choral works of Mr. Chihara's are published by Wimbledon Music, NYC, and the Summy-Birchard Company.
+
+=== Page 23 ===
+ポール・チハラ（千原ポール・清弘）
+
+1938年シアトル生れの日系二世の作曲家。コーネル大学で英文学を学び、BAとDMAを受けた。のちコーネル大学奨学金をうけてパリでナディア・ブーランジェに師事。またベルリン音楽学校に学んだ。1963年には〈オーケストラのための４つの小品〉により、リリー・ブーランジェ記念賞を受賞、また〈ヴィオラとオーケストラのための協奏曲〉が、第１次ロックフェラー財団計画によって、ボルティモア交響楽団により演奏された。のちにタンブルウッドでガンサーシュラーに師事。現在はカリフォルニア大学（ロスアンジェルス）の音楽部助教授、活潑な前衛音楽のコンサート活動もおこなっている。
+
+かれの作品は、ウィンブルドン音楽出版社及びスミーバーチャード出版社から出版されている。
+
+〈プランチズ〉（枝の曲）は、かれの木を扱った音画連作の第２作。３つのヴィオラと３つのトロンボーンのための〈木の曲〉1965年、ヴィオラと打楽器のための〈レッド・ウッド〉1966年、オーケストラのための〈森の曲〉などと一連の作品である。これらの音画はすべて同族セリエールの技法をもちいており、空間と時間の相互作用がこころみられている。つまり音の空間的な記譜法と、実際的な音の位置づけといった関係が示めされているといえる。
+
+この〈プランチズ〉では、ピッチの異なるドラム群（G、A、B、C♯、D、D♯、E、F）が行動をおこし、曲の高低をえがきだしていく。そして２つのバスーンは、まるで風に吹かれた枝のような音をだしながら、そのドラム群を追っていくのだ。初演は1966年タンブルウッド音楽祭でやられたが、そのご西独のカッセルのほか、シアトル、クリーヴランド、そしてロスアンジェルスでひらかれたI・S・C・M音楽祭でも演奏された。
+
+Robert Morris　ロバート・モリス
+
+ロバート・モリス
+
+1943年英国のシェルトンハム生れ。イーストマン音楽学校でB・M、ミシガン大学でM・Mを受く。現在はミシガン大学で教えるかたわら作曲、ならびに民族音楽を研究して博士論文を書きつつある。
+
+かれはロスリー・フィニー、レスリー・バセット、ニコロ・カスティリオーニ、ユージン・クルツらに師事したが、またタンブルウッドではガンサーシュラーにもついた。のちにアン・アルボールで、ラ・サルベック、ウィリアム・
+
+=== Page 24 ===
+(CHIHARA, IIMURA-LUCIER)
+
+BRANCHES is the second in a series of tone pictures dealing with trees (The others are Tree Music, for three violas and three trombones; Redwood, for viola and percussion; and Forest Music, for orchestra.). These tone pictures - all of which use the same family of tone rows, grow out of the interaction of time with space; they are reflections on spatial notation and its relationship to the physical placement of sound. In Branches, the principal sound source is a set of chromatically tuned tenor drums (pitched in G, A, B, C#, D, D#, E, and F) that initiates the action and shapes the contour of the piece. The two bassoons, like branches blown by the wind, follow and react to the motion of the drum sound.
+
+- Paul Chihara
+
+TAKAHIKO IIMURA was born in 1937 and graduated from Keio University in 1960. His first one-man show was in Tokyo in 1963, and one year later his Onan won a special prize at the 3rd International Experimental Film Festival in Brussels. On his return to Japan in 1964 Iimura founded "Film Independent" as a result of interest in experimental cinema. He was invited to Harvard University's International Seminar, and his films have been shown at the Cannes Film Festival, The Museum of Modern Art, Lincoln Center, and many universities. His works include: Onan, Love, and Dance Party in Delipat Kingdom.
+
+ALVIN LUCIER was born in Nashua, New Hampshire in 1931, and studied at Yale University, Brandeis University, and in Rome on a Fulbright Fellowship. He is presently on the faculty of Brandeis, where he directs the University Chamber Chorus and the University Electronic Music Studio. During the past several years, he has toured in Europe and America as a member of the Sonic Arts Group. His works include: Action Music for Piano, aural and theatrical (1962); Music for Solo Performer, for a performer's amplified brain-waves, assistant, and differential amplifier-low pass filter (1965); Whistlers, sounds created by the spinning electromagnetic particles that track between the poles of the magnetic field above the earth (1966); North American Time Capsule for voices using materials representative of the current state of the world, modified by the Sylvania Electronics Systems' vocoder (1967).
+
+SHELTER 9999 is a collaboration between Alvin Lucier and film maker Takahiko Iimura. The visual materials consist of one 35-minute exposed length of film, the emulsion of which has been variously scratched; 4 film loops - also black and white - in which holes have been strategically punched; and a set of 12 topical colored slides. All of these materials are superimposed on the same screen by 3 movie projectors and one slide projector according to a specified plan. The images from the slides and loops are altered by two performers using colored gels, lenses, and magnifying glasses.
+
+=== Page 25 ===
+オルブライト、デーヴィド・アンドルースらと、〈グレート・ソサエティ〉グループを組織。1965年にはマックス・フリッシュの演劇のための音楽をシラキュース大学から委嘱され、またロックフェラー計画により、ボルティモア交響楽団によって作品が初演された。
+
+現在アメリカのもっとも若い世代の作曲家ということができよう。
+〈フロンデスヌス〉1965　フルートとピアノ
+〈サギタ“67〉1967　フルート（任意数）と弦楽、打楽器
+〈黒光輪〉　オーケストラ
+〈ナイト・クローラーズ〉　テープと舞踊手
+〈デンクメラル〉　劇場作品
+〈忘れられた振動〉　10楽器とソプラノ
+〈カプリコーン“68〉　9人以上の奏者と3人以上の指揮者
+
+〈アンダー・グラウンドからの手記〉は、構造的な方法として不確定性をもちいているかれの一連の作品のひとつ。この作品の音は、明確な音から不確定な音にいたるまでが使われ、また音声も明確に識別できるものから曖昧な音までがもちいられている。
+
+作曲者はこう書いている。「歴史的にいって、音楽についての興味とは、つねに予見できるものと予見できないものとのかねあいにあったといえる。即興演奏では、演奏者は自からの演奏がそのままフィード・バックになって働く。ところが紀元600年から1950年に至るまでの音楽は、書かれた楽譜をそのまま演奏するといったことによって、ともすれば単なる機械へと堕してきた。この場合は、即興演奏がおこなわれているときとちがって、作曲家は自分が作曲している時以外には、自分の音楽をもはやきけないのである。
+
+最近10年間の作曲家の問題は、作曲をやめずにどのようにして自分の音楽を聴くかということにしばられているのだ。
+
+この作品では、なかば空間的な記譜法をとっているので、各時間を指定されている各セクションの時間が長ければ、それにしたがって記譜された断片は、不確定的な要素がふえてくる。〈サギタ67〉以来、わたしはこうした考えのもとで、作曲してきた。記譜された音楽であろうと　テープ音楽であろうと、そこに提出されたものはスタティックな確定の点である。演奏者はそこから出発して、自由な解釈をひろげるべきなのだ。私がここでもくろんだのも、こうした確定的な点をふみこえてしまわずに、予見できない要素をできるかぎり多く提供したいとこころみることだった。」
+
+（作曲者）
+
+武田明倫
+
+1937年金沢生れ。1962年に東京芸大音楽学部楽理科を卒業。同年小杉武久らと〈グループ・音楽〉を組織して、作曲やハプニングをつづけた。1965年以来、武蔵野音楽大学で音楽史の講座をうけもっている。また現在〈音楽芸術〉誌上に、柴田南雄ら4人のグループ・ワーク〈音と思考〉を連載執筆している。作品としては、弦楽器のための〈変化〉1963、〈パッセージ〉1964、テープ作品〈開けた音〉1965　などがあるが、寡作である。しかしイヴェントやハプニングの奏者として、これまでに多くの作家の作品に参加したり、ケージの来日した際の演奏者として加わるなど、活動をつづけてきた。
+
+=== Page 26 ===
+(IIMURA - LUCIER, MATSUDAIRA)
+
+4 channels of tape sound run concurrently with the visual materials, though no effort is made to achieve synchronization. The sounds originate with polarized vibrational pick-ups. These devices selectively "analyze" aural (or vibrational) phenomena because they are relatively more sensitive to vibration along one axis than along the others (e.g., more sensitive to the y-axis of an x-y-z coordinate system). The 4 channels of sound, formed of two 2-channel stereo tapes also use loop techniques. Familiar aural and visual elements incessantly recur, but in rapidly, constantly changing superpositions. The effect is powerful, sometimes psychedelic.
+
+YORI-AKI MATSUDAIRA was born in 1931 in Tokyo, and is self-educated in piano and composition. He graduated from Tokyo Metropolitan University with a PhD in biology from the faculty of science, and now teaches in the Saint Paul University biophysics department. In 1967, Configuration was done at the ISCM Festival in Prague. During 1965 and 66, Mr. Matsudaira visited and worked in Europe and the United States. He was, at that time, the Japanese delegate to the ISCM. His works include Variations for violin, cello, and piano (1957); Configuration for chamber orchestra (1961-63); Transients '64, electronic sound; Rhymes for Gazzelloni for flute (1965-66); What's next? for soprano and 2 noise makers (1967); and Alternation for combo (1967). Variations, Configuration, and Rhymes for Gazzelloni are published by Edizioni Suvini Zerboni, Milano, Italy.
+
+DISTRIBUTIONS was composed during 1966 and 67. In the foreground is a string quartet, while from the rear, speakers emit sounds that are the modulated product of two portions of the quartet's live sound. The composition is made up of material in the following conditions:
+O) one short portion in imitation of the tuning of the instruments (This segment also employs A and C.)
+A) a cluster of relatively long duration, gradually approaching the condition D
+B) an arpeggiated gesture that gradually approaches the status of C or D
+C) glissandi that gradually approach the condition D
+
+D) an extremely complex spectrum (noise) (Considering the analytic capabilities of our ears - they have limited powers of resolution - extreme complexity is interpreted as undifferentiated chaos. For this reason, one may say that D approaches E.)
+E) inaction
+When seen in terms of its duration and order of appearance, each "condition" complies strictly with some type of mathematical distribution: Poisson's distribution, normal distribution, etc.
+
+=== Page 27 ===
+2人の奏者のための〈場〉について
+
+シェーンベルクの12音技法から、ミュージック・セリエルや電子音楽を発展させた、ヨーロッパ近代文化を「正統」とする立場から、今日いわば、正統的前衛主義者と考えられている作家達の「思考」、すなわち「作曲技法」においては、一般的傾向として、「音」は実在的な「音」である前に、抽象的な「音高」として、「音価」として、「強弱」として、あるいは「音色」として在らねばならなかった。そして更に、このような「パラメーター」の総体として観念的に規定された「音」は、それ自体、自立的に存在し得るのではなく、より上位の構造を構成するための「素材」としてしか在ることができなかった。勿論、「技法」が一種の「便法」である以上、このことのみを取り上げてこれらの作家達の行き方を全面的に否定するつもりは全くない。しかし、私自身が求める「音」は、主として数理的な思考と操作によってその存在の場を保証されて在るような「音」ではない。あたかも自ら息づきつつその実在の瞬間を、深く埋めて在るような「音」なのだ「2人の奏者のための〈場〉」で、私は「音」がそのような「在り方」をする〈場〉を構成しようと意図した。
+
+このことを実現するため、この作品では「音」に極度に執着し、表裏一体の関係として、その「音」が感性豊かな「人間」によって発せられるものであることに執着した。そしてこの作品において「音」は、「音高」・「音価」・「強弱」、あるいは（厳密にはすべてを総合したものとしてのみ認識される）「音色」などの、個々の「価」としての量的な制約を持たない。当然のことながら、記譜法は伝統的な5線記譜法ではない方法をとっている。「楽譜」は奏者に「奏法」と「2奏者間における呼吸の合一」とについては厳格な指定を与え、「音」の音の次元における形態に関しては、多分にあいまいでありながら、作者の主観的な希望についての情報を与える役をしている。演奏に用いられる楽器は、ヴァイオリン属の弓奏弦楽器であれば何でもよい。なお、この作品にとりいれられた「不確定性」は、ケージの「偶然性」とは異質なものである。（武田明倫）
+
+ミルトン・バビット
+
+1916年フィラデルフィア生れ。今日ではアメリカ作曲界の大御所的な存在であり、セリエル音楽の指導者格でもある。1940年以来、ボストン・ウェーベルン派として、かれはアメリカでおそらく最初に厳格なセリエル技法を適用した作曲家といってよいだろう。
+
+1931年にニューヨーク大学に入って数学・論理学を専攻。そのごシェーンベルクとウェーベルンに強い刺激をうけて、音楽をはじめるようになった。そしてM・バウアー、F・ジェームス、ロジャー・セッションズらについて学び、1942年プリンストン大学を卒業。1938年以来、母校プリンストン大学で数学と音楽を教えた。戦後シンセサイザーを備えたプリンストン電子音楽スタジオを創設、ディレクターとなって現在に及んでいる。
+
+〈12楽器のための作品〉 1948年
+〈弦楽四重奏曲〉 2曲 1958-60年
+
+=== Page 28 ===
+(MATSUDAIRA, MORRIS)
+Further, each condition, if the collection of all of its appearances is viewed as a whole, is arrayed from simpler to more complex forms. In the process of gradual complication, each element is converted, assuming the nature of an opposite (for example, A→D, B→C, B→D, C→D, and D→E). Since the most complex section occurs at the very end of the piece, the aural experience should effectively go from simple to complex and back to simple (due to the psychological equivalence of D to E). - Yori-Aki Matsudaira
+
+ROBERT MORRIS was born in Cheltenham, England in 1943. He received his BM from the Eastman School of Music and an MM from the University of Michigan. Presently completing his Doctorate in Composition and Ethnomusicology at the University of Michigan where he is a teaching fellow, he has studied with Ross Lee Finney, Leslie Bassett, Niccolo Castiglioni, and Eugene Kurtz. At the Berkshire Music Center (Tanglewood) as a Margaret Lee Crofts Fellow, he worked with Gunther Schuller, and in 1965, the University of Syracuse commissioned him to write music for Max Frisch's Biederman and the Firebugs. He also participated in the Rockefeller Foundation's program for orchestral readings by the Baltimore Symphony Orchestra. In conjunction with Russell Peck, William Albright, and David Andrew, Mr. Morris co-founded The Great Society, a theater group in Ann Arbor. His works include: Frondescence 65 for flute and piano; Sangita 67 for any number of flutes, strings, and percussion; Dark Halo for Orchestra; Night Crawlers for tape and dancers; Denkmaeler, theater event; Forgotten Vibrations for ten instruments and soprano; and Capricorn 68 for nine to infinity players, with at least three conductors.
+
+In the history of art music, the listener's interest within some understood set of rules, traditions, proprieties, forms, etc., is what will happen, that is, the relationship of predictable to unpredictable elements in a piece of music. If the music is improvised (instead of notated descriptively or in any way), the performer also becomes involved as a listener. His perception of what he is playing acts as a feedback governing how or what he will play next.
+
+In Western Music from 1600-1950 there has been the figure of the composer as an autonomous personality who structures the whole musical situation so that the players become ultimately mere machines translating a notational system into an aural one. In such a position the composer can never become a listener except when he is actually composing, since once the piece is completed, he "knows" it (in the sense that he has totally determined it).
+
+The nearer we get to the present the more crucial the problem becomes, and it seems to me that the composer's problem in the last ten years has been how to become a listener again without giving up composition.
+
+NOTES FROM THE UNDERGROUND (1966) is one of a series of pieces that employs indeterminacy as a structural device. The sounds used are arranged in a continuum from clearly recognizable pitches to ambiant noises. The vocal elements are likewise disposed from purely phonetic sounds to an almost phonemic section based on the permutation of the letters of a five-letter word. A semi-spacial notation is used, placing events within sections of various lengths. The result will be progressively more unpredictable the longer the section.
+
+I continued this train of thought in subsequent works (Sangita 67, Next to Last Rites, and Capricorn 68) where notation or a prerecorded tape serves as a static, determinant element from which the performers can interpret/improvise. I hoped to bring to these pieces that special quality of the unforeseen, without trespassing the boundaries I had originally conceived.
+
+- Robert Morris
+
+=== Page 29 ===
+〈テナーと6楽器のための作品〉 1958〜60年
+〈シンセサイザーのための作品〉 1961年
+〈シンセサイザーのためのアンサンブル〉数曲
+1961〜63年
+〈ファイロメル〉1963年　ソプラノ及び録音されたソプラノの声とシンセサイザー
+
+〈4つの楽器のための作品〉へのノート
+この作品は1947〜48年にかけて作曲したもので、1946〜47年の〈ピアノのための3つの作品〉を最初としてはじまった15年間にわたる〈作品（コンポジション）〉と名づけられた6つの作品の第2番目にあたるものだ。
+
+〈コンポジション（作品）＝つまりコンポジチオ〉の名をえらんだ理由は、歴史的、または楽曲形式による名前によってうまれる無用な連想をさけながら、同時に、聴衆にある程度の抽象性と形式性を意識させることである。そればかりでなく、それは私のもちいる音楽言語の性質と作品そのものの特性について、あらかじめ情報を提供するということにほかならない。
+
+つまりコンポジチオという名称は、12音組織の一般的な変形法の慣習的なやり方である音の順列組みあわせ操作——セリエルの音列技法を意味する。またこの名称は、12音の総体を、音高と音色によって区分し、その区分の順序、およびその部分がつねに12音の音高のセットからなる全体の時間的な推移を重要視するものと考えられているはずだからである。
+
+この〈4つの楽器のための作品〉は、戦争によって中断された6年間の休息ののちにできあがった第2の作品である。この前後の時期に、私はシェーンベルクの〈結合の原理〉の拡張とその一般化、およびウェーベルンの〈派生法〉によるセリー構成の技法に熱中した。その結果この両者は私の考えのなかで、切り離しがたく合体し、相関した。
+
+この作品のなかでは、12音のセットは、ふつうの意味では明白には示されない。個々の楽器の音高素材を形成するセットは、すべて作品のセットをなす6音から（12音組織の3つの基本
+
+Milton Babbitt ミルトン・バビット
+
+=== Page 30 ===
+AKIMICHI TAKEDA was born in 1937, and graduated in musicology from Tokyo University of the Arts in 1962. Beginning at this time, he participated with Takehisa Kosugi, Shuko Mizuno, Yasunao Tone, and Chieko Shiomi in the "Group Ongaku" (Music Group). He has been teaching music history at the Musashino Music Academy since 1965, and is presently working on a collective article "Sound and Thought" carried in installments by the Japanese magazine Ongaku Geijutsu. His compositions include: Changes for string instruments (1963); Passages for unspecified performer(s) (1964); and Open Sounds for tape (1965).
+
+If one views the development of modern European music from Schoenberg through serialism and electronic music as legitimate, one can say that, for Europeans, tone is above all an abstract entity characterized by pitch, duration, intensity, and tone color. There is another European supposition: that the overall tonal form is a result of relationships between these parameters, and that sound itself can only be thought of as raw material by means of which a structure on a higher plane can be achieved. Because this viewpoint and technique itself are only conventions, I do not intend to detract from them. On the other hand, the world of tone that I envisage is not the kind of world in which existences can be guaranteed by mathematical thinking. I rather propose a world of tonal existence in which each moment is interred with a vital, self-breathing tonal event.
+
+In A FIELD, I have tried to construct a situation in which tones are given such a mode of being. In order to realize my design, the work is carefully restricted to the use of "tone" itself. It is vital, therefore, that the sounds be performed by persons with rich sensibilities: the tone and its producer should be inseparable. In my composition, "tone" is not thought of quantitatively in the European manner (Tone color can only be perceived as a complex of factors, but even it is broken down, quantified, by the Europeans.).
+
+As a matter of course, I have used a non-traditional manner of notation. It gives strictly directive information concerning playing method and also about the way in which rapport between the players may be attained and developed. Information on the specific characteristics of the tones themselves, however, is quite ambiguous, conveying only the subjective wishes of the composer. Any instruments from the string (violin) family may be used in performance. It should be noted that the indeterminacy used in this composition is not in agreement with John Cage's approach. I always envisage a total structure (or product), and try to transmit this to the performer and listener as accurately as possible.
+
+- Akimichi Takeda
+
+=== Page 31 ===
+操作によって）、すべて〈派生〉したものである。そして共有する6音の結合と相互に関係し、かつ作品全体としても連関する。
+
+冒頭のクラリネットのソロは、全音程のセットを呈示し、これが終りまで、前景をなす主題的なセットとして働く。それは、最初の3音と3つの基本的な変形の音高により描かれ、このセクションを形成する8個の部分の第1の部分となる。作品構造のこの局面の意識から、15の楽器によって区分されたセクションが、直接的にあらわれるデザインの特性として生まれ、最初の3音の性向の巨視的な類比物として作用する。
+
+〈4つの楽器のための作品〉は、時間または持続の領域が、12音システムの形成原理ならびに変形原理によって構成されている私の作品の第2番目のものである。したがって、この音楽はたんに〈セリー化（音列化）〉された作品であるだけでなく、〈12音的にセリー化〉されたものといわれなければならない。言いかえれば、ここでは音楽の時間的な要素は、文脈的類似性にしたがって並べられるといっただけではない。各音の開始点と、すべての音のリズム的組織そのものが、コンポジチオの定義によって規定されているのである。時間の知覚は、〈音程的に〉（持続を時間的音程とみなして）スケール化されているのだ。
+
+このようにして、作品の組織の操作における恒数的なものが、音の高低の領域でと同様、時間の領域における経験の土台となるのである。（ミルトン・バビット）
+
+松平 賢 晓
+
+1931年東京生れ。1957年東京都立大学大学院理学研究科を修了。この間独学で作曲とピアノを学んでいたが、かれの父上は作曲家の松平賢則氏である。かれ自身によれば、父上からはいちども教わらなかったという。
+
+1957年に、父上の弟子であった江崎健次郎、下山一二三、遠藤亮らと〈グループ・20.5〉を組織。たびたび演奏会をひらいた。いっぽうかれの作品〈V. VC. Pのためのヴァリエーション〉が1958年の世界音楽祭に入選。1967年にも再度〈室内オーケストラのためのコンフィギュレーション〉が入選した。また1967年第1回ロッシュ音楽奨励賞を受賞している。
+
+1965～66年にかけて欧米各地に滞在。この間にフィラデルフィア作曲家フォーラムの名誉会員に推挙された。現在、立教大学理学部・生物物理学研究室の助教授。
+
+*〈変奏曲〉VI, VC & P 1957年
+〈速度係数〉F1, 鍵盤楽器、打 & P 1958年
+〈位相〉 1959年
+〈軌道〉F1, CI & P 1960年
+〈インストラクション〉 P 1961年
+〈コアクション〉VC & P 1962年
+〈トランジェント64〉電子音楽 1963－1964年
+*〈コンフィギュレーション〉
+室内オーケストラ 1961－1963年
+*〈韻〉F1 1965－1966年
+〈分布〉弦楽四重奏とリング変調器 1966－1967年
+〈What's nexk?〉ソプラノとノイズ・メーカー（2） 1967年
+〈オルタネーション〉コンポ 1967年
+*印は………Edizioni Suvini Zerboni社により出版
+
+=== Page 32 ===
+■1967-68年のシーズンに、〈クロス・トーク〉は下記の作曲家および映画作家の作品を、世界初演、または日本初演をふくめてとりあげました。
+アシュレー、オースティン、バビット、バーマン、ケージ、千原、フルンド、一柳慧、飯村隆彦、アイヴス、小杉武久、ルシエ、マルティラーノ、松平顕隆、水野修孝、モリス、ムンマ、ネルソン、サティ、シリング、スポットニック、ライヒ、レイノルズ、高橋悠治、武田明倫、武満徹、湯浅譲二（5月に予定されている作品を含む）
+
+■〈クロス・トーク〉では、1969年の春にライヴ・エレクトロニック・ミュージックの音楽祭を計画、進行中です。
+アメリカから、数人の作曲家と技師を招待して、さまざまなデモンストレーションやコンサートをおこなう予定です。それと同時に、日本の若い作曲家や技術者のために、電子音響機械（リング・モデュレーター、フォト・セル、コムピューター、変調器その他）を使用するゼミナールを行います。電子工学と芸術との新しい結びつきや、その可能性が活発にこころみはじめられている今日、こうしたエンジニアリングへの新しい視野をひろげることは意味のあることでしょう。
+
+■1969年春以降の予定としては、目下さまざまな構想を検討中ですが、次のような、いわゆるインター・メディアともいうべき動向をうかびあがらせるコンサートを計画しています。
+88人の奏者と聴衆を参加させるイアニス・クセナキスの〈テレテクトール〉1966、ジョン・ケージが目下イリノイ大学のコムピューターを使って作曲中の〈HPSCHD〉（これは50チャンネルにわけられたテープとハープシコード奏者による作品）、さらにアメリカから帰国した武満徹がオペラティックな作品として構想中の〈フライト〉（オーケストラ、マイム、舞踊、映画、テープその他を使用）などを予定しています。
+
+■このほか、特別コンサートと、定期的なコンサートも継続しておこなう予定ですが、いずれ詳細は追ってお知らせします。
+
+=== Page 33 ===
+
