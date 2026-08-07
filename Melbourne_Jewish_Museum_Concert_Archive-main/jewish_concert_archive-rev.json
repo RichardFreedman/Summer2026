@@ -1,0 +1,2211 @@
+{
+  "archive_overview": "This JSON catalogs concert, revue, and theatrical performance programs found in a digitized collection of personal papers belonging to (or collected by) Majer 'Ivan' Pietruschka, a Polish-born violinist and orchestra leader. Pietruschka played in the Warsaw and Lodz Symphony Orchestras and conducted a silent-film orchestra in Berlin (1923-1932) before Nazi restrictions on Jewish musicians drove him to England in 1939. In 1940 the British Government transported him and other refugees to Australia aboard the HMT/HMAT Dunera (attacked three times by German U-boats en route), where he was interned as an 'enemy alien,' first apparently at Hay Camp (NSW) and later at Tatura (Victoria). After release, he joined the Australian Army's 8th Employment Company, entertaining troops with an orchestra he formed, and after the war played with the 3DB Orchestra and, from 1952, the Melbourne Symphony Orchestra. He married pianist-composer Phyllis Batchelor in 1946 and settled in Heidelberg, Victoria. Many entries below document a remarkable, internally consistent internee arts community (documented across multiple internment sites and a repatriation voyage) that reused songs, personnel, and even the same fairy-tale conceit (Snow White) across several years and productions. Non-concert material in the source collection (personal letters, certificates, family photographs, unrelated artwork, sheet music with no accompanying event data, and art exhibition catalogs) was excluded from this catalog.",
+  "concerts": [
+    {
+      "title": "Snowhite Joins Up",
+      "alternate_titles": [
+        "Snowhite: A Merry Xmas-New Year Revue"
+      ],
+      "type": "musical revue (pantomime/topical satire)",
+      "type_category": "Revue/Variety",
+      "venue": "Camp theatre (exact hall not specified)",
+      "location": "Hay Internment Camp, New South Wales, Australia",
+      "date": "1941",
+      "presented_by": "Internees of Hay Internment Camp",
+      "overall_credits": {
+        "written_produced_directed_by": "Doc K. Sternberg",
+        "music": "Ray Martin",
+        "musical_arrangements_and_piano": [
+          "Jonny Flynn",
+          "Rudolf Laqueur",
+          "Herbert Voss"
+        ],
+        "drums": "Kurt Mayer",
+        "scenery": [
+          "Emil Wittenberg",
+          "Klaus Friedeberger",
+          "Fritz Schoenbach",
+          "Heinz Tichauer"
+        ],
+        "costumes": [
+          "George Blank",
+          "Willy Herr",
+          "Kurt Rosenberg"
+        ],
+        "choreography": "Klaus Begach",
+        "masks": "Bernhard Joseph",
+        "stage_manager": "David Rummelsburg",
+        "assistant_stage_manager": "H. P. Kessler",
+        "technical_staff": [
+          "Karl Bazant",
+          "Alfred Deutsch",
+          "Kurt Gruenbaum",
+          "Bernhard Joseph",
+          "Siegfried Lehmann"
+        ]
+      },
+      "acts": [
+        {
+          "act_name": "Part I",
+          "songs": [
+            {
+              "number": "I(a)",
+              "title": "The Fairy Wood",
+              "type": "scene",
+              "credits": "Cast: The Queen - O. H. Mayer; The Master of the Bedchamber - Hugo Schuster; Prince Charming - Eric Liffmann; The Witch/Grandma - George Blank; Longnose - H. R. Risotto",
+              "additional_notes": "Opening fairy-tale scene establishing the Snow White frame story."
+            },
+            {
+              "number": "I(b)",
+              "title": "The Banquet",
+              "type": "scene",
+              "credits": "Two Ambassadors - Baron de Reissn[er], Ernest Hutterer; Mr. Internee - Josef Almas; Two Ladies - George Blank, Ernest Hutterer; Grandson - Alfred Jablonsky; Santa Claus - uncredited/illegible. The Ballet: Soloist Klaus Begach; Alfred Jablonsky, Mops Major, Klaus Presser, Fred Rosenthal, Erich Schlesinger, Armin Stern. The 'Ex-Ray' Melody Makers: Peter Alsberg, Kurt Flussmann, Heinz Hermannsohn, Werner Hirschfeld, Heinz Lippmann",
+              "additional_notes": "Comic banquet scene introducing 'Mr. Internee' as a character - direct acknowledgment of the internment-camp setting within the fairy-tale frame."
+            }
+          ]
+        },
+        {
+          "act_name": "Part II",
+          "songs": [
+            {
+              "number": "II(a)",
+              "title": "Broad Hay Melodies",
+              "type": "musical segment",
+              "additional_notes": "Segment title puns on 'Hay' (the camp) - likely a medley of the songs below."
+            },
+            {
+              "number": "II(a)-i",
+              "title": "Hay Days",
+              "composer_lyricist": "Words & music not separately attributed on this document (see related manuscript, additional notes)",
+              "lyrics": "Hay Days, Hay Days,\nMake your Hay Days your play days\nSing on every day, doodle-oodle-aye,\nSmile with never a care.\nHay Days, Hays Days,\nMake your Hay Days your gay days,\nYours is all the fun,\nYours is all the sun,\nFor it shines everywhere.\nLong as we're all pals\nAnd we're together,\nNever mind the rain and stormy weather,\nI know, you know,\nTroubles come but they do go,\nDoors will open up, you'll be right on top.\nLive your life your own way,\nCalling every day: HAY DAY.",
+              "additional_notes": "A full handwritten manuscript draft of this song (with an additional verse continuation) survives separately in the collection, suggesting it was drafted specifically for this revue. The title puns on 'Hay' Internment Camp."
+            },
+            {
+              "number": "II(a)-ii",
+              "title": "Say Hay for Happy",
+              "lyrics": "When you're feeling low-down,\nAnd when you've had a blow-down,\nTake it easy as it comes and goes.\nWhen you're feeling chilly,\nAnd everything looks silly,\nShow that you can be right on your toes:\nSay Hay for happy\nWhen you feel snappy,\nAnd you don't want to cry,\nSay Hay for happy\nWhen you feel snappy\nAnd you don't want to die.\nSo you'd even sell your overcoat\nFor just a sight of one more bite\nOf tasty \"Butterbrot\".\nBlow all your troubles\nAway like bubbles\nAnd start a little game.\nWithout your girlie\nYou get up early,\nOh what an awful shame!\nYou're saying R for Rosenthal,\nB for Blumenduft, and S for snappy -\nNow say: HAY FOR HAPPY.",
+              "additional_notes": "Directly adapted/reused in the later 1943 revue 'Sergeant Snow White' as 'Eight's for 'Appy' (substituting 'Eight's', for the 8th Employment Company, for 'Hay'). The lyric names real fellow-internees Rosenthal and Blumenduft in a comic spelling-out gag."
+            },
+            {
+              "number": "II(a)-iii",
+              "title": "Don't Release Me, Mr. Layton",
+              "lyrics": "[Refrain of the first 3 verses:]\nDon't release me, Mr. Layton,\nFor in here it's paradise,\nAnd if the words I said ain't true,\nThen I'm just telling lies.\n\n[Refrain of the last verse:]\nPlease release me, Mr. Layton,\nThat's my only wish to you,\nAnd all the words I said just now are absolutely true!",
+              "additional_notes": "An ironic protest song addressed to a camp/immigration official named Layton, using sarcastic reverse psychology (praising camp life) to express a genuine longing for release. A fuller handwritten draft of this song survives separately in the collection with all 5 verses (see the standalone song entry 'Don't Release Me, Mr. Layton' below for complete verses)."
+            },
+            {
+              "number": "II(a)-iv",
+              "title": "Good-bye to You, Australia",
+              "lyrics": "Good-bye to you, Australia, land of sun and peace,\nWe're sailing to freedom over the seven seas.\nWhen grey clouds are showing on top, let's get our kit-bags lined up:\nWe're sailing to freedom, with a \"V FOR VICTORY\" smile...",
+              "additional_notes": "Direct precursor of 'We Are Calling All Cobbers' / 'We Greet You Australia' in the 1943 revue 'Sergeant Snow White,' which reuses nearly identical lines with reversed sentiment (greeting Australia rather than bidding farewell), reflecting the men's changed circumstance from prospective deportees to enlisted soldiers."
+            },
+            {
+              "number": "II(b)",
+              "title": "Snowhite's Almanach",
+              "type": "segment - 'The Almanach', containing 4 chansons",
+              "credits": "Words by Fritz Gottfurcht, Rudolf Popper, Josef Almas, Egon Lehrburger, Ray Martin. Music by Alan Grey, Felix Popper, Frederic Hollaender, Eric Liffmann. Characters impersonated by Josef Almas, Leo Bieber, Hugo Schuster, Kurt Baier, Eric Liffmann, Peter Alsberg, Edward Nelken, H. R. Risotto, David Rummelsburg, Fritz Weidenbaum, Rudolf Laqueur.",
+              "additional_notes": "Titles of the 4 individual chansons within this segment were not given on the surviving page."
+            }
+          ]
+        }
+      ],
+      "additional_notes": "This is the direct predecessor of the 1943 Melbourne revue 'Sergeant Snow White' (see that entry), sharing the same writer-director (Doc K. Sternberg), composer (Ray Martin), the Snow White fairy-tale frame, and at least two reworked songs. Confirms the same community of internees carried their amateur theatrical tradition from Hay Camp (1941/42) through Tatura (1941-42, see related Tatura entries) to the 8th Australian Employment Company in Melbourne (1943). The document is incomplete: it breaks off partway through Part II and a likely Part III was not captured/preserved.",
+      "Complete credits": [
+        "Doc K. Sternberg",
+        "Ray Martin",
+        "Jonny Flynn",
+        "Rudolf Laqueur",
+        "Herbert Voss",
+        "Kurt Mayer",
+        "Emil Wittenberg",
+        "Klaus Friedeberger",
+        "Fritz Schoenbach",
+        "Heinz Tichauer",
+        "George Blank",
+        "Willy Herr",
+        "Kurt Rosenberg",
+        "Klaus Begach",
+        "Bernhard Joseph",
+        "David Rummelsburg",
+        "H. P. Kessler",
+        "Karl Bazant",
+        "Alfred Deutsch",
+        "Kurt Gruenbaum",
+        "Siegfried Lehmann",
+        "O. H. Mayer",
+        "Hugo Schuster",
+        "Eric Liffmann",
+        "H. R. Risotto",
+        "Baron de Reissn[er]",
+        "Ernest Hutterer",
+        "Josef Almas",
+        "Alfred Jablonsky",
+        "Mops Major",
+        "Klaus Presser",
+        "Fred Rosenthal",
+        "Erich Schlesinger",
+        "Armin Stern",
+        "Peter Alsberg",
+        "Kurt Flussmann",
+        "Heinz Hermannsohn",
+        "Werner Hirschfeld",
+        "Heinz Lippmann",
+        "Fritz Gottfurcht",
+        "Rudolf Popper",
+        "Egon Lehrburger",
+        "Alan Grey",
+        "Felix Popper",
+        "Frederic Hollaender",
+        "Leo Bieber",
+        "Kurt Baier",
+        "Edward Nelken",
+        "Fritz Weidenbaum"
+      ]
+    },
+    {
+      "title": "Don't Release Me, Mr. Layton (song manuscript)",
+      "type": "standalone original song (handwritten manuscript)",
+      "type_category": "Other",
+      "venue": null,
+      "location": "Hay Internment Camp, New South Wales, Australia",
+      "date": "1941",
+      "composer_lyricist": "Unattributed on the manuscript (performed within 'Snowhite Joins Up', see that entry)",
+      "lyrics": "1) We sang, \"You'll get used to it\", and other songs of ease,\nbut there's one song we never sang: a song about release,\nfor things are simply marvellous and if they stay that grand,\nWe'll soon be at the cemetery beneath a layer of sand.\nCHORUS: Don't Release me, Mr. Layton, for in here it's paradise\nand if the words I said, ain't true, then I'm just telling lies. -\n\n2) What do we care about the world or girlies if you please,\njust outside there's a war on and in here we live in peace.\nWe're all just pals who never fight and if you're ever hit,\nthe guy just wants to make you see the southern stars a bit. (Chorus)\n\n3) I wait and wait for letters, but I wait and wait in vain,\nI write down all my troubles, but no word comes back again.\nBut today I had a letter saying \"you can't feel so sad,\nI hear each day that Hay conditions aren't so overbad.\" (Chorus)\n\n4) With one word it's just marvellous so grand that I could cry\nI wouldn't find a better place on earth for me to die.\nI love each little day in here each fly within the air,\nand if they tease me in the heat, oh gosh, what do I care!!! - (Chorus)\n\n5) I think you all found out by now the lesson of this tune,\nI know how much you're longing to be out of here quite soon.\nI know there's just one single thing that moves us every day,\nand so to Mr. Layton there's but one thing we can say:\nEXTRA CHORUS (final): Please, release me, Mr. Layton, that's my only wish to you\nand all the words I said just now, are absolutely true.",
+      "additional_notes": "A satirical protest song by internees at Hay Camp, using sarcasm (elaborately praising camp conditions) to express a genuine desire for release, addressed to a 'Mr. Layton' (apparently a camp or immigration official). Performed (in shorter form) within the revue 'Snowhite Joins Up' (1941/42) - see that entry. Parodies the musical/rhetorical convention of a pleading 'release me' song.",
+      "Complete credits": []
+    },
+    {
+      "title": "Die Geschichte vom braven Soldaten Schwejk (The Story of the Good Soldier Schwejk)",
+      "type": "theatrical production with orchestra",
+      "type_category": "Theatrical",
+      "venue": null,
+      "location": "Tatura Internment Camp, Victoria, Australia",
+      "date": "1941",
+      "presented_by": "Internees of Tatura Internment Camp",
+      "overall_credits": {
+        "based_on": "The novel by Jaroslav Hašek, adapted for the stage by Rolf Stein",
+        "format": "9 Bilder (scenes), Prolog und Epilog",
+        "staging_and_title_role": "Josef Almas",
+        "stage_and_set_design": "Emil Wittenberg",
+        "music_using_czech_folk_songs": "H. W. Katz",
+        "orchestra_direction": "M. Pietruschka",
+        "costumes": "George Blank",
+        "assistant_director": "M. Rittermann",
+        "orchestra_members": [
+          "Chlumecky",
+          "Goldmann-Petersen",
+          "Gurland",
+          "Landauer",
+          "Maschke",
+          "Polatschek",
+          "U. Rosenthal",
+          "Silberstein"
+        ],
+        "collaborators": [
+          "Bazant",
+          "Bim",
+          "Pudelko",
+          "P. Danziger",
+          "Gross",
+          "Herr",
+          "A. Hirschfeld",
+          "B. Josef",
+          "S. Lehmann",
+          "R. Rosenberg",
+          "Strauss"
+        ]
+      },
+      "acts": [
+        {
+          "act_name": "Prolog",
+          "songs": [
+            {
+              "title": "Prolog",
+              "credits": "Leo Bieber"
+            }
+          ]
+        },
+        {
+          "act_name": "1. Bild: Im Wirtshaus 'Zum Kelch' (At the Inn 'The Chalice')",
+          "songs": [
+            {
+              "title": "Scene",
+              "credits": "Palivec (Wirt/innkeeper) - L. Abraham; Bretschneider - M. Rittermann"
+            }
+          ]
+        },
+        {
+          "act_name": "2. Bild: Schwejk im Gefängnis (Schwejk in Prison)",
+          "songs": [
+            {
+              "title": "Scene",
+              "credits": "Der traurige Mann (the sad man) - A. Rosenthal; Der wütende Mann (the furious man) - P. Gelbein; Der elegante Landstreicher (the elegant tramp) - E. Hutterer"
+            }
+          ]
+        },
+        {
+          "act_name": "3. Bild: Das Jüngste Gericht (psychiatric-exam scene)",
+          "songs": [
+            {
+              "title": "Scene",
+              "credits": "Polizeikommissar - E. Rosenthal; psychiatric authorities Prof. Blachhirn/Prof. Soolschreck/Prof. Schloch - W. Rechnitz, A. Ehrenzweig, H. Hirschberg/George Blank"
+            }
+          ]
+        },
+        {
+          "act_name": "4. Bild: Schwejk bricht auf (Schwejk sets off)",
+          "songs": [
+            {
+              "title": "Scene",
+              "credits": "Frau Mueller - Fritz Weidenbaum"
+            }
+          ]
+        },
+        {
+          "act_name": "5. Bild: Schwejk im Spital (Schwejk in Hospital)",
+          "songs": [
+            {
+              "title": "Scene",
+              "credits": "Patients Palivec/Pokorny/Kovarik - L. Abraham, G. Auer, J. Deutsch; Dr. Pimpfinger (Oberarzt) - H. Schuster; Ordonanz - F. Gelbein; Sanitäter - E. Rosenthal; Erzherzogin (Archduchess) - E. Hutterer"
+            }
+          ]
+        },
+        {
+          "act_name": "-- Pause (10 Minuten) --",
+          "songs": []
+        },
+        {
+          "act_name": "6. Bild: Bei Oberleutnant Lukasch",
+          "songs": [
+            {
+              "title": "Scene",
+              "credits": "Oberleutnant Lukasch - F. Schoonbach; Oberst Kraus - H. Schuster"
+            }
+          ]
+        },
+        {
+          "act_name": "7. Bild: Der Liebesbrief oder Kleine Ursachen - Grosse Wirkungen",
+          "songs": [
+            {
+              "title": "Scene",
+              "credits": "Palivec - L. Abraham; Kakonyi, Eisenhändler - J. Deutsch; Mizzi, Dienstmädchen - W. Frey; 1. Eskorte - E. Freind; 2. Eskorte - P. Gelbein; Zeitungsjunge - A. Rosenthal"
+            }
+          ]
+        },
+        {
+          "act_name": "8. Bild: Glückliche Reise",
+          "songs": [
+            {
+              "title": "Scene",
+              "credits": "Oberleutnant Lukasch - F. Schoonbach; Exzellenz von Schwarzburg - B. Kardegg; Kontrolleur - G. Auer; Würstelverkäufer - A. Rosenthal"
+            }
+          ]
+        },
+        {
+          "act_name": "9. Bild: Der Weg nach Budweis",
+          "songs": [
+            {
+              "title": "Scene",
+              "credits": "Der Bauer - E. Rosenthal; Stimme des Oberleutnant Lukasch - F. Schoonbach"
+            }
+          ]
+        },
+        {
+          "act_name": "Epilog",
+          "songs": [
+            {
+              "title": "Epilog",
+              "credits": "Leo Bieber"
+            }
+          ]
+        }
+      ],
+      "additional_notes": "A full-length dramatic adaptation of Hašek's satirical novel (distinct from, and much more extensive than, the brief 'Schweyk' comic sketch later included in 'Sergeant Snow White,' 1943). Confirms M. Pietruschka (orchestra leader), H. W. Katz (composer), and Emil Wittenberg (set designer) were part of the Tatura internee arts community about 18 months before the same individuals' involvement in the Melbourne productions of the 8th Australian Employment Company. September 1941.",
+      "Complete credits": [
+        "Rolf Stein",
+        "Josef Almas",
+        "Emil Wittenberg",
+        "H. W. Katz",
+        "M. Pietruschka",
+        "George Blank",
+        "M. Rittermann",
+        "Chlumecky",
+        "Goldmann-Petersen",
+        "Gurland",
+        "Landauer",
+        "Maschke",
+        "Polatschek",
+        "U. Rosenthal",
+        "Silberstein",
+        "Bazant",
+        "Bim",
+        "Pudelko",
+        "P. Danziger",
+        "Gross",
+        "Herr",
+        "A. Hirschfeld",
+        "B. Josef",
+        "S. Lehmann",
+        "R. Rosenberg",
+        "Strauss",
+        "Leo Bieber",
+        "L. Abraham",
+        "A. Rosenthal",
+        "P. Gelbein",
+        "E. Hutterer",
+        "E. Rosenthal",
+        "W. Rechnitz",
+        "A. Ehrenzweig",
+        "H. Hirschberg",
+        "Fritz Weidenbaum",
+        "G. Auer",
+        "J. Deutsch",
+        "H. Schuster",
+        "F. Gelbein",
+        "F. Schoonbach",
+        "W. Frey",
+        "E. Freind",
+        "B. Kardegg"
+      ]
+    },
+    {
+      "title": "Wir Reisen um die Welt / We Travel Round the World",
+      "alternate_titles": [
+        "Eine Revue in 9 Bildern",
+        "A Revue Without a Girl",
+        "Eine Revue in 10 Stationen (cover variant)"
+      ],
+      "type": "musical revue",
+      "type_category": "Revue/Variety",
+      "venue": null,
+      "location": "Tatura Internment Camp, Victoria, Australia",
+      "date": "1941",
+      "overall_credits": {
+        "idea": "R. (Robert) & E. (Ernst) Mass",
+        "music": "H. W. Katz",
+        "produced_by_director": "P. E. Schmitz",
+        "scenery": "Emil Wittenberg",
+        "dances_by": [
+          "Merzbach",
+          "Herz",
+          "Bank",
+          "Fischer"
+        ],
+        "orchestra": [
+          "Pietruschka",
+          "Katz",
+          "Cohn",
+          "Löwenhart",
+          "Silberstein",
+          "Wolff",
+          "Rosen",
+          "Adler"
+        ],
+        "vocal_coaching": "S. Cohn"
+      },
+      "acts": [
+        {
+          "act_name": "Full cast (German and English programme versions)",
+          "songs": [
+            {
+              "title": "Der Reisechef / The Manager of the Tourist Bureau",
+              "credits": "Peter Leicht"
+            },
+            {
+              "title": "Berger, ein Angestellter / Berger, Clerk",
+              "credits": "Ernst Mass"
+            },
+            {
+              "title": "Wondracek, der Hausdiener / Wondracek, the porter",
+              "credits": "Leo Komorner"
+            },
+            {
+              "title": "Herr Tremestaler",
+              "credits": "Stefan Bukowitz"
+            },
+            {
+              "title": "Herr Schmerbauch",
+              "credits": "Hans J. Meyer"
+            },
+            {
+              "title": "Don Fernando",
+              "credits": "Rolf Koenigsberger-M."
+            },
+            {
+              "title": "Don Orcho",
+              "credits": "S. Cohn"
+            },
+            {
+              "title": "Ivan",
+              "credits": "Hans Edelmann"
+            },
+            {
+              "title": "Wladimir",
+              "credits": "Leo Selig"
+            },
+            {
+              "title": "Zwei französische Strassensänger / Two French Streetsingers",
+              "credits": "Martin Reichwald & S. Cohn"
+            },
+            {
+              "title": "The Minister for Transport",
+              "credits": "Heinz Danziger"
+            },
+            {
+              "title": "His Chauffeur",
+              "credits": "Kurt Abrahamsohn"
+            },
+            {
+              "title": "A Taxidriver",
+              "credits": "Alfred Lewinsky"
+            },
+            {
+              "title": "Janosch/Janos",
+              "credits": "Karl Bazant"
+            },
+            {
+              "title": "Mikosch/Mikos",
+              "credits": "Stephan Petoe"
+            },
+            {
+              "title": "Sein John / His Son",
+              "credits": "Heinz Lopatka"
+            },
+            {
+              "title": "Ein Gondoliere / A Gondolier",
+              "credits": "Hans Edelmann"
+            },
+            {
+              "title": "Ein Diener / A Viennese",
+              "credits": "Stefan Bukowitz"
+            },
+            {
+              "title": "Ein Berliner / A Berliner",
+              "credits": "Gert Ruppin"
+            },
+            {
+              "title": "Heurigenwirt / A Viennese Innkeeper",
+              "credits": "Stephan Petoe"
+            },
+            {
+              "title": "Heurigensänger / A Viennese Singer",
+              "credits": "Karl Bazant"
+            },
+            {
+              "title": "Sam",
+              "credits": "Martin Reichwald"
+            },
+            {
+              "title": "A Hawaiian Barmaid",
+              "credits": "Buddy Schueftan"
+            }
+          ]
+        }
+      ],
+      "additional_notes": "This revue, structured as a comic 'world tour' (through France, Hungary, Venice, Berlin, Vienna, Hawaii, and a Transport Ministry sketch), survives in the collection as both a German-titled programme ('Wir Reisen um die Welt') and an English-translated programme ('We Travel Round the World,' subtitled 'A Revue without a girl' - an acknowledgment of the all-male internment-camp cast), with identical cast and crew. Two of its songs ('Ich hob' a Gspusi' and 'Pour t'embrasser je donnerai ma vie') were performed as excerpts in the dated concert 'Grosses Unterhaltungskonzert' (Tatura, 20 January 1942, see that entry), which places this revue at or before that date and confirms its Tatura origin. Multiple decorative cover variants survive, one reading 'Eine Revue in 10 Stationen' versus the interior programme's 'Eine Revue in 9 Bildern' (9 scenes) - a minor inconsistency, possibly an early draft title.",
+      "Complete credits": [
+        "Robert Mass",
+        "Ernst Mass",
+        "H. W. Katz",
+        "P. E. Schmitz",
+        "Emil Wittenberg",
+        "Merzbach",
+        "Herz",
+        "Bank",
+        "Fischer",
+        "Pietruschka",
+        "S. Cohn",
+        "Löwenhart",
+        "Silberstein",
+        "Wolff",
+        "Rosen",
+        "Adler",
+        "Peter Leicht",
+        "Leo Komorner",
+        "Stefan Bukowitz",
+        "Hans J. Meyer",
+        "Rolf Koenigsberger-M.",
+        "Hans Edelmann",
+        "Leo Selig",
+        "Martin Reichwald",
+        "Heinz Danziger",
+        "Kurt Abrahamsohn",
+        "Alfred Lewinsky",
+        "Karl Bazant",
+        "Stephan Petoe",
+        "Heinz Lopatka",
+        "Gert Ruppin",
+        "Buddy Schueftan"
+      ]
+    },
+    {
+      "title": "Grosses Unterhaltungskonzert (Grand Entertainment Concert)",
+      "type": "concert",
+      "type_category": "Concert",
+      "venue": "Camp concert hall (venue name not specified)",
+      "location": "Tatura Internment Camp, Victoria, Australia",
+      "date": "1942",
+      "presented_by": "Das Camp-Orchester (The Camp Orchestra)",
+      "overall_credits": {
+        "orchestra_direction": "M. Pietruschka",
+        "orchestra_members": [
+          "J. Chlumecky",
+          "O. Silberstein",
+          "A. Landauer",
+          "Dr. Maschke",
+          "G. Steinfeld",
+          "H. H. Gurland",
+          "Dr. Böhm",
+          "E. Hannach",
+          "S. Lehmann",
+          "S. Cohn",
+          "H. W. Katz"
+        ]
+      },
+      "acts": [
+        {
+          "act_name": "Teil 1 (Part 1) - At the Piano: H. W. Katz",
+          "songs": [
+            {
+              "number": 1,
+              "title": "Ouverture zu 'The Naughty Nineties'",
+              "composer": "H. W. Katz",
+              "based_on_tune": "uses English melodies",
+              "additional_notes": "Overture."
+            },
+            {
+              "number": 2,
+              "title": "Liebeslied",
+              "composer": "Fritz Kreisler",
+              "performers": "Violin Solo: M. Pietruschka"
+            },
+            {
+              "number": 3,
+              "title": "Walzer aus 'Der Graf von Luxemburg' (The Count of Luxembourg)",
+              "composer": "Franz Lehár"
+            },
+            {
+              "number": 4,
+              "title": "Es führt ein langer Weg",
+              "composer": "Traditional (Tschechisches Lied / Czech song)"
+            },
+            {
+              "number": 5,
+              "title": "Zwischenaktsmusik aus 'The Naughty Nineties'",
+              "composer": "H. W. Katz",
+              "based_on_tune": "uses English melodies"
+            }
+          ]
+        },
+        {
+          "act_name": "Teil 2 (Part 2) - At the Piano: S. Cohn",
+          "songs": [
+            {
+              "number": 6,
+              "title": "The Winning Fight, March",
+              "composer": "A. Holzman"
+            },
+            {
+              "number": 7,
+              "title": "Barcarolle, aus 'Hoffmanns Erzählungen' (Tales of Hoffmann)",
+              "composer": "Jacques Offenbach"
+            },
+            {
+              "number": 8,
+              "title": "Amina, Egyptische Serenade",
+              "composer": "Paul Lincke",
+              "performers": "Xylophone: A. Landauer"
+            },
+            {
+              "number": 9,
+              "title": "Turkish Trophies, an oriental rag",
+              "composer": "S. B. Egan"
+            },
+            {
+              "number": 10,
+              "title": "Liebessehnsucht, Tango",
+              "composer": "S. Cohn"
+            }
+          ]
+        },
+        {
+          "act_name": "Teil 3 (Part 3) - At the Piano: H. W. Katz",
+          "songs": [
+            {
+              "number": 11,
+              "title": "Walzer aus 'Die Csárdásfürstin' (The Csárdás Princess)",
+              "composer": "Emmerich Kálmán"
+            },
+            {
+              "number": 12,
+              "title": "Aus der Revue 'Wir reisen um die Welt'",
+              "composer": "H. W. Katz",
+              "additional_notes": "(a) Tango 'Ich hob' a Gspusi' (b) English Waltz 'Pour t'embrasser je donnerai ma vie'. Excerpted from the revue 'Wir Reisen um die Welt' (see that entry)."
+            },
+            {
+              "number": 13,
+              "title": "Ric and Rac, Foxtrot Intermezzo",
+              "composer": "H. W. Katz"
+            },
+            {
+              "number": 14,
+              "title": "Hawaiian Song",
+              "composer": "H. W. Katz",
+              "lyrics": "\"The sea is so blue and the stars are so bright\""
+            },
+            {
+              "number": 15,
+              "title": "Potpourri 'Von Heidelberg bis Richborough' (From Heidelberg to Richborough)",
+              "composer": "H. W. Katz",
+              "additional_notes": "Title references Heidelberg (a Melbourne suburb where Pietruschka later settled) and Richborough (a British refugee transit camp in Kent, near the Kitchener Camp, Sandwich) - a musical journey retracing the refugees' own displacement route."
+            }
+          ]
+        }
+      ],
+      "additional_notes": "One of several fully-documented Tatura camp concerts under M. Pietruschka's direction.",
+      "Complete credits": [
+        "M. Pietruschka",
+        "J. Chlumecky",
+        "O. Silberstein",
+        "A. Landauer",
+        "Dr. Maschke",
+        "G. Steinfeld",
+        "H. H. Gurland",
+        "Dr. Böhm",
+        "E. Hannach",
+        "S. Lehmann",
+        "S. Cohn",
+        "H. W. Katz"
+      ]
+    },
+    {
+      "title": "Arien Abend (Aria Evening)",
+      "type": "vocal recital",
+      "type_category": "Concert",
+      "venue": null,
+      "location": "Tatura Internment Camp, Victoria, Australia",
+      "date": "1941",
+      "performers": {
+        "vocalist": "Günter Hirschberg (Bass-Baritone)",
+        "accompanist": "Gerhard Hamburger (piano)"
+      },
+      "acts": [
+        {
+          "act_name": "I. Teil - Oratorien (Oratorios)",
+          "songs": [
+            {
+              "number": 1,
+              "title": "Pietà, Signore",
+              "composer": "Alessandro Stradella",
+              "additional_notes": "From 'San Giovanni Battista'."
+            },
+            {
+              "number": 2,
+              "title": "Into Thine Hand",
+              "composer": "J. S. Bach",
+              "additional_notes": "From 'Gottes Zeit' (Actus Tragicus, BWV 106)."
+            },
+            {
+              "number": 3,
+              "title": "It Is Enough",
+              "composer": "Felix Mendelssohn",
+              "additional_notes": "From 'Elijah'."
+            },
+            {
+              "number": 4,
+              "title": "For Behold, Darkness (The People That Walked in Darkness)",
+              "composer": "G. F. Handel",
+              "additional_notes": "From 'Messiah'."
+            }
+          ]
+        },
+        {
+          "act_name": "II. Teil - Opern (Operas)",
+          "songs": [
+            {
+              "number": 1,
+              "title": "Registerarie (Catalogue Aria)",
+              "composer": "W. A. Mozart",
+              "additional_notes": "From 'Don Giovanni'."
+            },
+            {
+              "number": 2,
+              "title": "Will einst das Gräflein (Non più andrai)",
+              "composer": "W. A. Mozart",
+              "additional_notes": "From 'The Marriage of Figaro'."
+            },
+            {
+              "number": 3,
+              "title": "Dort vergiss leises Flehn",
+              "composer": "W. A. Mozart",
+              "additional_notes": "From 'The Marriage of Figaro'."
+            },
+            {
+              "number": 4,
+              "title": "Verleumdungsarie (La Calunnia)",
+              "composer": "Gioachino Rossini",
+              "additional_notes": "From 'The Barber of Seville'."
+            }
+          ]
+        }
+      ],
+      "additional_notes": "Programme notice requests that patrons refrain from smoking ('Es wird gebeten nicht zu rauchen').",
+      "Complete credits": [
+        "Günter Hirschberg",
+        "Gerhard Hamburger"
+      ]
+    },
+    {
+      "title": "M. Pietruschka Chamber Concert (untitled programme)",
+      "type": "chamber concert",
+      "type_category": "Concert",
+      "venue": null,
+      "location": "Hay Internment Camp, New South Wales, Australia",
+      "date": "1940",
+      "overall_credits": {
+        "musical_direction_and_arrangements": "M. Pietruschka",
+        "manager": "Mr. S. Cohn",
+        "stage": "Mr. Emil Wittenberg"
+      },
+      "acts": [
+        {
+          "act_name": "Programme",
+          "songs": [
+            {
+              "number": 1,
+              "title": "Mazurka from the Ballet 'Coppélia'",
+              "composer": "Léo Delibes"
+            },
+            {
+              "number": 2,
+              "title": "Stephanie Gavotte",
+              "composer": "Alphons Czibulka"
+            },
+            {
+              "number": 3,
+              "title": "Hindu Song",
+              "composer": "Rimsky-Korsakov"
+            },
+            {
+              "number": 4,
+              "title": "Hungarian Dance No. 5",
+              "composer": "Johannes Brahms",
+              "additional_notes": "A handwritten violin-part manuscript of a 'Hungarian Dance' also survives separately in the collection, likely Pietruschka's own performance part for this piece."
+            },
+            {
+              "number": 5,
+              "title": "2 Ballads",
+              "performers": "sung by Mr. Ehrenzweig",
+              "additional_notes": "(a) 'Prince Eugen' by Carl Loewe; (b) 'The Campbells Are Comin'' (Old Scotch Ballad, traditional)"
+            },
+            {
+              "number": 6,
+              "title": "Humoresque",
+              "composer": "Antonín Dvořák"
+            },
+            {
+              "number": 7,
+              "title": "Minuet",
+              "composer": "Luigi Boccherini"
+            },
+            {
+              "number": 8,
+              "title": "Serenade",
+              "composer": "Charles Gounod"
+            },
+            {
+              "number": 9,
+              "title": "Moto Perpetuo (Allegro di Concerto for 3 violins)",
+              "composer": "Niccolò Paganini"
+            },
+            {
+              "number": 10,
+              "title": "Blue Danube Waltz",
+              "composer": "Johann Strauss II"
+            }
+          ]
+        }
+      ],
+      "performers_list": {
+        "Mr. Pietruschka": "Violin",
+        "Mr. Chlumecky": "Violin",
+        "Mr. Silberstein": "Violin",
+        "Mr. Goldmann-Petersen": "Violin",
+        "Mr. Landauer": "Guitarre",
+        "Mr. Gurland": "Flute",
+        "Mr. Ehrenzweig": "Bass"
+      },
+      "additional_notes": "Printed note: 'Mr. Huttenbach kindly has lent his guitarre, built by himself at Hay' - confirming this concert took place in or shortly after internment at Hay Camp, where internees built their own instruments. This programme survives in duplicate in the collection (two separately scanned copies of the same document).",
+      "Complete credits": [
+        "M. Pietruschka",
+        "S. Cohn",
+        "Emil Wittenberg",
+        "Ehrenzweig",
+        "Chlumecky",
+        "Silberstein",
+        "Goldmann-Petersen",
+        "Landauer",
+        "Gurland",
+        "Huttenbach"
+      ]
+    },
+    {
+      "title": "1st Concert (Recreation Department)",
+      "type": "concert",
+      "type_category": "Concert",
+      "venue": null,
+      "location": "Early Internment Camp",
+      "date": "1940",
+      "overall_credits": {
+        "programme_arranged_by": "M. Pietruschka",
+        "programme_designed_by": "Franz Stampfl (name uncertain)",
+        "compere": "W.A.B."
+      },
+      "acts": [
+        {
+          "act_name": "Selection of Light Classical Tunes (arr. M. Pietruschka)",
+          "songs": [
+            {
+              "title": "Ich liebe Dich",
+              "composer": "Ludwig van Beethoven"
+            },
+            {
+              "title": "Romance in F major",
+              "composer": "Ludwig van Beethoven"
+            },
+            {
+              "title": "Humoreske",
+              "composer": "Antonín Dvořák"
+            },
+            {
+              "title": "Die Uhr",
+              "composer": "Carl Loewe"
+            },
+            {
+              "title": "Memories from the film 'Love Affair'",
+              "arranger": "H. W. Katz"
+            },
+            {
+              "title": "Gipsy Melodies",
+              "composer": "Pablo de Sarasate"
+            },
+            {
+              "title": "Jewish Rhapsody",
+              "composer": "H. W. Katz"
+            }
+          ]
+        }
+      ],
+      "performers_list": {
+        "Mr. P. Leicht": "Bass-Baritone",
+        "Mr. S. Cohn": "Accompanist",
+        "Mr. Pietruschka and his Orchestra": "S. Cohn, A. Silberstein, J. Löwenhart, E. Hirsch"
+      },
+      "additional_notes": "Cover features a watercolor of three wildflowers. Recreation Department heading matches other camp entertainment programmes in the collection ('Unterhaltungskonzert', 'Tripe & Ol'-Ozs', 'Hay-Fever'). This is among the earliest-dated items in the collection, confirming M. Pietruschka led an orchestra from very early in his internment.",
+      "Complete credits": [
+        "M. Pietruschka",
+        "Franz Stampfl",
+        "W.A.B.",
+        "H. W. Katz",
+        "P. Leicht",
+        "S. Cohn",
+        "A. Silberstein",
+        "J. Löwenhart",
+        "E. Hirsch"
+      ]
+    },
+    {
+      "title": "Sergeant Snow White",
+      "alternate_titles": [
+        "A Happy-Go-Lucky Musical Revue of Bad Old and Good New Times"
+      ],
+      "type": "musical revue (three-act pantomime/wartime satire)",
+      "type_category": "Revue/Variety",
+      "venue": "Union Theatre, University of Melbourne (University Grounds)",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "1943",
+      "presented_by": "The 8th Australian Employment Company, A.M.F. (Australian Military Forces) - a labor unit largely composed of former 'enemy alien' internees (many Jewish refugees from Germany and Austria) based at Camp Pell, Melbourne, under Commanding Officer Capt. E. R. Broughton",
+      "overall_credits": {
+        "written_and_directed_by": "Sergeant Doc K. Sternberg",
+        "choreography": "Cpl. A. P. Schmitz",
+        "ballet_and_dances_arranged_by": [
+          "Cpl. A. P. Schmitz",
+          "Max Lewinsky"
+        ],
+        "musical_arrangements": [
+          "Ptes. S. Cohn",
+          "H. Fichmann"
+        ],
+        "special_musical_arrangements_by": "Ray Martin",
+        "band": "The Band of the 8th Australian Employment Company, A.M.F., conducted by L'Cpl. O. Fleischer",
+        "at_the_pianos": {
+          "April season": [
+            "Ptes. E. Fraenkel",
+            "H. Fichmann",
+            "Herbert Voss",
+            "S. Cohn"
+          ],
+          "May season (expanded)": [
+            "L/Cpl. H. Portnoj",
+            "Ptes. E. Fraenkel",
+            "H. Fichmann",
+            "Herbert Voss",
+            "S. Cohn",
+            "R. Laqueur"
+          ]
+        },
+        "in_charge_of_swing_choir": "Pte. E. Fraenkel",
+        "schrammel_quartet": [
+          "Sgt. W. Baer",
+          "Pte. A. Landauer",
+          "Pte. Reiter",
+          "Pte. O. Silberstein"
+        ],
+        "chansons_by": [
+          "E. Lehrburger",
+          "F. Gottfurcht",
+          "R. Popper",
+          "A. Grey",
+          "F. Hollaender"
+        ],
+        "poem_listen_brother_listen_sister_by": "Pte. S. Hochberger",
+        "stage_manager": "L/Cpl. A. Deutsch",
+        "make_up": "Pte. Carlos Baer (Beer)",
+        "masks_for_ballet_ghosts_of_europe": "Pte. E. Fabian",
+        "costumes_courtesy_of": "Messrs. J. C. Williamson Ltd.",
+        "wigs_by": "Messrs. L. Barnett & Sons",
+        "scenery_and_stage_decor": [
+          "L/Cpl. Emil Wittenberg",
+          "Pte. Klaus Friedeberger",
+          "Pte. B. I. Meier",
+          "Pte. F. Schoenbach"
+        ],
+        "printer": "Riall Bros. Pty. Ltd., 282 Bay Street, Port Melbourne",
+        "seven_dwarfs_personnel": [
+          "H. Goldstein",
+          "Fritz Weidenbaum",
+          "O. Stiwelband",
+          "W. Hirschfeld",
+          "M. Reichwald",
+          "H. Hermannsohn",
+          "A. Landauer"
+        ],
+        "swing_choir_personnel": [
+          "W. Hirschfeld",
+          "H. Hermannsohn",
+          "A. Landauer",
+          "O. Stiwelband",
+          "M. Reichwald",
+          "H. Fraenkel"
+        ],
+        "ballet_personnel": [
+          "Klaus Begach",
+          "Fred Rosenthal",
+          "Erich Schlesinger",
+          "O. Stiwelband",
+          "M. Klein",
+          "J. Feder",
+          "H. Goldstein",
+          "O. Gabler",
+          "K. Tichauer"
+        ],
+        "accordionists": [
+          "Sgt. W. Baer",
+          "L/Cpl. K. Blach",
+          "L/Cpl. Wuerzburger",
+          "Pte. S. Cohn",
+          "Pte. H. Loewe",
+          "Pte. G. Brandt"
+        ],
+        "may_season_additional_credits": {
+          "in_charge_of_light": "L/Cpl. H. Davidson",
+          "chairman_of_committee": "W/O H. J. R. Stone",
+          "secretary_and_business_manager": "Pte. H. E. Fleischer",
+          "assistant": "L/Cpl. E. Lipmann",
+          "additional_cast_the_king_of_the_gypsies": "Paul Steiner"
+        },
+        "cover_illustration_by": "Pte. E. Fabian (signed 'Fabian')"
+      },
+      "acts": [
+        {
+          "act_name": "Act 1: Snow White",
+          "songs": [
+            {
+              "number": 1,
+              "title": "Overture",
+              "performers": "2 Pianos: Fichmann / Fraenkel",
+              "based_on_tune": "Some Day My Prince Will Come (from the Disney film 'Snow White and the Seven Dwarfs')",
+              "additional_notes": "Sung by a choir behind the curtain; curtain opens fully partway through; stage direction notes 'Grandma follows music - beating the rhythm.'"
+            },
+            {
+              "number": 2,
+              "title": "Prologue (Grandma-Child dialogue)",
+              "credits": "Grandma - Pte. J. Feder; Child - Pte. L. Oppenheimer",
+              "additional_notes": "A frame-story device repeated at the start of each Act: Grandma narrates the fairy tale as an allegory of Nazi persecution, telling the Child of a time 'when nobody trusted nobody... even the good fairies were under suspicion... in danger of being destroyed forever,' and that Snowwhite was 'persecuted for her beauty - a refugee from the Queen's oppression.'"
+            },
+            {
+              "number": 3,
+              "title": "The Mirror (scene)",
+              "credits": "Queen - O. H. Mayer; Master of the Bedchamber - Sgt. S. Lohde",
+              "additional_notes": "Extended comic dialogue built around a mock wartime radio news bulletin ('the A.P.C. Home Service'), satirizing propaganda broadcasts with jokes about Hitler awarding Mussolini 'the highest German order: The Double Cross,' Italian troops 'still leading by two lengths of spaghetti,' and other topical 1943 references, before the Queen finally asks the Mirror who is the fairest, and a Voice replies 'Never heard of Snow White???!!!???' The Queen is here called 'Queen Columina the Fifth', with a baby son 'Prince Katzi Watzi' on active service overseas."
+            },
+            {
+              "number": 4,
+              "title": "Fairy Wood (scene)",
+              "credits": "Snow White - Snow White; Prince Charming - Pte. Eric Liffmann; Longnose/Wolf - Pte. H. Reiss; The Witch - Cpl. A. P. Schmitz",
+              "based_on_tune": "'One Song' (from the Disney film 'Snow White and the Seven Dwarfs') - Prince Charming's entrance song",
+              "additional_notes": "Comic scene in which the Witch tricks Longnose (searching for Snow White) into a kettle, from which a Wolf emerges - an explicit stage direction reveals 'Hitler appears' during a later reprise of this device (see Entr'acte, Act 2)."
+            },
+            {
+              "number": 5,
+              "title": "The Banquet (scene)",
+              "credits": "Queen - O. H. Mayer; Master of the Bedchamber - Sgt. S. Lohde; 2 Ambassadors - Pte. S. Hochberger, E. Hutterer; Wolf - Pte. H. Reiss ('Wolf von Braunau' - a joke referencing Braunau am Inn, Hitler's birthplace); The Witch ('the strictly dishonourable Lady Wicked Witch') - Cpl. A. P. Schmitz; Prince Charming - Pte. Eric Liffmann; Master of the Tappers/Captain of the Guard - Pte. Klaus Begach; The Seven Dwarfs - The Swing Choir; The Ballet",
+              "additional_notes": [
+                "Extended comic banquet scene: guests introduced with mock-diplomatic names, including French Ambassador 'Monsieur Antoine D'Omlette' (speaking in French wine/food puns) and Russian Ambassador 'Bolschillieff Wodkajeff Fedpoff Letmeoff.' Musical numbers within the scene: the 8th Swing Choir performs two songs, 'Sixty Seconds Got Together' and 'Mia Bella'; a tap dance by the 'Master of the Tappers'; Prince Charming sings 'Oh Maiden, My Maiden' by Franz Lehár (with a running joke that he is 'under contract' to Gaumont British, not to Snow White); a ball dance sequence (Gavotte-Conga-Gavotte); the Wolf sings an original song 'Won't You Come and Join My Axis', trying to recruit the Queen; Toy Soldiers dance; and the guests are arrested to the incidental strains of Chopin's Funeral March."
+              ]
+            },
+            {
+              "title": "Won't You Come and Join My Axis",
+              "type": "song within The Banquet",
+              "performers": "Wolf (Pte. H. Reiss)",
+              "additional_notes": "Original comic song in which the Wolf tries to persuade the Queen to join his 'axis'; she refuses, prompting his troops to arrest the assembled guests."
+            }
+          ]
+        },
+        {
+          "act_name": "Act 2: Europe Calling",
+          "songs": [
+            {
+              "number": 1,
+              "title": "Ouverture",
+              "performers": "2 Pianos"
+            },
+            {
+              "number": 2,
+              "title": "Prologue (Grandma-Child, continued)",
+              "credits": "Grandma - Pte. J. Feder; Child - Pte. Oppenheimer",
+              "additional_notes": "Grandma narrates that the good fairies, Snowwhite, and the dwarfs were imprisoned by the witch and wolf, who 'started a great war'; a striking passage describes 'night had fallen over Europe and the voices of all the good fairies were silenced in the dungeons of tyranny. The tears that were shed in those days could have filled the seven seas - but in the memory of untold millions - the ideals of freedom and beauty lived on!!'"
+            },
+            {
+              "number": 3,
+              "title": "Europe on the Air",
+              "additional_notes": "Sound-effects sequence: bassoon and kettledrum morse-code-like patterns represent radio stations calling out (London, Paris, Warsaw, Moscow, Praha, England, Russia, Austria, France, Czechoslovakia), building to a crescendo of 'EUROPE CALLING.' Background music transitions through 'It's a Long Way to Tipperary' (fading on the second verse) into the next scene."
+            },
+            {
+              "number": 4,
+              "title": "England: R. C. Sherriff's 'Journey's End'",
+              "credits": "Capt. Stanhope - Sgt. S. Lohde; Lieut. Hibbert - Pte. F. Gruen",
+              "based_on_tune": null,
+              "additional_notes": "An 'Empire Broadcast Exchange' announcer introduces this as a broadcast of R. C. Sherriff's famous 1928 WWI play 'Journey's End,' quoting Sir Edward Grey's 1914 remark, 'The lights are going out all over Europe.' What follows is an extended, closely-adapted excerpt of the actual play (Act 2, Scene 3): Hibbert feigns illness to avoid returning to the front line, and Stanhope, revealing his own hidden fear, threatens him with his revolver before the two reconcile and resolve to face the coming attack together. [This scene is drawn substantially verbatim from Sherriff's copyrighted play text and is not reproduced in full here.]"
+            },
+            {
+              "number": 5,
+              "title": "France: Bal Tabarin",
+              "credits": "The Chansonier - Pte. H. Blau; The Musician - Sgt. W. Baer; Les jeunes filles du Bal Tabarin / Les Spectateurs - The Ballet",
+              "additional_notes": "A 'Radio Paris' announcer sketch tours the 'Bal Tabarin' nightclub with dancers Nanon, Lola, Fifi, and Chichi. Pte. H. Blau sings two songs: (1) 'Je cherche après Titine'; (2) 'Paris, je t'aime'. Incidental music: the Marseillaise. Ballet: 'Thriller Girls'/'Fatties.'"
+            },
+            {
+              "title": "Je cherche après Titine",
+              "type": "song within Bal Tabarin",
+              "performers": "Pte. H. Blau",
+              "based_on_tune": "French chanson (period popular song)"
+            },
+            {
+              "title": "Paris, je t'aime",
+              "type": "song within Bal Tabarin",
+              "performers": "Pte. H. Blau",
+              "based_on_tune": "French chanson (period popular song)"
+            },
+            {
+              "number": 6,
+              "title": "Russia: Melodies of Russia",
+              "credits": "Ivan - Pte. Eric Liffmann; 6 Russians - Sgt. W. Baer and 5 Accordionists",
+              "additional_notes": "Brief instrumental interlude featuring 8 accordions and a solo by Liffmann."
+            },
+            {
+              "number": 7,
+              "title": "Austria: Prater Dream",
+              "credits": "Alois Lerchengruber - Pte. H. Blau; 4 Admirers - The Ballet",
+              "additional_notes": "Set in Vienna's Prater; a Schrammel Quartet plays behind the scene. Blau sings two Viennese Heurigen (wine-tavern) songs: (1) 'Fein, fein schmeckt uns der Wein' (with a comic exchange about whether Austrians speak English); (2) 'Ich möchte mal wieder in Grinzing sein.' Ballet to 'Blue Danube' (J. Strauss): a mimed vignette of four lovers mistaking a gas-lit figure for their sweetheart, a sandwich-man revealing a health-warning poster, and a street-cleaner sweeping away discarded flower bouquets."
+            },
+            {
+              "title": "Fein, fein schmeckt uns der Wein",
+              "type": "song within Prater Dream",
+              "performers": "Pte. H. Blau",
+              "based_on_tune": "Traditional Viennese Heurigen song"
+            },
+            {
+              "title": "Ich möchte mal wieder in Grinzing sein",
+              "type": "song within Prater Dream",
+              "performers": "Pte. H. Blau",
+              "based_on_tune": "Traditional Viennese Heurigen song"
+            },
+            {
+              "number": 8,
+              "title": "Czechoslovakia: J. Hašek's 'The Good Soldier Schweyck'",
+              "credits": "Imperial Medical Officer - Sgt. S. Lohde; 3 Czech Patients: Palivetz - Dr. Deutsch, Pokorny - Pte. H. Fleischer, Schweyk - Pte. L. Komerner; Her Imperial Highness - Medical Orderly",
+              "additional_notes": "A 'Prague Calling' announcer sketch (background music: Smetana) introduces a comic scene adapted from Jaroslav Hašek's satirical novel 'The Good Soldier Švejk,' mocking absurd military medical malingering exams and cure-all 'enema' treatments, ending with Schweyk's ironic patriotic speech about serving the Emperor via enemas, 'and victory will be ours!!' [Adapted/derivative of Hašek's novel, not verbatim transcribed here.] Compare the much fuller separate stage production of this same story, 'Die Geschichte vom braven Soldaten Schwejk' (Tatura, September 1941, see that entry)."
+            },
+            {
+              "number": 9,
+              "title": "Entr'acte: The Witch at Work",
+              "credits": "The Witch - Cpl. A. P. Schmitz; Wolf - Pte. H. Reiss",
+              "additional_notes": "A silent-march sequence (kettle drums) in which the Witch conjures a huge barbed-wire 'spider's web'; an explicit stage direction states 'Hitler appears' as the Wolf's true identity is revealed, ending with the Wolf's catchphrase 'Heil! Myself!'"
+            },
+            {
+              "number": 10,
+              "title": "Germany: The Gestapo Office",
+              "credits": "Nazi Party Secretary (Kulak) - Sgt. S. Lohde; Solicitor ('Dr. Blizzard von Oz') - Pte. K. Loewenstein",
+              "additional_notes": "Signal music: 'Üb' immer Treu und Redlichkeit' (German patriotic hymn). A dark satirical scene: the solicitor pleads for Snowwhite's release from arrest, exposing the absurdity of Nazi racial bureaucracy (Aryan/'blood and snow' tests, objections that she lives unmarried with seven men). The scene ends when the Hitler portrait on the office wall comes to life and shoots both bureaucrats, each dying gasping 'Heil Hitler... to die... to die...' as the anthem signal plays slower and slower, ending on the word 'Redlichkeit' (integrity)."
+            },
+            {
+              "number": 11,
+              "title": "The Cosmopolitan",
+              "credits": "Pte. L. Oppenheimer"
+            },
+            {
+              "number": 12,
+              "title": "Poland: Chopin's Nocturne",
+              "credits": "2 Polish Barons - Ptes. J. Chlumecky, F. Feuerstein; 2 Nazi Soldiers - L/Cpl. H. Davidson, Pte. F. Gruen",
+              "based_on_tune": "Chopin, Nocturne",
+              "additional_notes": "London Signal introduces a Prime Minister's speech ('Germany has invaded Poland... we are at war with Germany'). Scene: an old castle garden with a 'Paderewski type' pianist (a nod to Ignacy Jan Paderewski) playing Chopin's Nocturne with a violinist as German soldiers invade; the soldiers shoot the musicians for 'signaling,' then in superstitious fright destroy the piano when the music mysteriously continues, believing it a ghost."
+            },
+            {
+              "number": 13,
+              "title": "The European",
+              "credits": "Sgt. S. Lohde"
+            },
+            {
+              "number": 14,
+              "title": "The Ghosts of Europe",
+              "credits": "The Ballet-Ensemble; Soloist Cpl. A. P. Schmitz",
+              "based_on_tune": "'Es ist ein langer Weg nach Budweis' (a parody of 'It's a Long Way to Tipperary,' substituting the Czech town Budweis)",
+              "additional_notes": "Ballet finale of Act 2: masked figures representing 'the tired, worn-out, vexed souls of Europe' rise from a burning/devastated scene (masks made by Pte. E. Fabian). This ballet also incorporated a recitation of the original poem 'Listen Brother, Listen Sister' by Pte. S. Hochberger (see below)."
+            },
+            {
+              "title": "Listen Brother, Listen Sister",
+              "type": "poem/recitation, 'Sounds of Europe'",
+              "composer_lyricist": "Pte. S. Hochberger",
+              "lyrics": "Listen Brother - listen sister;\nFrom far comes the sound of their trampling feet,\nListen lady - listen mister;\nThey trample through courtyard and street.\nThey crumble your last bit of breath\nThey're crushing your world into graveyards of stone\nThey trample your freedom to death.\nThey're trampling, the earth is becoming sore,\nListen worker - listen soldier:\nTheir heels beat the rythm of war.\n\nListen brother - listen sister:\nFrom far comes the sound of a clanking chain\nListen lady - listen mister:\nDefenceless are tortured and slain.\nThe gallows of Europe reach out for the sky\nThe hangmen of Europe don't fall.\nThey're tapping the globe and they smile and stand by-\nThere are human bodies for sale.\nListen brother - listen sister:\nThe victims prepare a tremendous bill.\nListen worker - listen soldier:\nThe sound of the chain's getting shrill.\n\nListen brother - listen sister:\nFrom far comes the sound of a thundering flame\nListen lady - listen mister:\nTo blast all you love is their game.\nThey storm through the land and they rave and they mob\nDecaying is all in their grip\nWith poison and gun they are doing the job\nTheir tokens are death-head and whip\nListen brother - listen sister:\nThe fiend of all mankind has broken loose,\nListen worker - listen soldier:\nHis victims stand up and accuse.\n\nListen brother - listen sister:\nFrom far comes the rhythmic sound of a drum\nListen lady - listen mister\nThe sound enters palace and slum\nThe conquered are stirring, they pull at their chain\nA glint of new hope in their eyes -\nThey listen and find all their courage again\nThe peoples of Europe will rise....\nListen brother - listen sister:\nThe armies of freedom are on their way\nForward worker - forward soldier!\nThe hangman of Europe will P a y !!!!!",
+              "additional_notes": "An original anti-fascist protest poem, performed as part of 'The Ghosts of Europe' ballet finale; the sole credited author of an individual work in the entire production besides the composers."
+            }
+          ]
+        },
+        {
+          "act_name": "Act 3: Snow White in Camp",
+          "songs": [
+            {
+              "number": 1,
+              "title": "Ouverture",
+              "performers": "2 Pianos",
+              "based_on_tune": "Rock-a-Bye Baby"
+            },
+            {
+              "number": 2,
+              "title": "Prologue (Grandma-Child, concluded)",
+              "additional_notes": "Grandma tells how Snowwhite, the Seven Dwarfs, Prince Charming and the Queen all volunteered for the 'Home Forces' after the war spread 'all over the world' (with a topical mix-up joke, 'Atlantic Barter'/'Atlantic Charter'); the Child calls it the 'Eighth Enjoyment Company,' corrected by Grandma to 'Employment Company' - a direct, explicit reference to the real 8th Australian Employment Company presenting the show."
+            },
+            {
+              "number": 3,
+              "title": "The Dwarfs at the Wharves",
+              "credits": "Sergeant Staff - Sgt. S. Lohde; Private Charming - Pte. Eric Liffmann; The O.C. - O. H. Mayer; The Seven Private Dwarfs",
+              "additional_notes": "The Seven Dwarfs work as a wharf labor gang, pretending to work then playing 'two-up' (Australian gambling game) whenever supervision lapses - a pantomime titled 'The Two-Up Pennies' set to the tune 'Glow-Worm' ('Glühwürmchen') by Paul Lincke - and also break into poker games. A comic roll-call scene follows, with the Sergeant Staff unable to get the Dwarfs to count off correctly, and a bilingual German/English mess-kit-item joke. A romance subplot has the Queen (played here as a lovestruck servicewoman) flirt with Prince Charming to the entrance music 'Here Comes the Bride' (Wagner's Bridal Chorus), singing the duet 'You Are My Heart's Delight' by Franz Lehár before the pair exit for a tryst 'behind the oil drums.' The scene ends with the original song 'Pay Days.'"
+            },
+            {
+              "title": "Pay Days",
+              "type": "song within The Dwarfs at the Wharves",
+              "performers": "The Seven Dwarfs",
+              "additional_notes": "An original song about payday in camp; text of the lyrics beyond the title/refrain cue was not fully captured in the surviving script."
+            },
+            {
+              "title": "You Are My Heart's Delight",
+              "type": "song within The Dwarfs at the Wharves",
+              "composer": "Franz Lehár",
+              "performers": "Queen and Prince Charming (duet)"
+            },
+            {
+              "number": 4,
+              "title": "Music on Parade",
+              "credits": "The Band of the Eighth Employment Company"
+            },
+            {
+              "number": 5,
+              "title": "The Sergeant Major",
+              "credits": "W. O. H. J. R. Stone; The Seven Private Dwarfs",
+              "additional_notes": "An extended comic drill scene: the Sergeant Major tries to drill the Seven Dwarfs, who repeatedly miscount and misdirect in unison sing-song responses ('Love-ly-Snow-white-Ser-geant-here!!!'); comic references to the real camp-transfer locations Tocumwal and Albury ('don't send us to Tocumwal, nor is Albury a place for us poor chaps of the Eighths!!!'); a Jewish-identity joke in which the Sergeant Major asks 'Anyone amongst you kosher?' and grants them leave for 'divine service' but warns them not to join the Christians for Church Parade on Sunday."
+            },
+            {
+              "number": 6,
+              "title": "On Arguing the Point",
+              "credits": "Pte. L. Oppenheimer (Philosophy Student monologue)",
+              "additional_notes": "The text of this monologue was not included in the surviving typescript (likely improvised or separately scripted)."
+            },
+            {
+              "number": 7,
+              "title": "The Dwarfs at Home / The Tent",
+              "credits": "Private Charming - Pte. Eric Liffmann; The Seven Private Dwarfs; The Swing Choir",
+              "additional_notes": "An 'Evening in Camp' scene (fire picquets, tents rolled up, candlelight and stars) featuring two original songs. Followed by dialogue in which Prince Charming (offstage) calls for 'Sergeant Snowwhite,' wanting to take her to 'the Blue Triangle' (a real WWII servicemen's club/canteen), declaring 'I love her! I feel so unhappy....'"
+            },
+            {
+              "title": "We Are Sending a Letter to Our O.C.",
+              "type": "song (Solo & Choir) within The Tent",
+              "lyrics": "We are sending a letter to our O.C.,\nA letter we hope he'll receive\nAnd we wonder if he will please remember us\nAnd will grant us Sydney leave.....\nHe gets a lot of letters for playthings,\nFrom all the NCO's and boys,\nBut we want our leave - and quickly\nIts better than all the toys.\nAnd so we are sending an application\nto our O.C.,\nTo grant Sydney home leave to us....",
+              "additional_notes": "A comic petition song about the men's desire for leave in Sydney."
+            },
+            {
+              "title": "Eight's for 'Appy",
+              "type": "song (Solo Eric Liffmann & Choir) within The Tent",
+              "lyrics": "When you are feeling low down\nAnd when you've had a blow down\nTake it easy as it comes and goes\nWhen you're feeling chilly\nAnd everything looks silly\nShow that you can be right on your toes\nSay Eight's for 'appy\nWhen you feel snappy\nAnd you don't want to cry\nSay Eight's for 'appy\nWhen you feel snappy\nAnd you don't want to die\nSo you'd even give your ration card\nFor just a sight of Sergeant Snowwhite\nDon't take it to your heart\nBlow all your troubles away like bubbles\nAnd start a little game without your girlie\nYou get up early\nOh what an awful shame\nYou're saying R for Rosenthal\nB for Blumenduft and S for snappy\nNow say EIGHT'S for 'APPY!!!!",
+              "additional_notes": "A direct rewrite of the earlier Hay Camp song 'Say Hay for Happy' (see 'Snowhite Joins Up' entry), substituting 'Eight's' (for the 8th Employment Company) for 'Hay,' updated to reflect the men's changed circumstances. Retains the original comic gag naming real fellow performers Rosenthal and Blumenduft."
+            },
+            {
+              "number": 8,
+              "title": "Orderly Room",
+              "credits": "The C.O. - O. H. Mayer; Sergeant Staff - Sgt. S. Lohde; 2 Soldiers ('Private X and Private Y') - Pte. Fritz Weidenbaum, F. Gruen; Committee Lady - E. Hutterer; The Toys - The Ballet",
+              "based_on_tune": "'Ja, ja, der Leibessport' (German song about physical sport) - used as the Queen's dream music",
+              "additional_notes": "The Queen dozes at her desk and dreams of P.T. commands; two soldiers are court-martialed for disturbing her sleep with exercise commands but are acquitted after singing 'Physical Exercise Will Never Be Unwise' in their defense. A subsequent comic scene has 'Miss Doolittle,' secretary of 'The Society of Girlfriends'/Army Amenity Section, visit to arrange entertainment for the unit's first anniversary, with extended jokes calling the soldiers 'Jew-ropeans' (many 'from Austria,' nicknamed 'Austri-Aliens') who are nonetheless 'second to none' as soldiers. The Queen and Committee Lady then dance to 'Dance of the Toys' as toy gifts (some using period-typical, now offensive, naming conventions common to 1940s toy culture) are presented for the unit's anniversary."
+            },
+            {
+              "title": "Physical Exercise Will Never Be Unwise",
+              "type": "song within Orderly Room",
+              "performers": "Private X and Private Y",
+              "lyrics": "Physical Exercise\nWill never be unwise\nIt makes a thorough purge\nOf every evil urge\nStrong drink and money cares\nOr sexes lurid snares\nFor me they're no temptation\nWell, the last is somewhat an exaggeration.\nThough I have never kissed\nThere's nothing I've missed\nEven when Spring is there\nAnd I'm alone with her\nInto our English Grammar book\nto study pronounciation\nWell, the last is somewhat an exaggeration.\n\nThe war is at an end\nAnd with it hitler's band\nShouting of super race\nkilling for living space\nReducing all to slaves\nAnd serving only knaves\nHave been exterminated\nThis, we hope, will soon be not exaggerated!!",
+              "additional_notes": "Sung in their own defense by two soldiers on trial for disturbing the Queen's sleep; the Queen finds them 'Not Guilty.'"
+            },
+            {
+              "number": 9,
+              "title": "Happy Birthday to You",
+              "performers": "Shirley (Shirley Reid)",
+              "based_on_tune": "Happy Birthday to You (traditional)",
+              "lyrics": "Happy Birthday to you,\nHappy Birthday to you,\nHappy Birthday, 8th Employment,\nHappy Birthday to you.",
+              "additional_notes": "Shirley Reid enters with a birthday cake to celebrate the 8th Employment Company's first anniversary. In the surrounding finale scene, running jokes reference the 1943 film 'Casablanca' and a mock 'peace conference' document; a stray 'Showgirl' wanders in from the wrong theatre ('The Tivoli is in Bourke Street!!!'); Private Charming bids the Queen farewell as he is discharged 'for work of national importance' with Snow White."
+            },
+            {
+              "number": 10,
+              "title": "Calling All Cobbers",
+              "performers": "The Ensemble",
+              "lyrics": "We are calling all Cobbers\nFor a smile that's bright\nWe are calling all Cobbers\nJust because tonight's the night!!\nWhen grey clouds are showing on top\nGo - keep your courage well up!!\nWe are calling all Cobbers\nFor a Nation wide smile!!!!\n\n[2nd Verse] We greet you Australia\nLand of Sun and Peace\nWe are fighting for freedom\nOn the 7 seas - sev'n seas\nWhen grey clouds are showing on top\nLet's get our kitbags lined up\nWe are fighting for freedom\nWith a \"V\" for Victory smile!!!!!!!",
+              "additional_notes": "Closing ensemble number (Australian slang 'cobbers' = mates/friends). The second verse is a direct reworking of the 1941/42 Hay Camp song 'Good-bye to You, Australia' (see 'Snowhite Joins Up' entry), with the sentiment reversed from farewell to greeting/patriotic resolve. Followed by Grandma's closing narration: 'They got the big bad wolf in the end and the witch was caught too and, under strong guard, was sent to Dis-Appearia.... and so lived Snowwhite as a Sergeant in the Army amongst the freedom loving people until the day came - the day of victory!!!!' The show concludes with 'The King' (God Save the King)."
+            }
+          ]
+        }
+      ],
+      "additional_notes": "This is the richest single item in the source collection: a complete 55-page typescript survives (supplemented by two shorter printed programmes for the April and May seasons respectively, and a surviving numbered invitation card for the 19 April 1943 Anniversary Performance addressed from 'Capt. E. R. Broughton, C.O., and the Officers of the 8th Australian Employment Company,' RSVP to 'Warrant Officer H. J. R. Stone, Chairman of the Committee, 8th Aust. Employment Coy., Camp Pell, Melbourne'). It is a direct expansion of the earlier revue 'Snowhite Joins Up' (Hay Internment Camp, New Year 1941/42, see that entry), created by the same writer-director (Doc K. Sternberg) and composer (Ray Martin), reusing the Snow White fairy-tale frame and several songs with updated lyrics reflecting the men's changed circumstances (from internees anticipating deportation to enlisted soldiers of the 8th Employment Company). The production blends pantomime, wartime allegory, a mock radio news bulletin, an extended excerpt of R. C. Sherriff's 'Journey's End,' a scene from Hašek's 'The Good Soldier Švejk,' the original poem 'Listen Brother, Listen Sister,' and multiple original camp-written songs, interwoven with a wide range of borrowed popular and classical tunes (Disney, Lehár, J. Strauss, Chopin, Wagner, Paul Lincke, 'Tipperary,' French chansons, and Viennese Heurigen songs).",
+      "Complete credits": [
+        "Doc K. Sternberg",
+        "A. P. Schmitz",
+        "Max Lewinsky",
+        "S. Cohn",
+        "H. Fichmann",
+        "Ray Martin",
+        "O. Fleischer",
+        "E. Fraenkel",
+        "Herbert Voss",
+        "H. Portnoj",
+        "R. Laqueur",
+        "W. Baer",
+        "A. Landauer",
+        "Reiter",
+        "O. Silberstein",
+        "E. Lehrburger",
+        "F. Gottfurcht",
+        "R. Popper",
+        "A. Grey",
+        "F. Hollaender",
+        "S. Hochberger",
+        "A. Deutsch",
+        "Carlos Baer",
+        "E. Fabian",
+        "Emil Wittenberg",
+        "Klaus Friedeberger",
+        "B. I. Meier",
+        "F. Schoenbach",
+        "H. Goldstein",
+        "Fritz Weidenbaum",
+        "O. Stiwelband",
+        "W. Hirschfeld",
+        "M. Reichwald",
+        "H. Hermannsohn",
+        "H. Fraenkel",
+        "Klaus Begach",
+        "Fred Rosenthal",
+        "Erich Schlesinger",
+        "M. Klein",
+        "J. Feder",
+        "O. Gabler",
+        "K. Tichauer",
+        "K. Blach",
+        "Wuerzburger",
+        "H. Loewe",
+        "G. Brandt",
+        "H. Davidson",
+        "H. J. R. Stone",
+        "H. E. Fleischer",
+        "E. Lipmann",
+        "Paul Steiner",
+        "L. Oppenheimer",
+        "O. H. Mayer",
+        "S. Lohde",
+        "Eric Liffmann",
+        "H. Reiss",
+        "E. Hutterer",
+        "F. Gruen",
+        "H. Blau",
+        "Dr. Deutsch",
+        "L. Komerner",
+        "K. Loewenstein",
+        "J. Chlumecky",
+        "F. Feuerstein",
+        "Shirley Reid"
+      ]
+    },
+    {
+      "title": "Journey's End",
+      "type": "full-length play",
+      "type_category": "Theatrical",
+      "venue": null,
+      "location": "Not specified",
+      "date": "Not specified",
+      "overall_credits": {
+        "author": "R. C. Sherriff",
+        "produced_by": "M. Bittermann (partially obscured by a later handwritten dedication overlay)",
+        "stage_setting_by": "Bernard Joseph"
+      },
+      "acts": [
+        {
+          "act_name": "Act I",
+          "songs": [
+            {
+              "title": "Evening on Monday, the 18th March, 1918",
+              "type": "scene"
+            }
+          ]
+        },
+        {
+          "act_name": "Act II",
+          "songs": [
+            {
+              "title": "Scene 1: Tuesday Morning"
+            },
+            {
+              "title": "Scene 2: Tuesday Afternoon"
+            }
+          ]
+        },
+        {
+          "act_name": "Act III (10-minute interval after Act II)",
+          "songs": [
+            {
+              "title": "Scene 1: Wednesday Afternoon"
+            },
+            {
+              "title": "Scene 2: Wednesday Night"
+            },
+            {
+              "title": "Scene 3: Thursday Towards Dawn"
+            }
+          ]
+        }
+      ],
+      "cast": {
+        "Stanhope (Commanding an Infantry Company)": "David Rosenthal",
+        "Osborne (Officer of the Company)": "possibly Peter Schmitz (obscured by handwriting)",
+        "Trotter (Officer of the Company)": "uncertain, possibly Fritz Trenner",
+        "Hibbert (Officer of the Company)": "uncertain (obscured)",
+        "Raleigh (Officer of the Company)": "Michael Hellinger",
+        "The Colonel": "George Nadel",
+        "The Company Sergeant Major": "Fritz Geisal (spelling uncertain)",
+        "Mason (The Officer's Cook)": "Ernst Gumpers (uncertain)",
+        "Hardy (An Officer of another Company)": "obscured by handwriting",
+        "A German Soldier": "obscured",
+        "A Private": "Walter Steiger (uncertain)"
+      },
+      "additional_notes": "A full production of R. C. Sherriff's 1928 WWI drama, distinct from the brief excerpt of the same play performed within 'Sergeant Snow White' (1943), which used Sgt. S. Lohde as Stanhope and Pte. F. Gruen as Hibbert. Presumably an earlier, separate full staging by the same broader internee theatrical community. A later handwritten dedication was added to the programme, partly legible: '...Dank fuer die schoenen Weihnachtsabende Dein Micha...' ('thanks for the lovely Christmas evenings, yours Micha...') and, at the bottom, 'All the best, yours...' - suggesting this programme was kept as a personal keepsake.",
+      "Complete credits": [
+        "M. Bittermann",
+        "Bernard Joseph",
+        "David Rosenthal",
+        "Peter Schmitz",
+        "Fritz Trenner",
+        "Michael Hellinger",
+        "George Nadel",
+        "Fritz Geisal",
+        "Ernst Gumpers",
+        "Walter Steiger"
+      ]
+    },
+    {
+      "title": "Free Concerts for the Forces - Jeanne Gautier & Raymond Lambert",
+      "type": "concert (chamber recital)",
+      "type_category": "Concert",
+      "venue": "Assembly Hall",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "1944",
+      "presented_by": "Australian Broadcasting Commission, series 'Free Concerts for the Forces' (open to members of the fighting services) - Seventh concert of the 1944 series",
+      "performers": {
+        "violinist": "Jeanne Gautier",
+        "pianist": "Raymond Lambert"
+      },
+      "overall_credits": {
+        "concert_manager": "Paull Fiddian"
+      },
+      "acts": [
+        {
+          "act_name": "Programme",
+          "songs": [
+            {
+              "title": "God Save the King"
+            },
+            {
+              "title": "Ballad in D Minor, Op. 10, No. 1",
+              "composer": "Johannes Brahms",
+              "performers": "Raymond Lambert (piano solo)"
+            },
+            {
+              "title": "Intermezzo, Op. 117, in E Flat",
+              "composer": "Johannes Brahms",
+              "performers": "Raymond Lambert (piano solo)"
+            },
+            {
+              "title": "Sonata in D Minor (Allegro; Adagio; Con Sentimento; Presto Agitato)",
+              "composer": "Johannes Brahms",
+              "performers": "Jeanne Gautier and Raymond Lambert"
+            },
+            {
+              "title": "--Interval--"
+            },
+            {
+              "title": "Sonata in C Minor, Op. 45 (Allegro; Romanza; Allegro)",
+              "composer": "Edvard Grieg"
+            },
+            {
+              "title": "Chants d'Espagne (Montagnesa; Tonada Murciana; Saeta [Invocation]; Granadina)",
+              "composer": "Joaquin Nin"
+            },
+            {
+              "title": "Tzigane",
+              "composer": "Maurice Ravel",
+              "performers": "Jeanne Gautier and Raymond Lambert"
+            }
+          ]
+        }
+      ],
+      "additional_notes": "The programme sheet also advertises the following week's concert (24 March 1944, 8:15pm): the A.B.C. Melbourne Orchestra conducted by Lionel Lawson with Bertha Jorgensen (violinist) - not part of this concert.",
+      "Complete credits": [
+        "Jeanne Gautier",
+        "Raymond Lambert",
+        "Paull Fiddian"
+      ]
+    },
+    {
+      "title": "Free Concerts for the Fighting Services - Edward Goll & Thea Philips",
+      "type": "concert (piano & vocal recital)",
+      "type_category": "Concert",
+      "venue": "Assembly Hall",
+      "location": "Melbourne, Victoria, Australia",
+      "date": "1943",
+      "presented_by": "Australian Broadcasting Commission, series 'Free Concerts for the Fighting Services' - Eleventh concert of the series",
+      "performers": {
+        "pianist": "Edward Goll",
+        "soprano": "Thea Philips",
+        "accompanist": "Carl Bartling"
+      },
+      "acts": [
+        {
+          "act_name": "Programme",
+          "songs": [
+            {
+              "title": "God Save the King"
+            },
+            {
+              "title": "Sonate in E Flat (Allegro; Adagio; Finale-Presto)",
+              "composer": "Joseph Haydn",
+              "performers": "Edward Goll"
+            },
+            {
+              "title": "Romanze, Op. 118",
+              "composer": "Johannes Brahms",
+              "performers": "Edward Goll"
+            },
+            {
+              "title": "Rhapsodie, Op. 79",
+              "composer": "Johannes Brahms",
+              "performers": "Edward Goll"
+            },
+            {
+              "title": "Ave Maria",
+              "composer": "Percy Kahn",
+              "performers": "Thea Philips"
+            },
+            {
+              "title": "Virgin's Slumber Song",
+              "composer": "Max Reger",
+              "performers": "Thea Philips"
+            },
+            {
+              "title": "Lighter Far Is My Slumber",
+              "composer": "Johannes Brahms",
+              "performers": "Thea Philips"
+            },
+            {
+              "title": "In the Churchyard",
+              "composer": "Johannes Brahms",
+              "performers": "Thea Philips"
+            },
+            {
+              "title": "Devotion",
+              "composer": "Richard Strauss",
+              "performers": "Thea Philips"
+            },
+            {
+              "title": "-- Interval --"
+            },
+            {
+              "title": "Cavatina (from 'Der Freischuetz,' Act 3)",
+              "composer": "Carl Maria von Weber",
+              "performers": "Thea Philips"
+            },
+            {
+              "title": "Air de Salome (from 'Herodiade')",
+              "composer": "Jules Massenet",
+              "performers": "Thea Philips"
+            },
+            {
+              "title": "Piece en forme de Habanera",
+              "composer": "Maurice Ravel",
+              "performers": "Edward Goll"
+            },
+            {
+              "title": "Andaluza",
+              "composer": "Manuel de Falla",
+              "performers": "Edward Goll"
+            },
+            {
+              "title": "La Toupie",
+              "composer": "Theodor Leschetizky",
+              "performers": "Edward Goll"
+            },
+            {
+              "title": "La Jongleuse",
+              "composer": "Moritz Moszkowski",
+              "performers": "Edward Goll"
+            },
+            {
+              "title": "Rhapsodie Hongroise XII",
+              "composer": "Franz Liszt",
+              "performers": "Edward Goll"
+            }
+          ]
+        }
+      ],
+      "additional_notes": null,
+      "Complete credits": [
+        "Edward Goll",
+        "Thea Philips",
+        "Carl Bartling"
+      ]
+    },
+    {
+      "title": "Klavier Abend (Piano Evening) - Peter Stadlen",
+      "type": "piano recital",
+      "type_category": "Concert",
+      "venue": null,
+      "location": "Not specified",
+      "date": "Not specified",
+      "performers": {
+        "pianist": "Peter Stadlen"
+      },
+      "acts": [
+        {
+          "act_name": "Programm",
+          "songs": [
+            {
+              "number": 1,
+              "title": "Sonate As-dur, Op. 26 (Andante von Variazioni; Scherzo [Allegro molto]; 'Sulla morte d'un Eroe'; Allegro)",
+              "composer": "Ludwig van Beethoven"
+            },
+            {
+              "number": 2,
+              "title": "24 Preludes",
+              "composer": "Frederic Chopin"
+            },
+            {
+              "number": 3,
+              "title": "Trois mouvements de Petrouchka (a. Danse Russe; b. Chez Petrouchka; c. La semaine grasse)",
+              "composer": "Igor Stravinsky"
+            }
+          ]
+        }
+      ],
+      "additional_notes": "Peter Stadlen (1910-1996) was an Austrian-British pianist and later music critic (Daily Telegraph), interned in Australia as an 'enemy alien' during WWII (at Hay and Tatura camps) before returning to the UK - directly paralleling M. Pietruschka's own history. This programme survives in triplicate in the source collection.",
+      "Complete credits": [
+        "Peter Stadlen"
+      ]
+    },
+    {
+      "title": "Piano Recital - Peter Stadlen (Three Sonatas)",
+      "type": "piano recital",
+      "type_category": "Concert",
+      "venue": "Hay Camp 7 (handwritten note)",
+      "location": "Hay Internment Camp, New South Wales, Australia",
+      "date": "1940",
+      "performers": {
+        "pianist": "Peter Stadlen"
+      },
+      "acts": [
+        {
+          "act_name": "Programme: Three Sonatas",
+          "songs": [
+            {
+              "title": "Sonata in B Flat Major (Allegro moderato; Andante sostenuto; Allegro vivace con delicatezza; Allegro)",
+              "composer": "Franz Schubert"
+            },
+            {
+              "title": "Sonata in E Major, Op. 109 (Vivace ma non troppo; Prestissimo; Andante con variazioni)",
+              "composer": "Ludwig van Beethoven"
+            },
+            {
+              "title": "Sonata in C Major (Allegro moderato; Andante cantabile; Allegretto)",
+              "composer": "W. A. Mozart"
+            }
+          ]
+        }
+      ],
+      "additional_notes": "See also the separate 'Klavier Abend' Peter Stadlen programme (different repertoire) in this collection.",
+      "Complete credits": [
+        "Peter Stadlen"
+      ]
+    },
+    {
+      "title": "Hay-Fever (Camp Theatre)",
+      "type": "play (theatrical production, likely Noel Coward's 'Hay Fever')",
+      "type_category": "Theatrical",
+      "venue": "The Camp Theatre",
+      "location": "Hay Internment Camp, New South Wales, Australia",
+      "date": "Not specified",
+      "overall_credits": {
+        "recreation_department_manager": "S. Hochberger",
+        "produced_and_compered_by": "S. Hochberger",
+        "music": [
+          "S. Cohn",
+          "H. W. Katz",
+          "Emil Wittenberg",
+          "B. Meier"
+        ],
+        "curtain_designed_by": "H. Heckroth",
+        "programme_designed_by": "Dr. Paul G. Glass"
+      },
+      "acts": [],
+      "additional_notes": "Only the cover and back-cover pages survive; no cast list or scene/song details are present in the collection.",
+      "Complete credits": [
+        "S. Hochberger",
+        "S. Cohn",
+        "H. W. Katz",
+        "Emil Wittenberg",
+        "B. Meier",
+        "H. Heckroth",
+        "Dr. Paul G. Glass"
+      ]
+    },
+    {
+      "title": "Unterhaltungskonzert (Entertainment Concert)",
+      "type": "concert",
+      "type_category": "Concert",
+      "venue": null,
+      "location": "Unspecified Internment camp",
+      "date": "Not specified",
+      "acts": [],
+      "additional_notes": "Only the decorative cover survives (Recreation Department heading, crown emblem, treble clef with comedy/tragedy masks). No interior programme details captured.",
+      "Complete credits": []
+    },
+    {
+      "title": "Tripe & Ol'-Ozs (A Variety Fare)",
+      "type": "variety show",
+      "type_category": "Revue/Variety",
+      "venue": null,
+      "location": "Unspecified internment camp",
+      "date": "Not specified",
+      "acts": [],
+      "additional_notes": "Only the decorative cover survives. No interior programme details captured.",
+      "Complete credits": []
+    },
+    {
+      "title": "Vitamin Variety Show (untitled)",
+      "type": "variety show",
+      "type_category": "Revue/Variety",
+      "venue": null,
+      "location": "An unspecified internment/military camp",
+      "date": "Not specified",
+      "overall_credits": {
+        "produced_by": "'The Pure Products Pty. Ltd', Managing Director 'W.A.B.'"
+      },
+      "acts": [
+        {
+          "act_name": "Segments (comic 'Vitamin' theme)",
+          "songs": [
+            {
+              "title": "Vitamin A: 'Keep it Dark' / 'Uncle Tom on Tap'"
+            },
+            {
+              "title": "Vitamin B: 'Another Disillusion' / 'With the Conjuror's Compliments'"
+            },
+            {
+              "title": "Vitamin C: 'Seeing is Believing' / 'a Photo-Crime'"
+            },
+            {
+              "title": "Vitamin D: 'Cool Reception' / 'the Big Broadcast'"
+            },
+            {
+              "title": "Vitamin E: 'The Spice of Life' / 'Paprika on the Piano'"
+            },
+            {
+              "title": "Vitamin F: 'The Curtain' / 'Drawing a Conclusion'"
+            },
+            {
+              "title": "Vitamin G: 'The Stomach's Revenge' / 'Ventriloquist'"
+            },
+            {
+              "title": "Vitamin H: 'The Camp's Voice' / 'Limping Limericks'"
+            }
+          ]
+        },
+        {
+          "act_name": "Hors d'Oeuvre",
+          "songs": [
+            {
+              "title": "English Hotpot - an Ouverture"
+            },
+            {
+              "title": "On the Playing Fields - an Opening Chorus"
+            }
+          ]
+        }
+      ],
+      "additional_notes": "Only one interior page survives; the overall show title and full cast were not captured.",
+      "Complete credits": [
+        "W.A.B."
+      ]
+    },
+    {
+      "title": "Hebraeische Lieder, gesungen beim Oneg Schabbat (Hebrew Songs Sung at the Oneg Shabbat)",
+      "type": "communal religious/cultural song evening (songbook)",
+      "type_category": "Other",
+      "venue": null,
+      "location": "Tatura Internment Camp, Victoria, Australia",
+      "date": "1941",
+      "acts": [
+        {
+          "act_name": "Traditional Sabbath songs (transliterated, with German translations)",
+          "songs": [
+            {
+              "title": "Shalom Aleichem",
+              "composer_lyricist": "Traditional",
+              "additional_notes": "German translation given: 'Gegruesst, ihr dienenden Engel...' ('Greetings, you serving angels...')."
+            },
+            {
+              "title": "Eliyahu Hanavi",
+              "composer_lyricist": "Traditional",
+              "additional_notes": "About the prophet Elijah; German translation given."
+            },
+            {
+              "title": "Hine Ma Tov",
+              "composer_lyricist": "Traditional",
+              "additional_notes": "'Behold how good and pleasant it is for brothers to dwell together'; German translation given."
+            },
+            {
+              "title": "Halleluja",
+              "composer_lyricist": "Traditional (Psalm-based)",
+              "additional_notes": "German translation given."
+            },
+            {
+              "title": "Yom Ze Le'Yisrael",
+              "composer_lyricist": "Traditional Sabbath table song"
+            },
+            {
+              "title": "Additional Sabbath table-song verses (untitled fragments)",
+              "composer_lyricist": "Traditional",
+              "additional_notes": "Continuing Kiddush-related verses on the booklet's final pages."
+            }
+          ]
+        }
+      ],
+      "additional_notes": "A small songbook booklet (pages numbered 2-8) with a decorative Star of David and Sabbath candles/kiddush cup illustration on the cover, documenting a communal religious/cultural song evening distinct from the collection's many secular theatrical productions.",
+      "Complete credits": []
+    },
+    {
+      "title": "Kitchener Camp Orchestral Concert",
+      "type": "concert (orchestral, with organ)",
+      "type_category": "Concert",
+      "venue": "St. Clement's Church, Sandwich",
+      "location": "Sandwich, Kent, England",
+      "date": "1939",
+      "performers": {
+        "orchestra": "The Kitchener Camp Orchestra"
+      },
+      "acts": [],
+      "additional_notes": "Kitchener Camp (Sandwich, Kent) was a real transit camp that sheltered roughly 4,000 Jewish male refugees fleeing Nazi Germany and Austria in 1939, shortly before WWII. Only the announcement page survives (no detailed repertoire). Printed by T. F. Pain & Sons, Sandwich & Deal. 'All Welcome.' Places the collection's refugee-musician community in England prior to the 1940 deportation to Australia aboard the Dunera.",
+      "Complete credits": []
+    },
+    {
+      "title": "We're In Love!!! (A Rumbling Riot of Rollicking Revue)",
+      "type": "shipboard variety revue",
+      "type_category": "Revue/Variety",
+      "venue": "The First Class Lounge, H.M.T. D3",
+      "location": "Aboard His Majesty's Transport D3 (troopship)",
+      "date": "1941",
+      "presented_by": "The Stirling Crazy Gang",
+      "overall_credits": {
+        "produced_by": [
+          "Capt. O'Gorman",
+          "Peter Land",
+          "Ray Martin"
+        ],
+        "dances_and_ensembles_devised_by": "Max Lewinsky",
+        "music_written_and_arranged_by": "Ray Martin, assisted by Eddie Kassner",
+        "original_scripts_by": [
+          "Peter Land",
+          "Alan Ford",
+          "Ray Martin",
+          "Michael Mellinger"
+        ],
+        "scenery": "Freddie Roth",
+        "stage_manager": "Bernard Bell",
+        "featuring": "The Stirling Singers, conducted by Kurt Behrens",
+        "cast": [
+          "Capt. O'Gorman",
+          "Peter Land",
+          "Ray Martin",
+          "Max Lewinsky",
+          "Ted Fell",
+          "Mrs. O. Keel",
+          "Mrs. M. Lilley",
+          "Margaret Keel",
+          "Rita Salmon",
+          "Alan Ford",
+          "Michael Mellinger",
+          "Ernest Gumperz",
+          "Jack Vout",
+          "Harry Boxer",
+          "Tony Firth",
+          "James Forshaw",
+          "Jerry Hughes",
+          "Rudy Katz",
+          "Nick Beard"
+        ]
+      },
+      "acts": [
+        {
+          "act_name": "Programme",
+          "songs": [
+            {
+              "title": "The Man in the Cupboard",
+              "additional_notes": "'Is the coast clear'"
+            },
+            {
+              "title": "Maori Haka",
+              "additional_notes": "'New Zealand on parade'"
+            },
+            {
+              "title": "The Price of Sin",
+              "additional_notes": "One Act Opera by 'all sorts of people'"
+            },
+            {
+              "title": "The Silly Syncopators",
+              "additional_notes": "'Better than ever'"
+            },
+            {
+              "title": "On the Dole",
+              "additional_notes": "'Easy Money'"
+            },
+            {
+              "title": "The Six Cupids",
+              "additional_notes": "'Aiming at your heart'"
+            },
+            {
+              "title": "Max and Meechie",
+              "additional_notes": "Description blacked out/censored in the original document."
+            },
+            {
+              "title": "The Saddest Man in the World",
+              "additional_notes": "'??????????'"
+            },
+            {
+              "title": "The Siren",
+              "additional_notes": "'There she goes again'"
+            },
+            {
+              "title": "The Fixer",
+              "type": "One Act Play",
+              "composer_lyricist": "Michael Mellinger, Ray Martin, and Alan Ford"
+            }
+          ]
+        }
+      ],
+      "additional_notes": "Cover carries a handwritten note giving the ship's route and date: 'Australia, Auckland (N-Z), Panama Canal, Liverpool - End 1941.' Ray Martin here is very likely the same composer credited for 'Special Musical Arrangements' in 'Sergeant Snow White' (1943) and music in the companion shipboard concert 'V for Victory - Variety' (10 days earlier on the same voyage, see that entry); Max Lewinsky also recurs across both shows and the earlier 'Snowhite Joins Up.' Survives in duplicate in the collection.",
+      "Complete credits": [
+        "Capt. O'Gorman",
+        "Peter Land",
+        "Ray Martin",
+        "Max Lewinsky",
+        "Eddie Kassner",
+        "Alan Ford",
+        "Michael Mellinger",
+        "Freddie Roth",
+        "Bernard Bell",
+        "Kurt Behrens",
+        "Ted Fell",
+        "Mrs. O. Keel",
+        "Mrs. M. Lilley",
+        "Margaret Keel",
+        "Rita Salmon",
+        "Ernest Gumperz",
+        "Jack Vout",
+        "Harry Boxer",
+        "Tony Firth",
+        "James Forshaw",
+        "Jerry Hughes",
+        "Rudy Katz",
+        "Nick Beard"
+      ]
+    },
+    {
+      "title": "V for Victory - Variety (Ship's Concert)",
+      "type": "shipboard variety concert with one-act play",
+      "type_category": "Revue/Variety",
+      "venue": "The First Class Lounge, H.M.T. D3",
+      "location": "Aboard His Majesty's Transport D3 (troopship)",
+      "date": "1941",
+      "presented_by": "The Entertainment Committee",
+      "overall_credits": {
+        "compere": "Tony Firth",
+        "dances_devised_by": "Max Lewinsky",
+        "music_arranged_by": "Ray Martin",
+        "stage_manager": "Bernard Bell"
+      },
+      "acts": [
+        {
+          "act_name": "Variety Programme, Part 1",
+          "songs": [
+            {
+              "title": "The Navy's Here",
+              "performers": "Seven Bell(e)s"
+            },
+            {
+              "title": "It's in the Air",
+              "performers": "Jack Vout"
+            },
+            {
+              "title": "The Broadcasting Salesmen",
+              "performers": "Radio Balony"
+            },
+            {
+              "title": "Swing High, Swing Low",
+              "performers": "The Silly Syncopators"
+            },
+            {
+              "title": "On the Accordion",
+              "performers": "Mr. Robert Harrison"
+            }
+          ]
+        },
+        {
+          "act_name": "The Man in the Bowler Hat (A Comedy Thriller by A. A. Milne)",
+          "songs": [
+            {
+              "title": "Full play",
+              "credits": "Produced by Peter Land; Stage Manager B. Bell. Cast: Mary - Mrs. O. Keel; John - George Prager; '???' - Nick Beard; Hero - Peter Land; Heroine - Margaret Keel; The Chief Villain - Michael Mellinger; The Bad Man - Ernest Gumperz."
+            }
+          ]
+        },
+        {
+          "act_name": "Further Variety Bill",
+          "songs": [
+            {
+              "title": "In a New Line",
+              "performers": "Capt. O'Gorman"
+            },
+            {
+              "title": "Lovely to Look At",
+              "performers": "Max and Margaret"
+            },
+            {
+              "title": "Terribly in Love",
+              "performers": "Peter Land"
+            },
+            {
+              "title": "Just a Blackpool Lad",
+              "performers": "Ted Fell"
+            },
+            {
+              "title": "A Piano, a Boy and a Song",
+              "performers": "Ray Martin"
+            },
+            {
+              "title": "The Tapping Tornado",
+              "performers": "Max Lewinsky"
+            },
+            {
+              "title": "There'll Always Be an England",
+              "type": "Finale"
+            },
+            {
+              "title": "God Save the King"
+            }
+          ]
+        }
+      ],
+      "additional_notes": "Occurred 10 days before 'We're In Love!!!' (11 November 1941, see that entry) on the same voyage, sharing much of the same shipboard entertainment community (Peter Land, Ray Martin, Max Lewinsky, Ted Fell, Michael Mellinger, Ernest Gumperz, Capt. O'Gorman).",
+      "Complete credits": [
+        "Tony Firth",
+        "Max Lewinsky",
+        "Ray Martin",
+        "Bernard Bell",
+        "Jack Vout",
+        "Robert Harrison",
+        "Peter Land",
+        "Mrs. O. Keel",
+        "George Prager",
+        "Nick Beard",
+        "Margaret Keel",
+        "Michael Mellinger",
+        "Ernest Gumperz",
+        "Capt. O'Gorman",
+        "Ted Fell"
+      ]
+    },
+    {
+      "title": "Stars of the Seven Seas (A Non Stop Variety Show)",
+      "type": "shipboard variety show",
+      "type_category": "Revue/Variety",
+      "venue": null,
+      "location": "Aboard T.S.S. \"Largs Bay\" (Captain T. V. Roberts, R.D., R.N.R.)",
+      "date": "1941",
+      "presented_by": "In aid of the British Red Cross Society",
+      "overall_credits": {
+        "direction_and_script": "H. and H. L. Baswitz",
+        "limericks": "Klaus Pick",
+        "stage_settings": "J. Schott",
+        "largs_bay_band": {
+          "piano_and_accordion": "E. Ries",
+          "mandoline": "V. Bild",
+          "banjo": "A. Gilles"
+        }
+      },
+      "acts": [],
+      "additional_notes": "Only the cover survives; no cast/song list. The reverse bears a pencil drawing of a man riding a sea-serpent, captioned 'Going Home! 16.7.41.'",
+      "Complete credits": [
+        "H. Baswitz",
+        "H. L. Baswitz",
+        "Klaus Pick",
+        "J. Schott",
+        "E. Ries",
+        "V. Bild",
+        "A. Gilles"
+      ]
+    },
+    {
+      "title": "8th Aust. Employment Coy March",
+      "type": "standalone original song (unit marching song)",
+      "type_category": "Other",
+      "venue": null,
+      "location": "Melbourne, Victoria, Australia",
+      "date": "1943",
+      "composer_lyricist": "Sgt. Lohde (S. Lohde)",
+      "lyrics": "We know the world from Norway down to Greece\nWe left our homes and sailed the Seven Seas;\nWe answered the call, when they asked for volunteers\nFor the Home Defence as Pioneers\nIn Austra-li-a-a-a.\n\nWhen a ship comes in then we take the freight ashore,\nAnd we work like hell as we've never done before.\nWe shift bales and cases and we handle them with skill,\nAnd enjoy the daily drill\nIn the e-ve-ning, ching, ching,\nIn the e-ve-ning.\n\nWe are fond of marching and we always \"shake it up\",\nTrotting like the horses at a rainy Melbourne Cup.\nSmartly we jump out when the morning bugle goes\nAnd there roar those N.C.O's\nThose N-C-O-oh-ohs\nThose N-C-Os!\n\nGive us our Leave Pass and we give you a fair go\nGive us a long spell and let us have a blow;\nThen you'll be surprised how efficient we can be\nThe Employment Company\nThe Eighth Employ-oy-oy-\n-ment Company.\n\nWe have lots of fun, when we flirt and when we dance;\nWe don't like C.B. [Confined to Barracks], when we go in for romance,\nBut Absent Without Leave does not enter our minds,\nWhen we serve in our lines\nWith stew and bullybeef\nWith bullybeef.\n\nEv'rybody thinks we're a funny looking crowd,\nBeing in the Army makes us feeling mighty proud,\nWe adore the Skipper and salute the Rising Sun,\nUntil Victory is won.\nFor Peace and Victory,\nFOR VICTORY!",
+      "additional_notes": "The official/unofficial marching anthem of the 8th Australian Employment Company, written by the same Sgt. Lohde who plays the recurring Sergeant/Queen's-attendant roles throughout 'Sergeant Snow White.' The opening line's reference to sailing 'from Norway down to Greece' over 'the Seven Seas' reflects the international refugee backgrounds of the unit's men.",
+      "Complete credits": [
+        "Sgt. S. Lohde"
+      ]
+    },
+    {
+      "title": "The Ceramic Reparteg Club Presents: A Fruity Melodramma",
+      "alternate_titles": [
+        "The Doings Up at the 'All",
+        "The Snake in the Snow"
+      ],
+      "type": "comic amateur play (one-act parody melodrama)",
+      "type_category": "Theatrical",
+      "venue": null,
+      "location": "Not specified",
+      "date": "1941",
+      "overall_credits": {
+        "music_and_sound_effects": "'Professor Guiseppe Leggitonio' (comic pseudonym, 'Famous Impresario and Conductor of the Footscray Philharmonic Orchestra')",
+        "production_seduction_abduction_by": "'The Venerable Linseed Saliva' (comic pseudonym, 'Amazing Necromancer - Prestidigitateur of Nuisance fame')"
+      },
+      "acts": [
+        {
+          "act_name": "Act I (Scenes I-V, all set at 'Hardrow Hall')",
+          "songs": [
+            {
+              "title": "Scene I",
+              "additional_notes": "Hardrow Hall"
+            },
+            {
+              "title": "Scene II",
+              "additional_notes": "ditto"
+            },
+            {
+              "title": "Scene III",
+              "additional_notes": "ditto"
+            },
+            {
+              "title": "Scene IV",
+              "additional_notes": "ditto"
+            },
+            {
+              "title": "Scene V",
+              "additional_notes": "ditto ('Say!! can't we get out of this bleedin' place.')"
+            }
+          ]
+        }
+      ],
+      "cast": {
+        "Sir Herbert Hardrow, Bt (the noted French co-respondent)": "played by 'Pee'Air Lavair-Tree' (comic stage pseudonym)",
+        "The Hon. Hilary Hardrow (author of 'Silly with the Slops')": "played by 'Georges [pronounced Georgeous] Brookes-Lemos'",
+        "Hilda Murdock (lecturer on Mrs. Beeton's methods)": "played by 'Allanne Stuart'nFryitte'",
+        "The Mill Girl, alias 'The Watchwoman'": "played by 'Rexinne Watsonto Nyte'",
+        "Baggs (fresh from driving the coach down 'Dead Man's Gulch')": "played by 'Paul Reveere'",
+        "Murgatroyd Murdock, alias the gum-shoe merchant": "played by 'Baron Heindrich Isaacstein von Reichardscraad (Hitler's last hope)'"
+      },
+      "additional_notes": "A satirical, comically over-the-top amateur melodrama with joke pseudonyms substituted for real performers' names throughout, including a topical Hitler joke in the leading man's fictional 'real' name. Notice: 'For the comfort of patrons, no ball playing will be allowed during the performance.' Text is cut off at the bottom of the surviving page.",
+      "Complete credits": [
+        "'Professor Guiseppe Leggitonio'",
+        "'The Venerable Linseed Saliva'",
+        "'Pee'Air Lavair-Tree'",
+        "'Georges Brookes-Lemos'",
+        "'Allanne Stuart'nFryitte''",
+        "'Rexinne Watsonto Nyte'",
+        "'Paul Reveere'",
+        "'Baron Heindrich Isaacstein von Reichardscraad'"
+      ]
+    },
+    {
+      "title": "Sandstorms / Hay Days (song manuscript)",
+      "type": "standalone original songs (handwritten manuscript)",
+      "type_category": "Other",
+      "venue": null,
+      "location": "Hay Internment Camp, New South Wales, Australia",
+      "date": "1941",
+      "acts": [
+        {
+          "act_name": "Songs",
+          "songs": [
+            {
+              "title": "Sandstorms",
+              "type": "song (partial lyric fragment)",
+              "lyrics": "Boo-ooh - There it goes once more\nRattling at your door -\nCome watch out\nThere's no doubt,\nListen to the roar:\nSandstorms, sandstorms,\nNothing else but sandstorms\nBlowing sand right into my heart, -\nSandstorms, sandstorms,\nYou don't know how sandstorms,\nWhen it breaks your heart apart.\nCry, about the old affair,\nCry, but what's the use to care,\nSandstorms, sandstorms\nBringing back those grand storms,\nWhen I loved with you, sweetheart.",
+              "additional_notes": "Likely evokes the notorious dust storms of Hay, NSW - a nostalgic love song using the storms as metaphor."
+            },
+            {
+              "title": "Hay Days",
+              "type": "song",
+              "lyrics": "Hay Days, Hay Days\nMake your Hay Days your play days\nSing on every day, doodle-oodle-aye\nSmile with never a care.\nHay Days, Hay Days\nMake your Hay Days your gay days,\nYours is all the fun, yours is all the sun\nFor it shines everywhere.\nAs long as we're all pals and we're together\nNever mind the rains and stormy weather.\nI know, you know, troubles come but they do go,\nDoors will open up, you'll be right on top;\nLive your life your own way\nCalling every day 'Hay Day'.",
+              "additional_notes": "This is the draft manuscript of the song performed (with identical lyrics) in the revue 'Snowhite Joins Up' (Hay Camp, New Year 1941/42) - see that entry."
+            }
+          ]
+        }
+      ],
+      "additional_notes": "A handwritten manuscript on ruled paper containing drafts of these two songs.",
+      "Complete credits": []
+    }
+  ]
+}
