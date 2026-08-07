@@ -8,13 +8,7 @@ WEDNESDAY EVENING
 DECEMBER 17, 1930
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -174,7 +168,7 @@ Ring out, wild bells, and let him die.
 Ring out the old, ring in the new.
 Ring, happy bells, across the snow;
 The year is going, let him go.
-Ring out the false, ring in the true
+Ring out the false, ring in the true.
 Ring out the old, ring in the new.
 
 Ring out the grief that saps the mind,
@@ -238,7 +232,7 @@ Before the incarnate King of Kings,
 In reverent awe profound.
 
 Sleep, holy Babe, ah! take Thy brief repose;
-Too quickly will Thy slumbers break.
+Too quickly will Thy slumbers break,
 And Thou to lengthened pains awake,
 That Death alone shall close.
 
@@ -320,23 +314,16 @@ Melbourne Philharmonic Society
 (Conductor, Bernard Heinze)
 TOWN HALL, MELBOURNE
 Supporting Soloists
-MYRA HARDENACK (Contralto)
+MYRA HARDENACK (Contralto)        JOHN DUDLEY (Tenor)
 NORMAN MENZIES (Bass)
 Winner of "Sun" Aria, 1933
-JOHN DUDLEY (Tenor)
 PHILHARMONIC CHOIR and UNIVERSITY SYMPHONY ORCHESTRA
 (250 Performers)
 Popular Prices of Admission: 2/-, 3/-, 4/6 & 6/- PLUS TAXES
 Box Plan and Tickets at Glen's
 
 === Page 8 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 9 ===
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -352,7 +339,7 @@ No. 2.
 Ah! the eyes of the holy boy appeared so beautiful and clear to me.
 And something shines out of them that wins all my heart.
 He looks with his sweet eyes to my eyes;
-If he would see his face therein he would greet me kindly:
+If he would see his face therein he would greet me kindly;
 So I surrender myself perfectly to him only to serve his eyes,
 For something shines out of them that wins all my heart.
 
@@ -395,30 +382,29 @@ THE ROYAL VICTORIAN LIEDERTAFEL
     Had stooped to kiss the earth.
     Awaking countless blossoms
     To new life-giving birth.
-
-    The breeze was gently blowing,
+The breeze was gently blowing,
     The rye swayed to and fro.
-    The stars were mildly glowing,
+The stars were mildly glowing,
     The forests murmured low.
-
-    And my rapt soul its pinions
+And my rapt soul its pinions
     Did eagerly outspread.
-    As though from earth's dominions
+As though from earth's dominions
     To higher homes it fled.
-        ---Ben Jonson.
+---Ben Jonson.
 
-(b) Sleep, rest, my love, rest,
-    Dieth the moan of the wind in the tree,
-    Foldeth her pinions the bird in her nest,
-        Sinks the sun to his bed in the sea.
-    Sleep, lull'd on my breast
-        Tossing and troubled and thinking of me.
-    Peace, falleth the night,
-        Veiling in shadows her glory for thee.
-    Eyes may be darken'd while visions are bright.
-        Senses be fetter'd, though fancy is free.
-    Peace, peace, slumbering light,
-        Longing, and loving and dreaming of me.
+(b)
+Sleep, rest, my love, rest,
+    Dieth the moan of the wind in the tree.
+Foldeth her pinions the bird in her nest.
+    Sinks the sun to his bed in the sea.
+Sleep, tull'd on my breast
+    Tossing and troubled and thinking of me.
+Peace, falleth the night,
+    Veiling in shadows her glory for thee.
+Eyes may be darken'd while visions are bright.
+    Senses be fetter'd, though fancy is free.
+Peace, peace, slumbering light,
+    Longing, and loving and dreaming of me.
 
 === Page 10 ===
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -429,7 +415,7 @@ Hath passed so soon away.
 My soul is filled to sadness
 With lil' of olden lay.
 The air is dewy and darkling,
-And calmly floweth the Rhine.
+And calmly flow'rs the Rhine.
 The crest of the hills is sparkling
 In light of even shine.
 
@@ -448,7 +434,7 @@ Is chained by magic tone,
 While breakers his skiff is filling.
 He gazes on her alone.
 He, with the surge descending,
-Is swept along with his boat.
+Is swept along with his boat,
 And such is e'er the ending
 Of Lorelei's witching note.
 
@@ -479,7 +465,6 @@ E. N. HOCKING, Hon. Secretary.
 THE ROYAL VICTORIAN LIEDERTAFEL
 
 Carols—
-
 Child Divine
 Dr. Bridge
 
@@ -523,17 +508,13 @@ Grateful, spread the wondrous story.
 Hail the Incarnate Saviour's birth.
 Child Divine, all hearts that know Thee
 Know the strength Thy presence brings.
-Know what debt of love we owe Thee,
+Know what debt of love we owe Thee.
 Lord of Lords and King of Kings!
 
 Lieder—
-
 (a) Winterweihe
-
 (b) Hymne an die nacht
-
 (c) Wie Sollten wir geheim sie halten
-
 Strauss
 
 MADAME ALICE ORFF-SOLSCHER
@@ -558,7 +539,6 @@ While Love alone endureth:
 We vow ourselves to love, by day, by night.
 
 (b) HYMN TO THE NIGHT.
-
 Holy night! Holy night!
 Starbounded Heaven's peace!
 All is united that the day has separated,
@@ -591,82 +571,88 @@ THE ROYAL VICTORIAN LIEDERTAFEL
 (c) WIE SOLLTEN.
 (Why Should We Seek to Hide Our Passion?)
 Why should we seek to hide our passion—
-    The bliss that bids our hearts o'erflow?
+The bliss that bids our hearts o'erflow?
 Nay, every human creature living
-    Our soul's exultant joy shall know!
+Our soul's exultant joy shall know!
+
 When two fond hearts with love are beating
-    A shout of joy through Nature goes,
+A shout of joy through Nature goes.
 And o'er the hours of lovers' meeting
-    Soft summer eve its shadow throws
+Soft summer eve its shadow throws
+
 E'en from the oak's decaying trunk,
-    That saw a thousand years go by,
+That saw a thousand years go by,
 A crown of green once more doth blossom—
-    It lifts those aged branches high.
+It lifts those aged branches high.
+
 Each leaf, each flower, awakes to gladness,
-    Their choicest colours they display:
+Their choicest colours they display:
 The brooklet murmurs softer music,
-    And blossoms' fragrant splendour tell 'tis May!
+And blossoms' fragrant splendour tell 'tis May!
+
 Why should we seek to hide our passion—
-    The bliss that bids our hearts o'erflow?
+The bliss that bids our hearts o'erflow?
 Nay, every human creature living, all earth,
-    Now I am thine, flowe. of all flowers!
+Now I am thine, flowe. of all flowers!
 
 Part Songs—
 
 (a) All Through the Night
-    Welsh air, arr. Greer
+Welsh air, arr. Greer
+
 (b) Every Rustling Tree
-    Kuhlau
+Kuhlau
+
 (c) Gondolier's Serenade
-    Schubert
-    By Special Request.
-    (Presented to the Society by Mr. Chas. Miller)
+Schubert
+By Special Request.
+(Presented to the Society by Mr. Chas. Miller)
 
 THE ROYAL VICTORIAN LIEDERTAFEL
 
 (a)
 Love, fear not if sad thy dreaming
-    All thro' the night.
+All thro' the night.
 Though o'ercast bright stars are gleaming
-    All thro' the night.
+All thro' the night.
 Joy will come to thee at morning,
-    Life with sunny hope adorning.
+Life with sunny hope adorning.
 Tho' sad dreams may give dark warning
-    All thro' the night.
+All thro' the night.
 
 Angels watching ever round thee
-    All thro' the night.
+All thro' the night.
 In thy slumbers close surround thee.
-    All thro' the night.
+All thro' the night.
 They should of all fears disarm thee;
-    No forebodings should alarm thee:
+No forebodings should alarm thee:
 They will let no peril harm thee,
-    All thro' the night.
+All thro' the night.
 
 (b) Ev'ry rustling tree is at peace,
-    The whisp'ring winds do cease,
+The whisp'ring winds do cease,
 And no sound is heard.
 
 The birds are all sunk in slumber:
-    Wait-a-while, wait-a-while,
+Wait-a-while, wait-a-while,
 Soon shalt thou, too, rest in peace.
-    Wait-a-while, wait-a-while.
+Wait-a-while, wait-a-while.
 Soon shalt thou, too, rest in peace.
-    Thou shalt rest in peace.
+Thou shalt rest in peace.
 
 (c) While moon and stars above us
-    Their airy dance renew.
+Their airy dance renew.
 Say, why should sadness move us.
-    Or earth-born care pursue?
+Or earth-born care pursue?
 Behold! the soft beams play, love.
-    Come in my bark away, love.
+Come in my bark away, love.
 
 And glide from bondage free,
-    Across the dark blue sea.
+Across the dark blue sea.
 Now midnight's boding number
-    From good Saint Mark's I hear.
+From good Saint Mark's I hear.
 And all are hushed in slumber
-    Except Thy Gondolier.
+Except Thy Gondolier.
 
 === Page 14 ===
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -691,8 +677,8 @@ The heaven and the earth both proclaim
 His mighty power.
 We hear Him when roareth the storm,
 When the wind through the woods rushes along.
-Great is Jehovah the Lord!
-Mighty in His power.
+    Great is Jehovah the Lord!
+    Mighty in His power.
 
 Thou hear'st it in the green budding boughs of the forest.
 Seest it in the cornfields that glow like gold.
@@ -705,22 +691,24 @@ And each beating heart, every soul feels His wondrous power and might.
 
 We bow to the power dwelling in Him.
 The Lord of all, and up to the Father.
-
 Thou to Him look for aid,
 In hope to gain His love and grace.
 Turning then, we implore His love and grace and protection.
-Great is Jehovah the Lord!
+    Great is Jehovah the Lord!
 
 (b)
 The Heav'ns with praise to the Lord are abounding.
-His name to hear afar they rejoice;
+    His name to hear afar they rejoice;
 The earth, the sea, to His honour are sounding;
 
-Give ear, O man! to Nature's voice.
+    Give ear, O man! to Nature's voice.
 The stars above us, who is it upholdeth?
-Who leadeth from his tent the sun?
+    Who leadeth from his tent the sun?
 He cometh, laughing. His glory unfoldeth.
-A giant who His course would run!
+    A giant who His course would run!
+
+THE PIANO IS A STEINWAY
+"Allan's"
 
 === Page 15 ===
 Carols—
@@ -736,9 +724,9 @@ ROYAL VICTORIAN LIEDERTAFEL
     When the snow lay round about,
         Deep, and crisp, and even.
     Brightly shone the moon that night,
-        Though the frost was cruel,
+    Though the frost was cruel,
     When a poor man came in sight,
-        Gather'ring winter fuel.
+        Gathering winter fuel.
 
 Baritone Solo:
     "Hither, page, and stand by me,
@@ -824,8 +812,8 @@ Chorus:
 Auld Lang Syne
 EVERYBODY
 
-    "So fare you well till we meet again."
-    GOOD NIGHT!
+"So fare you well till we meet again."
+GOOD NIGHT!
 
 === Page 16 ===
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -843,19 +831,7 @@ CLASS "C"—£2/2/- (plus tax), 5 tickets for each Concert to ladies and gentlem
 Four Concerts are given during the season.
 
 === Page 17 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 18 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

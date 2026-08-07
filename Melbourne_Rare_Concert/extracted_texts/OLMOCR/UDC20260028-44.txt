@@ -8,12 +8,12 @@ PROGRAMME
 PART I
 Grand Double Chorus from "Edipus" ... ... ... Mendelssohn
 Liedertafel
-Song ... ... ... "The Mighty Deep" ... ... ... Jude
+Song ... ... ... "The Mighty Deep" ... ... Jude
 Mr. W. Reginald Gooud
-Aria ... ... ... "Ah figliuol! mio figliuol" (Le Prophète) ... Meyerbeer
+Aria ... ... "Ah figliuol! mio figliuol" (Le Prophète) ... Meyerbeer
 Miss Clara Bell
-Part Songs ... ... { (a) "The Better Land" ... ... ... Kendall
-{ (b) "The Retreat" ... ... ... De Rille
+Part Songs ... { (a) "The Better Land" ... ... Kendall
+{ (b) "The Retreat" ... ... De Rille
 Liedertafel
 String Quartet ... ... Op. 64, No. 5, in D major ... Haydn
 Allegro moderato—Adagio cantabile—Menuetto—Finale vivace.
@@ -31,23 +31,22 @@ Song ... ... ... "If thou didst love me" ... ... Denza
 Miss Bessie Wallace
 Song ... ... ... "The King's Minstrel" ... ... Pinsuti
 Mr. W. Reginald Gooud
-Part Song ... ... ... "The Tyrol" ... ... Ambroise Thomas
+Part Song ... ... "The Tyrol" ... ... Ambroise Thomas
 Liedertafel
 String Quartet ... ... Op. 44, No. 1, in D major ... Mendelssohn
 Molto Allegro—Vivace
 Mr. Geo. Weston, Mr. F. O. Schieblich, Mr. H. Schrader,
 Herr L. Hattenbach
-Song ... ... ... "Nirvana" ... ... ... Adams
+Song ... ... ... "Nirvana" ... ... Adams
 Mr. Gregor Wood
-Banditti Chorus ... ... from "Ernani" ... ... ... Verdi
+Banditti Chorus ... ... from "Ernani" ... ... Verdi
 Liedertafel
 GOD SAVE THE KING
 
 === Page 3 ===
 206th Concert
 
-The Royal
-Metropolitan Liedertafel
+The Royal Metropolitan Liedertafel
 
 Conductor: Mr. Ernest Wood
 
@@ -87,8 +86,8 @@ ASSISTANT LIBRARIAN
 MR. C. B. FOSTER
 
 COMMITTEE
-MR. A. VASEY           MR. J. FRANKLAND
-MR. F. W. WHITE       MR. W. F. RASHLEIGH
+MR. A. VASEY | MR. J. FRANKLAND
+MR. F. W. WHITE | MR. W. F. RASHLEIGH
 MR. E. J. RICE
 
 HON. AUDITORS
@@ -105,101 +104,39 @@ Members
 
 Tenors
 
-C. P. Rouvray .. 1870
-E. Simmonds .. 1873
-S. Symons .. 1876
-W. Watts .. 1876
-J. Kendall .. 1876
-G. F. Smith .. 1878
-F. G. Whitby .. 1879
-J. Iliffe .. 1880
-W. G. Bundy .. 1880
-A. Sherar .. 1881
-T. Jack .. 1878
-J. Felstead .. 1877
-W. F. Wyatt .. 1893
-A. H. Bell .. 1894
-
-A. Champion .. 1894
-R. S. Ferrier .. 1894
-A. H. Carleton .. 1897
-A. E. Jefferson .. 1898
-E. S. Gray .. 1900
-H. S. K. Ward .. 1900
-G. J. Johnson .. 1900
-P. R. Smart .. 1900
-R. A. Christian .. 1901
-C. Miller .. 1870
-J. S. Ridley .. 1874
-A. G. S. Williams .. 1880
-C. M. Lilburne .. 1880
-R. J. Moore .. 1881
-
-W. H. Ford .. 1882
-J. H. Kerr .. 1885
-A. J. Sage .. 1886
-H. W. Seymour .. 1888
-R. Hush .. 1893
-D. H. Martin .. 1896
-J. E. Oaten .. 1896
-W. E. Porter .. 1898
-H. C. Nicholls .. 1899
-H. F. Briggs .. 1899
-C. Mitchell .. 1900
-H. O. Hargrave .. 1900
-A. G. Hall .. 1901
-B. P. Dufty .. 1901
+C. P. Rouvray .. 1870    A. Champion .. 1894    W. H. Ford .. 1882
+E. Simmonds .. 1873    R. S. Ferrier .. 1894    J. H. Kerr .. 1885
+S. Symons .. 1876    A. H. Carleton .. 1897    A. J. Sage .. 1886
+W. Watts .. 1876    A. E. Jefferson .. 1898    H. W. Seymour .. 1888
+J. Kendall .. 1876    E. S. Gray .. 1900    R. Hush .. 1893
+G. F. Smith .. 1878    H. S. K. Ward .. 1900    D. H. Martin .. 1896
+F. G. Whitby .. 1879    G. J. Johnson .. 1900    J. E. Oaten .. 1896
+J. Iliffe .. 1880    P. R. Smart .. 1900    W. F. Porter .. 1898
+W. G. Bundy .. 1880    R. A. Christian .. 1901    H. C. Nicholls .. 1899
+A. Sherar .. 1881    C. Miller .. 1870    H. F. Briggs .. 1899
+T. Jack .. 1878    J. S. Ridley .. 1874    C. Mitchell .. 1900
+J. Felstead .. 1877    A. G. S. Williams .. 1880    H. O. Hargrave .. 1900
+W. F. Wyatt .. 1893    C. M. Lilburne .. 1880    A. G. Hall .. 1901
+A. H. Bell .. 1894    R. J. Moore .. 1881    B. P. Dufty .. 1901
 
 Basses
 
-E. Miller .. 1870
-J. Fordyce .. 1872
-A. W. Jack .. 1875
-J. H. Mulvany .. 1880
-R. L. Thompson .. 1881
-W. Greig .. 1882
-R. Jolley .. 1879
-I. Bowley .. 1887
-R. T. Rowe .. 1875
-H. J. Ralph .. 1888
-E. J. Rice .. 1885
-S. Ellis .. 1889
-T. Moore .. 1892
-E. W. Clisby .. 1894
-T. Watson .. 1895
+E. Miller .. 1870    R. S. Orr .. 1900    R. Paterson .. 1882
+J. Fordyce .. 1872    R. J. Vaughan .. 1900    J. H. Bayley .. 1889
+A. W. Jack .. 1875    J. D. Gillan .. 1900    A. E. Johns .. 1890
+J. H. Mulvany .. 1880    C. E. Allen .. 1900    A. Vasey .. 1893
+R. L. Thompson .. 1881    A. Kruse .. 1900    J. Frankland .. 1893
+W. Greig .. 1882    D. Wright .. 1870    J. Adams .. 1894
+R. Jolley .. 1879    W. F. Rashleigh .. 1873    J. Blanchard .. 1895
+I. Bowley .. 1887    C. H. Woodman .. 1879    C. E. Cheever .. 1897
+R. T. Rowe .. 1875    M. St. J. Kennedy .. 1874    W. Patrick .. 1897
+H. J. Ralph .. 1888    F. W. White .. 1879    E. A. Moore .. 1899
+E. J. Rice .. 1885    W. M. Ure .. 1871    D. Meadowcroft .. 1899
+S. Ellis .. 1889    H. Rofe .. 1880    P. A. Ashley .. 1899
+T. Moore .. 1892    J. Keyston .. 1883    R. B. Tipton .. 1900
+E. W. Clisby .. 1894    W. Goode .. 1872    A. W. M'Lean .. 1900
+T. Watson .. 1895    A. Stewart .. 1882    F. G. Drake .. 1900
 A. J. Fuller .. 1897
-
-R. S. Orr .. 1900
-R. J. Vaughan .. 1900
-J. D. Gillan .. 1900
-C. E. Allen .. 1900
-A. Kruse .. 1900
-D. Wright .. 1870
-W. F. Rashleigh .. 1873
-C. H. Woodman .. 1879
-M. St. J. Kennedy .. 1874
-F. W. White .. 1879
-W. M. Ure .. 1871
-H. Rofe .. 1880
-J. Keyston .. 1883
-W. Goode .. 1872
-A. Stewart .. 1882
-
-R. Paterson .. 1882
-J. H. Bayley .. 1889
-A. E. Johns .. 1890
-A. Vasey .. 1893
-J. Frankland .. 1893
-J. Adams .. 1894
-J. Blanchard .. 1895
-C. E. Cheever .. 1897
-W. Patrick .. 1897
-E. A. Moore .. 1899
-D. Meadowcroft .. 1899
-P. A. Ashley .. 1899
-R. B. Tipton .. 1900
-A. W. McLean .. 1900
-F. G. Drake .. 1900
 
 === Page 6 ===
 THE SOCIETY WILL BE ASSISTED BY
@@ -211,7 +148,7 @@ Mr. W. Reginald Gooud
 Mr. Geo. Weston
 Mr. F. O. Schieblich
 Mr. H. Schrader
-Herr L. Hallenbach
+Herr L. Haltenbach
 Mr. G. B. Fentum,
 Hon. Pianist
 Mr. Ernest Wood,
@@ -223,8 +160,8 @@ In Memoriam
 The Society deeply deploring the sad death of the President of the United States, will sing Sir Arthur Sullivan's Part Song "THE LONG DAY CLOSES," as a tribute to the memory of a great and good man.
 
 Part Song—The Long Day Closes
+
 Liedertafel
-SULLIVAN
 
 No star is o'er the lake
     Its pale watch keeping;
@@ -263,7 +200,7 @@ MUSIC BY FELIX MENDELSSOHN-BARTHOLDY
 
 Liedertafel
 
-THOU comest here to the land, O friend.
+THOU comest here to the land, O friend,
 Fam'd for fleet-footed steeds and blooming meadows:
 Thou standest now in Colonos' grove,
     Where the voices of nightingales
@@ -271,7 +208,7 @@ Thou standest now in Colonos' grove,
         Thro' their temples of verdure;
     Where the thick-woven ivy clings,
     Spreading over the sacred aisles;
-Where, in security, ripens the fruitful vine.
+Where, in security, ripens the fruitful vine,
     Unscath'd by beam or stormwind.
 And here roameth the bounteous god.
 Gay and good Dionysos, ever greeted in lays,
@@ -295,7 +232,7 @@ Ever loved by the tuneful choir of Muses,
 
 Here, too, bloometh a tree
 Crowned with a fruit not found in Asia:
-Nor on Dorian plains doth it appear.
+Nor on Dorian plains doth it appear,
 Gracing the island where the Pelops
 Held sway: yet here it freely springeth:
     Rever'd by friends, and fear'd by foes.
@@ -308,7 +245,7 @@ Never wantonly harm this holy tree,
     Lov'd and watch'd by Minerva.
 
 Grateful, let me extol
-Heaven's richest gifts deigned to my country:
+Heaven's richest gifts deigned to my country;
 Presented by the Pow'r making our State
 Fam'd for its wealth, honour, and glory:
     Our land and sea steeds, rein and rudder-guided:
@@ -368,9 +305,9 @@ L. de Rille
 
 HARK! the tattoo the hour is beating,
     The sound obey;
-Come, troopers, come away.
-Disgrace on him will fall
-Who disregards the call.
+    Come, troopers, come away.
+    Disgrace on him will fall
+    Who disregards the call.
 To quarters now retreating,
     Come, troopers, come away,
     The sound obey.
@@ -401,7 +338,7 @@ Mr. Geo. Weston, Mr. F. O. Schieblich,
 Mr. H. Schrader, Herr L. Hattenbach
 
 === Page 12 ===
-Song—O Murm'ring Breezes
+Song—O Murm’ring Breezes
 Mr. Gregor Wood
 
 Morning in the Forest
@@ -411,21 +348,21 @@ O SUMMER night serenely still!
 No sound the forest haunting,
 In hollow glade alone, the rill
 Its song is ever chanting.
-The flow'rs are nodding with sleep-laden eyes.
+The flow’rs are nodding with sleep-laden eyes.
 A dream of dawn on the branches lies,
 And peace on valley and hill.
 
-Hark! 'tis the lark's thrilling note on high
-The forest's silence breaking:
+Hark! ’tis the lark’s thrilling note on high
+The forest’s silence breaking:
 Ye sleepers, arise, in the Orient sky
 The rosy morn is awaking.
 Trill on, sweet herald, in jubilant lay,
 Welcome the kiss of the joyous day.
 As westward the shadows hie.
 
-Now sweetly faint the distance o'er
+Now sweetly faint the distance o’er
 The matin chimes are stealing,
-And soon within the bosom's core
+And soon within the bosom’s core
 The joy bells all are pealing.
 Adoring sound, exultant song,
 It rings and sings the world along:
@@ -479,7 +416,7 @@ Part Song—The Tyrol
 Liedertafel
 AMBROISE THOMAS
 
-Poom, poom, poom! home!
+Poom, poom, poom! bome!
 The distant bell is pealing,
 Down the mountains slowly stealing
     The morning sunbeams play.
@@ -521,7 +458,7 @@ See lightning flashing everywhere.
     The rain doth pour,
     Ah, that fearful crash!
     The storm winds shatter the pines around.
-'Tis the hurricane:
+'Tis the hurricane;
 Hailstones clatter upon the ground.
 Flee away, mountaineers!
 The lightning dazzles every eye.
@@ -535,7 +472,7 @@ Clouds rent asunder, out shines the sun!
 Sound again, tender strain, sound again,
     We'll sing la la la la la'!
 
-Gaily dancing,
+Cally dancing,
 Swiftly glancing,
 Tripping lightly,
 Now skipping sprightly,
@@ -562,6 +499,7 @@ Mr. Gregor Wood
 
 Banditti Chorus from "Ernani"  VERDI
 Liedertafel
+
 All welcome the bowl!
 A full flowing soul,
     Unfathomed by care!

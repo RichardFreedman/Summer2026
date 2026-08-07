@@ -6,12 +6,11 @@ The Musical Society of Victoria
 Founded 1861.                Re-Constituted 1892.
 
 Patrons:—
-
 His Excellency Lord Brassey, K.C.B.
 The Hon. Sir Frederick Sargood, K.C.M.G., M.L.C.
-The Hon. Sir Arthur Snowden, K.B., M.L.C.
-His Honor Mr. Justice E. D. Kolroyd:
-His Honor Mr. Justice R. Rodges.
+The Hon. Sir Arthur Snowden, K.C.E., M.L.C.
+His Honor Mr. Justice E. D. Rolroyd:
+His Honor Mr. Justice A. Rodges.
 
 Annual Meeting, on
 Saturday Evening, +
@@ -25,31 +24,32 @@ Secretary—W. H. Heathcote.
 
 === Page 2 ===
 Officers for Year 1898-99:
-President—Mr. E. A. Jager. Vice-Presidents—Mr. T. J. Hammond, Mr. J. Hasler, Mr. G. Peake. Mr. W. Hunter, Mr. H. J. Inge. Treasurer—Mr. J. R. Edeson. Trustees—Mr. J. Stede, Mr. G. B. Fentum, Mr. J. R. Edeson. Council—Mr. M. Alexander, Mr. H. Curtis, Librarian—Mr. C. Blanchard. Secretary—Mr. W. H. Heathcote.
+
+President—Mr. E. A. Jager. Vice-Presidents—Mr. T. J. Hammond, Mr. J. Hasler, Mr. G. Peake, Mr. W. Hunter, Mr. H. J. Inge. Treasurer—Mr. J. R. Edeson. Trustees—Mr. J. Stede, Mr. G. B. Fentum, Mr. J. R. Edeson. Council—Mr. M. Alexander, Mr. H. Curtis, Librarian—Mr. C. Blanchard. Secretary—Mr. W. H. Heathcote.
 
 Programme.
 
 Duett ... (Violins) ... ... ... in D minor ... ... ... ... ... Spohr
-ALBERTO ZELMAN, VICTOR ZELMAN.
+    ALBERTO ZELMAN, VICTOR ZELMAN.
 
-Song ... ... ... ... "A Song of Thanksgiving" ... ... ... ... ... Allitsen
-MISS HENRIETTA RIDLEY.
+Song ... ... ... ... "A Song of Thanksgiving" ... ... ... ... Allitsen
+    MISS HENRIETTA RIDLEY.
 
-Pianoforte Soli ... ... ... ... (a) Romanza ... ... ... ... ... Schumann
-(b) Pastorale ... ... ... ... ... Scarlatti
-(c) Staccato Caprice ... ... ... ... ... Vogrich
-MISS ATCHISON.
+Pianoforte Soli ... ... ... ... (a) Romanza ... ... ... ... Schumann
+    ... ... ... ... (b) Pastorale ... ... ... ... Scarlatti
+    ... ... ... ... (c) Staccato Caprice ... ... ... ... Vogrich
+    MISS ATCHISON.
 
-Duett ... ... ... ... "Flow gently, Deva" ... ... ... ... ... Parry
-E. ARMES BEAUMONT, S. W. M. LAMBLE.
+Duett ... ... ... ... "Flow gently, Deva" ... ... ... ... Parry
+    E. ARMES BEAUMONT, S. W. M. LAMBLE.
 
-Song ... ... ... ... "My Fairest Child" ... ... ... ... ... Alfred Hill
-(Violin and Organ Obbligato)
-MISS HENRIETTA RIDLEY.
+Song ... ... ... ... "My Fairest Child" ... ... ... ... Alfred Hill
+    (Violin and Organ Obbligato)
+    MISS HENRIETTA RIDLEY.
 
-Quartett (Strings) ... ... ... ... in D, op. 76, No. 5 ... ... ... ... ... Haydn
-Allegretto, Largo (Cantabile e mesto) Minuetto (Allegro) Finale (Presto)
-ALBERTO ZELMAN, VICTOR ZELMAN, ERNEST A. JAGER, CLAUDE HARRISON.
+Quartett (Strings) ... ... ... in D, op. 76, No. 5 ... ... ... ... Haydn
+    Allegretto, Largo (Cantabile e mesto) Minuetto (Allegro) Finale (Presto)
+    ALBERTO ZELMAN, VICTOR ZELMAN, ERNEST A. JAGER, CLAUDE HARRISON.
 
 Presentation of Diplomas and Certificates.
 
@@ -67,17 +67,7 @@ MEMORANDUM
 Ladies and Gentlemen wishing to join the Society will please communicate with the Hon Sec., 272 Collins Street.
 
 Annual Subscription:
-<table>
-  <tr>
-    <th>Members</th>
-    <th>[Professional Musicians only]</th>
-    <th>£1 1 0</th>
-  </tr>
-  <tr>
-    <th>Subscribers</th>
-    <th></th>
-    <th>£1 1 0</th>
-  </tr>
-</table>
+Members [Professional Musicians only] £1 1 0
+Subscribers £1 1 0
 
 Musical Evenings are held on the last Saturday in each month (December excepted.)

@@ -11,13 +11,7 @@ WEDNESDAY EVENING
 OCTOBER 4, 1933
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -26,7 +20,7 @@ The Royal Victorian Liedertafel
 
 PATRONS:
 His Excellency the Right Honourable SIR ISAAC ISAACS, P.C., Governor-General and Commander-in-Chief of the Commonwealth of Australia.
-His Excellency the Lieutenant-Governor. The Hon. Sir W. H. IRVINE, K.C.M.G.
+His Excellency the Lieutenant-Governor, The Hon. Sir W. H. IRVINE, K.C.M.G.
 The Lord Mayor of Melbourne, Right Hon. H. GENGOUULT SMITH.
 JAMES DYER, Esq.
 
@@ -163,9 +157,7 @@ THE ROYAL VICTORIAN LIEDERTAFEL
 Programme
 
 President: E. LIONEL WILSON.
-
 Conductor: FREDERIC EARP.
-
 Accompanist: ERIC FOX.
 
 Harmony whose magic art
@@ -177,8 +169,6 @@ PART I.
 
 Part Song Setting of God Save the King
 ROYAL VICTORIAN LIEDERTAFEL
-
-Arr. Elgar
 
 Ballet Madrigals—
 
@@ -217,7 +207,8 @@ Youth's sweer delight refusing?
 Say, dainty nymphs, and speak,
 Shall we play barley-break?
 
-These famous Madrigals are, of course, well known to mixed-voice choirs, but are rarely sung by men's choirs. We are indebted to Dr. Davison, the Conductor of the Harvard University Glee Club, for arranging them for male voices.
+These famous Madrigals are, of course, well known to mixed-voice choirs, but are rarely sung by men's choirs.
+We are indebted to Dr. Davison, the Conductor of the Harvard University Glee Club, for arranging them for male voices.
 
 === Page 6 ===
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -227,26 +218,24 @@ Songs of Historic Interest—
 (a) Sumer is Icumen In Attributed to John Fornsette, a Monk of Reading Abbey, Circa. 1240.
 (13th Century Round for Six Men)
 
-Sumer is icumen in. Bude sing cuccu. Groweth sed and blometh.
-Perspicie riviola que digna cacao. celicis agrico.
-med and springt he rede nu. Sing cuccu Ave bletrep after la.
-pro incil vico. filio — non parenti expoli.
-lomb thou pastre callue cu — allue sterrep. bucke vertep.
-it. morcis exicio — un captuq seminuos.
-ajurie sing cuau. Cuccu cucui Wel singes pu cucui ne swik a suplicacio.
-Vice donav et feanni aonat in ae.
-link rotam cincare possint quattuor so ch. Apaono.
-ribus autem qui a tribus ut talreem duobus no debeu.
-dia pret es qui diate pedem. Cunte aut sic. Sacen.
-by nauer nu. to li o.
-in meam naram post enue. incheav alius. Sic de cetero.
-singhi repauserit ad paulamens sfera.
-nalihi: siao unum longe nore.
-Voc repetit un quoscent opett.
-sing cuau nu. Sing cuccu haecent paulamens in fine.
-Pct.
-hoc dictat: paulamens in modo tu m
-sing cuau. Sing cuccu nu kine. Si immediate repetit pricipu.
+Sumer is icumen in. Bude sing cuccu. Grow eth leed and bloreth.
+Persee riviola que dignacio celicis agrico.
+Med and springfè be rede nu. Sing cuccu awe bletep after la.
+Vico filio — non parenti expoli.
+Lomb thou pastre callue cu. sallue sterrep. bucke vertep.
+It. morcis excico — An captanqu semuinos.
+Agrie sing cuau. Cuccu cucu Wel singes pu cucu ne swik a suplicio.
+Vice donav et seann aonarit in æ.
+Inke rocam cincare poslim quatrioz so ci. Apanco.
+Arbus autem qin a tribus ut talrem duobne no debev.
+Dia pret esquin diate pedem. Cinté aut Sic. Sacen.
+By nauer nu. to li o.
+In meam naram post ence. incheav alius. Sic de cverno.
+Singhi li repauserit ad paulamens lepata.
+Nalib: liaco unum longe note.
+Voc repetiv un quoscent opett.
+Sing cuau nu. Sing cuccu haecent paulasone m in fine.
+Sing cuau. Sing cuccu nu kine. Si immediate repetiv pricu.
 
 (Reduced reproduction of original MS. in British Museum.)
 
@@ -321,10 +310,10 @@ Companye with honeste
 Is vertu, vices to fle.
 Companye is good or ill, but evry man hath
 hys fre wyll.
-The best ensen,
+The best ensen.
 The worst eschew.
 My mynde schal be
-Vertu to use,
+Vertu to use;
 Vice to refuse.
 Thus schall I use me.
 
@@ -333,6 +322,7 @@ Soprano Solo—
 Theme and Variations
 GRACE SIMPSON
 Flute Obligato—Leslie McCallum
+
 Proch
 
 === Page 9 ===
@@ -351,7 +341,7 @@ ROYAL VICTORIAN LIEDERTAFEL
 Through bushes and through briars
 I lately took my way,
 All for to hear the small birds sing
-And the lambs to skip and play.
+And the lambs to skip and play,
 I overheard my own true love,
 Her voice it was so clear:
 "Long time I have been waiting
@@ -419,13 +409,13 @@ For the British Grenadiers.
 And when the siege is over, we to the town repair,
 The townsman cry, "Hurra, boys! here comes a Grenadier."
 Here come the Grenadiers, my boys, who know no doubts or fears,
-Then sing tow row row row row row row
+Then sing tow row row row row row
 For the British Grenadiers.
 
 Then let us fill a bumper and drink a health to those
-Who carry caps and pouches and wear the louped clothes;
+Who carry caps and pouches and wear the loup'd clothes;
 May they and their commanders live happy all their years,
-With a tow row row row row row row
+With a tow row row row row row
 For the British Grenadiers.
 
 === Page 10 ===
@@ -439,7 +429,8 @@ The glee and the catch are the incense we offer,
     The bond that unites us is music divine.
 
 Chorus, Introduction to Act I., "Ernani"—
-    The Bandit                Verdi
+    The Bandit
+        Verdi
 
 ROYAL VICTORIAN LIEDERTAFEL
 
@@ -569,7 +560,7 @@ THE ROYAL VICTORIAN LIEDERTAFEL
 
 And the second, he said, "In those waters deep,
 Let us bury our treasure for ever to sleep,
-Then follow ourselves, by a leap from the sand;
+Then follow ourselves, by a leap from the sand:
 Why tarry, Master Hildebrand?"
 "Ye carry the King's own crown and spear:
 My faithful companions, far more have I here."
@@ -633,26 +624,16 @@ Some day before I'm old!
 —Rudyard Kipling.
 
 NATIONAL ANTHEM
+
 The audience is requested to join with the Choir in singing
+
 "GOD SAVE THE KING."
 
 "The hours have passed with pleasing flight:
 We needs must part. Good night, good night."—Baillie.
 
 === Page 13 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 14 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

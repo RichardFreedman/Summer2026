@@ -40,10 +40,11 @@ Grand Complimentary Concert
 tendered to
 Mr. August Siede,
 Conductor of the Melbourne Liedertafel.
+
 Town Hall, Melbourne,
 Monday, November 24th,
 at 8 p.m.
-1903
+
 Under the Patronage of
 His Excellency the Acting Governor-General,
 Lord Tennyson and Lady Tennyson;
@@ -71,18 +72,23 @@ Tickets enclosed herewith, which it is hoped you will be able to use or dispose 
 <table>
   <tr>
     <th></th>
-    <th>Reserved Chairs & Balcony</th>
-    <th>at 5/-</th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
-    <td>3</td>
+    <td>Reserved Chairs & Balcony</td>
+    <td>at 5/-</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Unreserved</td>
     <td>at 3/-</td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
     <td>South Gallery</td>
     <td>at 2/-</td>
+    <td></td>
   </tr>
 </table>
 

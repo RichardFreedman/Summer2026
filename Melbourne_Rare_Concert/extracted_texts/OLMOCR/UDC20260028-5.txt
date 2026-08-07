@@ -1,9 +1,5 @@
 === Page 1 ===
 CROSS
-MAIT'S
-TAKE
-LUCI
-MORR
 
 === Page 2 ===
 TALK 3
@@ -71,13 +67,7 @@ Later in the spring of 1969, several days of intermedia events will be held, inc
 Various other events on a smaller scale will be presented from time to time, as announced.
 
 === Page 5 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 6 ===
 CROSS TALK 3
@@ -122,31 +112,38 @@ BRANCHES (1966)
 *ブラス（1967）
 管楽五重奏、映画、スライド投影
 （映画制作：デヴィド・フルンド、オースティン）
+
 ラリー・オースティン
 
 *ブランチズ（1966）
 バスーン（2）、打楽器
+
 千原 ポール・清弘
 
 *アンダー・グラウンドからの手記（1966）
 チェロ、チェレスタ、ピアノ、打楽器、4チャンネル増幅
+
 ロバート・モリス
 
-**〈場〉2人の奏者のための（1968）
+**《場》2人の奏者のための（1968）
 弦楽器奏者（2）
+
 武田 明倫
 
 *4つの楽器のためのコンポジション（1947〜48）
 フルート、クラリネット、ヴァイオリン、チェロ
+
 ミルトン・バビット
 
 **分 布（1968）
 弦楽四重奏、フィルター、リング変調器
-松平 頼曉
+
+松平 賢 暁
 
 *シェルター9999（1967）
 映画、4チャンネルの電子音響
 （映画制作：飯村隆彦）
+
 アルヴィン・ルシエ
 
 *印は日本初演　**印は世界初演
@@ -163,7 +160,7 @@ C：グリッサンド。Dに接近する。
 D：騒音、極端な状態では事実上Eに等しい。聴覚の分解能力を考えるならば、極度に複雑なものは、かえって単純なものとし
 て理解されるからである。
 E：間（ま）
-各要素は、その持続や出現順序に関してポアソン分布や正規分布などのような分布に従っている。全体的には単純→複雑という傾向に配列されているが、この複雑化の過程で各要素はまったく逆の性質をもったものに変質してしまう（例：A→D、B→C &D、C→DそしてD→E）。最後は最も複雑な要素がおかれているので、聴覚的には単純→複雑→単純という形式をもつようにきこえる。
+各要素は、その持続や出現順序に関してボアソン分布や正規分布などのような分布に従っている。全体的には単純→複雑という傾向に配列されているが、この複雑化の過程で各要素はまったく逆の性質をもったものに変質してしまう（例：A→D、B→C & D、C→DそしてD→E）。最後は最も複雑な要素がおかれているので、聴覚的には単純→複雑→単純という形式をもつようにきこえる。
 （松平頼曉）
 
 アルヴィン・ルシエ
@@ -176,13 +173,14 @@ E：間（ま）
 ＜北米タイム・キャプセル＞ 1967
 
 === Page 9 ===
-left: page from Distributions by Yori · Aki Matsudaira (composer's copyright)
+left: page from Distributions by Yori·Aki Matsudaira (composer's copyright)
 above: pages from A Field by Akimichi Takeda (composer's copyright)
 
 === Page 10 ===
 美術手帖
 毎月16日発売
 定価250円
+
 美術手帖はまもなく300号をむかえます。しかし—美術雑誌としての役割はすでに破り、領域の拡張をめざしています。変貌する“芸術”とともに現代のトップをゆく明日の芸術家を支える羅針盤です。ほんの一例ですが、例えばこんな特集をしています。
 
 1968年1月号　エレクトロニック時代の芸術——芸術の日常化
@@ -191,6 +189,7 @@ above: pages from A Field by Akimichi Takeda (composer's copyright)
 4月号　地方の前衛——意識と活動の実態
 5月号　混沌のなかの造形教育、LSD—芸術—創造
 6月号　記号の構造学—原始呪術から都市文明(予告)
+
 1967年12月号　マカルーハン理論と現代芸術
 11月号　日本のアンダーグラウンド・アート
 10月号　ポップ・アート
@@ -201,7 +200,7 @@ above: pages from A Field by Akimichi Takeda (composer's copyright)
 5月号　ハプニングとは何か
 
 BSS 美術出版社
-東京都新宿区市谷本村町15 電話(260)2151
+東京都新宿区市谷本村町15　電話(260)2151
 
 === Page 11 ===
 clockwise from the right:
@@ -321,14 +320,12 @@ UNIVERSAL EDITION
 真に《良い雑誌》とは
 Magazine For Family 月刊 ほるぷ
 みんなの広場であるべき
-
 いよいよ発売開始！
 定期購売申し込み受付中
-
 ★定期購読（お支払いは後納）
-3カ月 ￥540　6カ月 ￥1,080　12カ月 ￥2,160
+3ヶ月 ￥540　6ヶ月 ￥1,080　12ヶ月 ￥2,160
 ★お申し込みは…
-東京都千代田区麴町3の2 相互第一ビル
+東京都千代田区麴町3の2　相互第一ビル
 月刊ほるぷ編集センター　TEL（262）6649・6698
 
 === Page 15 ===
@@ -366,28 +363,28 @@ JAPANESE ELECTRONIC MUSIC
 注目を集める
 ビクターの"今日の音楽シリーズ"
 
-オーケストラル・スペース(第2集) SJV-1513 ¥1,500
+オーケストラル・スペース（第2集） SJV-1513 ¥1,500
 リゲティ・クセナキス・ケージ・レイノルズ・安達元彦 作品
-*指揮=小沢征爾/若杉 弘 読売日本交響楽団・演奏
+* 指揮＝小沢征爾／若杉 弘 読売日本交響楽団・演奏
 
-オーケストラル・スペース(第1集) SJV-1501 ¥1,500
+オーケストラル・スペース（第1集） SJV-1501 ¥1,500
 武満 徹・一柳 慧・湯浅譲二・高橋悠治 作品
-*指揮=小沢征爾/若杉 弘 読売日本交響楽団・演奏
+* 指揮＝小沢征爾／若杉 弘 読売日本交響楽団・演奏
 
-武満 徹の音楽 SJV-1503~6 (4枚組) ¥6,000
-第21回芸術祭賞(文部大臣賞)受賞に輝く名盤
+武満 徹の音楽 SJV-1503〜6（4枚組） ¥6,000
+第21回芸術祭賞（文部大臣賞）受賞に輝く名盤
 
 現代の日本音楽・3人集 SJV-1509 ¥1,500
-作曲=武満 徹/間宮芳生/松本雅夫
+作曲＝武満 徹／間宮芳生／松本雅夫
 
-<映画館という名の演奏会場>シリーズ 各 ¥450
-第1集(武満徹・他人の顔/林 光・白昼の通り魔/他) SGC-46
-第2集(武満徹・紀の川・あこがれ・映画音楽集) SGC-71
-第3集(佐藤勝・湖の琴/林 光・アンデスの花嫁) SGC-72
+＜映画館という名の演奏会場＞シリーズ 各 ¥450
+第1集（武満徹・他人の顔／林 光・白昼の通り魔／他） SGC-46
+第2集（武満徹・紀の川・あこがれ・映画音楽集） SGC-71
+第3集（佐藤勝・湖の琴／林 光・アンデスの花嫁） SGC-72
 
 Orchestral Space Vol. 2—LIGETI: Atmospheres. XENAKIS: Strategie. CAGE: The Wonderful Widow of 18 Springs. ADACHI: Concerto Grosso. REYNOLDS: Ambages. SJV-1513
 Orchestral Space Vol. 1—TAKEMITSU: Arc. TAKAHASHI: Chromamorphe II. ICHIYANAGI: Life Music. YUASA: Inter-penetration. SJV-1501
-Works of Toru TAKEMITSU—Seiji Ozawa conducting SJV-1503~6
+Works of Toru TAKEMITSU—Seiji Ozawa conducting SJV-1503〜6
 The Sounds of Japan—Modern Masterpieces for Traditional Instruments. SJV-1509
 
 ビクター
@@ -406,36 +403,34 @@ BALLAD
 
 === Page 18 ===
 Flute
-Clarinet
-Bassoon
-Bassoon
-Percussion
-Piano
-Celesta
-Violin
-Cello
-
 Karen Reynolds
+Clarinet
 Kenichi Nagata
+Bassoon
 Muneo Tozawa
+Bassoon
 Takeshi Yamamoto
+Percussion
 Koichi Yamaguchi
+Piano
 Roger Reynolds
+Celesta
 Aki Takahashi
+Violin
 Yoko Hayashi
+Cello
 Tadao Iwamoto
 
 String Quartet:
 Violin
-Violin
-Viola
-Cello
-Ring Modulator
-
 Saburo Ueki
+Violin
 Ken Itabashi
+Viola
 Masaaki Yamazaki
+Cello
 Tadao Takahashi
+Ring Modulator
 Junosuke Okuyama
 
 Brass by Larry Austin is available from Composer/Performer Edition, 330 University Avenue, Davis, Calif. 95616; Milton Babbitt's Composition for Four Instruments from Theodore Presser Co., Bryn Mawr, Penn.; Branches by Paul Chihara from Wimbledon Music, P.O. Box 1261, Grand Central Station, New York, N.Y. 10017. For information on works by Morris, Takeda, Matsudaira, and Lucier, write to the American Cultural Center, Sanno Grand Bldg., 14-2 Nagata-cho, 2-chome, Chiyoda-ku, Tokyo. Telephone 581-6611.
@@ -448,8 +443,7 @@ Milton Babbitt's Composition for Four Instruments was prepared by Roger Reynolds
 
 CROSS TALK is sponsored by the American Cultural Center - Donald Albright, director - with the cooperation of the Asahi Newspaper Company. Coordinators: Kuniharu Akiyama, Roger Reynolds, Karen Reynolds, and Joji Yuasa.
 
-Photos by Osamu Enomoto.
-Electronic equipment supplied by Trio Corporation.
+Photos by Osamu Enomoto. Electronic equipment supplied by Trio Corporation.
 
 ORCHESTRAL SPACE 2
 Orchestral programs: June 4, Tokyo Festival Hall; June 7 Hibiya Hall
@@ -550,7 +544,7 @@ PAUL CHIHARA was born in Seattle in 1938. He studied at Cornell University, earn
 === Page 23 ===
 ポール・チハラ（千原ポール・清弘）
 
-1938年シアトル生れの日系二世の作曲家。コーネル大学で英文学を学び、BAとDMAを受けた。のちコーネル大学奨学金をうけてパリでナディア・ブーランジェに師事。またベルリン音楽学校に学んだ。1963年には〈オーケストラのための４つの小品〉により、リリー・ブーランジェ記念賞を受賞、また〈ヴィオラとオーケストラのための協奏曲〉が、第１次ロックフェラー財団計画によって、ポルティモア交響楽団により演奏された。のちにタンブルウッドでガンサーシュラーに師事。現在はカリフォルニア大学（ロスアンジェルス）の音楽部助教授、活潑な前衛音楽のコンサート活動もおこなっている。
+1938年シアトル生れの日系二世の作曲家。コーネル大学で英文学を学び、BAとDMAを受けた。のちコーネル大学奨学金をうけてパリでナディア・ブーランジェに師事。またベルリン音楽学校に学んだ。1963年には〈オーケストラのための４つの小品〉により、リリー・ブーランジェ記念賞を受賞、また〈ヴィオラとオーケストラのための協奏曲〉が、第１次ロックフェラー財団計画によって、ボルティモア交響楽団により演奏された。のちにタンブルウッドでガンサーシュラーに師事。現在はカリフォルニア大学（ロスアンジェルス）の音楽部助教授、活潑な前衛音楽のコンサート活動もおこなっている。
 
 かれの作品は、ウィンブルドン音楽出版社及びスミーバーチャード出版社から出版されている。
 
@@ -558,7 +552,7 @@ PAUL CHIHARA was born in Seattle in 1938. He studied at Cornell University, earn
 
 この〈プランチズ〉では、ピッチの異なるドラム群（G、A、B、C♯、D、D♯、E、F）が行動をおこし、曲の高低をえがきだしていく。そして２つのバスーンは、まるで風に吹かれた枝のような音をだしながら、そのドラム群を追っていくのだ。初演は1966年タンブルウッド音楽祭でやられたが、そのご西独のカッセルのほか、シアトル、クリーヴランド、そしてロスアンジェルスでひらかれたI・S・C・M音楽祭でも演奏された。
 
-Robert Morris ロバート・モリス
+Robert Morris　ロバート・モリス
 
 ロバート・モリス
 
@@ -573,7 +567,7 @@ BRANCHES is the second in a series of tone pictures dealing with trees (The othe
 
 - Paul Chihara
 
-TAKAHIKO IIMURA was born in 1937 and graduated from Keio University in 1960, His first one-man show was in Tokyo in 1963, and one year later his Onan won a special prize at the 3rd International Experimental Film Festival in Brussels. On his return to Japan in 1964 Iimura founded "Film Independent" as a result of interest in experimental cinema. He was invited to Harvard University's International Seminar, and his films have been shown at the Cannes Film Festival, The Museum of Modern Art, Lincoln Center, and many universities. His works include: Onan, Love, and Dance Party in Delipat Kingdom.
+TAKAHIKO IIMURA was born in 1937 and graduated from Keio University in 1960. His first one-man show was in Tokyo in 1963, and one year later his Onan won a special prize at the 3rd International Experimental Film Festival in Brussels. On his return to Japan in 1964 Iimura founded "Film Independent" as a result of interest in experimental cinema. He was invited to Harvard University's International Seminar, and his films have been shown at the Cannes Film Festival, The Museum of Modern Art, Lincoln Center, and many universities. His works include: Onan, Love, and Dance Party in Delipat Kingdom.
 
 ALVIN LUCIER was born in Nashua, New Hampshire in 1931, and studied at Yale University, Brandeis University, and in Rome on a Fulbright Fellowship. He is presently on the faculty of Brandeis, where he directs the University Chamber Chorus and the University Electronic Music Studio. During the past several years, he has toured in Europe and America as a member of the Sonic Arts Group. His works include: Action Music for Piano, aural and theatrical (1962); Music for Solo Performer, for a performer's amplified brain-waves, assistant, and differential amplifier-low pass filter (1965); Whistlers, sounds created by the spinning electromagnetic particles that track between the poles of the magnetic field above the earth (1966); North American Time Capsule for voices using materials representative of the current state of the world, modified by the Sylvania Electronics Systems' vocoder (1967).
 
@@ -584,12 +578,12 @@ SHELTER 9999 is a collaboration between Alvin Lucier and film maker Takahiko Iim
 
 現在アメリカのもっとも若い世代の作曲家ということができよう。
 〈フロンデスヌス〉1965　フルートとピアノ
-〈サギタ"67〉1967　フルート（任意数）と弦楽、打楽器
+〈サギタ“67〉1967　フルート（任意数）と弦楽、打楽器
 〈黒光輪〉　オーケストラ
 〈ナイト・クローラーズ〉　テープと舞踊手
 〈デンクメラル〉　劇場作品
 〈忘れられた振動〉　10楽器とソプラノ
-〈カプリコーン"68〉　9人以上の奏者と3人以上の指揮者
+〈カプリコーン“68〉　9人以上の奏者と3人以上の指揮者
 
 〈アンダー・グラウンドからの手記〉は、構造的な方法として不確定性をもちいているかれの一連の作品のひとつ。この作品の音は、明確な音から不確定な音にいたるまでが使われ、また音声も明確に識別できるものから曖昧な音までがもちいられている。
 
@@ -631,12 +625,12 @@ When seen in terms of its duration and order of appearance, each "condition" com
 
 ミルトン・バビット
 
-1916年フィラデルフィア生れ。今日ではアメリカ作曲界の大御所的な存在であり、セリエル音楽の指導者格でもある。1940年以来、ポスト・ウェーベルン派として、かれはアメリカでおそらく最初に厳格なセリエル技法を適用した作曲家といってよいだろう。
+1916年フィラデルフィア生れ。今日ではアメリカ作曲界の大御所的な存在であり、セリエル音楽の指導者格でもある。1940年以来、ボストン・ウェーベルン派として、かれはアメリカでおそらく最初に厳格なセリエル技法を適用した作曲家といってよいだろう。
 
 1931年にニューヨーク大学に入って数学・論理学を専攻。そのごシェーンベルクとウェーベルンに強い刺激をうけて、音楽をはじめるようになった。そしてM・バウアー、F・ジェームス、ロジャー・セッションズらについて学び、1942年プリンストン大学を卒業。1938年以来、母校プリンストン大学で数学と音楽を教えた。戦後シンセサイザーを備えたプリンストン電子音楽スタジオを創設、ディレクターとなって現在に及んでいる。
 
 〈12楽器のための作品〉 1948年
-〈弦楽四重奏曲〉 2曲 1958～60年
+〈弦楽四重奏曲〉 2曲 1958-60年
 
 === Page 28 ===
 (MATSUDAIRA, MORRIS)
@@ -657,17 +651,21 @@ I continued this train of thought in subsequent works (Sangita 67, Next to Last 
 - Robert Morris
 
 === Page 29 ===
-〈テナーと6楽器のための作品〉 1958～60年
+〈テナーと6楽器のための作品〉 1958〜60年
 〈シンセサイザーのための作品〉 1961年
-〈シンセサイザーのためのアンサンブル〉数曲 1961～63年
-〈ファイロメル〉1963年 ソプラノ及び録音されたソプラノの声とシンセサイザー
+〈シンセサイザーのためのアンサンブル〉数曲
+1961〜63年
+〈ファイロメル〉1963年　ソプラノ及び録音されたソプラノの声とシンセサイザー
 
 〈4つの楽器のための作品〉へのノート
-この作品は1947～48年にかけて作曲したもので、1946～47年の〈ピアノのための3つの作品〉を最初としてはじまった15年間にわたる〈作品（コンポジション）〉と名づけられた6つの作品の第2番目にあたるものだ。
+この作品は1947〜48年にかけて作曲したもので、1946〜47年の〈ピアノのための3つの作品〉を最初としてはじまった15年間にわたる〈作品（コンポジション）〉と名づけられた6つの作品の第2番目にあたるものだ。
 
 〈コンポジション（作品）＝つまりコンポジチオ〉の名をえらんだ理由は、歴史的、または楽曲形式による名前によってうまれる無用な連想をさけながら、同時に、聴衆にある程度の抽象性と形式性を意識させることである。そればかりでなく、それは私のもちいる音楽言語の性質と作品そのものの特性について、あらかじめ情報を提供するということにほかならない。
+
 つまりコンポジチオという名称は、12音組織の一般的な変形法の慣習的なやり方である音の順列組みあわせ操作——セリエルの音列技法を意味する。またこの名称は、12音の総体を、音高と音色によって区分し、その区分の順序、およびその部分がつねに12音の音高のセットからなる全体の時間的な推移を重要視するものと考えられているはずだからである。
+
 この〈4つの楽器のための作品〉は、戦争によって中断された6年間の休息ののちにできあがった第2の作品である。この前後の時期に、私はシェーンベルクの〈結合の原理〉の拡張とその一般化、およびウェーベルンの〈派生法〉によるセリー構成の技法に熱中した。その結果この両者は私の考えのなかで、切り離しがたく合体し、相関した。
+
 この作品のなかでは、12音のセットは、ふつうの意味では明白には示されない。個々の楽器の音高素材を形成するセットは、すべて作品のセットをなす6音から（12音組織の3つの基本
 
 Milton Babbitt ミルトン・バビット
@@ -682,8 +680,6 @@ In A FIELD, I have tried to construct a situation in which tones are given such 
 As a matter of course, I have used a non-traditional manner of notation. It gives strictly directive information concerning playing method and also about the way in which rapport between the players may be attained and developed. Information on the specific characteristics of the tones themselves, however, is quite ambiguous, conveying only the subjective wishes of the composer. Any instruments from the string (violin) family may be used in performance. It should be noted that the indeterminacy used in this composition is not in agreement with John Cage's approach. I always envisage a total structure (or product), and try to transmit this to the performer and listener as accurately as possible.
 
 - Akimichi Takeda
-
-Akimichi Takeda 武田明倫
 
 === Page 31 ===
 操作によって）、すべて〈派生〉したものである。そして共有する6音の結合と相互に関係し、かつ作品全体としても連関する。
@@ -709,7 +705,8 @@ Akimichi Takeda 武田明倫
 〈インストラクション〉 P 1961年
 〈コアクション〉VC & P 1962年
 〈トランジェント64〉電子音楽 1963－1964年
-*〈コンフィギュレーション〉 室内オーケストラ 1961－1963年
+*〈コンフィギュレーション〉
+室内オーケストラ 1961－1963年
 *〈韻〉F1 1965－1966年
 〈分布〉弦楽四重奏とリング変調器 1966－1967年
 〈What's nexk?〉ソプラノとノイズ・メーカー（2） 1967年
@@ -717,7 +714,7 @@ Akimichi Takeda 武田明倫
 *印は………Edizioni Suvini Zerboni社により出版
 
 === Page 32 ===
-■1967～68年のシーズンに、〈クロス・トーク〉は下記の作曲家および映画作家の作品を、世界初演、または日本初演をふくめてとりあげました。
+■1967-68年のシーズンに、〈クロス・トーク〉は下記の作曲家および映画作家の作品を、世界初演、または日本初演をふくめてとりあげました。
 アシュレー、オースティン、バビット、バーマン、ケージ、千原、フルンド、一柳慧、飯村隆彦、アイヴス、小杉武久、ルシエ、マルティラーノ、松平顕隆、水野修孝、モリス、ムンマ、ネルソン、サティ、シリング、スポットニック、ライヒ、レイノルズ、高橋悠治、武田明倫、武満徹、湯浅譲二（5月に予定されている作品を含む）
 
 ■〈クロス・トーク〉では、1969年の春にライヴ・エレクトロニック・ミュージックの音楽祭を計画、進行中です。
@@ -729,10 +726,4 @@ Akimichi Takeda 武田明倫
 ■このほか、特別コンサートと、定期的なコンサートも継続しておこなう予定ですが、いずれ詳細は追ってお知らせします。
 
 === Page 33 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

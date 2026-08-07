@@ -2,13 +2,7 @@
 Metropolitan Liedertafel
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 135th Concert
@@ -71,6 +65,7 @@ COMMITTEE
 MR. J. KENDALL
 MR. J. S. RIDLEY
 MR. S. MOYLE
+
 MR. E. MILLER
 MR. W. F. RASHLEIGH
 
@@ -95,7 +90,7 @@ S. Symons
 W. Watts
 J. Kendall
 G. F. Smith
-F. G. Whitby
+F. G. Whitty
 J. Lilfe
 W. G. Bundy
 A. Surrar
@@ -208,7 +203,7 @@ PART I
 
 Cantata "Harald's Bridal Voyage"
 Heinrich Hofmann
-(WITH ORCHESTRAL ACCOMPANIMENT)
+(with orchestral accompaniment)
 Solos by Mr. A. H. Gee and Mr. Henry Rofe
 
 Liedertafel
@@ -417,30 +412,30 @@ Song
 Miss O'Shannessy
 
 === Page 13 ===
-Selections from "La Damnation de Faust"
+Selections from "La Damnation de Faust"  
 Berlioz
 
-Boys' Choir, Victorian Orchestra
+Boys' Choir, Victorian Orchestra  
 AND Liedertafel
 
 1.—Rakocsky March
 
 2.—Easter Hymn
 
-CHRIST is risen from the dead.
-    Has broken the tomb,
-    Gladly hail the token.
-    Sin's fetters are broken,
-Reversed is the doom,
-Now the Master hath ascended,
-    Rejoice for your bondage is o'er,
-And the reign of sin is ended,
+CHRIST is risen from the dead.  
+Has broken the tomb,  
+Gladly hail the token.  
+Sin's fetters are broken,  
+Reversed is the doom,  
+Now the Master hath ascended,  
+    Rejoice for your bondage is o'er,  
+And the reign of sin is ended,  
     Praise him for evermore!
 
-    Alas! those He loved can but languish,
-    Suffer mid pain and annoy.
-    Master, we envy Thy joy,
-Forget not the depth of our anguish.
+Alas! those He loved can but languish,  
+    Suffer mid pain and annoy.  
+Master, we envy Thy joy,  
+Forget not the depth of our anguish.  
     Hosanna!
 
 3.—Danse des Sylphes
@@ -449,11 +444,11 @@ Forget not the depth of our anguish.
 
 Soldiers.
 
-Fortresses defended with strong ramparts high,
-Fair maidens who daringly love's power defy,
-Of conquest we're certain soon as we take the field,
-We reck not of danger, to us they must yield.
-At the sound of the trumpet we soldiers so
+Fortresses defended with strong ramparts high,  
+Fair maidens who daringly love's power defy,  
+Of conquest we're certain soon as we take the field,  
+We reck not of danger, to us they must yield.  
+At the sound of the trumpet we soldiers so  
 To revel or battle at once march away.
 
 === Page 14 ===
@@ -472,7 +467,7 @@ Veni, vidi, vici, gaudeamus igitur.
 Song    "Bedouin Love Song"    Coombs
 Mr. A. H. Gee
 
-Part Song    "Farewell"    Hinkel
+Part Song    "Farewell"    Zinkel
 
 Ah! must we part for ever?
 One kiss before we sever.
@@ -518,7 +513,7 @@ Weaves his flow'ry ring,
     Gladness wooing, world renewing;
 And like airy sprite,
 Ceaseless day and night,
-Joy doth weave a new delight, With micht.
+Joy doth weave a new delight, With might.
     Her shapes are manifold
     Her voices all untold,
     She dwells in ev'ry place
@@ -581,11 +576,13 @@ Or when at Humanity's glorious shrine
     In love half-divine,
 'Tis joy that her glow to our pulses imparts,
 And throbs in our grateful hearts.
+
     O rejoice! Heart and voice
     Raise to heav'n above, laud the Source of Love.
     He is good, great and wise;
     Wraft from earth to skies
     Hymns of gratitude!
+
 Now to the gay dance's rhythmical sound
 See the golden-haired hours circle round,
 While our thoughts in harmonious rhyme
@@ -594,6 +591,7 @@ Stealing us far from the sorrows of life,
 Shedding balm o'er its heart-paining strife,
 Guiding gently to sweet spots of rest
 For the heart that with gladness is blest!
+
     Joy and song
     Be our theme life-long,
     And in jocund strain
@@ -612,13 +610,7 @@ M'CARRON, BIRD AND CO., PRINTERS,
 479 COLLINS ST.
 
 === Page 19 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 20 ===
 TOWN HALL,

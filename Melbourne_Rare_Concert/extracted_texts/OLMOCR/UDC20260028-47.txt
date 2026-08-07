@@ -8,13 +8,7 @@ Town Hall, Melbourne
 Tuesday, March 25th, 1902.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 Melbourne Liedertafel.
@@ -117,7 +111,7 @@ Harris, S.
 Linehan, T.
 
 SECOND TENOR.
-Humphrev, Geo. (Capt.)
+Humphrey, Geo. (Capt.)
 Rundell, W. R.
 Flood, W. H.
 Pleasants, E. A.
@@ -133,7 +127,7 @@ Robertson, P.
 *Richardson, R.
 Clarke, A. W.
 Edmanson, W. L.
-Templenton, H. O.
+Templeton, H. O.
 *Coitman, A. H.
 James, W. H.
 Tuohy, W. E.
@@ -145,7 +139,7 @@ FIRST BASS.
 Rendle, S. (Capt.)
 Whitehead, F. S.
 Gerson, J.
-Templenton, Capt. T. H.
+Templeton, Capt. T. H.
 Garrett, H. T.
 Wilson, E. I.
 Bird, John
@@ -178,7 +172,7 @@ Moran, H.
 
 SECOND BASS.
 Casper, E. (Capt.)
-Statlers, J.
+Statters, J.
 *Hasell, A. H.
 Murray, Dr. H. L.
 Pepper, F.
@@ -193,7 +187,7 @@ Griffiths, H. L.
 Bona, E.
 Brown, G. H.
 Morgan, H. E.
-Holgett, W. D.
+Holgate, W. D.
 Samuel, J. W.
 Heath, C. S. R.
 Perry, S. J.
@@ -221,92 +215,92 @@ Roll Secretary: H. W. SMITH.
 The Orchestra.
 
 Violins—
-  Mr. Dawson (leader)
-  *Mr. Adams
-  *Miss Abercrombie.
-  Mr. Brennecke.
-  *Mr. Brandt.
-  *Miss Boyd.
-  *Miss Brabson.
-  *Mr. Beadle.
-  *Mr. G. H. Bell.
-  *Miss Cussen.
-  *Mr. Danne.
-  Mr. Hunter.
-  Mr. C. Hume.
-  Mr. Jochinsen.
-  *Mr. W. I. Holder.
-  *Mr. Krawkowski.
-  *Mr. Lamble.
-  *Mr. Lambert.
-  *Mr. L'Estrange.
-  *Mr. La Feuillade.
-  *Miss Moss.
-  *Dr. MacGillicuddy.
-  Mr. J. North.
-  *Miss Parry.
-  *Miss Presswell.
-  *Miss Sergeant.
-  *Mr. Smith.
-  *Miss Riley.
-  *Mr. Ward.
+Mr. Dawson (leader)
+*Mr. Adams
+*Miss Abercrombie.
+Mr. Brennecke.
+*Mr. Brandt.
+*Miss Boyd.
+*Miss Brabson.
+*Mr. Beadle.
+*Mr. G. H. Bell.
+*Miss Cussen.
+*Mr. Danne.
+Mr. Hunter.
+Mr. C. Hume.
+Mr. Jochinsen.
+*Mr. W. I. Holder.
+*Mr. Krawkowski,
+*Mr. Lamble.
+*Mr. Lambert.
+*Mr. L'Estrange.
+*Mr. La Feuillade.
+*Miss Moss.
+*Dr. MacGillicuddy.
+Mr. J. North.
+*Miss Parry.
+*Miss Presswell.
+*Miss Sergeant.
+*Mr. Smith.
+*Miss Riley.
+*Mr. Ward.
 
 Violas—
-  Mr. Schraeder.
-  *Mr. F. Garner.
-  Mr. Wiedermann.
+Mr. Schraeder.
+*Mr. F. Garner.
+Mr. Wiedermann.
 
 Cellos—
-  Herr Hattenbach
-  *Mr. M. Bell.
-  *Mr. E. Hore.
+Herr Hattenbach
+*Mr. M. Bell.
+*Mr. E. Hore.
 
 Basses—
-  Mr. Haigh
-  Mr. Rowe
-  Mr. Louder.
-  *Mr. E. I. Holder.
+Mr. Haigh
+Mr. Rowe
+Mr. Louder.
+*Mr. E. I. Holder.
 
 Piccolo—
-  *Mr. Turner.
+*Mr. Turner.
 
 Flutes—
-  *Mr. W. H. Bell.
-  *Mr. Freadman.
-  *Mr. Holmes.
+*Mr. W. H. Bell.
+*Mr. Freadman.
+*Mr. Holmes.
 
 Oboes—
-  *Mr. F. Taylor
-  *Mr. H. Gill.
+*Mr. F. Taylor
+*Mr. H. Gill.
 
 Clarinets—
-  *Mr. Dunlop.
-  *Mr. Brodribb.
+*Mr. Dunlop.
+*Mr. Brodrribb.
 
 Bassoons—
-  *Mr. C. Rudall.
-  *Mr. Hornidge.
+*Mr. C. Rudall.
+*Mr. Hornidge.
 
 Horns—
-  Mr. Wood
-  *Mr. Finlay.
-  *Mr. Thomson.
+Mr. Wood
+*Mr. Finlay.
+*Mr. Thomson.
 
 Trumpets—
-  *Mr. A. Haigh.
-  Mr. Finlay.
-  *Mr. Jackson.
+*Mr. A. Haigh.
+Mr. Finlay.
+*Mr. Jackson.
 
 Trombones—
-  Mr. A. Lawson.
-  Mr. Hingott.
-  Mr. J. Lawson.
+Mr. A. Lawson.
+Mr. Hingott.
+Mr. J. Lawson.
 
 Tuba—
-  Mr. Friers.
+Mr. Friers.
 
 Tympani—
-  Mr. Clay
+Mr. Clay
 
 *Members of Hawthorn Orchestral Society.
 
@@ -318,8 +312,11 @@ Mr. August Siede.
 Part I.
 
 Landerkennung  Eduard Greig
-For Baritone Solo, Male Chorus, Orchestra and Organ.
-Soloist: Mr. E. A. Tre.
+
+For Baritone Solo, Male
+Chorus, Orchestra and Organ.
+
+Soloist: Mr. E. A. Ure.
 
 AND it was Olav Trygvason,
 Sailing on the north sea wide,
@@ -357,33 +354,27 @@ It having been found necessary to re-arrange the Programme, the items will be pe
 
 Part I.
 Landerkennung    Eduard Greig
-Liedertafel and Orchestra.
+                Liedertafel and Orchestra.
 Aria—Ah! Rendimi Quel Core    Francesco Rossi
-Miss Elva Rogers.
+                Miss Elva Rogers.
 Symphony—No. 5, C Minor    Beethoven
 
 Part II.
 Air—Hear ye Israel    Mendelssohn
-Miss Ethel Benson.
+                Miss Ethel Benson.
 Hymn to the Night    Julius Siede
-Liedertafel and Orchestra.
+                Liedertafel and Orchestra.
 Aria—Love Sounds the Alarm    Handel
-Mr. J. Gregor Wood.
+                Mr. J. Gregor Wood.
 Indian Love Song    Heinrich Zollner
-Liedertafel and Orchestra.
+                Liedertafel and Orchestra.
 Song—Still as the Night    Carl Bohm
-Miss Ethel Benson.
+                Miss Ethel Benson.
 Fest Gesang    Mendelssohn
-Liedertafel and Orchestra.
+                Liedertafel and Orchestra.
 
 === Page 8 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 9 ===
 "Be my faith as yonder mountains,
@@ -398,15 +389,15 @@ God to thee, alone be glory
 
 Air—Hear ye Israel Mendelssohn
     (Elijah)
-        Miss Ethel Benson.
+    Miss Ethel Benson.
 
 Aria—Love Sounds the Alarm Handel
     (Aris and Galatea)
-        Mr. J. Gregor Wood.
+    Mr. J. Gregor Wood.
 
 Symphony—No. 5, C Minor Beethoven
-ALLEGRO CON BRIO—ANDANTE CON MOTO—
-ALLEGRO \( \frac{3}{4} \) —ALLEGRO \( \frac{2}{2} \) —PRESTO.
+    ALLEGRO CON BRIO—ANDANTE CON MOTO—
+    ALLEGRO \( \frac{3}{4} \) —ALLEGRO \( \frac{2}{2} \) —PRESTO.
 
 Beethoven, when asked what he meant by the remarkable phrase which opens this Symphony, replied—"Fate knocks at the door." Throughout the first movement there seems to be a conflict between the human element and that mysterious force which overshadows it—we are reminded of the hapless Odysseus of Homer driven to and fro, ever striving towards the land of his hopes. The second movement seems to be "an outburst of love divine," not unmingled with sorrow, and doubt; especially is the "sehnsuchtvoll" theme of the wind, which follows on the melody of the 'cellos, to be noted. The third movement partakes more of the nature of the opening, and may be likened to the wanderer in his restless and fruitless search for the desired goal, interrupted only for a moment by the strange scene opened out by the Trio, which speedily is covered from sight as by the falling of a mist. The former mood is resumed, and leads into the triumphant finale, in which, as Balzac said, "we are held in the grasp of our most sacred hopes, which are realised for an instant as we listen."
 
@@ -447,7 +438,7 @@ The welcome, the thrice paid for,
     The most fair, the best beloved night.
 
 Aria—Ah! Rendimi Quel Core
-(Mittrane)  Francesco Rossi
+(Mitrane)  Francesco Rossi
 Miss Elva Rogers.
 
 === Page 11 ===
@@ -537,22 +528,10 @@ The thousand various ways unending
 Till, from the summit's height extending,
     Behold the vast eternal shore.
 
-The thanks of the Society are due to the Members of the Hawthorn Orchestral Society, and to Mr. Mansley Greer (Organist), who are kindly assisting this evening; to C. L. Pinschow, Esq., for loan of Orchestral Parts of "Mitrané," and also to Messrs. W. H. Glen & Co., Collins St., for use of Box Office.
+The thanks of the Society are due to the Members of the Hawthorn Orchestral Society, and to Mr. Mansley Greer (Organist), who are kindly assisting this evening; to C. L. Pinschow, Esq., for loan of Orchestral Parts of "Mitran," and also to Messrs. W. H. Glen & Co., Collins St., for use of Box Office.
 
 === Page 13 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 14 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

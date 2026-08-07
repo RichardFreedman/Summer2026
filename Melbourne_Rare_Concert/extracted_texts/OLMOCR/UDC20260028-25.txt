@@ -3,13 +3,7 @@ THE ROYAL METROPOLITAN LIEDERTAFEL.
 R.M.L.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 159th Concert
@@ -185,7 +179,7 @@ C. H. Woodman .. 1879
 M. St. J. Kennedy .. 1874
 F. W. White .. 1879
 W. M. Ure .. 1871
-H. Rose .. 1880
+H. Rofe .. 1880
 J. Keyston .. 1883
 W. Urie .. 1884
 E. Walsh .. 1885
@@ -344,11 +338,11 @@ PART I
 Cantata—"The Maid of Orleans"
 Heinrich Hofmann
 
-ENGLISH VERSION BY MRS. JOHN P. MORGAN
+English Version by Mrs. John P. Morgan
 
 Heinrich Josef Franz Hofmann, who was born at Berlin in 1842, first came into notice as a rising musician by his "Hungarian Suite" for orchestra, which was produced in 1873. This met with an enthusiastic reception throughout Germany; and the composer followed up his initial success in the following year with a symphony to which he gave the name "Frithjof," while in 1875 he brought out a cantata on the subject of "Die schöne Melusine," both of these works displaying his powers in a highly favourable light. The work performed this evening is an admirable example of his style, which though it still bears traces of the influence of other composers, notably Wagner, and occasionally Bizet, will be generally admitted to be characterized by melodic gifts of a high order, coupled with mastery over the resources of orchestral colour, and imbued throughout with true dramatic feeling.
 
-PART I.—A brief orchestral prelude—sostenuto—leads to a spirited chorus wherein the pleasures of the vintage and the virtues of wine are duly set forth. This joyous strain is interrupted by the arrival of a band of peasants with tidings of the ravages caused by the conquering English troops, and all
+Part I.—A brief orchestral prelude—sostenuto—leads to a spirited chorus wherein the pleasures of the vintage and the virtues of wine are duly set forth. This joyous strain is interrupted by the arrival of a band of peasants with tidings of the ravages caused by the conquering English troops, and all
 
 === Page 10 ===
 bewail their own weakness and the restless might of the foe. Joan appears, and after declaring her supernatural mission, breaks into a triumphant song in which the chorus, infected by her dauntless spirit, subsequently join. The stirring melody of this number, with its fine instrumentation and the effective use made of the harp, cannot fail to appeal to all who hear it.
@@ -366,7 +360,7 @@ The rich juices rising to burst from their shrine;
     Haply of their own joy dreaming,
         Waxing strong to fulness bright.
 Press out the rich juices, free, glowing and clear,
-That bring to all hearts strength, joy and good cheer.
+    That bring to all hearts strength, joy and good cheer.
 
 Half-chorus.—He whom fate unkind hath driven,
     All.—Drink its juices, comfort rife;
@@ -447,8 +441,8 @@ Farewell, farewell! I follow mine own star.
 
 Joan.—Now to Thy care, all pure and holy,
     Leave I my dear ones in their stress:
-        Thy ray divine illumine lowly
-            The way my land to save and bless.
+    Thy ray divine illumine lowly
+        The way my land to save and bless.
 A simple maid Thou hast appointed,
     To show the might of God, to war;
 For Thee raised up, of Thee anointed,
@@ -492,7 +486,7 @@ Joan.—Only a shepherd's child am I.
 
 King.—And how hath God thee victor crowned?
 
-    Chorus.—Speak! How hath God us victors crowned?
+Chorus.—Speak! How hath God us victors crowned?
 
 Joan.—Near my home, my native village,
     Stands an old Madonna shrine;
@@ -547,18 +541,17 @@ Joan.—Not e'en a world in arms have ye to fear,
 THIRD PART
 
 Warriors' Chorus.—
-
-Mourn, mourn for our lost heroine—
-Comrades, mourn for the glorious maiden;
-She that us from our foes hath saved,
-God hath called to Himself on high.
-She is no more—no more will she watch o'er us;
-Her eyes no more of earth shall ever see,
-She soars above, a spirit glorious,
-Seeing our grief no more, sees not our sorrow.
-She opens, see, her eyes, she lives!
-Here to us from the grave returned?
-Conquering death?
+    Mourn, mourn for our lost heroine—
+    Comrades, mourn for the glorious maiden;
+    She that us from our foes hath saved,
+    God hath called to Himself on high.
+    She is no more—no more will she watch o'er us;
+    Her eyes no more of earth shall ever see,
+    She soars above, a spirit glorious,
+    Seeing our grief no more, sees not our sorrow.
+    She opens, see, her eyes, she lives!
+    Here to us from the grave returned?
+    Conquering death?
 
 Joan.—Where am I?
 
@@ -693,7 +686,7 @@ Miss Lalla Miranda
 
 The moon is bright, the skies are clear,
 And as of old, we two are here,
-Tra la la!
+                Tra la la!
 In these old scenes of wild delight
 In old Venetia here to-night.
 Yes, we are here, Love, you and I,
@@ -701,21 +694,21 @@ Alone to breathe and sigh,
 Our heart's deep love for ever true,
 O! love me, Love, for I love you.
 
-While the stars in heaven are shining,
-I will love thee evermore,
-Love for thee this heart is pining,
-Love is waking as of yore.
+    While the stars in heaven are shining,
+    I will love thee evermore,
+    Love for thee this heart is pining,
+    Love is waking as of yore.
 
 Thou hast my heart and I have thine,
 I know my Love that thou art mine,
-Tra la la!
+                Tra la la!
 With all my heart I love but thee,
 Venetia has but one for me.
 In all my dreaming thou art nigh,
 To love thee not would be to die,
 Oh! life is young, and all is bright,
 In old Venetia here to-night.
-While the stars, &c.
+    While the stars, &c.
 
 Entr'acte—"Colombe"  Gounod
 Orchestra
@@ -753,7 +746,7 @@ Valse Lente
 Orchestra
 Delibes
 
-Grand Duo—"Nella Notte" (Huguenots)
+Grand Duo—"Mella Notte" (Huguenots)
 Meyerbeer
 Miss Lalla Miranda, Signor Buzzi and Orchestra
 
@@ -793,7 +786,7 @@ Who, clasping the Thunderer, died;
 And now, seeking its lost repose,
 We pray thee to come and heal its woes.
 O, hither bend,
-From thy Parnassian heights descend,
+From thy Parnassean heights descend,
 Or from over Euboea's billows;
     Hear us, Bacchus!
 
@@ -816,13 +809,7 @@ Good night. —— Come, Gentlemen."
     —Richard III.
 
 === Page 23 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 24 ===
 TOWN HALL,

@@ -13,13 +13,7 @@ November 3rd,
 Concert.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 Melbourne Liedertafel
@@ -31,6 +25,7 @@ Patrons:
 HIS EXCELLENCY THE GOVERNOR
 SIR GEORGE SYDENHAM CLARKE,
 K.C.M.G., F.R.S.
+
 HIS EXCELLENCY
 SIR JOHN MADDEN, K.C.M.G.,
 LIEUTENANT-GOVERNOR.
@@ -104,84 +99,84 @@ The Orchestra
 Violins—
 *Mr. Dawson (leader)
 *Miss E. Adams.
-  Mr. Adams,
-  *Mr. Krawkowski,
-  *Mr. North.
-  *Dr. MacGillicuddy.
-  *Mr. Danne.
-  *Mr. Dunne.
-  *Miss Abercrombie.
-  *Miss Moss.
-  *Miss White.
-  *Miss Parry.
-  *Mrs. Green.
-  *Miss McFarlane.
-  *Miss Riley.
-  *Mr. C. A. Smith.
-  *Mrs. Savage.
-  *Mr. Johnson.
-  *Mr. Hume.
-  *Mr. La Feuillade.
-  *Mr. L'Estrange.
-  *Mr. Hornby.
+    Mr. Adams,
+*Mr. Krawkowski,
+*Mr. North.
+*Dr. MacGillicuddy.
+*Mr. Danne.
+*Mr. Dunne.
+*Miss Abercrombie.
+*Miss Moss.
+*Miss White.
+*Miss Parry.
+*Mrs. Green.
+*Miss McFarlane.
+*Miss Riley.
+*Mr. C. A. Smith.
+*Mrs. Savage.
+*Mr. Johnson.
+*Mr. Hume.
+*Mr. La Feuillade.
+*Mr. L'Estrange.
+*Mr. Hornby.
     Mr. Parkes.
     Mr. Hunter.
     Mr. Brennecke.
     Mr. Jochimson.
 
 Violas—
-  Mr. Schraeder.
-  Miss Z. Daley.
+    Mr. Schraeder.
+    Miss Z. Daley.
 
 Cellos—
-  Herr Hattenbach
-  *Mr. Hore.
-  *Mr. M. Bell.
+    Herr Hattenbach
+    *Mr. Hore.
+    *Mr. M. Bell.
 
 Double Basses—
-  *Mr. C. Haigh.
-  *Mr. Rowe.
-  *Mr. E. I. Holder.
+    *Mr. C. Haigh.
+    *Mr. Rowe.
+    *Mr. E. I. Holder.
 
 Flutes—
-  Mr. Russell.
-  *Mr. Friedmann.
-  *Mr. Holmes.
+    Mr. Russell.
+    *Mr. Friedmann.
+    *Mr. Holmes.
 
 Oboes—
-  *Mr. F. Taylor
-  *Mr. H. Gill.
+    *Mr. F. Taylor
+    *Mr. H. Gill.
 
 Clarionets—
-  *Mr. J. C. Dunlop.
-  *Mr. Brodribb.
+    *Mr. J. C. Dunlop.
+    *Mr. Brodribb.
 
 Bassoons—
-  Mr. Ingamels.
-  *Mr. Hornidge.
+    Mr. Ingamels.
+    *Mr. Hornidge.
 
 Horns—
-  Mr. Kühr.
-  *Mr. Wood.
-  *Mr. Barwood.
+    Mr. Kühr.
+    *Mr. Wood.
+    *Mr. Barwood.
 
 Trumpets—
-  *Mr. A. Haigh.
-  *Mr. Jackson.
+    *Mr. A. Haigh.
+    *Mr. Jackson.
 
 Trombones—
-  Mr. J. Lawson.
-  *Mr. Downes.
-  Mr. A. Lawson.
+    Mr. J. Lawson.
+    *Mr. Downes.
+    Mr. A. Lawson.
 
 Tuba—
-  Mr. Lutich.
+    Mr. Lutich.
 
 Triangle—
-  Mr. Watmuff.
+    Mr. Watmuff.
 
 Tympani—
-  Mr. Clay.
+    Mr. Clay.
 
 *Members of Melbourne Liedertafel Orchestra (with which is incorporated the Hawthorn Orchestral Society).
 
@@ -198,7 +193,7 @@ Donaldson, J. P.
 Fullager, A. G.
 Harvey, H. J.
 *Pergerson, J.
-McCullagh, J.
+McCollagh, J.
 Robinson, H. J.
 *Sherlock, H. D.
 Allan, J. C.
@@ -229,7 +224,7 @@ Tuck, W. E.
 Roddiek, A.
 Cornell, W. E.
 Shovelton, H.
-Coussell, H.
+Cousell, H.
 McCutcheon, O. B.
 Smith, H. F.
 
@@ -253,7 +248,7 @@ Hanify, F.
 Crane, J. R.
 Lang, E. J.
 Phelan, C. H.
-Shannon, W. M.
+Shamian, W. M.
 Wild, C.
 Trevein, W.
 Fenton, G. C.
@@ -272,7 +267,7 @@ Statters, J.
 Murray, Dr. H. L.
 Pepper, F.
 Jones, Walter C.
-Willingly, A.
+Smylingly, A.
 Adcock, J.
 White, T. E.
 Griffiths, H. L.
@@ -280,7 +275,7 @@ Griffiths, H. L.
 Bona, E.
 Brown, G. H.
 Morgan, H. E.
-Skeete, J. W.
+Satchell, J. W.
 Heath, C. S. R.
 Perry, S. J.
 Sayer, J. F.
@@ -312,7 +307,7 @@ Programme.
 Under the Baton of
 Mr. August Siede.
 
-Part 1.
+Part I.
 
 BALLAD—
 
@@ -356,52 +351,52 @@ I'll row you o'er the ferry."
 
 === Page 7 ===
 By this the storm grew loud apace,
-The water wraith was shrieking,
+    The water wraith was shrieking,
 And in the scowl of heaven each face
-Grew dark as they were speaking.
+    Grew dark as they were speaking.
 
 But still as wilder blew the wind,
-And as the night grew drearer,
+    And as the night grew drearer,
 Adown the glen rode armed men,
-Their tramping sounding nearer.
+    Their tramping sounding nearer.
 
-"Oh haste thee, haste!" the lady cries,
-"Though storms around us gather,
+    "Oh haste thee, haste!" the lady cries,
+    "Though storms around us gather,
 I'll meet the raging of the skies,
-But not an angry father."
+    But not an angry father."
 
 The boat has left the stormy land,
-A stormy sea before her,
+    A stormy sea before her,
 When, oh, too strong for human hand,
-The tempest gather'd o'er her.
+    The tempest gather'd o'er her.
 
 And still they rowed amidst the roar
 Of waters fast prevailing:
 Lord Ullin reached the fatal shore,
-His wrath was changed to wailing.
+    His wrath was changed to wailing.
 
 For sore dismayed, thro' storm and shade,
-He did his child discover:
+    He did his child discover:
 One lovely arm she stretched for aid,
-And one was round her lover.
+    And one was round her lover.
 
-"Come back, come back!" he cried in grief
-Across the stormy water,
+    "Come back, come back!" he cried in grief
+    Across the stormy water,
 And I'll forgive your Highland chief,
-My daughter! oh, my daughter!"
+    My daughter! oh, my daughter!"
 
 'Twas vain: the loud waves lashed the shore,
-Return or aid preventing,
+    Return or aid preventing,
 The waters wild went o'er his child,
-And he was left lamenting.
+    And he was left lamenting.
 
 OVERTURE—
 
-"Oberon"
+    "Oberon"
 
-Weber
+    Weber
 
-The Orchestra.
+    The Orchestra.
 
 === Page 8 ===
 "ELEGY"
@@ -446,20 +441,23 @@ Part 2.
 The Orchestra.
 
 Scenes from...
+
 OLAV TRYGVASON
 (BJÖRNSTERNE BJÖNSON)
+
 For Solo Voices, Choir and Orchestra.
-By Edvard Grieg
+
+By Edvard Greig
 Op. 50.
 
-OLAV TRYGVASON, a descendent of Harold Haarfager (the first king of Norway), was brought up at the court of Gardarikke (Russia), and was baptised in England while on a Viking raid. When he learned that Norway was dissatisfied with her king (a scion of an older branch of the same race), he resolved upon conquering the kingdom and converting the people to Christianity. Richly endowed by nature, he was superior of all his contemporaries in bodily and spiritual gifts, and so comely to behold that none had seen his like; he was revered in the middle ages as the noblest example of the Norman race; he conquered more by his personality than by his sword. He commenced his struggle in the Drontheim district, and the beginning of this conflict is depicted in the scenes of the drama here set to music.
+OLAV TRYGVASON, a descendent of Harold Haarfager (the first king of Norway), was brought up at the court of Gardarikke (Russia), and was baptised in England while on a Viking raid. When he learned that Norway was dissatisfied with her king (a scion of an older branch of the same race), he resolved upon conquering the kingdom and converting the people to Christianity. Richly endowed by nature, the superior of all his contemporaries in bodily and spiritual gifts, and so comely to behold that none had seen his like; he was revered in the middle ages as the noblest example of the Norman race; he conquered more by his personality than by his sword. He commenced his struggle in the Drontheim district, and the beginning of this conflict is depicted in the scenes of the drama here set to music.
 
 The action takes place in an ancient Norman temple in the Drontheim district, at the time of Olaf Trygvason's appearance. Period—End of the tenth century.
 
 === Page 10 ===
 A Woman                Miss Hesketh Jones
-The Volva              Mr. E. A. Ure
-A Sacrificer
+The Volva
+A Sacrificer = Mr. E. A. Ure
 
 Liedertafel.
 Associated Ladies' Choir,
@@ -590,7 +588,7 @@ Men and women—
 (Kneeling in terror)-
 Wondrous word of Odin goes
 To black abyss, to heaven's height,
-Aweful, returneth the answer.
+A'awful, returneth the answer.
 
 The Volva—
 Answer came from Hel, from high gods;
@@ -663,29 +661,29 @@ Give to all gods your greatest of gifts.
 Men and women—
 Horns fill for Akethor, Drontheimer's deity,
 Fill them to Akethor, daring in fight.
-    Gladly then, etc.
+Gladly then, etc.
 Fill up to Nyord and Frey, harvest and fish they send,
 Fill up to Nyord and Frey, harvest fair, haul of fish,
 To freedom, and faith.
-    Gaily then, etc.
+Gaily then, etc.
 
 === Page 14 ===
 Beakers to Braga, bring we with holy vows,
 Beakers to Braga, brimming we raise!
 Offerings of flesh and blood
 To Braga we all freely bring.
-    Gaily then, etc.
+Gaily then, etc.
 
-    Women—
+Women—
 O ye Asynier, honour we offer thee,
 All ye Asynier, honour and praise!
 Nourish, oh mild ones, men with your mother milk,
 Nourish us ye who move us with might!
 Young men and maidens, grandsire and grandmother,
 Honour for aye the gods ever green?
-    Gaily then, etc.
+Gladly then, etc.
 
-    Men and women—
+Men and women—
 Glorious Disir, gliding like doves around!
 Glorious Disir, death making glad!
 Guarding ye, follow friendly our future fate,
@@ -693,17 +691,17 @@ Guarding ye, follow us, hail to your flight!
 Fortune of fathers, holdeth the hamingja
 Fortune of fathers and of the race.
 
-    Women—
+Women—
 O ye Asynia, etc.
 
-    Men and women—
+Men and women—
 Earthmen and Kobalds, deepening the ground for us
 Earthmen and Kobalds, hail to your kind!
 Hail to the highest spirit that hides in the hills!
-Hail I tiny elves who frolic in flow'rs.
+Hail! tiny elves who frolic in flow'rs.
 Hail our upholder, guardian of house and halls,
-Hail who upholdshest harbour and holm.
-    Gaily then, etc.
+Hail who upholdest harbour and holm.
+Gladly then, etc.
 
 Faith of our fatherland, love thou dost light in us,
 Faith of our fatherland, moving all men.
@@ -765,19 +763,7 @@ The thanks of the Society are due to Messrs. W. H. Glen & Co., Collins Street, f
 Ladies and Gentlemen wishing to join the Society, either as Subscribing or Performing Members, are requested to communicate with the Hon. Sec. c/o Messrs. Glen & Co., Collins Street, who will be pleased to forward all information required.
 
 === Page 19 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 20 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

@@ -1,9 +1,13 @@
 === Page 1 ===
-THE ROYAL METROPOLITAN LIEUTENANT
 R.M.L.
+THE ROYAL METROPOLITAN LIEBERTAFEL
 
 === Page 2 ===
-To bring about a reform became his aim so short as he himself termed it of his life. Such an understanding of course of that is to consider push and music on the stage as liable to graft the one into the other, and at the time they had nothing in common with each other, no partnership existed before.
+henceforth
+Do bring about a reform, became his own so short as he himself termed it of his life. Such an understanding of course
+of that is to consider, push out music on the stage and like to
+to graft the one into the other, and at the time they had nothing
+in common with each other, no partnership existed before
 
 === Page 3 ===
 170th Concert
@@ -44,8 +48,8 @@ HON. LIBRARIAN
 MR. H. W. SEYMOUR
 
 COMMITTEE
-MR. W. F. RASHLEIGH    MR. S. SYMONS
-MR. J. KENDALL        MR. A. W. JACK
+MR. W. F. RASHLEIGH | MR. S. SYMONS
+MR. J. KENDALL | MR. A. W. JACK
 MR. H. ROFE
 
 HON. AUDITORS
@@ -158,7 +162,7 @@ P. St. J. Murphy 1887
 J. H. Bayley .. 1889
 A. E. Finley .. 1890
 A. E. Johns .. 1890
-R. J. Burkowes .. 1891
+R. J. Burrowes .. 1891
 A. Vasey .. 1893
 F. J. Thompson .. 1893
 J. Frankland .. 1893
@@ -235,7 +239,7 @@ Aria from "Zelmira"                ROSSINI
 Miss Maud Reid
 
 Recit.—"Deeper & Deeper Still"
-Air—"Walt her, Angels" ("Jephtha")
+Air—"Waltz her, Angels" ("Jephtha")
 Mr. Charles Saunders                HANDEL
 
 Violoncello Solo—"Andante religioso and Finale" SERVAIS
@@ -254,11 +258,11 @@ Mrs. Palmer
 === Page 9 ===
 Cantata—"The Nun of Hidaros"
 
+Dudley Buck
+
 Liedertafel
 
-(TENOR SOLO: MR. CHARLES SAUNDERS)
-
-DUDLEY BUCK
+(Tenor Solo: Mr. Charles Saunders)
 
 In the convent of Drontheim,
 Alone in her chamber
@@ -293,7 +297,7 @@ The angry defiance,
 The challenge of battle!
 It is accepted.
 But not with the weapons
-Of war that thou wieldest!
+Of war that thou wieldest!"
 
 === Page 10 ===
 "Cross against corselet,
@@ -343,7 +347,7 @@ INTERVAL OF FIVE MINUTES
 === Page 11 ===
 PART II
 
-Serenade—"Sleep, Dear One, Sleep"        DR. TORRANCE
+Serenade—"Sleep, Dear One, Sleep"                DR. TORRANCE
 Liedertafel
 
 SLEEP, dear one, sleep, may thy rest be unbroken,
@@ -365,7 +369,7 @@ Rise on our night, while this homage we would render.
         Wake! loved one, wake.
 
 Pianoforte Solo—
-"Grande Polonaise Brillante, Op. 22"        CHOPIN
+"Grande Polonaise Brillante, Op. 22"                CHOPIN
 Miss Maud Wilson
 
 === Page 12 ===
@@ -395,24 +399,23 @@ They copy all and feel it,
 And those who sing reveal it,
     Their hearts so full of joy.
 
-Song—"A Summer Night"  Goring Thomas
+Song—"A Summer Night"  Gorring Thomas
 Miss Maud Reid
 
 Solo Quartets—
-  (a) "The Woodland Rose"  Fischer
-  (b) "I am so nervous"  KückeN
+    (a) "The Woodland Rose"  Fischer
+    (b) "I am so nervous"  KückeN
 S. Paul's Cathedral Quartet Party
 
 === Page 13 ===
 Violoncello Solo—
-"Romance, Souvenir d'Ems"    Piatti
+"Romance, Souvenir d'Ems" Piatti
 Mr. George E. Howard
 
-Song—"An Evening Song"    Blumenthal
+Song—"An Evening Song" Blumenthal
 Mr. Charles Saunders
 
-Part Song—"The Long Day Closes"    Sullivan
-
+Part Song—"The Long Day Closes" Sullivan
 Liedertafel
 No star is o'er the lake
     Its pale watch keeping,
@@ -452,11 +455,11 @@ This is the Fifth Concert of our Season. Three are given to ladies and gentlemen
 
 Intending Subscribers may join Class A, £1 1s.; Class B, £2 2s.; Class C, £1 11s. 6d. Entrance fee to each Class, 10s. 6d.
 
-Class A.—Two tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—8 TICKETS.
+Class A.—Two tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—8 tickets.
 
-Class B.—Five tickets for each Concert to ladies and gentlemen, and two for each Concert to gentlemen only—19 TICKETS.
+Class B.—Five tickets for each Concert to ladies and gentlemen, and two for each Concert to gentlemen only—19 tickets.
 
-Class C.—Three tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—11 TICKETS.
+Class C.—Three tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—11 tickets.
 
 Subscribers joining during the year are only charged pro rata.
 
@@ -470,13 +473,7 @@ The Hon. Secretary will be glad to receive nominations from ladies and gentlemen
 Melbourne.
 
 === Page 15 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 16 ===
 TOWN HALL,

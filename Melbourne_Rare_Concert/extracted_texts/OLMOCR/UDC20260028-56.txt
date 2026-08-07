@@ -8,46 +8,10 @@ CATHÉDRALE DE LAUSANNE
 les 10 et 11 Mars 1928
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
-DEUX AUDITIONS DE LA
-MESSE EN FA MINEUR DE
-ANTON BRUCKNER
-POUR SOLI, CHŒURS ET ORCHESTRE
-
-données par le
-CHOŒUR DE RÉCEPTION DE LA FÊTE FÉDÉRALE DE CHANT 1928
-UNION CHORALE
-(Direction : M. H. LANG)
-CHORALE DE LA PONTAISE
-(Direction : M. N. ROCHAT)
-CHŒUR DU CONSERVATOIRE renforcé
-(Direction : M. C. TROYON)
-avec le concours de
-Mme Berthe de VIGIER soprano, de Soleure.
-Mme Zina SIMON-KOCHER alto, de Lausanne.
-M. Ernest BAUER ténor, de Genève
-M. Félix LŒFFEL basse, de Berne
-sous la direction de
-M. Hermann LANG
-500 exécutants
-
-CATHÉDRALE DE LAUSANNE
-Samedi 10 mars 1928, à 20 h. 30 :: Dimanche 11 mars 1928, à 15 h.
-Durée du Concert : 1 h. 30.
-Répétition générale : Vendredi 9 mars 1928, à 20 h.
-Prière de ne pas applaudir.
-Livret-programme à 60 cts.
-Pour tous renseignements s'adresser au magasin de musique FCETISCH FRÈRES S. A., Lausanne.
-
-Imp. J. Couchoud & Fils, Lausanne.
+DEUX AUDITIONS DE LA MESSE EN FA MINEUR DE ANTON BRUCKNER POUR SOLI, CHŒURS ET ORCHESTRE données par le CHŒUR DE RÉCEPTION DE LA FÊTE FÉDÉRALE DE CHANT 1928 UNION CHORALE (Direction : M. H. LANG) CHORALE DE LA PONTAISE (Direction : M. N. ROCHAT) CHŒUR DU CONSERVATOIRE renforcé (Direction : M. C. TROYON) avec le concours de Mme Berthe de VIGIER soprano, de Soleure. Mme Zina SIMON-KOCHER alto, de Lausanne. M. Ernest BAUER ténor, de Genève M. Félix LŒFFEL basse, de Berne sous la direction de M. Hermann LANG 500 exécutants CATHÉDRALE DE LAUSANNE Samedi 10 mars 1928, à 20 h. 30 :: Dimanche 11 mars 1928, à 15 h. Durée du Concert : 1 h. 30. Répétition générale : Vendredi 9 mars 1928, à 20 h. Prière de ne pas applaudir. Livret-programme à 60 cts. Pour tous renseignements s'adresser au magasin de musique FCETISCH FRÈRES S. A., Lausanne.
 
 === Page 4 ===
 ANTON BRUCKNER
@@ -60,7 +24,7 @@ La Fête fédérale de chant qui aura lieu à Lausanne au mois de juillet 1928 r
 Les organisateurs du « concert de réception » ont pensé bien faire en offrant au public de la Suisse romande une audition de la Messe en fa mineur de Bruckner quelques semaines avant la Fête fédérale. Le concert du mois de mars servira ainsi de prélude aux manifestations du mois de juillet.
 
 Les sociétés suivantes prendront part à l'exécution de la Messe en fa mineur de Bruckner :
-Chœur du Conservatoire de Lausanne (dir. M. Ch. Troyon); Union Chorale de Lausanne (dir. M. H. Lang); Chorale de la Pontaise (dir. M. N. Rochat).
+Chœur du Conservatoire de Lausanne (dir. M. Ch. Troyon) ; Union Chorale de Lausanne (dir. M. H. Lang) ; Chorale de la Pontaise (dir. M. N. Rochat).
 
 Le Chœur du Conservatoire de Lausanne est renforcé, pour la circonstance, par un groupe important de dames de Lausanne et de Vevey.
 
@@ -122,27 +86,29 @@ Avec le Saint-Esprit, dans la gloire de Dieu le Père. Amen.
 Le Gloria commence par le chant des Anges à la naissance du Sauveur :
 
 Allegro
-Glo- ri-a in ex- cel-sis De- o.
+
+Glo- ri-a in exc- cel- sio De- o.
 
 puis les supplications du Kyrie s'y continuent : Toi qui ôtes les péchés du monde, aie pitié de nous !
 
 Adagio
-Aqui- tal. Ch, qui tol- lis pec- ca- ta mun- di,
+
+Aqui- to, qui tol- lis pecc- ata mun- di,
 
 === Page 9 ===
-La fin du morceau : In Glória Dei Patris, est traitée en fugue et dans un mouvement animé :
+La fin du morceau : In Gloria Dei Patris, est traitée en fugue et dans un mouvement animé :
 
 III. Credo.
 
 Chœur et Quatuor.
 
-Credo in unum Deum, Patrem omnipotentem, factorem cœli et terrae, visibilium omnium et invisibilium.
+Credo in unum Deum, Patrem omnipotentem, factorem coeli et terrae, visibilium omnium et invisibilium.
 
 Et in unum Dominum, Jesum Christum, Filium Dei unigenitum: et ex Patre natum ante omnia saecula;
 
 Deum de Deo, lumen de lumine, Deum verum de Deo vero, genitum non factum, consubstantialem Patri, per quem omnia facta sunt;
 
-qui propter nos homines et propter nostram salutem descendit de cœlis.
+qui propter nos homines et propter nostram salutem descendit de coelis.
 
 Ténor solo et Chœur.
 
@@ -171,35 +137,29 @@ Et resurrexit tertia die secundum Scripturas;
 et ascendit in cælum, sedet ad dexteram Patris;
 et iterum venturus est cum gloria; judicare vivos et mortuos;
 cujus regni non erit finis.
-
 Credo in Spiritum Sanctum, Dominum et vivificantem, qui ex Patre Filioque procedit.
-
-Quatuor et Chœur.
-
-Qui cum Patre et Filio simul adoratur et conglorificatur;
-qui locutus est per Prophetas.
-
-Chœur, Soprano solo et Basse solo.
-
-Et unam sanctam catholicam et apostolicam Ecclesiam.
-
-Confiteor unum baptisma in remissionem peccatorum:
-et expecto resurrectionem mortuorum,
-et vitam venturi sæculi,
-Amen.
 
 Et il est ressuscité le troisième jour conformément aux écritures;
 et il est monté au ciel, où il est assis à la droite du Père;
 et il en reviendra avec gloire, pour juger les vivants et les morts;
 et son règne n'aura pas de fin.
-
 Je crois au Saint-Esprit, qui est Dieu et qui donne la vie, qui procède du Père et du Fils.
 
+Quatuor et Chœur.
+
+Qui cum Patre et Filio simul adoratur et conglorificatur;
+qui locutus est per Prophetas.
 Qui est adoré et glorifié en même temps que le Père et le Fils;
 qui a parlé par les prophètes.
 
-Je crois en l'Eglise une, sainte, universelle et apostolique.
+Chœur, Soprano solo et Basse solo.
 
+Et unam sanctam catholicam et apostolicam Ecclesiam.
+Confiteor unum baptisma in remissionem peccatorum:
+et expecto resurrectionem mortuorum,
+et vitam venturi sæculi,
+Amen.
+Je crois en l'Eglise une, sainte, universelle et apostolique.
 Je reconnais un seul baptême pour la rémission des péchés:
 et j'attends la résurrection des morts,
 et la vie éternelle.
@@ -207,13 +167,10 @@ Amen.
 
 L'antique Credo du 1er concile de Nicée (325) complété par le concile de Constantinople (381) affirme la foi du chrétien. Les formules musicales en sont énergiques et éclatantes :
 
-Allegro
-Credo, credo, unum Deum.
-
 === Page 11 ===
 Au moment où le texte énonce le mystère de l'Incarnation une modulation amène une tonalité claire (d'ut, on passe en mi) et le ténor solo chante, sur un fond composé par les bois, et accompagné par des phrases alternées du violon solo et de l'alto solo :
 
-![Musical notation for the Sanctus movement](page_180_232_1012_120.png)
+![Musical notation for the text "Et incarnatus est de Spiritu Sancto"](page_222_312_563_104.png)
 
 La tonalité s'assombrit pour le Crucifixus et s'éclaire de nouveau pour un Et resurrexit éclatant suivi d'un judicare dramatique.
 
@@ -225,7 +182,6 @@ Chœur.
 
 Sanctus, Sanctus, Sanctus Dominus, Deus sabaoth.
 Pleni sunt cœli et terra gloria tua.
-
 Saint, Saint, Saint est le Seigneur, le Dieu des armées.
 Les cieux et la terre sont pleins de ta gloire.
 
@@ -236,12 +192,12 @@ Hosanna dans les lieux très hauts.
 
 Le Sanctus est une musique sereine qui commence par exprimer l'adoration :
 
-![Musical notation for the Sanctus movement](page_180_1342_1012_120.png)
+![Musical notation for the text "Sanctus"](page_222_1202_563_104.png)
 
 === Page 12 ===
 Puis la joie :
 
-Ple-nis-unt coe-li et ter-ra
+Ple-ni-sunt coe-li et ter-ra
 Ho-san-na in ex-cel-sis
 
 V. Benedictus.
@@ -259,9 +215,9 @@ Chant de reconnaissance, le Benedictus est écrit dans la douce tonalité de la 
 === Page 13 ===
 Le soprano solo fait une vocalise longue et expressive sur benedictus :
 
-![Musical notation for benedictus](page_180_180_1047_180.png)
+![Musical notation for benedictus](page_180_180_1000_180.png)
 
-puis reparaît l’hosanna du Sanctus, qui termine le morceau.
+puis reparaît l'hosanna du Sanctus, qui termine le morceau.
 
 VI. Agnus Dei.
 
@@ -275,9 +231,9 @@ Chœur et Soprano solo.
 Dona nobis pacem.
 Donne-nous la paix.
 
-L’Agnus Dei reprend les implorations du Kyrie, et l’on retrouve le ton (fa mineur) et l’atmosphère du premier morceau :
+L'Agnus Dei reprend les implorations du Kyrie, et l'on retrouve le ton (fa mineur) et l'atmosphère du premier morceau :
 
-![Musical notation for Agnus Dei](page_180_1400_1047_180.png)
+![Musical notation for Agnus Dei](page_180_1200_1000_180.png)
 
 === Page 14 ===
 puis le mode mineur fait place au majeur et l'appel dona nobis pacem, qui commence piano et parvient au fortissimo, retombe dans la douceur et remonte dans la force, finit par mourir dans une atmosphère de sérénité, comme si l'âme croyante sentait que sa prière est exaucée.
@@ -296,7 +252,7 @@ Il avait appris le rudiment de son art au couvent de Saint-Florian, où il avait
 Douze ans plus tard, Bruckner s'installait à Vienne ; il avait été nommé professeur de composition au Conservatoire. Il fut bientôt chargé de tenir l'orgue de la chapelle impériale, il fit un cours à l'Université, sa musique commença à être jouée. Mais il n'eut que rarement l'occasion de s'entendre. L'estime de quelques-uns et la notoriété qu'il avait acquise ne suffisaient pas à rendre sa musique populaire. Aussi les exécutions de ses œuvres furent-elles rares. Et c'est la plus méchante aventure qui puisse arriver à un compositeur, car il perd ainsi l'occasion de se juger et de se corriger. On peut sans hésiter attribuer à cette cause certaines gaucheries dont Bruckner ne se défit jamais. Plusieurs de ses grandes compositions ne furent jouées qu'après sa mort ; d'autres ne furent présentées au public que longtemps après avoir été écrites. Et ses œuvres qui étaient jouées dans les concerts n'y obtenaient qu'un médiocre succès.
 
 === Page 16 ===
-Mais voici que deux grands chefs d'orchestre s'emparent de cette musique et la révèlent avec éclat au public autrichien et allemand. Arthur Nikisch et Herman Levi eurent en effet le très grand mérite de défendre une cause qui semblait perdue. Mais la gloire de Bruckner n'a pas encore franchi certaines frontières : les pays latins ne l'ont point fêtée, jusqu'à ce jour. C'est que sa musique a des qualités et des défauts qui sont pour plaire aux publics de l'Europe centrale. Les musicographes français sont sévères pour lui. Ils lui reprochent « une emphase, une affectation de grandeur qui communiquent à ses œuvres une lourdeur toute germanique » (Woollett)¹ ; ils sont rebutés par « ces constructions immenses et bizarres » qui donnent « l'impression d'un effort un peu désordonné qui manque bien souvent son but » (Landormy)² ; mais certains d'entre eux s'efforcent de le comprendre et de l'aimer ; M. Camille Mauclair, par exemple, qui s'exprime ainsi : « Il est majestueux sans morgue et sans austérité ni emphase, avec une bonne foi persuasive et touchante qui, sans atteindre à la suavité subtile de Franck, la rappelle parfois. Anton Bruckner est de ceux, parmi les grands étrangers, que le public français devra apprendre tôt ou tard à connaître et à vénérer pour la beauté de son œuvre et pour la haute dignité de sa vie, semblable à celle des créateurs croyants du XIVe siècle »³.
+Mais voici que deux grands chefs d'orchestre s'emparent de cette musique et la révèlent avec éclat au public autrichien et allemand. Arthur Nikisch et Herman Levi eurent en effet le très grand mérite de défendre une cause qui semblait perdue. Mais la gloire de Bruckner n'a pas encore franchi certaines frontières : les pays latins ne l'ont point fêtée, jusqu'au ce jour. C'est que sa musique a des qualités et des défauts qui sont pour plaire aux publics de l'Europe centrale, Les musicographes français sont sévères pour lui. Ils lui reprochent « une emphase, une affectation de grandeur qui communiquent à ses œuvres une lourdeur toute germanique » (Woollett)¹ ; ils sont rebutés par « ces constructions immenses et bizarres » qui donnent « l'impression d'un effort un peu désordonné qui manque bien souvent son but » (Landormy)² ; mais certains d'entre eux s'efforcent de le comprendre et de l'aimer ; M. Camille Mauclair, par exemple, qui s'exprime ainsi : « Il est majestueux sans morgue et sans austérité ni emphase, avec une bonne foi persuasive et touchante qui, sans atteindre à la suavité subtile de Franck, la rappelle parfois. Anton Bruckner est de ceux, parmi les grands étrangers, que le public français devra apprendre tôt ou tard à connaître et à vénérer pour la beauté de son œuvre et pour la haute dignité de sa vie, semblable à celle des créateurs croyants du XIVe siècle »³.
 
 Anton Bruckner a écrit trois messes, neuf symphonies, un Te Deum et un Psaume CL.
 
@@ -310,7 +266,7 @@ Il était très pieux et sa musique n'a point d'autre objet que sa foi. Sentant 
 
 Il mourut le 11 octobre 1896.
 
-Il était resté jusqu'à la fin de sa vie d'une simplicité et d'une naïveté touchantes. On raconte ce trait qui le peint à merveille : il avait déjà écrit des partitions compliquées, et prouvé sa valeur comme compositeur, qu'il ignorait encore tout de la pratique de l'orchestre, et comme Hans Richter lui offrait la baguette, au cours d'une répétition, pour diriger l'une de ses œuvres, on vit le pauvre homme debout, les bras ballants, dans une attitude de gaucherie et de timidité extrêmes... qui attendait, pour battre la mesure, que l'orchestre partît. Et comme personne ne bougeait, on l'entendit articuler, d'une voix étranglée par la peur : « Eh ! bien, Messieurs, quand il vous plaira ! »
+Il était resté jusqu'à la fin de sa vie d'une simplicité et d'une naïveté touchantes. On raconte ce trait qui le peint à merveille : il avait déjà écrit des partitions compliquées, et prouvé sa valeur comme compositeur, qu'il ignorait encore tout de la pratique de l'orchestre, et comme Hans Richter lui offrait la baguette, au cours d'une répétition, pour diriger l'une de ses œuvres, on vit le pauvre homme debout, les bras ballants, dans une attitude de gaucherie et de timidité extrêmes... qui attendait, pour battre la mesure, que l'orchestre partit. Et comme personne ne bougeait, on l'entendit articuler, d'une voix étranglée par la peur : « Eh ! bien, Messieurs, quand il vous plaira ! »
 
 ¹ Histoire de la musique, 4e vol. p. 8.
 ² Histoire de la musique, nouvelle édition, p. 259.
@@ -323,9 +279,9 @@ Mais le romantisme avait triomphé, et Wagner, continuant et dépassant le roman
 
 Bruckner introduit le style de Wagner dans la symphonie et dans la musique d'église. Son orchestre n'est plus celui de Beethoven et de Brahms, il accueille, dans la symphonie, des instruments et des procédés wagnériens. Toutefois cette influence de Wagner sur Bruckner ne doit pas nous tromper, il importe de distinguer : l'inspiration de Bruckner a d'autres sources que celle de son modèle. Le musicien autrichien emprunte à Wagner certains procédés, mais son milieu, sa nature, sa religion, donnent à sa musique une couleur et une signification qui ne sont pas wagnériennes. En effet, Bruckner chante sa foi chrétienne et ne connaît point d'autre thème. Sa musique symphonique elle-même n'est qu'un cantique instrumental. Et cela pourrait bien être la cause des faiblesses que l'on y trouve. Mais ceci demande à être expliqué.
 
-Comme on le sait, l'ancienne „suite de danses“ des Français est la mère de la musique instrumentale moderne. L'esprit des gavottes, des bourrées, des menuets et des gigue n'a pas entièrement disparu à l'époque de la symphonie classique des Viennois, et, comme pour en témoigner, les compositeurs de ce temps conservent le menuet poitevin. Et, après, la musique symphonique remonte souvent à la source de l'art instrumental, en marquant une prédilection pour les formes rythmiques qui semblent accompagner des danses imaginaires, La VIIe symphonie de Beethoven, par exemple, n'a-t-elle pas mérité d'être appelée par Wagner «l'apothéose de la danse»?
+Comme on le sait, l'ancienne „suite de danses“ des Français est la mère de la musique instrumentale moderne. L'esprit des gavottes, des bourrées, des menuets et des gigue n'a pas entièrement disparu à l'époque de la symphonie classique des Viennois, et, comme pour en témoigner, les compositeurs de ce temps conservent le menuet poitevin. Et, après, la musique symphonique remonte souvent à la source de l'art instrumental, en marquant une prédilection pour les formes rythmiques qui semblent accompagner des danses imaginaires. La VIIe symphonie de Beethoven, par exemple, n'a-t-elle pas mérité d'être appelée par Wagner «l'apothéose de la danse» ?
 
-D'essence profane, la musique symphonique s'inspire du rythme du geste. N'était-il pas dangereux de l'oublier? N'était-ce pas une folle gageure que de confier à l'orchestre ce que les voix expriment par les moyens d'une technique basée sur le rythme de la parole? En d'autres termes: la musique religieuse peut-elle impunément renier le verbe?
+D'essence profane, la musique symphonique s'inspire du rythme du geste. N'était-il pas dangereux de l'oublier ? N'était-ce pas une folle gageure que de confier à l'orchestre ce que les voix expriment par les moyens d'une technique basée sur le rythme de la parole ? En d'autres termes : la musique religieuse peut-elle impunément renier le verbe ?
 
 Bruckner ne fut pas le premier qui demanda à l'orchestre de se substituer aux voix, mais plus que les autres ses symphonies ont mérité le reproche
 
@@ -347,19 +303,7 @@ Aloys FORNEROD.
 ¹ Rameau, p. 194.
 
 === Page 19 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 20 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

@@ -5,13 +5,7 @@ Liedertafel.
 280th Concert. To be held on Monday Evening, April 6th, 1903, in the Town Hall, Melbourne.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 Melbourne Liedertafel
@@ -23,6 +17,7 @@ Patrons:
 HIS EXCELLENCY THE GOVERNOR
 SIR GEORGE SYDENHAM CLARKE,
 K.C.M.G., F.R.S.
+
 HIS EXCELLENCY
 SIR JOHN MADDEN, K.C.M.G.,
 LIEUTENANT-GOVERNOR.
@@ -63,7 +58,7 @@ Representing Orchestra.
 MR. J. W. DAWSON.
 MR. E. I. HOLDER.
 MR. F. TAYLOR.
-DR. MACGILLICUDDY.
+DR. MACGILLCUDDY.
 
 Hon. Life Conductor:
 HERR JULIUS SIEDE.
@@ -209,8 +204,8 @@ Richardson, Geo.
 Shea, J.
 Harris, S.
 Schellenberger, H.
-Wooes, C.
-Brunton, W.
+Woods, C.
+Branton, W.
 
 SECOND TENOR.
 Humphrey, Geo. (Capt.)
@@ -219,7 +214,7 @@ Flood, W. H.
 Pleasants, E. A.
 *Ramsay, T. G.
 Gray, Thos.
-Gates, E.
+Gates, R.
 Nicholson, Geo. C.
 Lang, J.
 Robertson, P.
@@ -228,7 +223,7 @@ James, W. H.
 Tooley, W. E.
 *Roodick, A.
 Carnell, W. E.
-Shovelton, H.
+Shovelton, W.
 Cotrell, H.
 McConachie, O. B.
 Smith, H. F.
@@ -247,7 +242,7 @@ Haybittle, A. S.
 Gason, W. A.
 Day, Geo. A.
 Wilens, W.
-Sayer, H. W.
+Suter, H. W.
 Whitehead, A. E.
 Brown, E. H.
 Hanify, F.
@@ -262,7 +257,7 @@ Fenton, G. C.
 Skillhorn, T. F.
 *Moran, H.
 Coxson, H.
-Lyon, F. A.
+Lyon, P. A.
 Ferguson, R. A.
 Wilson, E. L.
 
@@ -272,7 +267,7 @@ Statters, J.
 Murray, Dr. H. L.
 Pepper, F.
 Jones, Walter C.
-Muirnally, A.
+McMally, A.
 Adcock, J.
 White, T. E.
 Griffiths, H. L.
@@ -288,7 +283,7 @@ Sayer, J. F.
 Ure, E. A.
 Bishop, A. P.
 Hyne, H. G.
-Lloyd, W. E.
+Leigh, W. E.
 Nicolson, R. G.
 Thomas, F. W.
 Court, F.
@@ -315,78 +310,69 @@ Accompanist:
 Mr. H. S. ELVINS.
 
 "Salutations and greeting to you all."
-
-"The hour's now come,
-The very moment bids thee ope thine ear."
-—Shakespeare.
+    "The hour's now come,
+    The very moment bids thee ope thine ear."
+    —Shakespeare.
 
 Part I.
 
 Overture—
-"Il Flauto Magico"
-Mozart
-
-The ORCHESTRA.
+    "Il Flauto Magico"
+        Mozart
+    The ORCHESTRA.
 
 Part Songs—
-
-(a) "Evening"
-(Solo: Mr. F. S. WHITEHEAD)
-Albt
-
-(b) "Die Post"
-(Cornet Solo by Mr. A. HAIGH)
-Schafer
-
-The LIEDERTAFEL.
+    (a) "Evening"
+        (Solo: Mr. F. S. WHITEHEAD)    Abt
+    (b) "Die Post"
+        (Cornet Solo by Mr. A. HAIGH)    Schafer
+    The LIEDERTAFEL.
 
 === Page 7 ===
 "It is a beauteous evening, calm and free,
 The holy time is quiet as a nun
-Breathless with adoration." —Wordsworth.
+Breathless with adoration."—Wordsworth.
 
 (a) DAY again his race has run,
-    And the tranquill night comes on,
-    Soothingly her pinions waving,
-    Heated hill and valley laving,
-    Spreading from her starry chart.
-        Holy peace to every dwelling,
-        Holy peace to ev'ry heart.
+And the tranquill night comes on,
+Soothingly her pinions waving,
+Heated hill and valley laving,
+Spreading from her starry chart.
+    Holy peace to every dwelling,
+    Holy peace to ev'ry heart.
 
-    All who rest in slumber's arm,
-    Void of trouble, void of harm,
-    Heavn'ly angels now are guarding,
-    Ev'ry danger from them warding,
-    Pow'rs of evil must depart—
-        Holy peace to every dwelling,
-        Holy peace to ev'ry heart.
+All who rest in slumber's arm,
+Void of trouble, void of harm,
+Heavn'ly angels now are guarding,
+Ev'ry danger from them warding,
+Pow'rs of evil must depart—
+    Holy peace to every dwelling,
+    Holy peace to ev'ry heart.
 
 (b) THRO' forest deep at dead of night,
     The mail is slowly borne;
-    While sleep the weary travellers,
+While sleep the weary travellers,
     The post-boy winds his horn.
 
-    The forest-ranger's dwelling
-    Within the wood is seen,
-    The horn a tale is telling—
+The forest-ranger's dwelling
+Within the wood is seen,
+The horn a tale is telling—
     What can its echoes mean?
 
-    It's tunes so soft and sweetly flow,
+It's tunes so soft and sweetly flow,
     The winds, in passing by,
-    Pause at an open window,
+Pause at an open window,
     And mingling with them fly.
 
-    Where sleeps the forest maiden,
+Where sleeps the forest maiden,
     While beams the moon above;
-    With love her dreams are laden—
+With love her dreams are laden—
     With melody and love.
 
-    "The horn sounds, and produces a general bustle. . . . As the coach rattles through the village, everyone runs to the window, and you have glances on every side of fresh country faces, and blooming, giggling girls." —Washington Irving.
+"The horn sounds, and produces a general bustle. . . . As the coach rattles through the village, everyone runs to the window, and you have glances on every side of fresh country faces, and blooming, giggling girls."—Washington Irving.
 
 Bass Solo—
-
 "The Wanderer" Schubert
-
 Mr. EDWIN A. URE.
 
 === Page 8 ===
@@ -424,46 +410,46 @@ Part Songs—
 The LIEDERTAFEL.
 
 (a) Sanctissima! O Piissima!
-    Dulcis Virgo, Maria,
-    Mater amata Intemerata;
-    Ora, ora pro nobis!
+Dulcis Virgo, Maria,
+Mater amata Intemerata;
+Ora, ora pro nobis!
 
 (b) Thou art, O Lord, my star by night,
-    By day my sun above me;
-    Thou art my confidence and might,
-    That onward ever move me;
-    With Thee o'er deserts do I go,
-    And brave in trust no terror know.
+By day my sun above me;
+Thou art my confidence and might,
+That onward ever move me;
+With Thee o'er deserts do I go,
+And brave in trust no terror know.
 
-    Give me the power my sword to wield,
-    And steel my blade to serve me,
-    That ere my purpose I shall yield,
-    No foe may e'er unnerve me;
-    Aid me when I oppose the foe,
-    And guide my eye to strike the blow.
+Give me the power my sword to wield,
+And steel my blade to serve me,
+That ere my purpose I shall yield,
+No foe may e'er unnerve me;
+Aid me when I oppose the foe,
+And guide my eye to strike the blow.
 
-    On mountain's height wher'er I stray
-    From faltering horse protect me,
-    And let Thy angel on my way
-    Thro' wood and wild direct me;
-    And when upon the trackless sand,
-    Be Thou my ever-guiding hand.
+On mountain's height wher'er I stray
+From faltering horse protect me,
+And let Thy angel on my way
+Thro' wood and wild direct me;
+And when upon the trackless sand,
+Be Thou my ever-guiding hand.
 
-    The balmy breeze upon me send,
-    To cooling shade convey me,
-    E'er head and heart in conflict end,
-    And foot and eye betray me;
-    And fill me into quiet rest,
-    In dreams of home afar caressed.
+The balmy breeze upon me send,
+To cooling shade convey me,
+E'er head and heart in conflict end,
+And foot and eye betray me;
+And fill me into quiet rest,
+In dreams of home afar caressed.
 
-    Thou art, O Lord, my star by night,
-    By day my sun above me.
+Thou art, O Lord, my star by night,
+By day my sun above me.
 
 "Here pause we gentle, for a space;
-    And if our tale hath won your grace
-    Grant us brief passage, and again
-    We will renew the Minstrel strain."
-    —Scott.
+And if our tale hath won your grace
+Grant us brief passage, and again
+We will renew the Minstrel strain."
+—Scott.
 
 === Page 10 ===
 Special Notice.
@@ -483,7 +469,7 @@ Adagio. Allegro con fuoco.
 
 The ORCHESTRA.
 
-SINCE the creation of Shakespere's "Midsummer Night Dream," no such delightfully picturesque suggestion of the world of sprites, elves and fairies has been given to us as is contained in this romantic Overture. From the mysterious horn call, with which the introduction opens, and the gradual awakening of the drowsy little hamsters of the woodland, to the brilliant and lively theme of the Allegro, and the delightful suggestion of sweet melodies which follow, everything is invested with a profound sympathy with Nature, whose myriad life seems here informed with soul understanding. As we listen to this deeply penetrating poet, the line of demarcation between higher and lower organisms fades away, and their hidden secrets, the unity of life, is disclosed. It is this highly beautiful revelation which causes us to experience such aesthetic pleasure, unmixed with any feeling of incongruity.
+SINCE the creation of Shakespere's "Midsummer Night Dream," no such delightfully picturesque suggestion of the world of sprites, elves and fairies has been given to us as is contained in this romantic Overture. From the mysterious horn call, with which the introduction opens, and the gradual awakening of the drowsy little hamsters of the woodlands, to the brilliant and lively theme of the Allegro, and the delightful suggestion of sweet melodies which follow, everything is invested with a profound sympathy with Nature, whose myriad life seems here informed with soul understanding. As we listen to this deeply penetrating poet, the line of demarcation between higher and lower organisms fades away, and their hidden secrets, the unity of life, is disclosed. It is this highly beautiful revelation which causes us to experience such aesthetic pleasure, unmixed with any feeling of incongruity.
 —G. W. L. M. H.
 
 "Marcia Aria e Coro dei Sacerdoti" (Il Flauto Magico) Mozart
@@ -496,6 +482,7 @@ Part Song—
 "The Image of the Rose" Reichardt
 Solo: Miss ELSIE DAVIES.
 The LIEDERTAFEL.
+
 WHILE through a valley I was straying,
 A rose fresh blooming met my sight,
 Such ample store of charm displaying,
@@ -515,7 +502,7 @@ Unwonted rapture then I found.
 That image fair of heav'nly pleasure,
 Upon my heart is deeply traced;
 It is my bosom's dearest treasure,
-And never can it be o'ersc'd.
+And never can it be o'erc'd.
 Beautiful form, tarry, oh, tarry with me.
 
 When sorrow's clouds are round me low'ring
@@ -536,9 +523,7 @@ What Eden was—what Paradise may be."
 'Cello Solo—
 
 (a) "Abenlied" Schumann
-
 (b) "Weigenlied" Schubert
-
 (c) "Tarantelle" G major Hopper
 
 Herr LOUIS HATTENBACH.
@@ -557,7 +542,6 @@ Mr. JAMES W. WADE.
 Symphonic Ode—
 The Desert
 Felicien David
-
 Translated from the French for the Melbourne Liedertafel by Madame Carlotta Tasca.
 
 The LIEDERTAFEL and ORCHESTRA.
@@ -620,20 +604,11 @@ The thanks of the Society are due to Messrs. W. H. Glen & Co., Collins Street, f
 
 Ladies and Gentlemen wishing to join the Society, either as Subscribing or Performing Members, are requested to communicate with the Hon. Sec. c/o Messrs. Glen & Co., Collins Street, who will be pleased to forward all information required.
 
+Wilke & Bowden, Print,
+383-57 Little Collins St., Melbourne.
+
 === Page 15 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 16 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

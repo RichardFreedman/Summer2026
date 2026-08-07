@@ -6,13 +6,7 @@ LECTURE RECITALS
 GLASGOW, W. 2
 
 === Page 2 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 MR. A. M. HENDERSON
@@ -48,8 +42,7 @@ Oxford - Summer School for Teachers
 Terms on Application.
 
 TELEPHONE: 2251 WESTERN
-67 SOUTHPARK AVENUE,
-GLASGOW, W. 2
+67 SOUTHPARK AVENUE, GLASGOW, W.2
 
 === Page 4 ===
 Some Recent Press Notices

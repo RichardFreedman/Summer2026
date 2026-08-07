@@ -69,65 +69,43 @@ E. G. FITZGIBBON, Esq., C.M.G.
 Council:
 <table>
   <tr>
-    <th>Representing Subscribing Members.</th>
-    <th>Representing Performing Members.</th>
-    <th>Representing Orchestra</th>
+    <th>Representing<br>Subscribing Members.</th>
+    <th>Representing<br>Performing Members.</th>
+    <th>Representing<br>Orchestra</th>
   </tr>
   <tr>
-    <td>MR. CARL PINSCHOF.</td>
-    <td>DR. H. L. MURRAY.</td>
-    <td>MR. J. W. DAWSON.</td>
-  </tr>
-  <tr>
-    <td>MR. J. H. THOMPSON.</td>
-    <td>MR. J. McCULLAGH.</td>
-    <td>MR. E. I. HOLDER.</td>
-  </tr>
-  <tr>
-    <td>MR. WM. KNOX, M.H.R.</td>
-    <td>MR. S. J. PERRY.</td>
-    <td>MR. F. TAYLOR.</td>
-  </tr>
-  <tr>
-    <td>MR. F. TATE, M.A.</td>
-    <td>MR. J. ADCOCK.</td>
-    <td>DR. MACGILLCUDDY.</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>MR. F. W. THOMAS.</td>
-    <td></td>
+    <td>MR. CARL PINSCHOF.<br>MR. J. H. THOMPSON.<br>MR. WM. KNOX, M.H.R.<br>MR. F. TATE, M.A.</td>
+    <td>DR. H. L. MURRAY.<br>MR. J. McCULLAGH.<br>MR. S. J. PERRY.<br>MR. J. ADCOCK.<br>MR. F. W. THOMAS.</td>
+    <td>MR. J. W. DAWSON.<br>MR. E. I. HOLDER.<br>MR. F. TAYLOR.<br>DR. MACGILLCUDDY.</td>
   </tr>
 </table>
 
 Hon. Conductor:
 PRO. MARSHALL-HALL.
 
+Hon. Treasurer:
+MR. H. E. MORGAN.
+
 Conductor:
 MR. AUGUST SIEDE.
 
+Hon. Pianist & Organist:
+MR. MANSLEY GREER.
+
 Hon. Auditors:
-MR. A. E. WHITEHEAD
-MR. JOHN LANG.
+MR. A. E. WHITEHEAD<br>MR. JOHN LANG.
 
 Deputy Hon. Pianists:
-MR. H. S. ELVINS.
-MR. FREDK. MEWTON.
+MR. H. S. ELVINS.<br>MR. FREDK. MEWTON.
 
 Hon. Librarian:
 MR. J. STATTERS.
 
-Asst. Hon. Librarian.
+Asst. Hon. Librarian:
 MR. W. WILCOX.
 
 Hon. Secretary:
 MR. E. L. WILSON.
-
-Hon. Treasurer:
-MR. H. E. MORGAN.
-
-Hon. Pianist & Organist:
-MR. MANSLEY GREER.
 
 === Page 5 ===
 SARONY STUDIOS
@@ -141,15 +119,16 @@ to His Excellency the Governor.
 Corner of Little Collins Street.
 Op. Jas. McEwan & Co.'s
 
-" Sarony's " Motto:
+" Sarony's "
+Motto:
 
-" WE believe permanency is the Keystone of Photographic Success, and all Photographs bearing our name are finished on this principle. Our Customers' appreciation has made our success. We surround both with every safeguard known to chemical science and years of experience."
-
-We are always glad to welcome Visitors to our Studios.
+" WE believe permanency is the Keystone of Photographic Success, and all Photographs bearing our name are finished on this principle. Our Customers' appreciation has made our success. We surround both with every safeguard known to chemical science and years of experience. "
 
 MISS CESCA VOLLOGI. "Sarony," Photo.
 
-The Richest, Daintiest Effects
+We are always glad to welcome Visitors to our Studios.
+
+The Richest, Daintiest Effects ...
 
 They individualise a picture and place it in a class by itself—an artistic class—that has only to be seen to be appreciated. Their popularity is increasing because it is based on quality.
 
@@ -190,7 +169,7 @@ Humphrey, Geo. (Capt.)
 Flood, W. H.
 Pleasant, F. A.
 *Ramsay, T. G.
-Edmundson, W. L.
+Edmanson, W. L.
 Gray, Thos.
 Nicholson, Geo. C.
 Lang, J.
@@ -211,7 +190,7 @@ FIRST BASS.
 Brown, E. H. (Capt.)
 Waish, E. T.
 Rendle, S.
-Witschend, F. S.
+Witschel, F. S.
 Gerrard, J.
 Tempton, Capt. T. H.
 *Garrett, H. T.
@@ -230,10 +209,10 @@ Hanty, F.
 Crane, J. R.
 Lang, E. J.
 Shannon, W. M.
-Wild, C.
+Will, C.
 Trevelin, W.
 *Downie, J. R.
-*Skillicorn, T. F.
+*Skillen, T. F.
 Moran, H.
 Coxson, H.
 *Lyons, R. A.
@@ -273,6 +252,7 @@ Toole, J. A.
 Bowden, W. J.
 
 Roll Secretary: W. WILCOX.
+
 (*) Signifies on leave.
 
 The Orchestra
@@ -294,7 +274,7 @@ Miss Whitley.
 *Mr. Johnson.
 *Mr. La Fentillade.
 Miss Moss.
-Miss McFarlane.
+*Miss McFarlane.
 *Miss Obbinson.
 *Miss Parry.
 *Miss Reid.
@@ -343,6 +323,7 @@ Librarian—
 
 === Page 7 ===
 Telephone 1764
+
 FOR...
 First-Class
 Tailoring ::
@@ -352,6 +333,7 @@ DRESS SUITS
 SPECIALITY.
 
 AT REASONABLE PRICES, TRY
+
 BENNETTS BROS.,
 Merchant Tailors,
 17 THE BLOCK ARCADE
@@ -369,7 +351,7 @@ PROPRIETARY LIMITED,
 107-113 ELIZABETH STREET (Opposite Block Arcade Entrance.)
 
 === Page 8 ===
-Schiedmayer & Soehne
+Schedmayer & Soehne
 PIANOS
 "ESTABLISHED IN 1781."
 "ESTABLISHED IN 1781."
@@ -387,14 +369,12 @@ Mr. MANSLEY GREER and
 Mr. J. W. DAWSON.
 
 Overture—
-"Coriolan"
-L. van Beethoven
-
+"Coriolan" L. van Beethoven
 The ORCHESTRA.
 
-THANKS to Plutarch's stirring "Life" and Shakespeare's yet more stirring drama, everyone can know how that mighty warrior Caius Marcius, surnamed Coriolanus, delivered Rome repeatedly from the greedy grasp of her foes; and how that, having done so, he was shamefully handled by the ungrateful people he had saved spirited out as though he were a few ignorant and envious mob orators; how that he was banished the city and reviled with nothing vengeance, with a vast and invincible army; how that on the eve of the fulfilment of his just wrath his wife and little son and mother penetrated to the hostile camp and after long entreaty prevailed on him to withdraw his troops, conscious as he was that this course was tantamount to signing his own death-warrant—these several events subsequently proved.
+THANKS to Plutarch's stirring "Life" and Shakespeare's yet more stirring drama, everyone can know how that mighty warrior Caius Marcus, surrounded by circumstance delivered Rome repeatedly from the greedy grasp of her foes; and how that, having done so, he was shamefully handled by the ungrateful people he had saved spirited out as they were by a few ignorant and envious mob orators; how that he was banished the state and reviled with nothing vengeance with a vast and invincible army; how that on the eve of the fulfilment of his just wrath his wife and little son and mother sentenced to the hostile camp and after long entreaty prevailed on him to withdraw his troops, conscious as he was that this course was tantamount to signing his own death warrant—all these events subsequently proved.
 
-It is this tragic crisis with which Beethoven has dealt in the present powerful tragic overture, how truthfully and well he felt by those who can sympathise with the contending passions which must have torn the warrior's heart during the terrible interval.
+It is this tragic crisis with which Beethoven has dealt in the present powerful tragic overture, how truthfully will be felt by those who can sympathise with the contending passions which must have torn the warrior's heart during the terrible interludes.
 
 Madrigals—
 (a) "Now is the Month of Maying"
@@ -406,11 +386,11 @@ LIEDERTAFEL and ASSOCIATED LADIES' CHOIR.
 
 (a) NOW is the month of Maying, when merry lads are playing,
 Fa la la, etc.
-Each with his honey lass, a dancing on the greene,
+Each with his honey lass, a dancing on the green,
 Fa la la, etc.
 The Spring clad all in gladness, doth laugh at Winter's sadness,
 Fa la la, etc.
-And to the Bazpipes' sound, the nymphs tread out their ground.
+And to the Bazzpipes' sound, the nymphs tread out their ground.
 Fa la la, etc.
 Fie then, why sit we 'musing, youth's sweet delights refusing?
 Fa la la, etc.
@@ -447,37 +427,35 @@ Obtainable at all First-class Drapers and Ladies' Outfitters.
 AVOID INFERIOR IMITATIONS.
 
 === Page 11 ===
-Recit—
-"E' Strano!"
-Aria—
-"Ah, fors' e' lui"
-(La Traviata)
+Recit—        "E' Strano!"
+Aria—           "Ah, fors' e' lui"
+(La Traviata)        Verdi
+
 Miss CESCA VOLLOGI.
 
-E' STRANO! in coro scolpiti ho quegli Scutia che amore, è il palpit' dell'universo intorno misterioso orvce o delizia alcor!
+E' STRANO! in coro scolpiti ho quegli Scutia che amore, è il palpito dell'universo intiero misterioso orve o delizia alcor!
 Saria per me sventura un serio amore?
 Che risolvi, turbata anima mia?
 Nell'uomo ancora tacendeva,
-Oh gioia ch'io non conobbi, esser amata amando!
-E sdegnar la poss'io per l'aride follie del viver suo?
+Oh gioia ch'io non conobbi, esser amata ammundo!
+E sdegnar la poss'io per l'aride follie del viver nostro?
 Ah, fors'è lui che l'anima solinga ne' tumulti,
 goda sovente pingers de' suoi colori oculti!
 Lui che, modesto e virile, all'egregio soglio ascese
 destandomi all'amor!
-A quell'amor che e' palpit' dell'universo, dell'universo intero, misterioso, altero,
-crese e alizia al cor mio.
-A me fioristi un araldo e tregiolo desira
+A quell'amor che è palpito dell'universo, dell'universo intero, misterioso, altero,
+crese e diletta al cor m'è nata.
+A me fioritulli un tradito e triste desira
 quest'efficio dolceissimo signor dell'avvenire, quando ne' cieli il raggio di sua belta veda e tutta me paseca de quel divino error.
 
 Follie! follie! delirio vano è questo!
 Povera donna, soa, abbandonata in questo pozzoloso deserto che appallano.
 Parigi, che spero or più? che far degg'io?
-gioire di voluta ne' vorrici, di voluta gioir? gioir! gioir!
-Sempre liberi degli' folleggiare di gioia in gioia, via che scorra il viver mio pel seno del passato.
-Nasca il giorno o il giorno muoja, sempre lieta ne' ri rovi a diletti sempre nuovi del volare il meo pensier.
+gioire di voluta ne' voricci, di voluta gioir? gioir! gioir!
+Sempre liberi degli'folleggiare di gioja in gioja, via che scorra il viver nio pel senso del passato.
+Nasca il giorno o il giorno muoja, sempre lieta ne' ri rovi a diletti sempre novi del volare il meo pensier.
 
-Madrigal—
-"Matona, Lovely Maiden"
+Madrigal—        "Matona, Lovely Maiden"
 Orlando Lassus (1520-1594)
 
 LIEDERTAFEL and ASSOCIATED LADIES' CHOIR.
@@ -512,9 +490,9 @@ A more complying treasure,
 I'll choose from out the throng.
 Dong, dong, derry, derry, etc.
 
-Entracte—
-"Rosamunde"
+Entracte—        "Rosamunde"
 Schubert
+
 The ORCHESTRA.
 
 === Page 12 ===
@@ -525,20 +503,20 @@ SWANSTON ST., MELBOURNE,
 
 Offers in combination everything that appeals to the eye and the palate.
 
-First Floor.—Grand Dining and Supper Hall.
+![First Floor, Grand Dining and Supper Hall.](page_312_420_1012_384.png)
 
-THE GRAND DINING AND SUPPER HALL, on the first floor, is fitted up in exquisite taste. Connoisseurs will find the comfort and attention necessary to the enjoyment of a good meal. Elaborately furnished and with a menu that is entirely up-to-date in the Parisienne style, diners will find this room everything that can be desired. The Suppers in this Hall a speciality. Luncheon Table d'Hote, 2s. Dinner Table d'Hote, 3s 6d.
+The Grand Dining and Supper Hall, on the first floor, is fitted up in exquisite taste. Connoisseurs will find the comfort and attention necessary to the enjoyment of a good meal. Elaborately furnished and with a menu that is entirely up-to-date in the Parisienne style, diners will find this room everything that can be desired. The Suppers in this Hall a speciality. Luncheon Table d'Hote, 2s. Dinner Table d'Hote, 3s 6d.
 
-A LADIES' BOUDOIR ADJOINS THE ROOM.
+A Ladies' Boudoir adjoins the room.
 
 Wedding Breakfasts and Bridal Parties specially catered for.
 
 Supper after the Concert a Specialty.
 
 === Page 13 ===
-Part Song
+Part Song -
 "Marienlied"
-Michael Praetorius (1571-1521)
+Michael Praetorius (1571-1621)
 
 LIEDERTAFEL and ASSOCIATED LADIES' CHOIR.
 (Translated from the German, for the Liedertafel, by Herr H. W. Puttman).
@@ -548,7 +526,7 @@ Out of a tender shoot;
 As sung to us of olden,
 From Jesse sprung its root.
 It bloom'd for our delight
-And bid the frosts of winter,
+All 'mid the frosts of winter,
 Nigh on the noon of night.
 
 That Roselet blest of Heaven,
@@ -561,7 +539,7 @@ Nigh on the noon of night.
 
 Interval
 
-Symphony
+Symphony -
 No. 1 C major
 L. van Beethoven
 
@@ -574,16 +552,14 @@ Allegro molto e vivace
 
 The ORCHESTRA.
 
-This the first of the great master's symphonic works, will be especially interesting, owing to the rarity of its performance and the opportunity it affords us of observing the development of the genius of Beethoven.
+This the first of the great master's symphonic works, will be especially interesting owing to the rarity of its performance and the opportunity it affords us of observing the development of the genius of Beethoven.
 Throughout the work the influence of Haydn and Mozart is felt, and it has been said that the Andante un rit. even have been written by a Mozart or a Haydn.
 The Third Movement, however, clearly prophesies the scherzo of the later symphonies, as do some of the earlier chamber works of the master.
 With the last Movement we are carried back to the graceful time of Haydn, with all its quaintness and light-hearted gaiety.
 
-Madrigals
-
+Madrigals -
 (a) "April is in my Mistress' Face"
 Thomas Morley (1594)
-
 (b) "Flora gave me Fairest Flowers"
 John Wilbye (1598)
 
@@ -649,14 +625,14 @@ Miss CESCA VOLLOGI.
 SINCE yesterday I've sought in vain my master.
 Oh Capulet, perhaps he yet honours thy house!
 I'll sing a stave—so the servants will come
-Flocking out to repair yesternight's sad disaster.
+Flocking out to repair yesterday's sad disaster.
 
 Gentle dove wherefore art thou clinging
 To a wild vulture's nest?
 Soon, we trust, thou wilt be a-winging
 To a far dearer rest.
 
-Fond shepherdess, thy loves fight and foray,
+For the vulture loves fight and faray,
 And to tear and mangle his quarry
 Hath beak both sharp and strong.
 Unlike thine, soft and true and slender.
@@ -672,7 +648,7 @@ Now, it happ'd, that a ringdove flying
 From her woodland so green.
 To that eyrie came one eve sighing
 For her young love, I ween.
-O'er a banquet of prey they'd mangled
+O'er a banquet of green they'd mangled
 In the nest the vulture's brood wrangled.
 Hark! rose their cry afar,
 But the dove, far away was hearing
@@ -685,13 +661,12 @@ For your dove may flutter
 From her cage and go.
 
 Madrigal—
-
 "Down in a Flow'ry Vale"
 Constantine Festa (1541)
 
 LIEDERTAFEL and ASSOCIATED LADIES' CHOIR.
 
-DOWN in a flow'ry vale, all on a summer morning.
+DOWN in a flow'ry vale, all on a summer morning
 Phillis I spied, fair nature's self adorning:
 Swiftly on wings of love, I flew to meet her,
 Coldly she welcomed me when I did greet her.
@@ -707,7 +682,7 @@ But if thy purse be empty, come not to me a wooing.
 Soon as I careless strayed, fond youth, with eyes averted,
 Phillis I met, by all the swains deserted;
 Swift she (tho' late so coy) then flew to meet me,
-My lack I turn'd, all drest to her entrance;
+My back I turn'd, all deaf to her entreaty;
 She warbled thus her ditty:
 O shepherd, now have pity,
 And to your faithful lover your passion true discover
@@ -737,7 +712,7 @@ Our Name is a Guarantee of Quality and Value.
 
 H. Newman,
 NEW ADDRESS—
-312 Bourke Street, NEXT ....... BUCKLEY & NUNN'S.
+312 Bourke Street, NEXT ...... BUCKLEY & NUNN'S.
 
 Pearl Star, 15-ct. gold, 32/6.
 Pearl Frog Brooch, 15-ct. gold, £5/5/-

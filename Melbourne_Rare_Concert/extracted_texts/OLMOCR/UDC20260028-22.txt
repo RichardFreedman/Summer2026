@@ -1,19 +1,13 @@
 === Page 1 ===
 CONCERT PROGRAM
 
-SEASON 1976–1977
+SEASON 1976-1977
 
 MUSASHINO ACADEMIA MUSICAЕ
 TOKYO JAPAN
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 CONTENTS
@@ -23,9 +17,9 @@ CONTENTS
 3) Opera .......................................................... 4
 4) Chamber Music .................................................. 4
 5) Wednesday & Saturday Concerts ................................. 5
-6) Special Concerts ................................................ 14
-7) Other Concerts .................................................. 16
-8) Public Lectures ................................................ 17
+6) Special Concerts ............................................... 14
+7) Other Concerts ................................................ 16
+8) Public Lectures ............................................... 17
 9) Graduate Students’ Recitals ..................................... 18
 10) Group Concerts ................................................ 18
 
@@ -37,7 +31,7 @@ M.H. = Mozart Hall at Musashino Academia Musicae
 
 === Page 4 ===
 REGULAR CONCERTS
-（定期演奏会）
+(定期演奏会)
 
 Orchestra
 管弦楽団
@@ -50,9 +44,9 @@ Conductor: Antonin Kühnel
 Soloist: Kumiko Kumagai, Piano
 ピアノ＝熊谷久美子
 
-Antonin Dvorak ............... Symphonic Peom “The Wild Dove” Op.110
+Antonin Dvorak ............... Symphonic Peom "The Wild Dove" Op.110
 F. Chopin ..................... Piano Concerto No.2 in F minor Op.21
-N. Rimsky-Korsakov ........... Symphonic Suite “Scheherazade” Op.35
+N. Rimsky-Korsakov ............ Symphonic Suite "Scheherazade" Op.35
 
 Orchestra and Choir
 管弦楽団・合唱団
@@ -88,15 +82,15 @@ Thursday, July 22, 1976, 6:30p.m./Taira Shimin Kaikan
 Conductor: Antonin Kühnel
 指揮＝アントニン・キューネル
 Soloist: Tetsuro Ishikawa, Piano
-ピアノ＝石川　哲郎
+ピアノ＝石川 哲郎
 
 G. Frescobaldi ............................................. Toccata
 J.B. Chance ............................................. Incantation and Dance
-Hiroyuki Fujikake ........................................ Overture Concertante
-Hiroshi Hoshina ........................................... Cantilena
+Hiroyuki Fujikake ..................................... Overture Concertante
+Hiroshi Hoshina ....................................... Cantilena
 R. Wagner ................. "Lohengrin" Elsa's procession to the Cathedral
 R. Addinsel ............................................. Warsaw Piano Concerto
-A. Reed ............................................. Armenian Dance Part I
+A. Reed ................................................. Armenian Dance Part I
 O. Respighi ................. "The Pines of Rome" The Pines of Appian Way
 
 Friday, July 16, 1976, 6:30p.m./Yokkaichi Shimin Hall
@@ -106,22 +100,22 @@ Sunday, July 25, 1976, 2:00p.m./Fukushima-Ken Bunka Center
 Conductor: Antonin Kühnel
 指揮＝アントニン・キューネル
 Soloist: Tetsuro Ishikawa, Piano
-ピアノ＝石川　哲郎
+ピアノ＝石川 哲郎
 
-D. Shostakovich ........................................... Festive Overture
+D. Shostakovich ....................................... Festive Overture
 J.B. Chance ............................................. Incantation and Dance
-Hiroyuki Fujikake ........................................ Overture Concertante
-Hiroshi Hoshina ........................................... Cantilena
+Hiroyuki Fujikake ..................................... Overture Concertante
+Hiroshi Hoshina ....................................... Cantilena
 R. Wagner ................. "Lohengrin" Elsa's procession to the Cathedral
 R. Addinsel ............................................. Warsaw Piano Concerto
-G. Kleinsinger ........................................... Tubby the Tuba
-G. Jacob ............................................. Music for a Festival
+G. Kleinsinger ......................................... Tubby the Tuba
+G. Jacob ................................................. Music for a Festival
 
 === Page 6 ===
 OPERA
 (オペラ公演)
 
-Claudio Monteverdi ..................... "L'Orfeo" 1st, 2nd acts
+Claudio Monteverdi ............................ "L'Orfeo" 1st, 2nd acts
 (Be used Ancient Instruments)
 
 Saturday, November 20, 2:00p.m./B.H.
@@ -148,10 +142,10 @@ Friday, May 28, 7:00p.m./Nikkei Hall
 Violin Solo: Louis Graeler
 指導・演奏=ルイ・グレーラー
 
-A. Corelli ............................. Concerto grosso g moll Op.6–8
+A. Corelli ............................ Concerto grosso g moll Op.6–8
 A. Schönberg ............................ "Verklärte Nacht" Op.4
-W.A. Mozart ............................. Serenata Notturna D dur K.V.239
-W.A. Mozart ............................. Sinfonie Nr.29 A dur K.V.201
+W.A. Mozart ............................ Serenata Notturna D dur K.V.239
+W.A. Mozart ............................ Sinfonie Nr.29 A dur K.V.201
 
 === Page 7 ===
 WEDNESDAY & SATURDAY CONCERTS
@@ -177,8 +171,8 @@ Thursday, May 13, 4:00p.m./Orchestra Studio
 John Blow .................... Two Voluntaries from The Nanki Manuscript
 J.S. Bach ..................... Trio Sonata No.4  e minor BWV 528
 W.A. Mozart ................... Andante for a Mechanical Organ F major KV616
-Derek Healey .................. The Lost Travellers’ Dream Op.35
-Maurice Duruflé ................ Scherzo Op.2
+Derek Healey .................. The Lost Travellers' Dream Op.35
+Maurice Durufle ................ Scherzo Op.2
 Guillaume-Gabriel Nivers ...... Suite in Mode V
 Nicolaus Bruhns ............... Prelude and Fugue  e minor No.1
 
@@ -187,20 +181,20 @@ Saturday, May 15, 1:10p.m./B.H.
 J.G. Walter ................... Concerto in b by Giuseppe Meck
 John Blow ..................... Echo Voluntary in G from The Nanki Manuscript
 Nicolaus Bruhns ............... Prelude and Fugue  e minor No.1
-J.S. Bach ..................... Two Fugue from “Die Kunst der Fugue”
+J.S. Bach ..................... Two Fugue from "Die Kunst der Fugue"
 M. Enrico Bossi ............... Theme et Variations Op.115
-Derek Healey .................. The Lost Travellers’ Dream Op.35
+Derek Healey .................. The Lost Travellers' Dream Op.35
 Daniel Pinkham ............... When the Morning Stars sang together
 Cesar Franck .................. Final Op.21
 
-John O’Conor Piano Recital
+John O'Conor Piano Recital
 ジョン・オコナー
 
 Saturday, June 5, 1:10p.m./M.H.
 
-J. Sibelius ................... Romance Des Dur Op.24-9
-R. Schumann ................... Papillons Op.2
-L.v. Beethoven ............... Sonate Nr.21  C Dur Op.53 “Waldstein”
+J. Sibelius .................... Romance Des Dur Op.24-9
+R. Schumann .................... Papillons Op.2
+L.v. Beethoven ................. Sonate Nr.21  C Dur Op.53 "Waldstein"
 
 Vocal Faculty Recital
 声楽教官によるコンサート
@@ -210,25 +204,25 @@ Thursday, June 10, 4:00p.m./Orchestra Studio
 Atsuko Kono (Soprano)
 河野敦子
 
-W.A. Mozart .................. Das Veilchen/Als Luise die Briefe/Warnung
-R. Schumann .................. Widmung/Der Nussbaum/Die Lotosblume
-J. Brahms .................... Ständchen/Immer leiser wird mein Schlummer/
+W.A. Mozart ................... Das Veilchen/Als Luise die Briefe/Warnung
+R. Schumann ................... Widmung/Der Nussbaum/Die Lotosblume
+J. Brahms ..................... Ständchen/Immer leiser wird mein Schlummer/
                                  Meine Liebe ist Grün
 
 === Page 9 ===
 Akihiko Fujinuma (Tenor)
 藤沼昭彦
 
-G.F. Händel ............................. "Messiah" Comfort ye, my people
+G.F. Händel ............................ "Messiah" Comfort ye, my people
 J. Haydn ..................... "Die Schöpfung" Und Gott schuf den Menschen
-F. Schubert ............................. Ganymed/Ständchen/An die Musik
+F. Schubert ............................ Ganymed/Ständchen/An die Musik
 
 Reiko Noguchi (Soprano)
 野口玲子
 
 R. Schumann ............... Erstes Grün/Märzveilchen/Schneeglöckchen/
 Meine Rose/Er ist's
-F. Schubert ............. Im Frühling/Lachen und Weinen/Das Lied im Grünen
+F. Schubert ............ Im Frühling/Lachen und Weinen/Das Lied im Grünen
 Liebe schwämmt auf allen Wegen/Liebhaber in allen gestalten
 
 Undergraduate Students' Composition Recital
@@ -236,14 +230,14 @@ Undergraduate Students' Composition Recital
 
 Wednesday, June 16, 3:10p.m./M.H.
 
-Yoshiko Nishiyama ............................. 16 Variations for Piano
-Kazuto Miyazawa ............................. Die Schatten aus Borobudor
-Yaoko Yasue ............................. Movement for Oboe and Piano
+Yoshiko Nishiyama .......................... 16 Variations for Piano
+Kazuto Miyazawa ............................ Die Schatten aus Borobudor
+Yaoko Yasue ............................... Movement for Oboe and Piano
 Hiroko Akabane ............................. 3 Pieces for Bassoon and Piano
-Hidekazu Yamashita ............................. 3 Songs
-Takashi Yamazaki ............................. 3 Songs
-Shinobu Kodagawa ............................. Divertimento for 3 Bassoons
-Sanae Tanaka ............................. Fantasma
+Hidekazu Yamashita .......................... 3 Songs
+Takashi Yamazaki ........................... 3 Songs
+Shinobu Kodagawa ........................... Divertimento for 3 Bassoons
+Sanae Tanaka ............................... Fantasma
 
 Michael Goldstein Violin Recital
 ミハエル・ゴールドシュタイン
@@ -257,11 +251,11 @@ Piano: Akiko Kitagawa
 Organ: Takuo Shimura
 オルガン＝志村 拓生
 
-W.A. Mozart ............................. Sonate B dur K.V.454
+W.A. Mozart ............................... Sonate B dur K.V.454
 L.v. Beethoven ............................. Sonate "Kreuzer" A dur Op.45
-J. Brahms ............................. Sonate Nr.3 d moll Op.108
+J. Brahms ................................. Sonate Nr.3 d moll Op.108
 G.P. Telemann ............................. Sonate g moll
-J.S. Bach ............................. Sonate e moll
+J.S. Bach ................................. Sonate e moll
 
 === Page 10 ===
 Laszlo Kóte Violin Recital
@@ -276,26 +270,26 @@ Piano: Peter Pertis
 
 S. Prokofiev ............................................. Sonate D dur Op.94
 J.S. Bach .................................................. Partita Nr.2 d moll
-J. Brahms ................................................... Sonate d moll Op.108
+J. Brahms .................................................. Sonate d moll Op.108
 
 Undergraduate Students’ Piano Recital
 ピアノ専攻学生
 
 Wednesday, October 20, 3:10p.m./M.H.
 
-F. Liszt ..................................................... Ballade Nr.2 h moll
-F. Chopin ................................................... Ballade Nr.4 f moll Op.52
-B. Bartók ................................................... 15 Hungarian pesant songs
-R. Schumann ............................................... Papillons Op.2
-F. Liszt ..................................................... Mephisto-Walzer Nr.1
-C. Debussy ....... Les collines d’Anacapri/Les fées sont d’exquises danseuses
+F. Liszt .................................................. Ballade Nr.2 h moll
+F. Chopin .................................................. Ballade Nr.4 f moll Op.52
+B. Bartók .................................................. 15 Hungarian pesant songs
+R. Schumann ............................................. Papillons Op.2
+F. Liszt .................................................. Mephisto-Walzer Nr.1
+C. Debussy ...... Les collines d’Anacapri/Les fées sont d’exquises danseuses
 Général Lavine/Feux d’artifice
-R. Schumann ............................................... Etudes symphonique Op.13
-F. Chopin ................................................... Konzert Nr.1 e moll Op.11 I Satz
-F. Liszt ..................................................... Mephisto-Walzer Nr.1
-L.v. Beethoven ............................................. Sonate Nr.31 As dur Op.110
-V. d’Indy ....... “Poème des Montagnes Op.15” Danses rythmiques/Plein Air
-B. Smetana .................. “Rêves” Le bonheur éteint/La consolation/
+R. Schumann ............................................. Etudes symphonique Op.13
+F. Chopin .................................................. Konzert Nr.1 e moll Op.11 I Satz
+F. Liszt .................................................. Mephisto-Walzer Nr.1
+L.v. Beethoven ........................................... Sonate Nr.31 As dur Op.110
+V. d’Indy .... “Poëme des Montagnes Op.15” Danses rythmiques/Plein Air
+B. Smetana .................... “Rêves” Le bonheur éteint/La consolation/
 La fête des paysans Bohemiens
 
 Undergraduate Students’ Recital
@@ -303,11 +297,11 @@ Undergraduate Students’ Recital
 
 Thursday, October 28, 3:30p.m./Orchestra Studio
 
-F. Schubert ............................................... Schäfers klagelied (Bar.)
-G.F. Händel ............................................... “Amadig” Ah! spietato (Sop.)
-G. Verdi ................................................... “Ernani” Ernani, involami (Sop.)
-G. Verdi ................................................... “L’esule” (Bar.)
-G. Verdi ................................................... “Otello” Canzona del Salce (Sop.)
+F. Schubert ............................................. Schäfers klagelied (Bar.)
+G.F. Händel ............................................. “Amadig” Ah! spietato (Sop.)
+G. Verdi .................................................. “Ernani” Ernani, involami (Sop.)
+G. Verdi .................................................. “L’esule” (Bar.)
+G. Verdi .................................................. “Otello” Canzona del Salce (Sop.)
 
 === Page 11 ===
 E. Ysaÿe ............................................. Sonate Op27-2 I, IV Satz (Vln.)
@@ -363,7 +357,7 @@ J. Brahms . . . Variationen und Fuge über ein Thema von Händel B dur O. 24
 F. Liszt . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 === Page 13 ===
-Undergraduate Students’ Winds Recital
+Undergraduate Students' Winds Recital
 管楽器専攻学生
 
 Wednesday, November 17, 3:10p.m./M.H.
@@ -372,16 +366,16 @@ J. Aubain ............................................. Trois Etudes (Perc.)
 C. Saint-Saëns ................................. Cavatine Des dur Op.144 (Trb.)
 J.S. Bach ............................................. Sonate g moll (Ob.)
 F. Martin ............................................. Ballade (Fl.)
-W.A. Mozart ................................. Konzert C dur K.V.314 I Satz (Ob.)
-A. Jolivet ............................................. Concertino pour Trumpette (Trp.)
-P. Hindemith ................................. Sonate B dur I Satz (Trp.)
-Iwao Konko ................................. Sonata for Tuba and Piano (Tuba)
-F. Kramar ............................................. Konzert Es dur Op.36 I Satz (Cl.)
+W.A. Mozart ........................................ Konzert C dur K.V.314 I Satz (Ob.)
+A. Jolivet ........................................... Concertino pour Trumpette (Trp.)
+P. Hindemith ........................................ Sonate B dur I Satz (Trp.)
+Iwao Konko ......................................... Sonata for Tuba and Piano (Tuba)
+F. Kramar ........................................... Konzert Es dur Op.36 I Satz (Cl.)
 J. Ibert ............................................. Concertino da Camera (Sax.)
-W.A. Mozart ................................. Konzert B dur K.V.191 I, II Satz (Fg.)
-R. Strauss ................................. Konzert Nr.1 Es dur (Hr.)
-H. Tomasi ............................................. Konzert I Satz (Trp.)
-F. Martin ............................................. Ballade (Trb.)
+W.A. Mozart ........................................ Konzert B dur K.V.191 I, II Satz (Fg.)
+R. Strauss ........................................... Konzert Nr.1 Es dur (Hr.)
+H. Tomasi ........................................... Konzert I Satz (Trp.)
+F. Martin ........................................... Ballade (Trb.)
 
 Zorica Filipović Soprano Recital
 ゾリツァ・フィリポビッチ
@@ -394,13 +388,13 @@ Piano: Atsushi Sako
 ピアノ＝酒匂 淳
 
 S. Hristić ............................................. Swallow
-P. Konjović ............................................. Beauty Maiden
-K. Baranović ............................................. Crn-Bel (Cricket)
-M. Mussorgsky ................................. “The Nursery with Nurse”
+P. Konjović ......................................... Beauty Maiden
+K. Baranović ........................................ Crn-Bel (Cricket)
+M. Mussorgsky ....................................... "The Nursery with Nurse"
 S. Rakhmaninov ...... The Lilacs/Oh, never sing to me again/Spring Water
-N. Rimsky-Korsakov ............ Aria from Opera “The Tsar’s Bride”
-Aria from Opera “The Snow Maiden”
-B. Smetana ................................. Aria from Opera “Baretered Bride”
+N. Rimsky-Korsakov ............ Aria from Opera "The Tsar's Bride"
+Aria from Opera "The Snow Maiden"
+B. Smetana ................................. Aria from Opera "Baretered Bride"
 
 === Page 14 ===
 Faculty String Quartet Recital
@@ -466,10 +460,10 @@ Conductor: Antonin Kühnel
 
 F. Suppe .......................... “Dichter und Bauer” Ouvertüre
 F. Chopin .......................... Polonaise As dur Op.53 “Heroïque”
-L. Deliebes .......................... “Coppélia” Selection
+L. Deliebes ....................... “Coppélia” Selection
 
 Female Chorus
-1年女声合唱
+1 年女声合唱
 Conductor: Minoru Yamada
 指揮＝山田 実
 
@@ -477,11 +471,11 @@ Finnish Spirit Songs ............ Soi Laulu Soi!/Te Kristityt/Soi, Kannel!/
 Ah, Isa Armas Armada
 
 Female Chorus
-2・3年女声合唱
+2・3 年女声合唱
 Conductor: Tsuyoshi Sasakura
 指揮＝笹倉 強
 
-Akira Yuyama ........ Suite “Song of Grapes” for Female Chorus and Piano
+Akira Yuyama ............ Suite “Song of Grapes” for Female Chorus and Piano
 
 Choir
 混声合唱
@@ -522,11 +516,11 @@ Detlef Kraus Piano Recital
 Monday, November 1, 2:30p.m./B.H.
 (in connection with Muse Festival)
 武蔵野音楽大学大学祭にて
-Friday, November 5, 4:00p.m./ Orchestra Studio
+Friday, November 5, 4:00p.m./Orchestra Studio
 
 F. Schubert .......................... Sonate B dur
-C. Franck ............................ Prélude, Choral et Fugue
-J. Brahms ............................. Ungarischer Tanz Nr.11
+C. Franck ........................... Prélude, Choral et Fugue
+J. Brahms ............................ Ungarischer Tanz Nr.11
 J. Brahms ......................... Variationen über ein Ungarisches Lied Op.21-b
 C. Debussy ......................... Des pas sur la neige/Bruyères/Général Lavine
 F. Chopin ............................ Berceuse D dur Op.57
@@ -550,18 +544,18 @@ A. Lotti .................................................. Pur d'cesti, o bocca
 A. Scarlatti ............................................. Tu lo sai/Le Violette
 G. Rossini ............................................. Mi lagnelo facendo/La Promessa
 V. Bellini ............................................. Vaga luna che inargent/Malinconia, Ninfa gentile
-G. Puccini ............................................. “Gianni Schicchi” O mio babbino caro
-G. Puccini ............................................. “La Bohème” Si, Mi chiamano Mimi
+G. Puccini ............................................. "Gianni Schicchi" O mio babbino caro
+G. Puccini ............................................. "La Bohème" Si, Mi chiamano Mimi
 
 Wilhelm Kempff Piano Recital
 ウィルヘルム・ケンプ
 
 Sunday, November 28, 5:00p.m./B.H.
 
-J.S. Bach ................................. Two Choral arranged by Wilhelm Kempff
-L.v. Beethoven ............................ Sonate C dur Op.53 “Waldstein”
-Wilhelm Kempff ............................ Italian Suite Op.69
-F. Schubert ..................................... Impromptu f moll Op.142-1
+J.S. Bach ............................. Two Choral arranged by Wilhelm Kempff
+L.v. Beethoven .......................... Sonate C dur Op.53 "Waldstein"
+Wilhelm Kempff .......................... Italian Suite Op.69
+F. Schubert ............................. Impromptu f moll Op.142-1
 
 Zuzana Ruzicikova Cembalo Recital
 ズザーナ・ルージチコヴァ
@@ -572,7 +566,7 @@ J.S. Bach ............................................. Italian Concerto
 D. Scarlatti ........................................... Sonata in F major, C major, A major
 Jiri Pauer ............................................. 4 Bagatellen
 Viktor Kalabis ................................. 6 Canonic Inventions
-Béla Bartók ........................................ 3 Burgarian Dances
+Béla Bartók ........................................... 3 Burgarian Dances
 
 === Page 18 ===
 OTHER CONCERT
@@ -586,11 +580,11 @@ Saturday, July 10, 6:00p.m./B.H.
 Conductor: Antonin Kühnel
 指揮＝アントニン・キューネル
 
-D. Shostakovic ................................. Festive Overture
-J.B. Chance ..................................... Incantation and Dance
-G. Kleinsinger .................................. Tubby the Tuba
-G. Frescobaldi .................................. Toccata
-A. Reed .......................................... Armenian Dance Part I
+D. Shostakovic ............................................. Festive Overture
+J.B. Chance .................................................. Incantation and Dance
+G. Kleinsinger ............................................. Tubby the Tuba
+G. Frescobaldi ............................................. Toccata
+A. Reed ..................................................... Armenian Dance Part I
 
 Youth Concert for Wind Ensemble
 中・高校生の為の音楽鑑賞会
@@ -603,11 +597,11 @@ Conductor: Antonin Kühnel
 Piano: Tetsuro Ishikawa
 ピアノ＝石川 哲郎
 
-G. Frescobaldi .................................. Toccata
-R. Wagner ..................... "Lohengrin" Elsa's procession to the Cathedral
-R. Addinsel ............................. Warsaw Piano Concerto
-G. Kleinsinger .................................. Tubby the Tuba
-O. Respighi ..................... "The Pines of Rome" The Pines of Appian Way
+G. Frescobaldi ............................................. Toccata
+R. Wagner ................. "Lohengrin" Elsa's procession to the Cathedral
+R. Addinsel ......................... Warsaw Piano Concerto
+G. Kleinsinger ............................................. Tubby the Tuba
+O. Respighi ................. "The Pines of Rome" The Pines of Appian Way
 
 Youth Concert for Symphony Orchestra
 高校生の為の音楽鑑賞会
@@ -620,11 +614,11 @@ Conductor: Asao Hasegawa
 H. Berlioz ..................... "La damnation de Faust" Marche hongroise
 P. Mascagni ..................... "Cavalleria Rusticana" Intermezzo
 L.v. Beethoven .................. Sinfonie Nr.5 c moll Op.67
-Yuzo Toyama .................... Rhapsodie für Orchester
+Yuzo Toyama ..................... Rhapsodie für Orchester
 
 === Page 19 ===
 PUBLIC LECTURES
-(公開講座)
+（公 開 講 座）
 
 Hans Heinz (Vocal)
 ハンス・ハインツ声楽公開講座
@@ -636,10 +630,10 @@ Franz Schubert ............................. "Winterreise"
 17. Im Dorfe/20. Der Wegweiser
 "Die Schöne Müllerin"
 1. Das Wandern
-C. Saint-Saëns ............................ Vocalise "Le Rossignol et la Rose"
-Giuseppe Verdi ............................ "Rigoletto" Caro nome che il mio cor
+C. Saint-Saëns ............................. Vocalise "Le Rossignol et la Rose"
+Giuseppe Verdi ............................. "Rigoletto" Caro nome che il mio cor
 Gaetano Donizetti .......................... "La Favorita" Spirto gentil
-Giuseppe Verdi ............................ "Macbeth" Pietà, rispetto amore
+Giuseppe Verdi ............................. "Macbeth" Pietà, rispetto amore
 
 Giorgio Favaretto (Vocal)
 ジョルジョ・ファヴァレット声楽公開講座
@@ -650,7 +644,7 @@ G. Rossini ................................. Mi lagnero tacendo
 La gita in gondola
 V. Bellini ................................. Ma rendi pur contento
 L'allegro marinaro
-G. Donizetti .............................. A mezzanotte
+G. Donizetti ............................... A mezzanotte
 È morta
 G. Verdi ................................. Non t'accostare all'urna
 Lo spazzacamino
@@ -671,7 +665,7 @@ Wednesday, January 26, 1:10p.m./ Conference Room
 
 J.S. Bach ................................. French Suite No.6 BWV817
                                  Italian Concerto BWV971
-                                 Pieces from "Das Wohltemperierte Klavier"
+                                 Pieces from “Das Wohltemperierte Klavier”
 
 GRADUATE STUDENTS’ RECITALS
 （大学院生による演奏会）
@@ -688,13 +682,7 @@ Group concerts are held during the course of the year in which students are give
 グループ・コンサートは、前期の終了時に全学生が参加し、各自の教師や学友の前で演奏の機会をあたえるべく企画されたものである。スペースの都合上このプログラムは割愛する。
 
 === Page 21 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 22 ===
 GROUP CONCERNS

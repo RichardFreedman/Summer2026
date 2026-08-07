@@ -43,7 +43,7 @@ Programme and Words of Songs.
 Violin Soli (a) "Scherzo" ... ... Tschaikowsky
 (b) "Melodie" ... ... M. BRONISLAW HUBERMAN.
 
-Aria "Air de Lia" ("L'En'ant Prodigue") ... Debussy
+Aria "Air de Lia" ("L'Enfant Prodigue") ... Debussy
 Dame NELLIE MELBA.
 
 "RÉCIT ET AIR DE LIA."
@@ -55,9 +55,10 @@ Ils rouvrent ma blessure et mon chagrin s'accroît.
 Je viens chercher la grève solitaire
 Douleur involontaire! Efforts superflus!
 Lia pleure toujours l'enfant qu'elle n'a plus!
-    Azaël! Azaël! Pourquoi m'as tu quittée?
-    En mon cœur maternel ton image est restée
-    Azaël! Azaël! Pourquoi m'as tu quittée?
+
+Azaël! Azaël! Pourquoi m'as tu quittée?
+En mon cœur maternel ton image est restée
+Azaël! Azaël! Pourquoi m'as tu quittée?
 
 === Page 4 ===
 Cependant les soirs étaient doux dans la plaine d'ormes planté,
@@ -72,9 +73,9 @@ D'autres ne sentent pas le poids de la vieillesse ;
 Heureux dans leurs enfants ils voient couler les ans.
 Sans regret comme sans tristesse.
 
-Aux cœurs inconsolés que le temps? sont pesants !
+Aux cœurs inconsolés que le temps? sont pesants!
 Azaël! Azaël! Azaël! Azaël!
-Pourquoi m'as-tu quittée ? Pourquoi m'as-tu quittée ?
+Pourquoi m'as-tu quittée? Pourquoi m'as-tu quittée?
 
 E. Guinand.
 
@@ -89,9 +90,9 @@ Along this silent shore I wander lonely,
 My grief God knoweth only, ever, evermore
 Lía mourns for her child, the child that once she bore.
 
-    Azaël! Azaël!  Ah! wherefore didst thou leave me?
+    Azaël! Azaël! Ah! wherefore didst thou leave me?
     On my heart thou art graven; I sorrow for thee;
-    Azaël! Azaël!  Ah! wherefore didst thou leave me?
+    Azaël! Azaël! Ah! wherefore didst thou leave me?
 
 Happy days to my memory start when the elm trees waving o'er us,
 Homeward the ruddy oxen bore us,
@@ -260,7 +261,7 @@ Des vieux sylvains.
 etc.
 
 Le jour revient, l'aube s'éclaire ;
-D'ar s un dernier soupir d'amour,
+D'au s un dernier soupir d'amour,
 Eloignez-vous de la clairière
 Disparaissez, voici le jour !
 Ah ! voici le jour.
@@ -271,9 +272,15 @@ Violin Soli (a) "Ave Maria" ... Schubert-Wilhelm
 M. BRONISLAW HUBERMAN.
 
 === Page 8 ===
-The Golden Voice of Dame Nellie Melba can only be heard on 'HIS MASTER'S VOICE' Gramophone Records
+The Golden Voice of
+Dame Nellie Melba
+can only be heard on
+'HIS
+MASTER'S VOICE'
+Gramophone Records
 
-From a repertoire of 56 gems our dealers will be happy to entertain you. The following records should be included in every collection:—
+From a repertoire of 56 gems our dealers will be happy to entertain you.
+The following records should be included in every collection:—
 
 <table>
   <tr>
@@ -315,10 +322,11 @@ From a repertoire of 56 gems our dealers will be happy to entertain you. The fol
 
 Write us for 'Dealer's address nearest your home.
 
-The Gramophone Company, Ltd., Hayes, Middlesex.
+The Gramophone Company, Ltd.,
+Hayes, Middlesex.
 
 Dame Nellie Melba
-"The Queen of Song" feels that only by making "His Master's Voice" records can she ensure that posterity shall hear her in the plentitude of her powers. Her records—made exclusively for The Gramophone Co., Ltd., are truly wonderful reproductions of her unique voice and art.
+"The Queen of Song" feels that only by making "His Master's Voice" records can she ensure that posterity shall hear her in the plenitude of her powers. Her records—made exclusively for The Gramophone Co., Ltd., are truly wonderful reproductions of her unique voice and art.
 
 === Page 9 ===
 Songs in English (a) "A Fallen Leaf" Frank St. Leger
@@ -365,6 +373,8 @@ Again, again, my heart!
 What are we waiting for, you and I?
 A pleading look—a stifled cry,
 Good-bye for ever! Good-bye! Good-bye!
+
+Encore: Coming thro' the rye.
 
 === Page 10 ===
 Songs (a) "A Memory" ... ... ... Goring Thomas
@@ -413,7 +423,6 @@ Nunc, et in hora, in hora, mortis nostrae,
 === Page 11 ===
 Duet, "Lovely Maid in the Moonlight"
 (BY SPECIAL REQUEST).
-
 (Act I. "La Bohême") ... ... Puccini
 (Words by kind permission of Messrs. G. Ricordi & Co.)
 
@@ -422,10 +431,10 @@ Rodolfo ... ... Mr. TOM BURKE.
 
 Rod. O soave fanciulla,
 O dolce viso di mite circonfuso alba lunar,
-il sogno ch'io vorrei sempre sognar!
+il sogno ch’io vorrei sempre sognar!
 
-Rod. Fre mon gio nel l'anima le dolcezze streme, more!
-Fremon nell'anima dolcezze estreme fremon dolcezze estreme,
+Rod. Fre mon gio nel l’anima le dolcezze streme, more!
+Fremon nell’anima dolcezze estreme fremon dolcezze estreme,
 Nel bacio freme amor!
 
 Mim. Ah! tu sol comandi, amor
@@ -435,21 +444,21 @@ Tu sol comandi, amor!
 
 Mim. No, per pieta!
 Rod. Sei mia!
-Mim. V'aspettan gli amici.
+Mim. V’aspettan gli amici.
 Rod. Guai mi mandi via?
 Mim. Vorrei dir ma non oso
-Rod. Di'
+Rod. Di’
 Mim. Se venissi con voi?
 Rod. Che? Mimi!
 Sarebbe così dolce restar qui
-C'è freddo fuori
+C’è freddo fuori
 Mim. Vi staro vicina!
 Rod. E al ritorno?
 Mim. Curioso!
 Rod. Dammi il braccio mia piccina
 Mim. Obbedisco, signor!
-Rod. Che m'ami di
-Mim. Io t'amo!
+Rod. Che m’ami di
+Mim. Io t’amo!
 Rod. & Mim. Amor! Amor! Amor!
 
 === Page 12 ===
@@ -496,7 +505,9 @@ STEINWAY GRAND PIANOFORTE.
 
 === Page 13 ===
 Tom Burke
+
 BURKE
+
 "Superb in power and beauty—This was the New Tenor, Mr. Thomas Burke. A hit—a direct hit." So wrote the critics when Burke made his debut at Covent Garden on that memorable night of May 12, 1919.
 
 BURKE'S FIRST RECORDS
@@ -508,9 +519,11 @@ New Records Ready July 1st
 7202  RIGOLETTO: Questa o Quella (Price 7s)
 7203  MARTHA: M'Appari (Ah, so pure) (Price 7s.)
 7904  MANON: Chiudo gli occhi (Price 7s.)
+
 On Sale at all Music Dealers and Stores.
 
 RECORDS ONLY FOR Columbia
+
 "Columbia Records are more faithful to the original, whether the human voice or instrumental music."
 
 === Page 14 ===
@@ -537,7 +550,7 @@ Madame CLARA BUTT AND Mr. KENNERLEY-RUMFORD
 Madame CLAIRE DUX
 Miss MAGGIE TEYTE
 Miss ALMA GLUCK
-Mdlle. ALICE VERLET
+Mlle. ALICE VERLET
 Miss AILEEN D'ORME
 Mr. TOM BURKE
 Mr. JOHN McCORMACK
@@ -565,14 +578,9 @@ AT THE ROYAL ALBERT HALL ::
 === Page 15 ===
 CHAPPELL PIANOS
 GRAND AND UPRIGHT
-Acknowledged by a
-DISCRIMINATING PUBLIC
-throughout the
-WORLD
-as the
-FINEST ENGLISH MAKE
-Used by the following, among many,
-EMINENT ARTISTES
+Acknowledged by a DISCRIMINATING PUBLIC throughout the WORLD as the FINEST ENGLISH MAKE
+
+Used by the following, among many, EMINENT ARTISTES
 PACHMANN
 MOISEIWITSCH
 ARTHUR DE GREEF
@@ -584,18 +592,15 @@ AMINA GOODWIN
 LILIA KANEVSKAYA
 MARGARET COOPER
 etc., etc.
-Preferred by the Principal Professors
-throughout the Kingdom, and largely used in the
-ROYAL ACADEMY OF MUSIC
+
+Preferred by the Principal Professors throughout the Kingdom, and largely used in the ROYAL ACADEMY OF MUSIC
 ROYAL COLLEGE OF MUSIC
 GUILDHALL SCHOOL OF MUSIC
 TRINITY COLLEGE, etc., etc.
-Not to be excelled for
-TONE, TOUCH
-and
-DURABILITY
-CHAPPELL PLAYER-PIANOS
-GRAND AND UPRIGHT
+
+Not to be excelled for TONE, TOUCH and DURABILITY
+
+CHAPPELL PLAYER-PIANOS GRAND AND UPRIGHT
+
 CHAPPELL'S PIANO AND PLAYER-PIANO GALLERIES,
 50. NEW BOND STREET, LONDON, W. I.
-Vail & Co., London, E.C.

@@ -1,5 +1,5 @@
 === Page 1 ===
-VIOU
+VIOI
 PART
 SONG
 VOCAL QUARTETS.
@@ -15,40 +15,40 @@ PROGRAMME
 
 PART I
 
-CANTATA .. .. .. "The Waterlily" .. .. .. Goetz
+CANTATA .. .. "The Waterlily" .. .. Goetz
 Miss Minnie Waugh and Liedertafel
-SONG .. .. .. "The Forest Song" (Waldes-lied) .. .. Kreutzer
+SONG .. .. "The Forest Song" (Waldes-lied) .. .. Kreutzer
 Mr. W. G. Barker
 VIOLONCELLO SOLO Adagio from the B minor Concerto .. .. Davidoff
 Herr Louis Hattenbach
 PART SONGS { (a) "Mariner's Hymn to the Dioscuri" Schubert—Plumpton
 { (b) "Wanderer's Song" .. .. Schumann—Plumpton
 Liedertafel
-SONG .. .. .. "Softly Sighs" (Der Freischutz) .. .. Weber
+SONG .. .. "Softly Sighs" (Der Freischutz) .. .. Weber
 Miss Minnie Waugh
 VOCAL QUARTETS.. .. { (a) "May Morning" .. .. Distin
 { (b) "Always More" .. .. Seifert
 S. Paul's Cathedral Quartet Party.
-CHORUS .. .. "Soldiers and Students" (La Damnation de Faust) .. .. Mozart
+CHORUS .. "Soldiers and Students" (La Damnation de Faust) .. .. Mozart
 Liedertafel
 
 PART II
 
 GRAND DOUBLE CHORUS from " (Edipus at Colonos" .. .. Mendelssohn
 Liedertafel
-SONG .. .. .. "A Summer Night" .. .. Goring Thomas
+SONG .. .. "A Summer Night" .. .. Goring Thomas
 Miss Minnie Waugh
-SONG .. .. .. "A Soldier's Song" .. .. Mascheroni
+SONG .. .. "A Soldier's Song" .. .. Mascheroni
 Mr. W. G. Barker
-PART SONG.. .. .. "Night in the Forest" .. .. Schubert
+PART SONG.. .. "Night in the Forest" .. .. Schubert
 Liedertafel
-VIOLONCELLO SOLI { (a) "Berceuse" .. .. .. César Cui
-{ (b) "Tarantella" .. .. .. Piatti
+VIOLONCELLO SOLI { (a) "Berceuse" .. .. César Cui
+{ (b) "Tarantella" .. .. Piafli
 Herr Louis Hattenbach
 VOCAL QUARTETS.. .. { (a) "Sleep, Gentle Lady" .. .. Bishop
 { (b) "Onward Roaming" .. .. Müller
 S. Paul's Cathedral Quartet Party.
-PART SONG.. .. .. "A Capstan Chorus" .. .. .. Smart
+PART SONG.. .. "A Captain Chorus" .. .. Smart
 Liedertafel
 
 === Page 3 ===
@@ -61,6 +61,7 @@ Conductor: Mr. Ernest Wood
 Twenty-sixth Season
 
 Town Hall, Melbourne
+
 Monday Evening, 20th March, 1899
 
 === Page 4 ===
@@ -89,9 +90,11 @@ HON. LIBRARIAN
 MR. H. W. SEYMOUR
 
 COMMITTEE
-MR. G. SMIBERT        MR. W. GOODE
-MR. J. KENDALL       MR. E. J. RICE
+MR. G. SMIBERT
+MR. J. KENDALL
 MR. J. FRANKLAND
+MR. W. GOODE
+MR. E. J. RICE
 
 HON. AUDITORS
 MESSRS. A. J. MASTERS & E. SIMMONDS
@@ -103,44 +106,110 @@ OFFICE
 ALLAN & CO. LTD., 284 AND 286 COLLINS STREET
 
 === Page 5 ===
-Members
+<table>
+  <tr>
+    <th colspan="2">Members</th>
+  </tr>
+  <tr>
+    <th colspan="2">Tenors</th>
+  </tr>
+  <tr><td>A. Cameron</td><td>1870</td></tr>
+  <tr><td>C. P. Rouvray</td><td>1870</td></tr>
+  <tr><td>E. Simmonds</td><td>1873</td></tr>
+  <tr><td>S. Symons</td><td>1876</td></tr>
+  <tr><td>W. Watts</td><td>1876</td></tr>
+  <tr><td>J. Kendall</td><td>1876</td></tr>
+  <tr><td>G. F. Smith</td><td>1878</td></tr>
+  <tr><td>F. G. Whitey</td><td>1879</td></tr>
+  <tr><td>J. Iliffe</td><td>1880</td></tr>
+  <tr><td>W. G. Bundy</td><td>1880</td></tr>
+  <tr><td>A. Sherar</td><td>1881</td></tr>
+  <tr><td>T. Jack</td><td>1878</td></tr>
+  <tr><td>W. Brown</td><td>1886</td></tr>
+  <tr><td>G. Smibert</td><td>1873</td></tr>
+  <tr><td>J. Felstead</td><td>1877</td></tr>
+  <tr><td>F. Stapley</td><td>1891</td></tr>
+  <tr><td>W. F. Wyatt</td><td>1893</td></tr>
+  <tr><td>A. H. Bell</td><td>1894</td></tr>
+  <tr><td>A. Champion</td><td>1894</td></tr>
+  <tr><td>R. S. Ferrier</td><td>1894</td></tr>
+  <tr><td>E. M. Smith</td><td>1895</td></tr>
+  <tr><td>H. S. Dickson</td><td>1896</td></tr>
+  <tr><td>A. H. Carleton</td><td>1897</td></tr>
+  <tr><td>A. F. Jefferson</td><td>1898</td></tr>
+  <tr><td>C. Miller</td><td>1870</td></tr>
+  <tr><td>J. S. Ridlev</td><td>1874</td></tr>
+  <tr><td>A. G. S. Williams</td><td>1874</td></tr>
+  <tr><td>C. M. Lilburne</td><td>1880</td></tr>
+  <tr><td>R. J. Moore</td><td>1881</td></tr>
+  <tr><td>W. H. Ford</td><td>1882</td></tr>
+  <tr><td>J. H. Kerr</td><td>1885</td></tr>
+  <tr><td>A. J. Sage</td><td>1886</td></tr>
+  <tr><td>S. E. Dixon</td><td>1888</td></tr>
+  <tr><td>H. W. Seymour</td><td>1888</td></tr>
+  <tr><td>T. N. Jones</td><td>1889</td></tr>
+  <tr><td>R. Hush</td><td>1893</td></tr>
+  <tr><td>H. O. Capes</td><td>1895</td></tr>
+  <tr><td>D. H. Martin</td><td>1896</td></tr>
+  <tr><td>J. E. Oaten</td><td>1896</td></tr>
+  <tr><td>W. Wilson</td><td>1898</td></tr>
+  <tr><td>C. Mitchell</td><td>1898</td></tr>
+  <tr><td>W. E. Porter</td><td>1898</td></tr>
+  <tr><td>W. J. Lormer</td><td>1898</td></tr>
+</table>
 
-Tenors
-
-A. Cameron .. 1870    F. Stapley .. 1891    J. H. Kerr .. 1885
-C. P. Rouvray .. 1870    W. F. Wyatt .. 1893    A. J. Sage .. 1886
-E. Simmonds .. 1873    A. H. Bell .. 1894    S. E. Dixon .. 1888
-S. Symons .. 1876    A. Champion .. 1894    H. W. Seymour .. 1888
-W. Watts .. 1876    R. S. Ferrier .. 1894    T. N. Jones .. 1889
-J. Kendall .. 1876    E. M. Smith .. 1895    R. Hush .. 1893
-G. F. Smith .. 1878    H. S. Dickson .. 1896    H. O. Capes .. 1895
-F. G. Whitey .. 1879    A. H. Carleton .. 1897    D. H. Martin .. 1896
-J. Iliffe .. 1880    A. E. Jefferson .. 1898    J. E. Oaten .. 1896
-W. G. Bundy .. 1880    C. Miller .. 1870    W. Wilson .. 1898
-A. Sherar .. 1881    J. S. Ridlev .. 1874    C. Mitchell .. 1898
-T. Jack .. 1878    A. G. S. Williams .. 1874    W. E. Porter .. 1898
-W. Brown .. 1886    C. M. Lilburne .. 1880    W. J. Lormer .. 1898
-G. Smibert .. 1873    R. J. Moore .. 1881
-J. Felstead .. 1877    W. H. Ford .. 1882
-
-Basses
-
-E. Miller .. 1870    E. W. Clisey .. 1894    A. Stewart .. 1882
-J. Fordyce .. 1872    T. Watson .. 1895    R. Paterson .. 1882
-A. W. Jack .. 1875    T. Homann .. 1897    P. St. J. Murphy .. 1887
-G. Wrigley .. 1879    A. J. Fuller .. 1897    J. H. Bayley .. 1889
-J. H. Mulvany .. 1880    W. F. G. Steele .. 1898    A. E. Johns .. 1890
-R. L. Thompson .. 1881    D. Wright .. 1870    A. Vasey .. 1893
-W. Greig .. 1882    W. F. Rashleigh .. 1873    J. Frankland .. 1893
-R. Jolley .. 1879    C. H. Woodman .. 1879    R. H. Burke .. 1893
-I. Bowley .. 1887    M. St. J. Kennedy .. 1874    J. Adams .. 1894
-R. T. Rowe .. 1875    F. W. White .. 1879    J. Blanchard .. 1895
-H. J. Ralph .. 1888    W. M. Ure .. 1871    J. G. Kalbfell .. 1896
-E. J. Rice .. 1885    H. Rofe .. 1880    C. E. Cheever .. 1897
-S. Ellis .. 1889    J. Keyston .. 1883    W. Patrick .. 1897
-T. Moore .. 1892    E. Walsh .. 1885    A. Kaines .. 1897
-W. Urie .. 1884    J. S. Duke .. 1889    H. E. Stevens .. 1897
-W. H. Morton .. 1894    W. Goode .. 1872
+<table>
+  <tr>
+    <th colspan="2">Basses</th>
+  </tr>
+  <tr><td>E. Miller</td><td>1870</td></tr>
+  <tr><td>J. Fordyce</td><td>1872</td></tr>
+  <tr><td>A. W. Jack</td><td>1875</td></tr>
+  <tr><td>G. Wrigley</td><td>1879</td></tr>
+  <tr><td>J. H. Mulvany</td><td>1880</td></tr>
+  <tr><td>R. L. Thompson</td><td>1881</td></tr>
+  <tr><td>W. Greig</td><td>1882</td></tr>
+  <tr><td>R. Jolley</td><td>1879</td></tr>
+  <tr><td>I. Bowley</td><td>1887</td></tr>
+  <tr><td>R. T. Rowe</td><td>1875</td></tr>
+  <tr><td>H. J. Ralph</td><td>1888</td></tr>
+  <tr><td>E. J. Rice</td><td>1885</td></tr>
+  <tr><td>S. Ellis</td><td>1889</td></tr>
+  <tr><td>T. Moore</td><td>1892</td></tr>
+  <tr><td>W. Urie</td><td>1884</td></tr>
+  <tr><td>W. H. Morton</td><td>1894</td></tr>
+  <tr><td>E. W. Clisey</td><td>1894</td></tr>
+  <tr><td>T. Watson</td><td>1895</td></tr>
+  <tr><td>T. Homann</td><td>1897</td></tr>
+  <tr><td>A. J. Fuller</td><td>1897</td></tr>
+  <tr><td>W. F. G. Steele</td><td>1898</td></tr>
+  <tr><td>D. Wright</td><td>1870</td></tr>
+  <tr><td>W. F. Rashleigh</td><td>1873</td></tr>
+  <tr><td>C. H. Woodman</td><td>1879</td></tr>
+  <tr><td>M. St. J. Kennedy</td><td>1874</td></tr>
+  <tr><td>F. W. White</td><td>1879</td></tr>
+  <tr><td>W. M. Ure</td><td>1871</td></tr>
+  <tr><td>H. Rofe</td><td>1880</td></tr>
+  <tr><td>J. Keyston</td><td>1883</td></tr>
+  <tr><td>E. Walsh</td><td>1885</td></tr>
+  <tr><td>J. S. Duke</td><td>1889</td></tr>
+  <tr><td>W. Goode</td><td>1872</td></tr>
+  <tr><td>A. Stewart</td><td>1882</td></tr>
+  <tr><td>R. Paterson</td><td>1882</td></tr>
+  <tr><td>P. St. J. Murphy</td><td>1887</td></tr>
+  <tr><td>J. H. Bayley</td><td>1889</td></tr>
+  <tr><td>A. E. Johns</td><td>1890</td></tr>
+  <tr><td>A. Vasey</td><td>1893</td></tr>
+  <tr><td>J. Frankland</td><td>1893</td></tr>
+  <tr><td>R. H. Burke</td><td>1893</td></tr>
+  <tr><td>J. Adams</td><td>1894</td></tr>
+  <tr><td>J. Blanchard</td><td>1895</td></tr>
+  <tr><td>J. G. Kalbfell</td><td>1896</td></tr>
+  <tr><td>C. E. Cheever</td><td>1897</td></tr>
+  <tr><td>W. Patrick</td><td>1897</td></tr>
+  <tr><td>A. Kaines</td><td>1897</td></tr>
+  <tr><td>H. E. Stevens</td><td>1897</td></tr>
+</table>
 
 === Page 6 ===
 THE SOCIETY WILL BE ASSISTED BY
@@ -167,7 +236,9 @@ Programme
 PART I
 
 Cantata—The Waterlily
+
 Miss Minnie Waugh and Liedertafel
+
 GOETZ
 
 In evening stillness lies the lake,
@@ -304,7 +375,6 @@ Jam nox stellata vel anima pandit,
 Nunc bibendum et amandum est,
 Vita brevis fugax que voluptas,
 Gaudeamus igitur.
-
 Nobis sub ridente luna.
 Per urben quaerentes puellas eamus,
 Ut cras fortunati Cæsares dicamus,
@@ -335,23 +405,23 @@ Where mortals bow down to the awe-inspiring pair,
         There, glowing with ardour,
             Panting to rush against the foe,
                 See, see all our legions,
-        With Theseus they wave their swords, and cry,
-            Rescue the sisters!
+With Theseus they wave their swords, and cry,
+        Rescue the sisters!
 
 === Page 12 ===
 Or westward perchance they rush,
-Where snow-cover'd mountains rise
-    O'er Œa's enamell'd meads;
+    Where snow-cover'd mountains rise
+        O'er Œa's enamell'd meads;
 There dancing cars and prancing steeds
     Will clash in the onset!
 There on the foe soon will impending vengeance fall,
     For Theseus leads our valiant bands:
     See their arms and armour gleaming
 Bright as the trappings that grace their steeds!
-    Now proudly exulting.
+        Now proudly exulting.
 They, who honour the deeds of sage Minerva,
 And Rhea's great son, earth-encircling ocean's king,
-    Press to the battle!
+        Press to the battle!
 
     Do they await, pursue or fight?
         My heart thrills with hope
@@ -360,7 +430,7 @@ Who hath endur'd, and still endures her kindred's woe.
     This day, Jove will restore her,
     Crown your deeds, heroes, with glory!
     Like a dove high soaring,
-    Sped along by the storm-wind!
+    Sped along by the storm-wind,
     I, from the verge of a cloud,
     Would look down on the contest,
 And see my country's cause triumphant!
@@ -369,8 +439,8 @@ And see my country's cause triumphant!
     O all-seeing Jove, defend our great ruler!
         On him the victor's palm bestow!
         With verdant laurels deck his brow!
-            We call on thee, Pallas Athene!
-            Mighty hunter, Phœbus, hear us!
+        We call on thee, Pallas Athene!
+        Mighty hunter, Phœbus, hear us!
 And thy sister, fleet in chase, whose dart unerring
     Pierceth the far distant hart:
     O come, defend our guardians!
@@ -487,14 +557,15 @@ Mr. W. G. Barker
 
 Part Song—Night in the Forest
 Liedertafel
-    Ever sweet art thou, O Night!
-        In the forest sweeter far.
-    Where thy starry eyes gleam bright,
-        Where thy soft enchantments are!
-    Where the leaves, like fairy goblets,
-        Overflow with dewy wine,
-    And the moon's unclouded radiance
-        Fills each glade with light divine.
+
+Ever sweet art thou, O Night!
+    In the forest sweeter far.
+Where thy starry eyes gleam bright,
+    Where thy soft enchantments are!
+Where the leaves, like fairy goblets,
+    Overflow with dewy wine,
+And the moon's unclouded radiance
+    Fills each glade with light divine.
 
 === Page 16 ===
 Murmuring breezes sing of thy pleasures,
@@ -537,7 +608,6 @@ S. Paul's Cathedral Quartet Party
 === Page 17 ===
 Part Song—A Capstan Chorus
 Liedertafel
-SMART
 
 ROLLING along, bowling along, over the sea we go,
     And heave our anchor singing our song,
@@ -593,18 +663,12 @@ The Hon. Secretary will be glad to receive nominations, from ladies and gentleme
 Melbourne.
 
 === Page 19 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 20 ===
 TOWN HALL
 MELBOURNE
 MONDAY EVENING
-20TH MARCH, 1899
+20TH MARCH, 1897
 
 194TH CONCERT

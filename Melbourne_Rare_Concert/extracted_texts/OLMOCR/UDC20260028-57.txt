@@ -7,13 +7,7 @@ Town Hall, Melbourne,
 Tuesday, August 25, '03.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 Melbourne Liedertafel
@@ -25,9 +19,11 @@ Patrons:
 His Excellency the Governor
 Sir George Sydenham Clarke,
 K.C.M.G., F.R.S.
+
 His Excellency
 Sir John Madden, K.C.M.G.,
 Lieutenant-Governor.
+
 Sir Malcolm McEacharn,
 K.B., M.P.
 
@@ -45,17 +41,14 @@ The Hon. Sir Arthur Snowden, K.B., M.L.C
 E. G. FitzGibbon, Esq., C.M.G.
 
 Council:
-Representing Subscribing Members.
-Mr. Carl Pinschof.
-Mr. J. H. Thompson.
-Mr. WM. Knox, M.H.R.
-Mr. F. Tate, M.A.
-
-Representing Performing Members.
-Dr. H. L. Murray.
-Mr. J. McCullagh.
-Mr. S. J. Perry.
-Mr. J. Adcock.
+Representing
+Subscribing Members.
+Representing
+Performing Members.
+Mr. Carl Pinschof. Dr. H. L. Murray.
+Mr. J. H. Thompson. Mr. J. McCullagh.
+Mr. WM. Knox, M.H.R. Mr. S. J. Perry.
+Mr. F. Tate, M.A. Mr. J. Adcock.
 Mr. F. W. Thomas.
 
 Representing Orchestra.
@@ -64,7 +57,7 @@ Mr. E. I. Holder.
 Mr. F. Taylor.
 Dr. MacGillicuddy.
 
-Hon. Conductor:
+Hon. Conductor.
 Pro. Marshall-Hall.
 
 Conductor:
@@ -130,37 +123,37 @@ Mr. Schraeder
 *Mr. Wright
 
 Cellos
-Herr Hattenbach
-*Mr. M. Bell
-*Mr. Hore
+Herr Hattenbach.
+*Mr. M. Bell.
+*Mr. Hore.
 
 Double Basses
-*Mr. C. Haigh
-*Mr. E. I. Holder
-*Mr. Rowe
+*Mr. C. Haigh.
+*Mr. E. I. Holder.
+*Mr. Rowe.
 
 Clarionets
-Mr. Tipping
-*Mr. Brodribb
+Mr. Tipping.
+*Mr. Brodribb.
 
 Bassoons
 *Mr. Rudall
-*Mr. Hornidge
+*Mr. Hornidge.
 
 Trumpets
-*Mr. A. Haigh
-*Mr. Jackson
+*Mr. A. Haigh.
+*Mr. Jackson.
 
 Trombones
-Mr. J. Lawson
-Mr. Downes
-Mr. Fries
+Mr. J. Lawson.
+Mr. Downes.
+Mr. Fries.
 
 Tympani
 Mr. Clay
 
 Librarian
-*Mr. F. Watmuff
+*Mr. F. Watmuff.
 
 *Members of Melbourne Liedertafel Orchestra
 
@@ -172,29 +165,29 @@ Pardy, Alfred (Capt.)
 *Dickins, J. J.
 Dyer, J.
 Hardy, J. W.
-Thackray, J.
+Thackeray, J.
 Donnan, J. P.
 Fullager, A. G.
 *Harvey, H. J.
 Ferguson, J.
-McCullagh, J.
-Daddo, E. W.
+McCallagh, J.
+Baddio, E. W.
 Pedersen, O. E.
 Robinson, H. J.
 *Sherlock, H. D.
 Allan, J. C.
 Gladman, F. E.
-Richardson, Geo.
+R. Robinson, Geo.
 Shea, J.
 *Harris, S.
 Schellenberger, H.
 Woess, C.
-Bruntin, W.
+Bruntom, W.
 
 SECOND TENOR.
 Humphrey, Geo. (Capt.)
 *Rundell, W. R.
-Flood, W. A.
+Flood, W. H.
 Pleasant, F. A.
 *Ramsay, T. G.
 Gray, Thos.
@@ -207,7 +200,7 @@ James, W. H.
 Tudby, W. E.
 *Patrick, A.
 Cornell, W. E.
-*Shovellon, H.
+*Shovelton, H.
 Coutsell, H.
 McCutcheon, O. B.
 Aytwin, A. R.
@@ -223,7 +216,7 @@ Bishop, A. A.
 *Hedding, Jas.
 Hayling, A. S.
 Day, Geo. A.
-Wilcox, W.
+Wilecox, W.
 Smith, H. W.
 Chambers, F.
 Bradley, B. F.
@@ -231,13 +224,13 @@ Aylwin, P. J.
 Ga-on, E.
 Whitehead, A. E.
 Brown, E. H.
-Hauty, F.
+Hautly, F.
 Crane, J. R.
 Lang, E. J.
 Shannon, W. M.
 Wild, C.
 Tatum, W.
-*Downe, J. R.
+*Downie, J. R.
 *Skillern, T. F.
 Moran, H.
 Coxson, H.
@@ -251,7 +244,7 @@ Statler, J.
 Murray, Dr. H. L.
 Pepper, F.
 Jones, Walter C.
-Adcock, J.
+Adeock, J.
 White, T. E.
 Griffith, H. L.
 *Heathershaw, J. T.
@@ -263,7 +256,7 @@ Heads, G. S. R.
 Barnes, E. R.
 Perry, S. J.
 Sayer, J. F.
-Ure, R. A.
+Ure, E. A.
 Bishop, A. P.
 Hynes, H. C.
 Lewis, W. E.
@@ -289,7 +282,7 @@ Hon. Conductor,
 PROFESSOR MARSHALL-HALL.
 
 Organ Solo—
-"Prelude and Fugue
+" Prelude and Fugue
 in C Minor"
 John Sebastian Bach
 
@@ -312,19 +305,22 @@ The LIEDERTAFEL, ORCHESTRA and ASSOCIATED LADIES' CHOIR.
 Soprano ... ... Miss ELSIE DAVIES.
 Contralto ... ... Miss ELVA ROGERS.
 Tenor ... ... Mr. HECTOR LIGHTFOOT.
-Bass ... ... Mr. E. A URE.
+Bass ... ... ... Mr. E. A URE.
 
 No 1. Requiem.
-Requiem aeternam dona eis, Domine, et lux perpetua luceat eis, te decet hymnus, Deus in Sion, et fibi reddetur votum in Jerusalem; exaudi orationem meam, ad te omnis caro ventiet.
+
+Requiem aeternam dona eis, Domine, et lux perpetua luceat eis, te decet hymnus. Deus in Sion, et fibi reddetur votum in Jerusalem; exaudi orationem meam, ad te omnis caro veniet.
 Requiem aeternam dona eis, Domine, et lux perpetua luceat eis.
 Kyrie eleison, Christe eleison, Kyrie eleison.
 
 No 2. Dies irae.
+
 Dies irae, dies illa solvet saeculum in favilla,
 teste David cum Sybilla.
 Quantus tremor est futurus, quando judex est venturus, cuncta stricte discussurus.
 
 No 3. Tuba mirum.
+
 Tuba mirum spargens sonum per sepulchra regionum, cogel omnes ante thronum.
 Mors stupebit et natura, cum resurget creatura,
 judicanti responsura.
@@ -335,13 +331,15 @@ nil inultum remanebit.
 Quid sum miser tunc dicturus? quem patronum rogaturus, cum vix justus sit securus?
 
 No 4. Rex tremendae.
+
 Rex tremendae majestatis, qui salvandos salvas gratis, salva me, fons pietatis.
 
 No 5. Recordare.
+
 Recordare Jesu pie, quod sum causa tue vie,
 ne me perdas illa die.
 Quarens me sedisti lassus, redemisti crucem passus; tantus labor non sit cassus.
-Juste judex uttonis, domum fac remissionis ante diem rationis.
+Juste judex uterum, domum fac remissionis ante diem rationis.
 Ingemisco tanquam rens, culpa rubet vultus meus; supplicanti parce, Deus.
 
 === Page 8 ===
@@ -350,7 +348,7 @@ Preces meae non sunt dignae, sed tu, bonus, fac benigne, ne perenni cremer igne.
 Inter oves locum praesta, et ab hoedis me sequestra, statuens in parte dextra.
 
 № 6. Confutatis.
-Confutatis maledictis, flammis acribus addictis,
+Confutatis maledictis, flamnis acribus addictis,
 voca me cum benedictis.
 Oro supplex et acclinis, cor contritum quasi cinis,
 gere curam mei finis.
@@ -364,8 +362,8 @@ eis requiem! Amen!
 № 8. Domine Jesu.
 Domine Jesu Christe! Rex gloriae! Libera
 animas omnium fidelium defunctorum de poenis
-inferni et de profundo lacu!
-Libera eas de ore leonis, ne absorbeat eas
+infernii et de profundo lacu!
+Libera eas de ore leonis, ne absorbent eas
 Tartarus, ne cadant in obscurum: sed signifer
 sanctus Michael representet eas in lucem
 sanctam, quam olim Abrahae promisisti, et
@@ -393,16 +391,16 @@ requiem.
 Agnus Dei, qui tollis peccata mundi, dona eis
 requiem sempiternam.
 Lux aeterna luceat eis, Domine, cum sanctis in
-aeternum, quia plus es.
+aeternum, quia pius es.
 Requiem aeternam dona eis, Domine, et lux per-
 petua luceat eis.
 
 === Page 9 ===
 In Affectionate Memory of
+
 Herr Julius Siede
 
-For 20 years Conductor of the Melbourne Liedertafel,
-1870-1890.
+For 20 years Conductor of the Melbourne Liedertafel, 1870-1890.
 
 Died 23rd April, 1903.
 
@@ -421,26 +419,14 @@ Gentlemen, Monday, Aug. 31.
 Ladies to be advised by circular.
 Orchestra, Tuesday, Sept. 1.
 
-The thanks of the Society are due to Messrs. W. H. Glen & Co., Collins Street, for use of Box Office.
+The thanks of the Society are due to Messrs. W. K. Glen & Co., Collins Street, for use of Box Office.
 
 Ladies and Gentlemen wishing to join the Society, either as Subscribing or Performing Members, are requested to communicate with the Hon. Sec. c/o Messrs. Glen & Co., Collins Street, who will be pleased to forward all information required.
 
 Wilke & Bowden, Print, 383-7 Lit. Collins St., Melbourne.
 
 === Page 11 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 12 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

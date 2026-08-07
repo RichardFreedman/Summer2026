@@ -33,6 +33,7 @@ whose name appears on every label.
 
 The Royal
 Victorian Liedertafel
+
 CONDUCTOR: MR. ERNEST WOOD.
 
 Town Hall, Melbourne,
@@ -52,49 +53,37 @@ CONDUCTOR.
 PROGRAMME
 
 PART I.
-
 PART SONG ... "The Hunter's Joy" ... ... Astholz
 Royal Victorian Liedertafel
-
 SONG ... ... "Prince Ivan's Song" ... ... Allitsen
 Mr. Horace Stevens
-
 PART SONGS ... ... (a) "Evening" ... ... ... Abt
 (b) "Serenade" ... ... ... Bechsnitt
 Soloist: Mr. G. T. Morphet
 Royal Victorian Liedertafel
-
 'CELLO SOLI ... ... (a) Abendlied ... ... ... Schumann
 (b) Am Springbrunnen (The Fountain) ... ... Davidoff
 Herr Louis Hattenbach
-
 PART SONG ... ... "Student's Evensong" ... ... Fischer
 Royal Victorian Liedertafel
-
 ARIA ... ... "Mon cœur s'ouvre à ta voix" ... ... Saint-Saëns
 ("Softly awakes my heart")
 (From the Opera Samson and Delilah)
 Madame Agnes Janson
-
 PART SONGS ... ... Songs of the Sea ... ... ... C. V. Stanford
 Soloist: Mr. Horace Stevens
 Royal Victorian Liedertafel
 
 PART II.
-
 DOUBLE CHORUS ... ... "Oedipus" ... ... ... Mendelssohn
 Royal Victorian Liedertafel
-
 'CELLO SOLO ... Adagio from E minor Concerto ... ... Popper
 Herr Louis Hattenbach
-
 PART SONG ... ... "Thou art my Dream" ... ... Hofmann
 Royal Victorian Liedertafel
-
 SONGS ... ... (a) "Snow" ... ... ... Sigurd Lie
 (b) "On the Mountain" ... ... ... C. Janson
 Madame Agnes Janson
-
 PART SONG ... ... "The Frog Cantata" ... ... ... Hennig
 Royal Victorian Liedertafel
 
@@ -104,11 +93,9 @@ GOD SAVE THE KING
 The Royal Victorian Liedertafel.
 
 PATRONS:
-HIS EXCELLENCY THE RIGHT HONOURABLE
-LORD NORTHCOTE, C.B., G.C.I.E.
+HIS EXCELLENCY THE RIGHT HONOURABLE LORD NORTHCOTE, C.B., G.C.I.E.
 GOVERNOR-GENERAL OF THE COMMONWEALTH OF AUSTRALIA
-HIS EXCELLENCY MAJOR-GENERAL THE HON. SIR REGINALD
-ARTHUR JAMES TALBOT, K.C.B.
+HIS EXCELLENCY MAJOR-GENERAL THE HON. SIR REGINALD ARTHUR JAMES TALBOT, K.C.B.
 
 PATRONESS:
 JANET LADY CLARKE
@@ -131,24 +118,16 @@ MR. G. J. JOHNSON         MR. F. W. THOMAS
 CONDUCTOR:
 MR. ERNEST WOOD
 
-HON. PIANIST:
-MR. MANSLEY GREER
-
+HON. PIANIST:              HON. ORGANIST:
+MR. MANSLEY GREER         MR. G. B. FENTUM
 DEPUTY HON. PIANIST: MR. HAROLD C. SMITH
-
-HON. ORGANIST:
-MR. G. B. FENTUM
 
 HON. TREASURER:
 MR. W. F. RASHLEIGH
 
-HON. LIBRARIAN:
-MR. H. W. SEYMOUR
-
+HON. LIBRARIAN:            DEPUTY HON. LIBRARIAN:
+MR. H. W. SEYMOUR         MR. JOHN STATTERS
 ASSISTANT HON. LIBRARIAN: MR. CHARLES FOSTER
-
-DEPUTY HON. LIBRARIAN:
-MR. JOHN STATTERS
 
 HON. AUDITORS:
 MESSRS. A. E. WHITEHEAD AND E. SIMMONDS
@@ -163,221 +142,28 @@ W. H. GLEN & CO., 272 AND 274 COLLINS STREET.
 Royal Victorian Liedertafel.
 
 1st Tenors.
-Manson, D. E. (Captain)
-Aylwin, A. R.
-Annois, W.
-Batley, A.
-Ball, G. A.
-Brunton, W.
-Bett, D. M.
-Champion, Alfd.
-Carleton, A. H.
-Christian, R. A.
-Cameron, M.
-Donaldson, J. P.
-Dodd, Harry
-Fullagar, A. G.
-Feltstead, J.
-Gray, B. S.
-Gray, W. B.
-Harvey, H. J.
-Iliffe, John
-Jack, T.
-Jefferson, A. E.
-Johnson, G. J.
-Kendall, J.
-Monteith, H.
-M'Donough, A.
-M'Dowell, G.
-M'Beath, F.
-Petersen, D.
-Rowney, C. P.
-Symons, S.
-Simmonds, E.
-Shea, J.
-Sherar, A.
-Swinburne, B. H.
-Thackeray, J.
-Tafis, C. C.
-Wyatt, W. F.
-Whitby, F. G.
-Wocess, Carl
-Watts, W.
+
+<table>
+  <tr><th>Manson, D. E.<br>(Captain)</th><th>Aylwin, A. R.</th><th>Annois, W.</th><th>Batley, A.</th><th>Bailey, G. A.</th><th>Brunton, W.</th><th>Bett, D. M.</th><th>Champion, Alfd.</th><th>Carleton, A. H.</th><th>Christian, R. A.</th><th>Cameron, M.</th><th>Donaldson, J. P.</th><th>Dodd, Harry</th><th>Fullagar, A. G.</th><th>Felstead, J.</th><th>Gray, B. S.</th><th>Gray, Thos.</th><th>Greenwood, J. R.</th><th>Hall, A. G.</th><th>Hobbs, W. A.</th><th>Hoskin, A. F.</th><th>Jones, H. H.</th><th>Jefferson, A. E.</th><th>Johnson, G. J.</th><th>Kendall, J.</th><th>Monteith, H.</th><th>M'Donough, A.</th><th>M'Dowell, G.</th><th>M'Beath, F.</th><th>Petersen, D.</th><th>Rounlay, C. P.</th><th>Symons, S.</th><th>Simmonds, E.</th><th>Shea, J.</th><th>Sherar, A.</th><th>Swinburne, B. H.</th><th>Thackeray, J.</th><th>Tafis, C. C.</th><th>Wyatt, W. F.</th><th>Whitby, F. G.</th><th>Wcees, Carl</th><th>Watts, W.</th></tr>
+</table>
 
 2nd Tenors.
-Tuohy, W. E. (Captain)
-Boyce, F. R.
-Bennett, J. H.
-Charles, H.
-Couradi, G. A.
-Cornell, W. A.
-Cousell, H.
-Chandler, H. H.
-Danks, F. W.
-Dossetor, D. R.
-Edmanson, W. L.
-Eddie, W. F.
-Ford, W. H.
-Flood, W. H.
-Fuge, W. H.
-Gray, Thos.
-Greenwood, J. R.
-Hall, A. G.
-Hobbs, W. A.
-Hoskin, A. F.
-Jones, H. H.
-Kerr, J. H.
-Lester, A. G.
-Lang, J.
-Murray, B. L.
-Morgan, C. W.
-Miller, C.
-Miller, R. J.
-McCurcheon, O. B.
-Nicholls, H. C.
-Nicholson, G. C.
-Pleasents, E. A.
-Porter, W. E.
-Roberts, T. B.
-Robertson, P.
-Rodger, N.
-Seymour, H. W.
-Sinclair, E.
-Stevens, G.
-Templeton, H. O.
-Wells, A. E.
-Young, R.
+
+<table>
+  <tr><th>Tuohy, W. E.<br>(Captain)</th><th>Boyce, F. R.</th><th>Bennett, J. H.</th><th>Charles, H.</th><th>Couradi, G. A.</th><th>Cornell, W. A.</th><th>Cousell, H.</th><th>Chandler, H. H.</th><th>Danks, F. W.</th><th>Dossetor, D. R.</th><th>Edmanson, W. L.</th><th>Eddie, W. F.</th><th>Ford, W. H.</th><th>Flood, W. H.</th><th>Fuge, W. H.</th><th>Gray, Thos.</th><th>Greenwood, J. R.</th><th>Hall, A. G.</th><th>Hobbs, W. A.</th><th>Hoskin, A. F.</th><th>Jones, H. H.</th><th>Kerr, J. H.</th><th>Lester, A. G.</th><th>Lang, J.</th><th>Murray, B. L.</th><th>Morgan, C. W.</th><th>Miller, C.</th><th>Miller, R. J.</th><th>McCurcheon, O. B.</th><th>Nicholls, H. C.</th><th>Nicholson, G. C.</th><th>Pleasents, E. A.</th><th>Porter, W. E.</th><th>Roberts, T. B.</th><th>Robertson, P.</th><th>Rodger, N.</th><th>Seymour, H. W.</th><th>Sinclair, E.</th><th>Smith, J.</th><th>Templeton, H. O.</th><th>Wells, A. E.</th><th>Young, R.</th></tr>
+</table>
 
 1st Basses.
-Orr, R. Stanley (Captain)
-Aylwin, P. J.
-Allen, C. E.
-Attwood, W. J.
-Abram, L.
-Bishop, A. A.
-Brown, E. H.
-Benson, H.
-Barr, J. D.
-Bottoms, A. C.
-Cole, W.
-Cran, J. R.
-Coxson, H.
-Cross, G. E.
-Coppard, G. P.
-Davies, F. J.
-Evers, A. B.
-Ellis, S.
-Fawcett, Jas.
-Fuller, A. J.
-Ferguson, R.
-Gear, Chas.
-Garrett, H. C.
-Gately, C. E.
-Gersos, Jos.
-Heathershaw, S. A.
-Hogg, N.
-Hall, T. R.
-Hunt, A.
-Jones, W. J. Bowden
-Jack, A. W.
-Jolley, R.
-Knight, W., Jun.
-Kelly, A.
-Lewis, T. G.
-Lang, E. J.
-Loughnan, A.
-Langford, C. F.
-Miller, E.
-Malvany, J. H.
-Melhor, F.
-Morley, G. T.
-Mackay, F. S.
-Matthews, A.
-M'Crindle, W. A.
-M'Farlane, P.
-M'Curcheon, A.
-Pearse, G.
-Pincus, S.
-Kendle, Samuel
-Rowe, R. T.
-Rice, E. J.
-Ralph H. J.
-Slade, H.
-Smith, Joshua
-Stillwell, H. S.
-Tainsh, W. A.
-Trevean, W.
-Trempton, T. L.
-Thompson, R. L.
-Thomson, W. C.
-Thompson, R. H.
-Whitehead, F. S.
-Whitehead, A. E.
-Wilson, E. L.
-Wood, H. Y.
-Wilcox, W.
-Weir, A. J.
+
+<table>
+  <tr><th>Orr, R. Stanley<br>(Captain)</th><th>Aylwin, P. J.</th><th>Allen, C. E.</th><th>Attwood, W. J.</th><th>Abrahant, L.</th><th>Bishop, A. A.</th><th>Brown, E. H.</th><th>Benson, H.</th><th>Barr, J. D.</th><th>Bottoms, A. C.</th><th>Col, W.</th><th>Crane, J. R.</th><th>Coxson, H.</th><th>Cross, G. E.</th><th>Coppard, G. P.</th><th>Davies, F. J.</th><th>Evers, A. B.</th><th>Ellis, S.</th><th>Fawcett, Jas.</th><th>Fuller, A. J.</th><th>Ferguson, R.</th><th>Gear, Chas.</th><th>Garratt, H. C.</th><th>Garry, C. E.</th><th>Gersen, Jos.</th><th>Heathershaw, S. A.</th><th>Hogg, N.</th><th>Hall, T. R.</th><th>Hunt, A.</th><th>Jones, W. J. Bowden</th><th>Jack, A. W.</th><th>Jolley, R.</th><th>Knight, W., Jun.</th><th>Kelly, A.</th><th>Lewis, T. G.</th><th>Lang, E. I.</th><th>Loughman, A.</th><th>Langford, C. F.</th><th>Miller, E.</th><th>Malvany, J. H.</th><th>Mellor, F.</th><th>Morgan, G. T.</th><th>Mackay, F. S.</th><th>Matthews, A.</th><th>M'Crindie, W. A.</th><th>M'Farlane, P.</th><th>M'Curcheon, A.</th><th>Pease, G.</th><th>Pincus, S.</th><th>Kendle, Samuel</th><th>Rowe, R. T.</th><th>Rice, E. J.</th><th>Ralph H. J.</th><th>Slade, H.</th><th>Smith, Joshua</th><th>Stillwell, H. S.</th><th>Tainsh, W. A.</th><th>Treviran, W.</th><th>Templeton, T. H.</th><th>Thompson, R. L.</th><th>Thomson, W. C.</th><th>Thompson, R. H.</th><th>Whitehead, F. S.</th><th>Whitehead, A. E.</th><th>Wilson, E. L.</th><th>Wood, H. Y.</th><th>Wilcox, W.</th><th>Weir, A. J.</th></tr>
+</table>
 
 2nd Basses.
-Tipton, R. B. (Captain)
-Adcock, J.
-Bona, E.
-Brown, G. H.
-Bowden, W. J.
-Bishop, A. P.
-Berry, Alfd.
-Bayley, J. H.
-Black, J. E.
-Blanchard, J.
-Buhler, F. L.
-Casper, E.
-Church, S. W.
-Crump, A. R.
-Davies, H.
-Drew, W.
-Deakes, A. J.
-Feltstead, H. J.
-Frankland, J.
-Forster, W. T.
-Goad, W.
-Gain, A. B.
-Goode, W.
-Hynes, H. C.
-Harvey, N. K.
-Jones, Walter
-Lee, H. M.
-Lewis, W. E.
-Moran, Jas.
-Moore, E. A.
-Murray, Dr. H. L.
-Morgan, H. E.
-Millar, R.
-Manton, G. J.
-Murray, N.
-McEwen, H. S.
-McLean, A. W.
-Newbury, C. R.
-Nicholson, R. G.
-Pepper, F.
-Perry, S. J.
-Patterson, R.
-Patrick, W.
-Rashleigh, W. F.
-Stewart, A.
-Sturrock, J.
-Samuels, J. W.
-Statters, J.
-Thomas, F. W.
-Thewlis, A.
-Ternes, H. A.
-Todd, T. A.
-Tye, E. A.
-Vasey, A.
-Vivian, R.
-White, T. E.
-Waldron, E.
-Whitehead, J. F.
-Woodman, C. H.
+
+<table>
+  <tr><th>Tipton, R. B.<br>(Captain)</th><th>Adcock, J.</th><th>Bona, E.</th><th>Brown, G. H.</th><th>Bowden, W. J.</th><th>Bishop, A. P.</th><th>Berry, Alfd.</th><th>Bayley, J. H.</th><th>Black, J. E.</th><th>Blanchard, J.</th><th>Buhler, F. L.</th><th>Caspen, E.</th><th>Church, S. W.</th><th>Crump, A. R.</th><th>Davies, H.</th><th>Drew, W.</th><th>Deakes, A. J.</th><th>Felstead, H. J.</th><th>Frankland, J.</th><th>Forster, W. T.</th><th>Goad, W.</th><th>Garn, A. B.</th><th>Goode, W.</th><th>Hynes, H. C.</th><th>Harvey, N. K.</th><th>Jones, Walter</th><th>Lee, H. M.</th><th>Lewis, W. E.</th><th>Moran, Jas.</th><th>Moore, E. A.</th><th>Murray, Dr. H. L.</th><th>Morgan, H. E.</th><th>Millar, R.</th><th>Manton, G. J.</th><th>Murray, N.</th><th>McEwen, H. S.</th><th>M'Lean, A. W.</th><th>Newbury, C. R.</th><th>Nicholson, R. G.</th><th>Pepper, F.</th><th>Perry, S. J.</th><th>Patterson, R.</th><th>Patrick, W.</th><th>Rashleigh, W. F.</th><th>Stewart, A.</th><th>Sturrock, J.</th><th>Samuels, J. W.</th><th>Statters, J.</th><th>Thomas, F. W.</th><th>Thewlis, A.</th><th>Ternes, H. A.</th><th>Todd, T. A.</th><th>Toll, E. A.</th><th>Vasey, A.</th><th>Vivian, R.</th><th>White, T. E.</th><th>Waldron, E.</th><th>Whitehead, J. F.</th><th>Woodman, C. H.</th></tr>
+</table>
 
 Roll Secretary: W. Wilcox.
 
@@ -388,7 +174,7 @@ PART I.
 
 Part Song—
 The Hunter's Joy
-Astholz
+Astholfz
 
 Royal Victorian Liedertafel
 
@@ -419,24 +205,28 @@ Where waves the forest, &c.
 
 Song—
 Prince Ivan's Song
-Allitsen
+Alfitsen
 
 Mr. Horace Stevens
 
 === Page 8 ===
 W. H. GLEN & CO.
 IMPORTERS OF
-Pianos, Organs, Music, and Musical Instruments of all kinds.
+Pianos, Organs, Music, and Musical
+Instruments of all kinds.
 
 SOLE AGENTS for the
 Steinway Piano,
 The Bluthner Piano,
 Accepted as the Best Drawingroom Pianoforte Manufactured;
 and the
-Albert Fahr Piano, Which for Tone, Touch, & Durability has no Equal among Medium Pianos.
+Albert Fahr Piano, Which for Tone, Touch, & Durability
+has no Equal among Medium Pianos.
 
-Herr de Chaneet, the well-known composer of "In the Cathedral," and musical adjudicator of the Melbourne A.N.A., says of the "FAHR" PIANO:—
-"I have found it right for tone, durability, and keeping in tune. As a medium piano I consider it unsurpassable."
+Herr de Chaneet, the well-known composer of "In the Cathedral," and musical
+adjudicator of the Melbourne A.N.A., says of the "FAHR" PIANO:—
+"I have found it right for tone, durability, and keeping in tune. As a
+medium piano I consider it unsurpassable."
 
 Price, £45
 The above Pianos can be had on easy terms from 20/- monthly.
@@ -498,14 +288,17 @@ Until thine eyes the morning see."
 'Cello Soli—
 
 (a) Abendlied
-(b) Am Springbrunnen (The Fountain)
+(b) Am Springbrunnen
+    (The Fountain)
 
 Herr Louis Hattenbach
 
 === Page 10 ===
 Part Song—
-Students' Evening Song Fischer
+Students' Evening Song
 Royal Victorian Liedertafel
+Fischer
+
 'Neath the vine tree's garlands bending
 Spread, dear maid, the festive board.
 With thy fair hands on us tending;
@@ -514,8 +307,9 @@ Thee we'll pledge with glad accord.
 Slumber deep is reigning o'er us,
 We alone are now astir
 Clink the glasses round in chorus,
-Gaudiamus igitur.
-Each in turn the tale recount then,
+Gaudamus igitur.
+
+Each in turn the tale recount then.
 Whence his wandering steps have strayed.
 From the distant vale and mountain,
 By the mossy dell and fountain,
@@ -523,7 +317,8 @@ All in nature's best array'd.
 All seems dancing now before us.
 As the golden wine we pour,
 Joining in the merry chorus,
-Gaudiamus igitur.
+Gaudamus igitur.
+
 Blessings rich from heav'n descending,
 Rest upon the students free.
 Loud in song our voices blending,
@@ -532,35 +327,39 @@ Praise of maidens true like thee.
 Long may heav'n's rich blessings flowing
 On our hills and valleys pour,
 Where the fruitful vine is growing.
-Gaudiamus igitur.
+Gaudamus igitur.
 
 Aria—
-Mon cœur s'ouvre à ta voix Saint-Saëns
+Mon cœur s'ouvre à ta voix
+Saint-Saëns
 ("Softly awakes my Heart.")
 (From the Opera Samson and Delilah.)
+
 Madame Agnes Janson
 (Translation.)
+
 Softly awakes my heart, as the flowers awaken
 To Aurora's tender zephyr!
 But say, O well-belov'd, no more I'll be forsaken;
 Speak again, O speak for ever!
 O say that from Delilah you never will part!
 Your burning vows repeat—vows so dear to my heart.
-    Ah, once again do I implore thee,
-    Ah, once again then say you adore me.
-    Ah, I here implore thee,
-    See, I implore thee!
+
+Ah, once again do I implore thee,
+Ah, once again then say you adore me.
+Ah, I here implore thee,
+See, I implore thee!
+
 E'en as to whis'ring winds sways the waving grain,
-    To and fro so gently moving,
-So sways my trembling heart, consoling all its pain,
-    To thy voice so dear, so loving.
+To and fro so gently moving,
+So sways my trembling heart, consoling all its pain.
+To thy voice so dear, so loving.
 The arrow in its flight is not swifter than I.
 When, leaving all behind, to your arms I fly!
 
 === Page 11 ===
 Part Songs—
-Songs of the Sea
-C. V. Stanford
+Songs of the Sea    C. V. Stanford
 (Soloist—Mr. Horace Stevens)
 Royal Victorian Liedertafel
 
@@ -607,7 +406,7 @@ Gray wakes the daybreak, the shivering sails are set,
     The channel sweeps,—
 O Mother, think on us who think on thee!
 Earth-home, birth-home, with love remember yet
-The sons in exile on the eternal sea.
+    The sons in exile on the eternal sea.
 
 === Page 12 ===
 You really must not
@@ -642,14 +441,14 @@ DRAKE in the North Sea grimly prowling,
 Watch'd, with the sea-dogs round him growling,
     Galleons drifting wreck by wreck.
     "Fetter and Faith for England's neck,
-    Faggot and Father. Saint and chain,--
+    Faggot and Father. Saint and chain,—
 Yonder the Devil and all go howling,
     Devon, O Devon, in wind and rain!"
 
 Drake at the last off Nombre lying,
     Knowing the night that toward him crept.
 Gave to the sea-dogs round him crying
-    This for a sign before he slept:--
+    This for a sign before he slept:—
     "Pride of the West! what Devon hath kept:
 Devon shall keep on tide or main:
 Call to the storm and drive them flying,
@@ -673,12 +472,12 @@ AFTER long labouring in the windy ways,
         Swiftly the great ship glides,
 Her storms forgot, her weary watches past!
 Northward she glides, and thro' the enchanted haze
-    Faint on the verge her far hope dawns at last.
+Faint on the verge her far hope dawns at last.
 
 The phantom sky-line of a shadowy down,
     Whose pale white cliffs below,
         Thro' sunny mist aglow.
-    Like noonday ghosts of summer moonshine gleam—
+Like noonday ghosts of summer moonshine gleam—
 Soft as old sorrow, bright as old renown.
 There lies the home of all our mortal dream.
 
@@ -686,39 +485,40 @@ There lies the home of all our mortal dream.
 THE "OLD SUPERB."
 
 The wind was rising easterly, the morning sky was blue,
-The straits before us opened wide and free;
+    The straits before us opened wide and free;
 We look'd towards the Admiral, where high the Peter flew,
-And all our hearts were dancing like the sea.
+    And all our hearts were dancing like the sea.
 The French are gone to Martinique with four and twenty sail.
-The "Old Superb" is old and foul and slow!
+    The "Old Superb" is old and foul and slow!
 But the French are gone to Martinique, and Nelson's on the trail,
-And where he goes the "Old Superb" must go.
-So Westward ho! for Trinidad, and Eastward ho! for Spain.
-And "Ship ahoy!" a hundred times a day;
+    And where he goes the "Old Superb" must go.
+        So Westward ho! for Trinidad, and Eastward ho!
+        for Spain.
+        And "Ship ahoy!" a hundred times a day;
 Round the world if need be, and round the world again,
-With a lame duck lagging all the way.
+    With a lame duck lagging all the way.
 
 The "Old Superb" was barnacled and green as grass below,
-Her sticks were only fit for stirring grog;
+    Her sticks were only fit for stirring grog;
 The pride of all her midshipmen was silent long ago,
-And long ago they ceased to heave the log.
+    And long ago they ceased to heave the log.
 Four year out from home she was, and ne'er a week in port,
-And nothing save the guns aboard her bright;
+    And nothing save the guns aboard her bright;
 But Captain Keats he knew the game, and swore to share the sport,
-For he never yet came in too late to fight.
+    For he never yet came in too late to fight.
 
-So Westward ho! &c.
+    So Westward ho! &c.
 
 "Now up, my lads," the Captain cried, "for sure the case were hard
-If longest out were first to fall behind;
+    If longest out were first to fall behind;
 Aloft, aloft with studding-sails, and lash them on the yard,
-For night and day the Trades are driving blind."
+    For night and day the Trades are driving blind."
 So all day long and all day long behind the fleet we crept,
-And how we fretted none but Nelson guessed:
+    And how we fretted none but Nelson guessed:
 But ev'ry night the "Old Superb," she sail'd while others slept,
-Till we ran the French to earth with all the rest.
+    Till we ran the French to earth with all the rest.
 
-O 'twas Westward ho! &c.
+    O 'twas Westward ho! &c.
 
 INTERVAL.
 
@@ -734,7 +534,7 @@ Fam'd for fleet-footed steeds and blooming meadows:
 Thou standest now in Colonos' grove.
     Where the voices of nightingales
     Resound, floating in dulcet strains
-        Thro' their temples of verdure:
+    Thro' their temples of verdure:
     Where the thick-woven ivy clings.
     Spreading over the sacred aisles:
 Where, in security, ripens the fruitful vine,
@@ -746,14 +546,14 @@ Gay and good Dionysos, ever greeted in lays.
     Fair and fragrant at dawn of day.
     See the beautiful heaven-bedewed Narcissus,
 The flow'r that shone in the goddesses' crowns,
-        Worn by them in the days of old.
-    See the Crocus array'd in gold:
-        Hear the slumberless waters.
-    While they glide in Cephisus' tide.
+    Worn by them in the days of old.
+See the Crocus array'd in gold:
+    Hear the slumberless waters.
+While they glide in Cephisus' tide.
 Still meandering day by day
 Over the plains, bearing streams ever pure along,
     Enriching all the bowers
-    Embosomed in the favour'd land;
+Embosomed in the favour'd land;
 Ever loved by the tuneful choir of Muses,
     And Cythera, whose zone is golden.
 
@@ -763,7 +563,7 @@ Nor on Dorian plains doth it appear.
 Gracing the island where the Pelops
 Held sway: yet here it freely springeth:
     Rever'd by friends, and feared by foes,
-        In native splendour it blossoms for Athens.
+    In native splendour it blossoms for Athens.
 Behold, ours is the rich oil-dropping olive;
     Aged and youthful, noble and peasant,
 Never wantonly harm this holy tree,
@@ -781,15 +581,13 @@ Fam'd for its wealth, honour, and glory:
 === Page 16 ===
 "TAKE MY ADVICE"
 
-GO TO... ALFRED NOTT, Ophthalmic Optician,
+GO TO.. ALFRED NOTT, Ophthalmic Optician,
 145-147 COLLINS STREET, MELBOURNE
 (Opposite Scots' Church),
 For Spectacles and Eyeglasses.
 Oculists' work our Speciality. Phone 2684.
 Maker of the New "Toric Periscopic" Lens.
 The Lens for comfort and elegance.
-
-Percy Lindsay
 
 === Page 17 ===
 Mighty god Poseidon,
@@ -829,17 +627,17 @@ Songs—
 (b) On the Mountain
 Madame Agnes Janson
 (a) There is nought on earth so still as the snow!
-    Shrouding all the world in silent glamour;
-    Muffling ev'ry sound: on the frozen ground
-    Hushing ev'ry footfall's noisy clamour.
-    There is nought on earth as pure as the snow!
-    Swan's down loosed from winter's pions spreading,
-    On the hand a flake doth a teardrop make,
-    Through the crystal air white thoughts are threading.
-    Nought so lulling on the earth as the snow!
-    Sinking light as slumber on the weary.
-    Till the silence so into sound doth grow
-    Fine as silver bells, as music ringing.
+Shrouding all the world in silent glamour;
+Muffling ev'ry sound: on the frozen ground
+Hushing ev'ry footfall's noisy clamour.
+There is nought on earth as pure as the snow!
+Swan's down loosed from winter's pi ions spreading,
+On the hand a flake doth a teardrop make,
+Through the crystal air white thoughts are threading.
+Nought so lulling on the earth as the snow!
+Sinking light as slumber on the weary.
+Till the silence so into sound doth grow
+Fine as silver bells, as music ringing.
 
 === Page 18 ===
 (b) Ah, me! Up here it is bright and gay,
@@ -866,14 +664,14 @@ And in our loving our grief forget
 
 Part Song—
 The Frog Cantata
-    Royal Victorian Liedertafel
-    Hennig
+Royal Victorian Liedertafel
+Hennig
 
 In the lakes and flowing rivers
 Dwells a race of free good livers;
 Always laughing, swimming, croaking;
 Always singing, always joking;
-And is heard the whole day long,
+And is heard the whole day long.
 Loud and clear their ringing song.
     Quack! quack! Reck! eck! eck!
 
@@ -881,20 +679,16 @@ Eyes like diamonds brightly flashing,
 Limbs on lake and riplet splashing,
 Sporting, playing, chatting, laughing,
 Feasting richly, nectar quaffing,
-And is heard the whole day long,
+And is heard the whole day long.
 Loud and clear their ringing song.
     Quack! quack! Reck! eck! eck;
 
 GOD SAVE THE KING.
 
 IMPORTANT NOTICE.
-The next Concert will take place about the end of October, when
-BRAHMS' REQUIEM, will be presented. The Liedertafel, in the
-performance of this great work, will be assisted by the Associated Ladies'
-Choir and full professional Orchestra.
+The next Concert will take place about the end of October, when BRAHMS' REQUIEM, will be presented. The Liedertafel, in the performance of this great work, will be assisted by the Associated Ladies' Choir and full professional Orchestra.
 
-There are still vacancies for a few additional subscribers. As soon
-as the accommodation of the Town Hall is reached the list will be closed.
+There are still vacancies for a few additional subscribers. As soon as the accommodation of the Town Hall is reached the list will be closed.
 
 === Page 19 ===
 Memoranda.

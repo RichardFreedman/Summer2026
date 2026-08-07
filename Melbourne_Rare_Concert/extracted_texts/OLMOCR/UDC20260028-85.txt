@@ -1,5 +1,5 @@
 === Page 1 ===
-Have joined up with this tour and leave by transatlantic liner "Europa" on Monday morning
+Have joined up with this tour and leave by transatlantic liner "Europa" on Monday morning.
 
 NATIONAL COUNCIL OF EDUCATION OF CANADA
 
@@ -8,7 +8,8 @@ BRITISH EDUCATIONISTS VISIT TO OBERAMMERGAU, 1934
 Details of itineraries and estimates prepared by the Amerop Travel Service, Thos. Cook & Son, Ltd., and Dean & Dawson, Ltd. (Supplementing letter from the Hon. Organizer, dated 13th July, 1934)
 
 GROUP No. 1.
-(Under the arrangements of the AMEROP TRAVEL SERVICE: Greener House, 66-68, Haymarket, London, S.W.1.)
+(Under the arrangements of the AMEROP TRAVEL SERVICE:
+Greener House, 66-68, Haymarket, London, S.W.1.)
 
 Mon. July 30th Depart London (Waterloo) by special boat train for Southampton and embark ss. "Europa" ... ... 8.30/18
 Tues. July 31st Arrive Bremen, disembark, and continue after luncheon to Berlin.
@@ -34,54 +35,63 @@ Fri. Aug. 10th Witness the Passion Play.
 Sat. Aug. 11th In Munich for Conference. Short sightseeing excursion
 Sun. Aug. 12th on one day.
 Mon. Aug. 13th Depart Munich (luncheon en route) ... ... ... 7.38
-    Arrive Paris (Est) ... ... ... ... 19.36
+    Arrive Paris (Est) ... ... ... ... ... 19.36
 Tues. Aug. 14th to Fri. Aug. 17th In Paris.
 Sat. Aug. 18th Depart Paris (Nord) via Eoulogne and Folkestone ... 10.30
     Arrive London (Victoria) ... ... ... ... 17.20
 
-INCLUSIVE FARE EACH PASSENGER £18:10:0 FOR A PARTY OF NOT LESS THAN FIFTY PERSONS.
+INCLUSIVE FARE EACH PASSENGER £18:10:0
+FOR A PARTY OF NOT LESS THAN FIFTY PERSONS.
 
 Subject to the conditions printed on the tickets.
 
 === Page 2 ===
 GROUP No. 2.
-
-(Under the arrangements of THOS. COOK & SON, LTD.,
-Berkeley Street, London, W.1, and Branch Offices),
+(Under the arrangements of THOS. COOK & SON, LTD.
+Berkeley Street, London, W.1, and Branch Offices).
 
 Mon. Aug. 6th
 Depart London (Victoria) ... ... ... ... 10.30
 Depart Dover Marine ... ... ... ... 12.50
 Arrive Ostend Quay ... ... ... ... 16.10
 Depart Ostend Quay ... ... ... ... 16.47
-    Dinner en route.
-    Arrive Cologne (Hbf) ... ... ... ... 22.29
-    Depart Cologne (Hbf) ... ... ... ... 22.57
+Dinner en route.
+Arrive Cologne (Hbf) ... ... ... ... 22.29
+Depart Cologne (Hbf) ... ... ... ... 22.57
+Arrive Frankfort (Hbf) ... ... ... ... 1.50
+
 Tues. Aug. 7th
-    Arrive Frankfort (Hbf) ... ... ... ... 1.50
+At Frankfort.
+
 Wed. Aug. 8th
-    At Frankfort.
+At Frankfort.
+
 Thurs. Aug. 9th
-    Depart Frankfort (Hbf) ... ... ... ... 6.43
-        Luncheon en route.
-        Arrive Munich (Hbf) ... ... ... ... 13.29
-        Depart Munich (Starnberg) ... ... ... ... 14.00
-        Arrive Oberammergau ... ... ... ... 16.11
+Depart Frankfort (Hbf) ... ... ... ... 6.43
+Luncheon en route.
+Arrive Munich (Hbf) ... ... ... ... 13.29
+Depart Munich (Starnberg) ... ... ... ... 14.00
+Arrive Oberammergau ... ... ... ... 16.11
+
 Fri. Aug. 10th
-    Witness the Passion Play.
-    Depart Oberammergau ... ... ... ... 18.33
-    Arrive Munich (Starnberg) ... ... ... ... 20.42
+Witness the Passion Play.
+Depart Oberammergau ... ... ... ... 18.33
+Arrive Munich (Starnberg) ... ... ... ... 20.42
+
 Sat. Aug. 11th and Sun. Aug. 12th
-    In Munich for Conference.
+In Munich for Conference.
+
 Mon. Aug. 13th
-    Depart Munich (Hbf) ... ... ... ... 7.38
-        Luncheon en route.
-        Arrive Paris (Est) ... ... ... ... 19.36
+Depart Munich (Hbf) ... ... ... ... 7.38
+Luncheon en route.
+Arrive Paris (Est) ... ... ... ... 19.36
+
 Tues. Aug. 14th to Fri. Aug. 17th
-    In Paris.
+In Paris.
+
 Sat. Aug. 18th
-    Depart Paris (Nord) via Boulogne and Folkestone ... 10.30
-    Arrive London (Victoria) ... ... ... ... 17.20
+Depart Paris (Nord) via Boulogne and Folkestone ... 10.30
+Arrive London (Victoria) ... ... ... ... 17.20
 
 INCLUSIVE FARE
 EACH PASSENGER £16:4:0 FOR A PARTY OF NOT LESS THAN FIFTY PERSONS.
@@ -110,12 +120,12 @@ AUGUST 9th.
 (Together with the people of Oberammergau and the neighbouring villages.)
 
 AUGUST 10th.
-6.00  Mass for Roman Catholic Members.
-      Holy Communion for Protestant Members.
-8.00.  The Passion Play.
-12.00. Interval.
-14.00. The Play—continued.
-18.33. Leave Oberammergau for Munich.
+6.00 Mass for Roman Catholic Members.
+Holy Communion for Protestant Members.
+8.00 The Passion Play.
+12.00 Interval.
+14.00 The Play—continued.
+18.33 Leave Oberammergau for Munich.
 
 AUGUST 11th and AUGUST 12th.
 Conference in Munich.
@@ -124,7 +134,7 @@ Chairman: SIR JAMES IRVINE, C.B.E., F.R.S.,
 Principal of St. Andrews University.
 
 AUGUST 13th.
-7.38. Leave Munich for Paris.
+7.38 Leave Munich for Paris.
 
 === Page 4 ===
 TERCENTENARY of the PASSION PLAY
@@ -145,7 +155,7 @@ On behalf of the London Committee:—
 
 <table>
   <tr>
-    <th>MOYNIHAN.</th>
+    <th>MOYNINAN.</th>
     <th>M. E. SADLER.</th>
     <th>GEORGE PILCHER.</th>
   </tr>
@@ -182,10 +192,9 @@ On behalf of the National Council of Education of Canada:—
     <td>JAMES A. RICHARDSON.</td>
     <td>FRED. J. NEY</td>
   </tr>
-  <tr>
-    <td colspan="2">(Executive Secretary).</td>
-  </tr>
 </table>
+
+(Executive Secretary).
 
 === Page 5 ===
 Form of Service to be used on August 9th
@@ -222,9 +231,9 @@ They fly forgotten as a dream
 O God our help in ages past,
     Our hope for years to come,
 Be Thou our guard while troubles last,
-    And our eternal home.  Amen.
+    And our eternal home. Amen.
 
-I. WATTS, 1674-1748.
+I. Watts, 1674-1748.
 
 Welcome—
 HERR BURGERMEISTER LANG,
@@ -237,7 +246,7 @@ Principal of St. Andrews University.
 Short Programme of Music
 by the PASSION PLAY CHOIR AND ORCHESTRA
 including
-"God's Tender Mercy."  By G. F. HANDEL, 1685-1759.
+"God's Tender Mercy." By G. F. Handel, 1685-1759.
 
 Solo:
 God's tender mercy knows no bounds,
@@ -369,7 +378,7 @@ Papers to be read—
 AUGUST 12th.
 1. What validity have these conclusions as judgments of value?
 2. What strict practical relevance and applicability have these principles to actual modern international conditions?
-    The difficulties in the way.
+   The difficulties in the way.
 
 SUMMARY: The Chairman.
 
@@ -405,6 +414,8 @@ J. EDMESTON.
 
 Hymn to end the Conference.
 
+Tune: Nun Danket.
+
 Now thank we all our God
     With hearts and hands and voices,
 Who wondrous things hath done,
@@ -432,18 +443,10 @@ The one eternal God,
 For thus it was, is now,
     And shall be evermore. Amen.
 
-Tune: Nun Danket.
-
 M. RINKART, 1586-1649.
 
 === Page 10 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 11 ===
 Norddeutscher Lloyd Bremen
@@ -460,83 +463,60 @@ Wonderful library.
 Instead of the customary blast from a bugle as on P.S.O. - a beautiful morning hymn was played on a trumpet to rouse us this morning.
 
 === Page 12 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 13 ===
-PRELIMINARY ANNOUNCEMENT
-
 NATIONAL COUNCIL OF EDUCATION OF CANADA
 IN CO-OPERATION WITH THE
 OVERSEAS EDUCATION LEAGUE
 
 Hon. President: HIS EXCELLENCY THE EARL OF BESSBOROUGH, G.C.M.G.
-President: The Most Rev. S. P. Matheson, D.D., D.C.L.
-Vice-President and Hon. Organiser: Major F. J. Ney, M.C.
-Hon. Treasurer: Dr. R. Fletcher.
-
 Hon. Vice-President: Mr. E. W. Beatty, K.C., LL.D.
 President: Mr. James A. Richardson, LL.D.
 Executive Secretary: Major Fred. J. Ney, M.C.
 Treasurer: Mr. G. W. Hutchins.
+President: The Most Rev. S. P. Matheson, D.D., D.C.L.
+Vice-President and Hon. Organiser: Major F. J. Ney, M.C.
+Hon. Treasurer: Dr. R. Fletcher.
 
 EXECUTIVE COMMITTEE OF THE NATIONAL COUNCIL OF EDUCATION OF CANADA
-Mr. E. W. Beatty, K.C., LL.D.                Rev. Dr. H. J. Cody.
-Rt. Hon. R. B. Bennett, P.C., K.C., LL.D.     Dr. C. W. Colby.
-Hon. Randolph Bruce, LL.D.                    Sir Douglas Hazen, K.C.M.G.
-Mr. W. J. Bulman.                            Major J. M. MacDonnell.
-Hon. Howard Ferguson.                         Mr. D. MacGillivray.
-Col. The Hon. Henry Cockshutt, LL.D.           Major Fred. J. Ney, M.C.
-                                               Brigadier-General V. W. Odtum, C.B., C.M.G.
-                                               Mr. James A. Richardson, LL.D.
-                                               Mr. F. N. Southam.
-                                               Hon. L. A. Taschereau, LL.D., D.S.O.
+Mr. E. W. Beatty, K.C., LL.D. Rev. Dr. H. J. Cody.
+Rt. Hon. R. B. Bennett, P.C., K.C., LL.D. Dr. C. W. Colby.
+Hon. Randolph Bruce, LL.D. Sir Douglas Hazen, K.C.M.G.
+Mr. W. J. Bulman. Major J. M. MacDonnell.
+Hon. Howard Ferguson. Mr. D. MacGillivray.
+Col. The Hon. Henry Cockshutt, LL.D. Major Fred. J. Ney, M.C.
+Brigadier-General V. W. Odtum, C.B., C.M.G.
+Mr. James A. Richardson, LL.D.
+Mr. F. N. Southam.
+Hon. L. A. Taschereau, LL.D., D.S.O.
 
 To Educationists and Students of the British Empire
 
 An INVITATION to OBERAMMERGAU to witness a private performance of the PASSION PLAY as the Guests of MAYOR RAYMUND LANG and the VILLAGERS OF OBERAMMERGAU On Friday, August the Tenth, Nineteen Hundred and Thirty Four
 
 MEMBERS OF THE ADVISORY COMMITTEE.
-Dr. B. M. Allen.
-Rt. Hon. L. S. Amery.
-Mr. Vernon Bartlett.
-Rt. Hon. Lord Baden-Powell.
-Sir G. Maclean Brown.
-Mr. J. Charles.
-The Bishop of Chichester.
-Mr. P. B. Coles.
-Mr. W. Conran.
-Sir Waldord Davies.
-Mr. H. G. Dring.
-Mr. G. D. Dunkerley.
-Mr. Edwin Fisher.
-Mr. Crawford Gordon.
-Mr. G. J. K. Harrison.
-Sir Frank Heath.
-Sir James C. Irvine.
-Mr. M. V. C. Jeffreys.
-Mr. J. Wickham Murray.
-Mr. J. W. H. Milne.
-Rt. Hon. Lord Moyhinian.
-Dr. Sydney H. Nicholson.
-Sir Percy Nunn.
-Sir Henry Newbolt.
-Sir Edward Peacock.
-Mr. G. R. Parker.
-Mr. J. H. Pangman.
-Mr. George Pilcher.
+Dr. B. M. Allen. Mr. G. J. K. Harrison.
+Rt. Hon. L. S. Amery. Sir Frank Heath.
+Mr. Vernon Bartlett. Sir James C. Irvine.
+Rt. Hon. Lord Baden-Powell. Mr. M. V. C. Jeffreys.
+Sir G. Maclean Brown. Mr. J. Wickham Murray.
+Mr. J. Charles. Mr. J. H. M. Milne.
+The Bishop of Chichester. Rt. Hon. Lord Moyhinian.
+Mr. P. B. Coles. Dr. Sydney H. Nicholson.
+Mr. H. Connon. Sir Percy Nunn.
+Sir Waldord Davies. Sir Harry Newbolt.
+Mr. H. G. Dring. Sir Edward Peacock.
+Mr. G. D. Dunkerley. Mr. G. R. Parker.
+Mr. Edwin Fisher. Mr. J. H. Pangman.
+Mr. Crawford Gordon. Mr. George Pilcher.
 Mr. J. A. Pearl.
 Mr. J. E. Phillips.
 Mr. J. L. Paton.
 Prof. John Read.
 The Bishop of Ripon.
 Mr. Ernest Raymond.
-Sir John Richards.
+Sir Henry Richards.
 Mr. H. J. Shelton.
 Mr. A. A. Somerville.
 Sir Michael Sisler.
@@ -564,28 +544,52 @@ Some words written by the Archbishop of Canterbury in a letter to the Executive 
 
 On behalf of the London Committee:—
 
-Moynihan.
-L. S. Amery.
-James C. Irvine.
-T. Percy Nunn.
-Ernest Raymond.
-M. E. Sadler.
-Campbell Stuart.
-Baden-Powell.
-George Cicestr.
-G. McLaren Brown.
-George Pilcher.
-Henry Richards.
-J. C. Stamp.
-Henry Newbolt.
+<table>
+  <tr>
+    <th>MOYNIHAN.</th>
+    <th>BADEN-POWELL.</th>
+  </tr>
+  <tr>
+    <td>L. S. AMERY.</td>
+    <td>GEORGE CICESTR.</td>
+  </tr>
+  <tr>
+    <td>JAMES C. IRVINE.</td>
+    <td>G. McLAREN BROWN.</td>
+  </tr>
+  <tr>
+    <td>T. PERCY NUNN.</td>
+    <td>GEORGE PILCHER.</td>
+  </tr>
+  <tr>
+    <td>ERNEST RAYMOND.</td>
+    <td>HENRY RICHARDS.</td>
+  </tr>
+  <tr>
+    <td>M. E. SADLER.</td>
+    <td>J. C. STAMP.</td>
+  </tr>
+  <tr>
+    <td>CAMPBELL STUART.</td>
+    <td>HENRY NEWBOLT.</td>
+  </tr>
+</table>
 
 On behalf of the National Council of Education of Canada:—
 
-E. W. Beatty.
-James A. Richardson.
-H. J. Cody.
-Fred. J. Ney
-(Executive Secretary).
+<table>
+  <tr>
+    <th>E. W. BEATTY.</th>
+    <th>H. J. CODY.</th>
+  </tr>
+  <tr>
+    <td>JAMES A. RICHARDSON.</td>
+    <td>FRED. J. NEY</td>
+  </tr>
+  <tr>
+    <td colspan="2">(Executive Secretary).</td>
+  </tr>
+</table>
 
 === Page 15 ===
 The INVITATION is extended on the assumption that the great majority of those accepting will prefer to make their own plans for the journey to and fro from OBERAMMERGAU, spending the time en route according to individual preference. For such Members, special trains will be run from Munich to Oberammergau and return upon dates and at times to be announced.
@@ -607,7 +611,7 @@ Programme arranged by the Deutscher Akademischer Austauschdienst (the Foreign St
 
 AUG. 9th. Morning: Between 7 and 8 a.m. leave by special trains via Augsburg, Weilheim for OBERAMMERGAU.
 Arrive: 6 p.m.
-8.30 p.m. SERVICE (Broadcast) in the Auditorium conducted by the Bishop of RION and Dr. H. J. CODY, the President of Toronto University. MUSIC by the PASSION PLAY CHOIR and Orchestra, and a Boys' Choir under the direction of Mr. A. FORBES MILNE, M.A., B.Mus.
+8.30 p.m. SERVICE (Broadcast) in the Auditorium conducted by the Bishop of RIPPON and Dr. H. J. CODY, the President of Toronto University. MUSIC by the PASSION PLAY CHOIR and Orchestra, and a Boys' Choir under the direction of Mr. A. FORBES MILNE, M.A., B.Mus.
 
 AUG. 10th. 6 a.m. MASS in the Parish Church for Roman Catholic members of the Conference and Villagers.
 5 a.m.—6 a.m. HOLY COMMUNION for Protestant members.
@@ -736,33 +740,20 @@ miss Rita Moss
 München
 
 === Page 20 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 21 ===
 NATIONAL COUNCIL OF EDUCATION OF CANADA.
 
 Miss Rita Moss,
-
-"Ryle",
-32, Ebden Street,
-Elsternwick, S 4.,
-Victoria,
-AUSTRALIA.
+  "Ryle",
+  32, Ebden Street,
+  Elsternwick, S 4.,
+  Victoria,
+  AUSTRALIA.
 
 === Page 22 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 23 ===
 Overseas Education League of Canada
@@ -770,6 +761,8 @@ Overseas Education League of Canada
 London Office:
 2/4, Cockspur Street,
 London, S.W.1
+
+Telephone: WHITEHALL 4552
 
 9th February 1939
 
@@ -783,7 +776,7 @@ I will however bring the matter to Major Ney's notice when he returns to this co
 
 Yours faithfully,
 
-[signature]
+[handwritten signature]
 
 Miss Rita Moss,
 "Ryle",
@@ -792,17 +785,11 @@ Elsternwick S 4.,
 Victoria, Australia.
 
 === Page 24 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 25 ===
 Overseas Education League of Canada,
-2/4 Gocksper St. London (London Office), S.W.1.
+2/4 Gocksper St, London (London Office), S.W.1.
 
 Wrote 25.1.39 re anticipated publication report on Group Tour of Europe and Oberammergau joined in LONDON 1934.
 
@@ -811,19 +798,7 @@ Keilor, Vic,
 my block situated opposite entrance to Essendon Airport, but merely paddocks time of purchase.
 
 === Page 26 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 27 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

@@ -1,37 +1,47 @@
 === Page 1 ===
 62nd Programme. Sixth Year, 1897-8
+
 The Musical Society of Victoria.
+
 [Instituted 1861. Re-Constituted 1892.]
+
 Patrons:
 His Excellency Lord Brassey, K.C.B.; Hon. Sir Frederick T. Sargood, K.C.M.G. M.L.C.; the Hon. Sir Arthur Snowden, K.B., M.L.C.; His Honor Mr. Justice E. D. Holroyd; His Honor Mr. Justice H. Hodges.
+
 President:—Mr. E. A. Jäger.
+
 The Ordinary Monthly Meeting will be held at Mr. Furlong's Rooms, Royal Arcade, on Saturday, February 26th, 1898, at 8 p.m.
+
 PROGRAMME.
+
 Under the direction of Mr. S. W. M. Lamble.
+
 Duet (in canon) ... "Go Pretty Rose" ... ... Marzials
 Mrs. Johnson and Miss Harvie.
+
 Trio (piano violin and horn) Op. 40 ... ... Brahms
 Andante—Scherzo—Adagio Mesto—Finale.
 Messrs G. Peake, H. Curtis, H. Kuhr.
+
 Songs ... ... (a) "Serenade" ... W. E. Nott
 (b) "A Fragment" ... Miss Harvie.
-Piano Solo ... ... Scherzo, Op 39, No.3 ... Chopin
+
+Piano Solo ... ... Scherzo, Op 39, No. 3 ... Chopin
 Miss Mary Anderson.
+
 Song ... "The Passing of the Soul" ... Lawson Marks
 Mrs. Johnson.
+
 Quartett (strings) ... Op. 16 ... Mozart
 Allegro—Andante—Menuetto, and Trio
 Allegro non troppo.
 Messrs H. Curtis, V. Zelman, E. A. Jager, and Arthur Montague.
+
 Accompanist: MR. W. E. NOTT.
+
 It is requested that no one will enter or leave the Concert Room during the performance of any number.
+
 W. H. HEATHCOTE, Hon. Secretary.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

@@ -11,13 +11,7 @@ Tuesday Ev'ng,
 8th July, 1902.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 Melbourne Liedertafel
@@ -40,20 +34,22 @@ Sir Malcolm McEacharn, K.B., M.P.
 
 Vice-Presidents:
 The Hon. F. S. Grimwade, M.L.C.
-The Hon. Sir Arthur Snowden, K.B., M.L.C.
-E. G. FitzGibbon, Esq., C.M.G.
+The Hon. Sir Arthur Snowden, K.B., M.L.C
+E. G. Fitzgibbon, Esq., C.M.G.
 The Hon. Sir Samuel Gillott, K.B., M.L.A.
 The Right Worshipful the Mayor of Melbourne.
 
 Council:
-Representing Subscribing Members.
+Representing
+Subscribing Members.
 Mr. J. D. Law.
 Mr. Carl Pinschof.
 Mr. David Abbott.
 Mr. J. H. Thompson.
-Hon. WM. Knox, M.H.R.
+Hon. Wm. Knox, M.H.R.
 
-Representing Performing Members.
+Representing
+Performing Members.
 Dr. H. L. Murray.
 Mr. J. McCullagh.
 Mr. S. J. Perry.
@@ -69,28 +65,28 @@ Dr. MacGillicuddy.
 Hon. Life Conductor:
 Herr Julius Siede.
 
-Hon. Conductor.
-Pro. Marshall-Hall.
-
-Conductor:
-Mr. August Siede.
-
-Hon. Pianist & Organist.
-Mr. Mansley Greer.
-
-Deputy Hon. Pianists:
-Mr. H. S. Elvins.
-Miss N. A. Billings.
-
-Hon. Treasurer.
+Hon. Treasurer:
 Mr. H. E. Morgan.
+
+Hon. Conductor:
+Pro. Marshall-Hall.
 
 Hon. Auditors:
 Mr. E. L. Wilson.
 Mr. A. E. Whitehead
 
+Conductor:
+Mr. August Siede.
+
+Hon. Pianist & Organist:
+Mr. Mansley Greer.
+
 Hon. Librarian:
 Mr. J. Statters.
+
+Deputy Hon. Pianists:
+Mr. H. S. Elvins.
+Miss N. A. Billings.
 
 Asst. Hon. Librarian:
 Mr. W. Wilcox.
@@ -175,7 +171,7 @@ Mr. Downes.
 Mr. A. Lawson.
 
 Tuba—
-Mr. Lutich.
+Mr. Luttich.
 
 Tympani—
 Mr. Clay.
@@ -186,13 +182,13 @@ Mr. Clay.
 Members of the Choir
 
 FIRST TENOR.
-Parry, Alfred (Capt.)
+Parchy, Alfred (Capt.)
 Dixon, J. J.
 Dyer, J.
 Hardy, J. W.
 Thackeray, J.
 Donaldson, J. P.
-Flahager, A. G.
+Fisher, A. G.
 Harvey, H. J.
 Ferguson, J.
 McCullagh, J.
@@ -214,21 +210,21 @@ SECOND TENOR.
 Humphrey, Geo. (Capt.)
 Rundell, W. R.
 Flood, W. H.
-Pleasant, E. A.
-Reid, T. G.
+Pleasants, E. A.
+Rogers, T. G.
 Gray, Thos.
 Gason, E.
 Nicholson, Geo. C.
 Lang, J.
 Murray, B. L.
-Tisdall, H. W. L.
+Thadall, H. W. L.
 Robertson, P.
 Clarke, A. W.
 Edmanson, W. L.
 Templeton, H. O.
 James, W. H.
 Tnohy, W. E.
-*Reid, A. L.
+*Reed, A. L.
 Roddick, A.
 Cornell, W. E.
 Shovelton, H.
@@ -247,7 +243,7 @@ Hedding, Jas.
 Haybittel, A. S.
 Gason, W. A.
 Bay, Geo. A.
-Heathersaw, S. A.
+Heathershaw, S. A.
 Wilcox, W.
 Smith, H. W.
 Whitehead, A. E.
@@ -259,13 +255,13 @@ Lang, E. J.
 Phelan, C. H.
 Shannon, W. M.
 Wild, C.
-Trower, W.
+Trenerry, W.
 Fenton, G. C.
 Downie, J. R.
 Skillicom, T. F.
 Moran, H.
 Dickens, A.
-Casper, E.
+Casson, A.
 Lyons, R. A.
 Harris, S. H.
 Ferguson, R. A.
@@ -280,8 +276,8 @@ Jones, Walter C.
 Mattingly, A.
 Adcock, I.
 White, T. E.
-Ward, H. L.
-Heathersaw, J. T.
+Smith, H. L.
+Heathershaw, J. T.
 Bona, E.
 Brown, G. H.
 Morgan, H. E.
@@ -291,13 +287,13 @@ Perry, S. J.
 Sayer, J. F.
 Watson, J.
 Ure, E. A.
-Bishop, P. P.
+Bishop, H. P.
 Hyne, H. C.
 Lewis, W. E.
 Nicolson, R. G.
 Thomas, F. W.
 Court, F.
-*Stewart, Alfred
+*Stevens, Alfred
 Berry, Alfred
 Moran, L.
 Wild, T. A.
@@ -325,6 +321,7 @@ The Orchestra. Beethoven.
 
 "The Migration of the Normans"
 Max Bruch.
+
 Soloist—Signor A. Rebottaro.
 
 Liedertafel and Orchestra.
@@ -341,6 +338,7 @@ Thou green forest, round which the gods are hovering.
 
 And we depart silently, a beaten army;
 Extinguished are our stars;
+
 O Iceland, icy rock of the sea,
 Rise up in mighty distance!
 
@@ -356,36 +354,44 @@ We will dream away the winter night.
 
 === Page 7 ===
 ARIA—
+
 "Und ob die Wolke sie ver-hülle"
 (DER FREISCHUTZ) Weber.
+
 Miss Hesketh Jones.
 
 "NÄNIE"
 (SCHILLER) Johannes Brahms.
 Op. 82.
+
 For Chorus of Mixed Voices and Orchestra.
+
 Liedertafel,
 Associated Ladies' Choir and Orchestra.
 
 AND the beautiful too, must die!
     Even the beautiful die,
 What men and gods has conquered, melts not the iron heart,
-Melts not the stygian Jove.
+Melts not the slygian Jove.
 Only once, for love! the Monarch of Shadows relented,
 But at the threshold called back.
     Called he back his gift!
+
 Aphrodite staunches not the wound,
 Which in the lovely body, the Cruel Boar has torn.
 Nor could mother immortal save the godly hero falling at the gate of Troy,
     Falling, his fate fulfilled!
+
 But from the sea she arises, with the daughters of Nereus,
 And in loud lamenting, mourns for the son now glorified.
+
     See, how mourn the gods!
     See, how mourn the goddesses all!
+
 That the beautiful Fades!
 Mourn that the Highest dies!
 And a song of lament from heart of the loved is glorious!
-    Ah! to go songless and silent to Orcus dark reign!
+Ah! to go songless and silent to Orcus dark reign!
 And a song of lament from heart of the loved is glorious!
 
 === Page 8 ===
@@ -410,7 +416,7 @@ Evil Spirit—
 How diff'rent, Gretchen, was it
 When thou cam'st with pure heart
 Here to the altar,
-Thy well thumb'd little book didst clasp,
+Thy well thumbed little book didst clasp,
 Thy pray'r's soft lisping;
 Thy thoughts half playful,
 Half turned to Heaven.
@@ -436,7 +442,7 @@ And, accusing me,
 Haunt me still!
 
 Chorus—
-Dies irae, dies illa,
+Dies iræ, dies illa,
 Solvent sæculum in favilla.
 
 Evil Spirit—
@@ -506,19 +512,7 @@ Wilke & Bowden, Print,
 383 5-7 Little Collins Street, Melbourne.
 
 === Page 11 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 12 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

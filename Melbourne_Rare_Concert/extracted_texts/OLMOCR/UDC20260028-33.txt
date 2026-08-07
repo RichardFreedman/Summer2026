@@ -66,7 +66,7 @@ PART SONGS
 (b) "The Lifeboat" ... Hatton
 Liedertafel
 
-VIOLONCELLO SOLO
+VIOLONCELLO SOLI
 (a) Melodie Romantique ... Stern
 (b) Tzigane Mazurka ... Gabriel-Marie
 
@@ -90,8 +90,7 @@ Liedertafel
 === Page 3 ===
 180th Concert
 
-The Royal
-Metropolitan Liedertafel
+The Royal Metropolitan Liedertafel
 
 Conductor: Mr. Ernest Wood
 
@@ -126,9 +125,11 @@ HON. LIBRARIAN
 MR. H. W. SEYMOUR
 
 COMMITTEE
-MR. S. FRIPP           MR. D. WRIGHT
-MR. R. J. BURROWES   MR. F. W. WHITE
+MR. S. FRIPP
+MR. R. J. BURROWES
 MR. H. ROFE
+MR. D. WRIGHT
+MR. F. W. WHITE
 
 HON. AUDITORS
 MESSRS. A. J. MASTERS & E. SIMMONDS
@@ -160,7 +161,7 @@ T. Jack .. 1878
 W. B. Hayward .. 1882
 W. Brown .. 1886
 
-G. Smibert .. 1873
+G. S. Smibert .. 1873
 A. Jones .. 1889
 J. Felstead .. 1877
 F. Stapley .. 1891
@@ -174,14 +175,14 @@ C. Miller .. 1870
 J. S. Ridlev .. 1874
 J. A. Ure .. 1876
 C. D. Dixon .. 1874
-A. G. S. Williams 1880
+A. G. S. Williams .. 1880
 
 C. M. Lilburne .. 1880
 R. J. Moore .. 1881
 W. H. Ford .. 1882
 A. J. Sage .. 1886
 S. E. Dixon .. 1883
-A. M' Laren .. 1887
+A. M'Laren .. 1887
 W. G. Barklev .. 1888
 H. W. Seymour .. 1888
 T. N. Jones .. 1889
@@ -205,7 +206,7 @@ R. Jolliev .. 1879
 I. Bowley .. 1887
 E. H. Bardwell .. 1887
 R. T. Rowe .. 1875
-H. J. Ralph .. 1888
+H. J. Ralph .. 1883
 E. J. Rice .. 1885
 S. Ellis .. 1889
 R. W. Foster .. 1891
@@ -219,19 +220,19 @@ T. Watson .. 1895
 C. Bellamy .. 1895
 F. Ferguson .. 1896
 D. Wright .. 1870
-W. F. Rashleigh 1873
+W. F. Rashleigh .. 1873
 C. H. Woodman .. 1879
-M. St. J. Kennedy 1874
+M. St. J. Kennedy .. 1874
 F. W. White .. 1879
 W. M. Ure .. 1871
-H. Rofe .. 1880
+H. Roffe .. 1880
 J. Keyston .. 1883
 E. Walsh .. 1885
 J. S. Duke .. 1889
 W. Goode .. 1872
 
 A. Stewart .. 1882
-P. St. J. Murphy 1887
+P. St. J. Murphy .. 1887
 J. H. Bayley .. 1889
 A. E. Finley .. 1890
 A. E. Johns .. 1890
@@ -244,7 +245,7 @@ D. J. Dunlop .. 1894
 J. Adams .. 1894
 E. T. Williams .. 1895
 J. Blanshard .. 1895
-J. S. Kalbfeld .. 1896
+J. S. Kalbefeld .. 1896
 R. Paterson .. 1896
 
 === Page 6 ===
@@ -273,7 +274,7 @@ Programme
 
 PART I
 
-Part Song—St. John's Eve      Rheinberger
+Part Song—St. John's Eve        Rheinberger
 Liedertafel
 
 How mild the balmy summer night!
@@ -305,7 +306,7 @@ Such peace and beauty are combined,
 
 === Page 8 ===
 Songs—
-(a) Der Hengstere (The Inquirer) SCHUBERT
+(a) Der Hengsterige (The Inquirer) SCHUBERT
 (b) Das Veilchen (The Violet) MOZART
 Miss Auguste Linden
 
@@ -315,6 +316,7 @@ Mr. Frederick Ferguson
 Part Song—The Hamlet SCHUBERT
 (Translated from the German by Mr. H. W. PÜTTMANN.)
 Liedertafel
+
 I love to vaunt
 My rustic haunt:
 For fairer graces
@@ -376,19 +378,17 @@ Non piu Mesta (La Cenerentola)    ROSSINI
 Miss Maggie Stirling
 
 Vocal Quartets—
-(a) Love's Call    BECKER
-(b) The Dance    OTTO
+((a)) Love's Call    BECKER
+((b)) The Dance    OTTO
 S. Paul's Cathedral Quartet Party
 
 === Page 10 ===
 Violoncello Solo—Adagio
 Mr. George E. Howard
-BARGIEL
 
 Part Song—
 A Message to Phyllis
 Liedertafel
-Cobb
 
 Ye little birds that sit and sing
     Amidst the shady valleys,
@@ -432,8 +432,8 @@ INTERVAL OF FIVE MINUTES
 PART II
 
 Part Song—The Nightingale
-(Translated from the German by Mr. H. W. Püttmann.)
 Schubert
+(Translated from the German by Mr. H. W. Püttmann.)
 
 Liedertafel
 
@@ -453,8 +453,8 @@ When ecstasy came on the pinions of song,
 And love in our hearts linger'd gladly and long.
 
 Song—Thoughts and Tears
-Miss Auguste Linden
 Hope Temple
+Miss Auguste Linden
 
 Pianoforte Solo—
 Menuetto in E Minor and Rondo (perpetuum mobile)
@@ -514,8 +514,8 @@ Violoncello Soli—
 Mr. George E. Howard
 
 Vocal Quartets—
-(a) Good Night Abt
-(b) At Early Morn Abt
+(a) Good Night ABT
+(b) At Early Morn ABT
 S. Paul's Cathedral Quartet Party
 
 Song—Thoughts of Thee Blumenthal
@@ -589,4 +589,4 @@ MELBOURNE
 MONDAY EVENING
 7TH SEPT., 1896.
 
-180TH CONCERT.
+180TH CONCERT

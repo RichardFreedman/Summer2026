@@ -19,7 +19,8 @@ VOCAL QUARTETS { (a) "When Evening casts her shadows" .. .. Bayley
 === Page 3 ===
 178th Concert
 
-The Royal Metropolitan Liedertafel
+The Royal
+Metropolitan Liedertafel
 
 Conductor: Mr. Ernest Wood
 
@@ -75,7 +76,7 @@ Members
 Tenors
 
 A. Cameron .. 1870
-W. H. Perryman .. 1873
+W. H. Pervman .. 1873
 C. P. Rouvray .. 1870
 E. Simmonds .. 1873
 S. Symons .. 1876
@@ -89,7 +90,6 @@ A. Sherar .. 1881
 T. Jack .. 1878
 W. B. Hayward .. 1882
 W. Brown .. 1886
-
 G. Smibert .. 1873
 A. Jones .. 1889
 J. Felstead .. 1877
@@ -105,7 +105,6 @@ J. S. Ridley .. 1874
 J. A. Ure .. 1876
 C. D. Dixon .. 1874
 A. G. S. Williams 1880
-
 C. M. Lilburne .. 1880
 R. J. Moore .. 1881
 W. H. Ford .. 1882
@@ -140,7 +139,6 @@ E. J. Rice .. 1885
 S. Ellis .. 1889
 R. W. Foster .. 1891
 T. Moore .. 1892
-
 F. G. Drake .. 1893
 W. Urie .. 1884
 W. H. Morton .. 1894
@@ -157,7 +155,6 @@ W. M. Ure .. 1871
 H. Rope .. 1880
 J. Keyston .. 1883
 E. Walsh .. 1885
-
 J. S. Duke .. 1889
 W. Goode .. 1872
 A. Stewart .. 1882
@@ -165,7 +162,7 @@ P. St. J. Murphy 1887
 J. H. Bayley .. 1889
 A. E. Finley .. 1890
 A. E. Johns .. 1890
-R. J. Burrowes 1891
+R. J. Burrowes .. 1891
 A. Vasey .. 1893
 J. Frankland .. 1893
 R. H. Burke .. 1893
@@ -182,12 +179,10 @@ Miss Marie Mueller
 Miss Maggie Stirling
 
 S. Paul's Cathedral Quartet Party
-(Mr. W. F. Wyatt, Mr. H. J. Pallett,
-Mr. F. G. Drake, Mr. H. Rose)
+(Mr. W. F. Wyatt, Mr. H. J. Pallett, Mr. F. G. Drake, Mr. H. Rose)
 
 String Quartet
-(Mr. George Weston, Mr. Hy. Curtis,
-Mr. Z. Herrmann, Mr. G. E. Howard)
+(Mr. George Weston, Mr. Hy. Curtis, Mr. Z. Herrmann, Mr. G. E. Howard)
 
 Mr. G. B. Kentum,
 Hon. Pianist
@@ -259,31 +254,37 @@ And restless, homeward turns.
 
 === Page 9 ===
 String Quartet—
-Op. 64, No. 6, Alleg., Andante  HAYDN
+Op. 64, No. 6, Alleg., Andante
 Mr. G. Weston, Mr. H. Curtis, Mr. Z. Herrmann, and Mr. G. E. Howard
 
+Haydn
+
 Cavatina—Al mio core oggetti amati
-(L’Assedio di Calais)  DONIZETTI
+(L’Assedio di Calais)
 Miss Maggie Stirling
 
-Part Song—Hymn to the Night  MÖHRIN
-(Baritone Solo—MR. HENRY ROFE.)
+Donizetti
+
+Part Song—Hymn to the Night
+(Baritone Solo—Mr. Henry Rofe.)
+Möhrin
+
 Liedertafel
 
 I heard the trailing garments of the night
-    Sweep through her marble halls!
+Sweep through her marble halls!
 I saw her sable skirts all fringed with light
-    From the celestial walls!
+From the celestial walls!
 
 I felt her presence, by its spell of might,
-    Stoop o’er me from above:
+Stoop o’er me from above:
 The calm majestic presence of the night,
-    As of the one I love.
+As of the one I love.
 
 I hear the sounds of sorrow and delight
-    The manifold soft chimes,
+The manifold soft chimes,
 That fill the haunted chambers of the night,
-    Like some old poet’s rhymes.
+Like some old poet’s rhymes.
 
 === Page 10 ===
 From the cool cistern of the midnight air
@@ -357,18 +358,18 @@ And in terror the boy with tears homeward flies,
     That there, with his mother, his grief he may hide.
 
     "O mother, the roar of the lake I heard,
-        Against me the forest with fury shook,
+    Against me the forest with fury shook,
 Before me, in anger, the full moon appeared,
-        O mother, I but a lily took!"
+    O mother, I but a lily took!"
 
-Song—The Land of Yesterday        MASCHERONI
-Miss Marie Mueller
+Song—The Land of Yesterday
+    Miss Marie Mueller
 
 String Quartet—
-Op. 64, No. 6, Menuetto=Allegretto,
-Presto        HAYDN
-Mr. G. Weston, Mr. H. Curtis, Mr. Z. Herrmann,
-and Mr. G. E. Howard
+    Op. 64, No. 6, Menuetto-Allegretto,
+    Presto
+    Mr. G. Weston, Mr. H. Curtis, Mr. Z. Herrmann,
+    and Mr. G. E. Howard
 
 === Page 13 ===
 Part Song—Prayer before Battle
@@ -396,20 +397,21 @@ All pow'r and glory be Thine
 Thro' eternity. Amen! Amen! Amen!
 
 Song—A Summer Night
-GORING THOMAS
 Miss Maggie Stirling
+GORING THOMAS
 
 Vocal Quartets—
 (a) A Lullaby
-W. E. NOTT
-(Composed specially for the Quartet Party.)
+    W. E. NOTT
+    (Composed specially for the Quartet Party.)
 (b) Oft in the Still Night
-ARRANGED BY BREWER
-S. Paul's Cathedral Quartet Party
+    ARRANGED BY BREWER
+    S. Paul's Cathedral Quartet Party
 
 === Page 14 ===
 Part Song—
 On the Sparkling Snow  AMBROISE THOMAS
+
 Liedertafel
 
 On the sparkling snow so lightly we go,
@@ -421,7 +423,7 @@ In the winter night, by the pale moon-light,
 The fancy hath leisure to follow her pleasure.
 
     Good steeds gallop on, with the wind we fly,
-    As it wanders by with a whisper'd sigh!
+        As it wanders by with a whisper'd sigh!
 
 Care begone, you are no great treasure,
 You spoil every pleasure.  Crick, crack!  Hurrah!
@@ -452,7 +454,7 @@ Subscribers and friends are reminded that the Subscription to this Society has b
 
 This is the third Concert of the Twenty-third Season. Three are given to ladies and gentlemen, and two to gentlemen only.
 
-Intending Subscribers may join Class A, £1 1s.; Class B, £2 2s.; Class C, £1 7s. 6d. Entrance fee to each Class, 10s. 6d.
+Intending Subscribers may join Class A, £1 1s.; Class B, £2 2s.; Class C, £1 11s. 6d. Entrance fee to each Class, 10s. 6d.
 
 Class A.—Two tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—8 TICKETS.
 
@@ -477,4 +479,4 @@ MELBOURNE
 MONDAY EVENING
 20TH APRIL, 1896
 
-178TH CONCERT
+178TH CONCERT.

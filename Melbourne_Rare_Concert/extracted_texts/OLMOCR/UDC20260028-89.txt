@@ -2,13 +2,7 @@
 ACADÉMIE NATIONALE DE MUSIQUE ET DE DANSE
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 ACADÉMIE NATIONALE DE MUSIQUE ET DE DANSE
@@ -37,7 +31,7 @@ LA CHARTREUSE DE PARME
 
 SAMEDI
 SAMSON ET DALILA
-LE FESTIN DE L'ARaignée
+LE FESTIN DE L'ARAIGNÉE
 
 === Page 5 ===
 LE NOUVEL OPÉRA
@@ -48,15 +42,15 @@ Depuis cette année, un nouvel intérêt s'y ajoute : entièrement remis à neuf
 
 === Page 6 ===
 Alexandrine
-MAISON FONDÉE EN 1864
-GANTS — BAS — SACS
+MAISON FONDEE EN 1864
+GANTS - BAS - SACS
 SES ENSEMBLES
 PARFUM MAREVA
-QUALITÉ ÉLÉGANCE
-10, rue Auber — 21, rue de la Paix
+QUALITE ELEGANCE
+10, rue Auber - 21, rue de la Paix
 281, rue St-Honoré
 PARIS
-CANNES — BIARRITZ
+CANNES - BIARRITZ
 
 === Page 7 ===
 L'appareil qui distribue sur la scène les lumières diversement colorées et qu'on appelle jeu d'orgues (un souvenir de l'ancien éclairage au gaz et de ses tuyaux juxtaposés) est actuellement le plus grand du monde. Une énergie électrique de 2.400 kw. s'y trouve à volonté répartie sur 300 circuits.
@@ -73,12 +67,13 @@ CELTIQUES
 cigarettes gros module
 
 RÉGIE FRANÇAISE
-CAISSE AUTONOME D'AMORTISSEMENT
+CAISSE AUTONOME
+D'AMORTISSEMENT
 
 === Page 9 ===
-pandent à volonté le calme de l’azur, les rougeurs de l’aurore, les pourpres crépusculaires, comme ils y précipitent la course échevelée des nuées orageuses ou y allument dans une transparence ténébreuse les étoiles nocturnes. Tout peut s’y accomplir.
+pendent à volonté le calme de l’azur, les rougeurs de l’aurore, les pourpres crépusculaires, comme ils y précipitent la course échevelée des nuées orageuses ou y allument dans une transparence ténèbreuse les étoiles nocturnes. Tout peut s’y accomplir.
 
-Si l’on vient à l’Opéra, c’est d’abord, sans aucun doute, pour écouter la musique ; mais il faut que le spectacle l’illustre : telle est la règle du genre ; ni la réforme de Wagner, ni les innovations de la musique moderne ne l’ont abolie. On s’efforce, comme le disait déjà La Bruyère, de « tenir les yeux, l’esprit et les oreilles dans un égal enchantement ». A l’Opéra, les plus récents progrès de la science, employés avec une ampleur et une ingéniosité sans précédent, concourent mieux que jamais à cet effort magique.
+Si l’on vient à l’Opéra, c’est d’abord, sans aucun doute, pour écouter la musique ; mais il faut que le spectacle l’illustre : telle est la règle du genre ; ni la réforme de Wagner, ni les innovations de la musique moderne ne l’ont abolie. On s’efforce, comme le disait déjà La Bruyère, de « tenir les yeux, l’esprit et les oreilles dans un égal enchantement ». À l’Opéra, les plus récents progrès de la science, employés avec une ampleur et une ingéniosité sans précédent, concourent mieux que jamais à cet effort magique.
 
 La salle et ses annexes, c’est-à-dire la partie du monument accessible au public, ont été également remises en état. On a ravivé l’éclat des fonds éteints, la chaleur des ors, révélant à nouveau le magnifique plafond de Lenepveu dans la salle, les fresques de Baudry dans le grand foyer.
 
@@ -124,7 +119,7 @@ LE TRATTORIA DE THEODOLINDE
 
 Gina a suivi les conseils de Mosca : elle est venue à Parme et a épousé le vieux Duc Sanseverina qui l'a rapidement laissée veuve et fort riche. Elle mène une vie fastueuse et fort enviée. Auprès d'elle veille amoureusement le Comte Mosca, mais elle ne cesse de penser tendrement à Fabrice qu'elle protège de loin. Nous la retrouverons plus tard.
 
-Fabrice, de son côté, est allé à Naples étudier la théologie. Il a déjà reçu le titre de Monsignore qui ne l'empêche pas toutefois de continuer sa vie aventureuse. Le voici, quelques années plus tard, dans une pauvre auberge campagnarde sur le bord du Pô, à la frontière des États autrichiens où il est venu se réfugier. Il a tué le protecteur d'une petite danseuse à laquelle il
+Fabrice, de son côté, est allé à Naples étudier la théologie. Il a déjà reçu le titre de Monsignore qui ne l'empêche pas toutefois de continuer sa vie aventureuse. Le voici, quelques années plus tard, dans une pauvre auberge campagnarde sur le bord du Pô, à la frontière des Etats autrichiens où il est venu se réfugier. Il a tué le protecteur d'une petite danseuse à laquelle il
 
 === Page 16 ===
 Studio Harcourt
@@ -167,9 +162,7 @@ LA CELLULE DE L'OBEISSANCE PASSIVE
 Fabrice est désespéré. Clelia ne vient plus à son balcon. On entend une sérénade. Le geolier qui apporte son repas lui annonce le prochain mariage de Clelia. Mais soudain Clelia, affolée, fait irruption dans la cellule, jette à terre le repas qui était empoisonné et supplie Fabrice de fuir. Tout est préparé pour
 
 === Page 20 ===
-L'AUTOITURE FRANÇAISE
-est la meilleure du monde
-pour la route française
+L'Automobile française est la meilleure du monde pour la route française
 
 === Page 21 ===
 cela : les gardes sont ivres, la Duchesse est en bas avec des hommes et voici une corde pour la terrible descente. Fabrice se débat : il veut rester près de celle qu'il aime. Clélia le menace de s'enfuir pour toujours au couvent. Il accepte l'évasion. Après s'être dit leur amour, ils se séparent et, pendant que Fabrice s'évade, Clélia, pour réparation du péché qu'elle commet en trahissant son père, fait à la Sainte Madone le vœu de ne plus revoir Fabrice, s'il échappe à tout danger.
@@ -195,7 +188,6 @@ TOUTES CES QUALITES SONT REUNIES DANS...
 LA JUVAQUATRE
 RENault
 LA VOITURE ECONOMIQUE DES GENS PRESSÉS...
-
 4 places - 6cv
 7 litres aux 100...
 100 à l'heure!
@@ -206,14 +198,11 @@ Vendredi 9 Juin 1939, à 20 heures - 7e Représentation
 
 LA CHARTREUSE DE PARME
 
-Opéra en 3 actes et 10 tableaux
-d'après le roman de STENDHAL
+Opéra en 3 actes et 10 tableaux d'après le roman de STENDHAL
 Livret de M. Armand LUNEL
 Musique de M. Henri SAUGUET
-Décor et Costumes d'après les maquettes
-de M. Jacques DUPONT
-1er et 5e tableaux
-décor exécutés par M. Georges MOUVEAU
+Décor et Costumes d'après les maquettes de M. Jacques DUPONT
+1er et 5e tableaux décors exécutés par M. Georges MOUVEAU
 2e et 3e tableaux M. Emile BERTIN
 4e, 8e et 9e tableaux M. Maurice MOULÈNE
 6e et 7e tableaux M. LAVERDET
@@ -263,7 +252,7 @@ Mlle Solange SCHWARZ
 Mlle DYNALIX Mlle GRELLIER
 Milles IVANOFF, SERTELON, BARDIN, LERICHE
 GUILLOT, DALLOZ, N. SCHWARZ, BINDER, GIRO
-GÉRODEZ, RIGEL
+GERODEZ, RIGEL
 MM. RITZ, BOZZONI, DUPREZ, EFIMOFF, GUYLALINE
 
 Chef d'Orchestre : M. Louis FOURESTIER
@@ -277,11 +266,11 @@ M. ENDRÈZE
 === Page 27 ===
 LE JARDIN DE CLELIA, LA NUIT
 
-Elle a accepté d’entendre Fabrice une dernière fois. En vain celui-ci tente-t-il de l’arracher à son voeu. Sous son voile, pour que « ses yeux ne le voient plus », Clelia demande à Fabrice la permission d’épouser le Marquis : ils ne trouveront le bonheur éternel que par un acte de renoncement...
+Elle a accepté d'entendre Fabrice une dernière fois. En vain celui-ci tente-t-il de l'arracher à son voeu. Sous son voile, pour que « ses yeux ne le voient plus », Clelia demande à Fabrice la permission d'épouser le Marquis : ils ne trouveront le bonheur éternel que par un acte de renoncement...
 
 LE SERMON AUX LUMIERES
 
-Dans la petite Eglise de la Visitation, à Parme, Fabrice, par son austérité, sa modestie, sa piété, son talent de prédicateur, soulève l’enthousiasme des fidèles qui sont venus en foule l’entendre ce soir. La fatigue interrompt son sermon. Pendant la pause, Clelia, maintenant Marquise Crescenzi, vient écouter celui qu’elle continue de chérir. Fabrice est remonté en chaire. Il la voit. Il va décider de se retirer pour toujours à La Chartreuse de Parme. S’approchant de Clelia, il lui dit un dernier adieu.
+Dans la petite Eglise de la Visitation, à Parme, Fabrice, par son austérité, sa modestie, sa piété, son talent de prédicateur, soulève l'enthousiasme des fidèles qui sont venus en foule l'entendre ce soir. La fatigue interrompt son sermon. Pendant la pause, Clelia, maintenant Marquise Crescenzi, vient écouter celui qu'elle continue de chérir. Fabrice est remonté en chaire. Il la voit. Il va décider de se retirer pour toujours à La Chartreuse de Parme. S'approchant de Clelia, il lui dit un dernier adieu.
 
 Armand LUNEL et Henri SAUGUET.
 
@@ -292,8 +281,6 @@ La Célèbre Cigarette Américaine
 === Page 28 ===
 Mme Solange SCHWARZ
 
-Studio Iris
-
 === Page 29 ===
 Ph. Vizzavona
 
@@ -302,7 +289,6 @@ dans le "Coq d'Or"
 
 === Page 30 ===
 Mlle DYNALIX
-
 Studio Iris
 
 === Page 31 ===
@@ -371,6 +357,7 @@ LITS-TOILETTE
 vous arriverez reposés
 
 SOCIÉTÉ NATIONALE DES CHEMINS DE FER FRANÇAIS
+SNCF
 
 === Page 39 ===
 Ph. David
@@ -406,19 +393,7 @@ PRIX : TROIS FRANCS
 Publ. W. FISCHER - PARIS
 
 === Page 43 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 44 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

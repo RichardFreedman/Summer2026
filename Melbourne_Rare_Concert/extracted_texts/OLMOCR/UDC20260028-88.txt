@@ -10,15 +10,15 @@ There is no question but that the informed music-lover, given his choice of pian
 
 Not in a single particular of quality does it depart from the Steinway of Hofmann, Horowitz, Paderewski, Rachmaninoff. The tone is the glorious Steinway tone. The action is the Steinway Action, responsive to the slightest touch of the fingers.
 
-Model "Z" is an artistic upright, designed for the smallest rooms and most limited budget, is a true Steinway, yet so small, compact and inexpensive that the most knowledgeable marvel at its richness of tone, perfect performance and beautiful design—without question is a masterpiece in miniature.
-
-Mahogany or walnut—Satin finish £84.
-
 Skilled Steinway craftsmen have made the case an exquisite example of fine cabinet work. In our opinion, this is the finest piano obtainable at the price. You may purchase the Steinway "S" on very generous terms, a small sum down, the balance over an agreed period.
 
 Your Steinway will be delivered at once . . . for you and your children, one of life's happiest days. Come in . . . see, hear and play this amazing instrument at Steinway Hall, or at accredited Agents throughout Great Britain. £157 - 10 - 0 (Fbonised)
 
 In Mahogany or Walnut £165
+
+Model "Z" is an artistic upright, designed for the smallest rooms and most limited budget, is a true Steinway, yet so small, compact and inexpensive that the most knowledgeable marvel at its richness of tone, perfect performance and beautiful design—without question is a masterpiece in miniature.
+
+Mahogany or walnut—Satin finish £84.
 
 THE INSTRUMENT OF THE IMMORTALS STEINWAY
 STEINWAY & SONS, 1 & 2 St. George Street, LONDON, W.1
@@ -36,6 +36,7 @@ Under the Auspices of the Orchestral Concerts Society Ltd
 
 SEASON 1938 - 1939
 FIFTEENTH AND LAST CONCERT OF THE SEASON
+
 Sunday, March 19 at 3.15
 
 London Philharmonic Orchestra
@@ -47,7 +48,7 @@ Sir Thomas Beecham
 BART.
 
 === Page 4 ===
-SIR THOMAS BEECHAM, Bart.
+SIR THOMAS BEECHAM. Bart.
 
 === Page 5 ===
 Members of the Audience are courteously requested not to leave the Hall during the Concert except between completed groups of items, to avoid distraction to the Artists and disturbance to others.
@@ -63,7 +64,8 @@ LONDON PHILHARMONIC ORCHESTRA
 Conductor - SIR THOMAS BEECHAM, Bart.
 
 1.
-Symphony No. 1 in C Major ... ... ... ... Beethoven (1770-1827)
+Symphony No. 1 in C Major ... ... ... ... Beethoven
+(1770-1827)
     Adagio molto—Allegro con brio.
     Andante cantabile con molto.
     Minuetto e Trio.
@@ -222,11 +224,11 @@ HARPS
 Marie Goossens
 Julia Wolfe
 
-BUSINESS SECRETARY
-Mignon Pariera
-
 GENERAL SECRETARY
 Frederick Laurence
+
+BUSINESS SECRETARY
+Mignon Pariera
 
 COVENT GARDEN
 
@@ -295,14 +297,14 @@ The principal theme of the Rondo is a very evident anticipation of Blonde's aria
 
 3.
 Suite, "Pelléas and Mélisande" ... ... ... Sibelius 1865
-(i) At the Castle-gate.
-(ii) Mélisande.
-(iii) A Spring in the Park.
-(iv) The Three Blind Sisters.
-(v) Pastorale.
-(vi) Mélisande at the Spinning Wheel.
-(vii) Entr'acte.
-(viii) The Death of Mélisande.
+    (i) At the Castle-gate.
+    (ii) Mélisande.
+    (iii) A Spring in the Park.
+    (iv) The Three Blind Sisters.
+    (v) Pastorale.
+    (vi) Mélisande at the Spinning Wheel.
+    (vii) Entr'acte.
+    (viii) The Death of Mélisande.
 
 Maeterlinck's play "Pelléas et Mélisande" is remarkable amongst other things for having inspired several famous composers. Even more remarkable is the astonishing diversity of utterance to which they have been inspired. It would be difficult, indeed, to find works more dissimilar than the vague atmospheric music of Debussy's opera, the delicate, clear-cut, neatly-chiselled incidental music of Fauré, and the gigantic and portentous symphonic poem of Schönberg.
 
@@ -325,7 +327,7 @@ The "Entr'acte" is played between third and fourth acts. Its character is rather
 
 Finally, in striking contrast to the foregoing number, both in character and in its relevance to the drama, is the deeply moving little piece descriptive of "The Death of Mélisande," which is the introduction to Act V, Scene 2. It begins with a passage for muted strings alone. After the wood-wind has intervened momentarily the strings resume their lament and the whole orchestra then participate in a passionate outburst of grief. The piece ends as it began, with muted strings alone.
 
-Note by Cecil Gray for the Sibelius Festival.
+Note by CECIL GRAY for the Sibelius Festival.
 
 === Page 12 ===
 A selection of recorded orchestral works by
@@ -335,62 +337,63 @@ BEETHOVEN
 The Symphonies
 *No. 1 in C major Op. 21 B.B.C. Symphony Orchestra (Toscanini) DB3537-39 & DB3540
 No. 2 in D Vienna Philharmonic Orchestra (Clemens Krauss) C2030-32
-No. 3 ("Eroica") London Philharmonic Orchestra (Koussevitzky) DB3546-48
-No. 5 in C minor Op. 67 London Philharmonic Orchestra (Koussevitzky) DB3384-42
-No. 6 in F Op. 68 (Orch.) B.B.C. Symphony Orchestra (Toscanini) DB3333-37
-No. 7 in A Op. 92 New York Philharmonic Orchestra (Toscanini) DB3986-90
-Concerto in D Op. 61 for Violin and Orchestra. Kreisler and the London Philharmonic Orchestra (Jascha Heifetz) DB3927-32
-Concerto No. 5 in E flat major Op. 73 ("Emperor") Moisewitsch with the London Philharmonic Orchestra (George Szell) DB3485-87
-* Coriolan * Overture Op. 62. London Symphony Orchestra Bruno Walter DB3438
+No. 3 ("Eroica") London Philharmonic Orchestra (Koussevitzky) DB3366-68
+No. 5 in C minor Op. 67 London Philharmonic Orchestra (Koussevitzky) DB3384-86
+No. 6 in F Op. 68 (Sinfonia) B.B.C. Symphony Orchestra DB3333-37
+No. 7 in A Op. 92 New York Philharmonic Orchestra (Toscanini) DB3866-69
+Concerto in D Op. 61 for Violin and Orchestra. Kreisler and the London Philharmonic Orchestra (Jascha Heifetz) DB3927-30
+Concerto No. 5 in E flat major Op. 73 ("Emperor") Moisewitsch with the London Philharmonic Orchestra (George Szell) DB3448-57
+* Coriolan * Overture Op. 62. London Symphony Orchestra Bruno Walter C23638
 Leonore Overture No. 3. Vienna Philharmonic Orchestra (Bruno Walter) DB2885-86
-Egmont Overture. Dresden State Opera Orchestra. C2790
+Egmont Overture. Dresden State Opera Orchestra. C2780
 
 MOZART
 Symphony No. 36 in C (K547) B.B.C. Symphony Orchestra (Fritz Busch) DB2191-93
 Symphony No. 28 in C (K200) Berlin College of Instrumentalists (Fritz Stein) C2929-30
-Symphony No. 40 in G minor (K550) London Philharmonic Orchestra (Koussevitzky) DB2924-41
-"Jupiter" Symphony Vienna Philharmonic Orchestra (Bruno Walter) DB3428-31
+Symphony No. 40 in G minor (K550) London Philharmonic Orchestra (Koussevitzky) DB3212-14
+"Jupiter" Symphony Vienna Philharmonic Orchestra (Bruno Walter) DB3428-30
 "Prague" Symphony (K504). Vienna Philharmonic Orchestra (Bruno Walter) DB3112-14
-Concerto No. 1 in D, (K314) Mozart with his Chamber Orch. DB3825-28
+Concerto No. 1 in D, (K314) Mozart with his Chamber Orch. DB3856-59
 Concerto in G (K453). Edwin Fischer with his Chamber Orch. DB3302-44
-Concerto in C minor (K491). Edwin Fischer and the London Philharmonic Orchestra (Lawrence Collingwood) DB3549-42
+Concerto in C minor (K491). Edwin Fischer and the London Philharmonic Orchestra (Lawrence Collingwood) DB3390-92
 Concerto in D minor (K415). Bruno Walter (pianist and conductor) with Vienna Philharmonic Orchestra DB3273-75
-Concerto in F (K491). Schnabel and the London Symphony Orchestra (Dr. Malcolm Sargent) DB3065-67 and DB3098
+Concerto in F (K491). Schnabel and the London Symphony Orchestra (Dr. Malcolm Sargent) DB3065-67 and DB3068
 Concerto in G (K467). Schnabel and the L.S.O. DB3099-102
 Sonata in C (K330) and Romance in A flat (K. Anh. 205). Edwin Fischer DB3424-25
 Quartet in A (K298). Pasquier Trio with RENE LE ROY DB3365
-Eine kleine Nachtmusik (Serenade) (K253) Vienna Philharmonic Orchestra (Bruno Walter) DB3075-78
+Eine kleine Nachtmusik (Serenade) (K253) Vienna Philharmonic Orchestra (Bruno Walter) DB3075-76
 
 UNSURPASSED RECORDINGS of MOZART OPERAS
-The Society records of Mozart Operas have established a standard by which other performances can and will be judged. Their authoritativeness is beyond dispute or question, the artists are the best living and the recording is faultless. With these records you are able to enjoy and study perfect performances of Le Nozze di Figaro, Cosi fan Tutte, Don Giovanni and Die Zauberflöte.
-Full details can be obtained from your dealer or from the Secretary, 93, Clerkenwell Road, E.C.1.
+The Society records of Mozart Operas have established a standard by which other performances can and will be judged. Their authoritativeness is beyond dispute or question: the artists are the best living and the recording is faultless. With these records you are able to enjoy and study perfect performances of Le Nozze di Figaro, Cosi fan Tutte, Don Giovanni and Die Zauberflöte.
+Full details can be obtained from your dealer or from the Secretary, 95, Clerkenwell Road, E.C.1.
 
 BERLIOZ
-Le Carnaval Romain Op. 9.—Overture. Boston Promenade Orchestra (Arthur Fiedler) C3025
-**The Damnation of Faust** Heralds' March and Minuet of the Will o' the Wisp. Boston Symphony Orchestra (Koussevitzky) DB3390
-Froeso and Waltz. Boston Symphony Orchestra. (Koussevitzky) DB3310
+Le Carnaval Romain Op. 9.—Overture. Boston Promenade Orchestra (Arthur Fiedler) C3925
+*"The Damnation of Faust"*
+Hindemith March and Minuet of the Will o' the Wisps. Boston Symphony Orchestra (Koussevitzky) DB3369
+Presto and Waltz. Boston Symphony Orchestra. (Koussevitzky) DB3301
 Rakoczy March. Philadelphia Orchestra (Stokowski) DB3187
 Les Francs Juges — Overture. B.B.C. Symphony Orchestra (Sir Adrian Boult) DB3131-2
 
 SIBELIUS
 Finlandia—Symphonic Poem. Philadelphia Orchestra (Stokowski) DB3184
 Karelia Suite. Alla Marcia and Intermezzo. London Philharmonic Orchestra C2985
+
 Symphony No. 1 in E Minor, Op. 39. Minneapolis Symphony Orchestra (Eugene Ormandy) DB2798-99
 Symphony No. 2 in D Major, Op. 43. Boston Symphony Orchestra (Koussevitzky) DB2598-2603 and DBS 2604
-Swan of Tuonela—Lemminkäinen Suite. Op. 22. Philadelphia Orchestra (Stokowski) DB1997
+Swan of Tuonela—Lemminkainen Suite in C Op. 22. Philadelphia Orchestra (Stokowski) DB1997
 En Saga—A Legend. New Symphony Orchestra (Eugene Goossens) C1904-95
 
 SIBELIUS SOCIETY
-This Society is recording Sibelius' major works, and five volumes at 2 Gns. each are now available. Your dealer can get these records for you.
-Vol. I—Pohjola's Daughter * Symphony No. 5 in E Flat. "Tapiola." London Symphony Orchestra. (Kajanus)
-Vol. II—Symphony No. 3 in C. London Symphony Orchestra (Kajanus)
-Symphony No. 7 in C. B.B.C. Symphony Orchestra (Koussevitzky)
-Vol. III—Symphony No. 6 in D Minor. Finnish National Orchestra (Schneeweigl).
-String Quartet in D Minor, Op. 56. Voices Intima. Budapest String Quartet.
-Vol. IV—Violin Concerto in D Minor, Op. 47. Heifetz and the London Philharmonic Orchestra. Conducted by Sir Thomas Beecham, Bart.
-"Night Ride and Sunrise"; "The Oceanides." B.B.C. Symphony Orchestra. (Sir Adrian Boult)
-Vol. V—Symphony No. 4 in A Minor. Lemminkäinen zieht heimwärts, Op. 22, No. 4.
-Excerpts from "The Tempest." London Philharmonic Orchestra. Conducted by Sir Thomas Beecham, Bart.
+This Society is recording Sibelius's major works, and five volumes at 2 Gns. each are now available. Your dealer can get these records for you.
+Vol. I—"Pohjola's Daughter" Symphony No. 5 in E Flat. "Tapiola." London Symphony Orchestra. (Kajanus) DB3185
+Vol. II—Symphony No. 3 in C. London Symphony Orchestra (Kajanus) DB3186
+Symphony No. 7 in C. B.B.C. Symphony Orchestra (Koussevitzky) DB3187
+Vol. III—Symphony No. 6 in D Minor. Finnish National Orchestra (Schneeweigl) DB3188
+String Quartet in D Minor, Op. 56. Voices Intima. Budapest String Quartet DB3189
+Vol. IV—Violin Concerto in D Minor, Op. 47. Heifetz and the London Philharmonic Orchestra. Conducted by Sir Thomas Beecham, Bart. DB3190
+"Night Ride and Sunrise"; "The Oceanides." B.B.C. Symphony Orchestra (Sir Adrian Boult) DB3191
+Vol. V—Symphony No. 4 in A Minor. Lemminkainen zieht heimwärts, Op. 22, No. 4. Excerpts from "The Tempest." London Philharmonic Orchestra. Conducted by Sir Thomas Beecham, Bart. DB3192
 
 === Page 13 ===
 ROLLS-ROYCE
@@ -414,7 +417,8 @@ Menuet des Follets ...
 Danse des Sylphes ...
 Marche Hongroise ...
 
-From "The Damnation of Faust") Berlioz 1803-1869
+From "The Damnation of Faust") Berlioz
+1803-1869
 
 Danse des Follets.
 Danse des Sylphes.
@@ -438,11 +442,11 @@ HARRIET TAYLOR - Piano
 IRENE SCHRARRER - Piano
 ANIA DORFMANN - Piano
 FRIEDMAN - Piano
-WALTER GIESEKING - Piano
+WALTER GIESKING - Piano
 EGON PETRI - Piano
 ANATOLE KITAIN - Piano
 LOUIS KENTNER - Piano
-KIRKLAND - Piano
+KIRCH - Piano
 HUBERMAN - Violin
 JOSEPH SZEGETI - Violin
 NATAN MILSTEIN - Violin
@@ -453,12 +457,12 @@ Vocal
 EYA TURNER - (Soprano)
 NORMAN ALLIN - (Bass)
 The Hon. W. BROWNLOW - (Baritone)
-DINO BORGHIOLI - Tenor
+DINO BORGIOLI - Tenor
 HUBERT EISDELL - Tenor
 CHARLES KULLMAN - Tenor
 TINO ROSS - Tenor
-MALCOLM McACHEARN - Bass
-HEDDA NASH - Tenor
+MALCOLM McCAGHERN - Bass
+HELEN NASH - Tenor
 DENNIS NOBLE - Baritone
 MARK RAPHAEL - Baritone
 GEORGES WILLIAMS - Tenor
@@ -471,31 +475,29 @@ ROTH STRING QUARTET
 
 Why Not Order These Records...
 
-WITH SIR THOMAS BEECHAM
-conducting the LONDON PHILHARMONIC ORCHESTRA
+WITH SIR THOMAS BEECHAM conducting the LONDON PHILHARMONIC ORCHESTRA
 
 Beethoven
 SYMPHONY No. 2 in D. Four Records, LX586 9 (6s. each) in Album (free) complete, 24s.
 
 Mozart's
-SYMPHONY No. 29 in A (K201). Three Records, LX586 9 (6s. each).
+SYMPHONY No. 29 in A (K201). Three Records, LX586-8 (6s. each).
 SYMPHONY No. 40 in G minor (K556). Three Records, LX656-8 (6s. each).
 SYMPHONY No. 41 ("Jupiter") in C (K551). Three Records, LX282-5 (6s. each).
 SYMPHONY ("Paris") in D (K297). Three Records, LX54-6 (6s. each).
 
-Beethos SYMPHONY No. 2 in D. Five Records, LX515 9 (6s. each) in Album (free) complete, 30s.
+Beethoven SYMPHONY No. 2 in D. Five Records, LX515 9 (6s. each) in Album (free) complete, 30s.
 
-Delius' SUMMER NIGHT ON THE RIVER. In two parts. Record LBI4 (4s.).
-Handel's SUITE DE BALLET—Origin of design. In two parts. Record LX224 (6s.).
+Delius' SUMMER NIGHT ON THE RIVER. In two parts. Record L814 (4s.).
+Handel's SUITE DE BALLET—Origin of design. In two parts. Record L224 (6s.).
 Haydn SYMPHONY No. 93 in D. Three Records, LX721-3 (6s. each).
 Haydn SYMPHONY No. 99 in E flat. Three Records, LX805-7 (6s. each).
 
 Ask your Dealer to let you hear them!
 
-In addition to the celebrity works here shown, Sir Thomas with the L.P.O. has recorded several popular Operas. Families of these together with other recordings by the London Concertor, will be gladly sent you on request by Columbia of 98-108, Clerkenwell Road, London, E.C.1.
+In addition to the celebrity works here shown, Sir Thomas with the L.P.O. has recorded several popular Orchestral Favourites of these together with other recordings by the London Concert for, will be gladly sent you on request by Columbia of 98-108, Clerkenwell Road, London, E.C.1.
 
-in a selection of Masterworks including recordings of works by the Composers in today's programme—
-
+WITH SIR THOMAS BEECHAM in a selection of Masterworks including recordings of works by the Composers in today's programme—
 BEETHOVEN
 BERLIOZ
 MOZART
@@ -506,10 +508,10 @@ CARNIVAL ROMAIN—Overture (Op. 9). In two parts. Record LX570 (6s.)
 
 Sibelius'
 FESTIVO (Tempo di Bolero). (No. 3 of "Scenes Historiques"). In two parts. Record LX501 (6s.).
-FINLANDIA Tone Poem (Op. 26, No. 7). In two parts. Record LX501 (6s.).
+FINLANDIA Tone Poem (Op. 26, No.7). In two parts. Record LX501 (6s.).
 Offenbach' TALES OF HOFFMANN—Barcarolle and Excerpts. Record LX539 (6s.).
 
-Rossini' ROSSINIANA. Selection. Two Records, LX391-2 (6s. each).
+Rossini' ROSSINIANA Selection. Two Records, LX391-2 (6s. each).
 
 Schubert SYMPHONY No. 5 in B flat. Four Records, LX785-7 (6s. each) and LX788 single-sided (3s.) in Album (free), complete, 21s.
 
@@ -520,7 +522,8 @@ Records of Music from To-day's Programme
 Berlioz' DAMNATION OF FAUST—
 Hungarian March Record
 Dance of the Sylphs Record LX702 (6s.)
-Minuet of the Will Record o' the Wisps ... LX703 (6s.)
+Minuet of the Will Record
+o' the Wisps ... LX703 (6s.)
 
 SIR THOMAS BEECHAM conducting the London Philharmonic Orchestra
 
@@ -529,6 +532,8 @@ Beethoven Symphony No. 1 in C. Three Records (6s.) each in Art Album (free) comp
 WEINGARTNER conducting the Vienna Philharmonic Orchestra.
 
 All the Beethoven Symphonies (Nos. 1 to 9) have been recorded on Columbia by Felix Weingartner—a great recording achievement of special interest and enjoyment to all Beethoven music lovers. Full particulars of this brilliant work will be gladly sent you on request, either by your local dealer or by the Columbia Company (address opposite).
+
+Columbia Records
 
 === Page 16 ===
 from Faust which were, however, subsequently withdrawn from circulation, but the composer was far from abandoning the subject. It was frequently in his mind and when, seventeen years later, he was travelling in Central Europe, he reverted, to it, incorporating most of the eight original scenes in a much larger work, the dramatic legend or concert opera known as The Damnation of Faust. In the Memoirs he writes: "While trailing round Germany in my old postchaise, I composed my Damnation of Faust. Each movement is punctuated by memories of the place where it was written. For instance the Peasants' Dance was jotted down by the light of a shop gas-jet one night when I had lost myself in Pesth, and I got up in the middle of the night at Prague to write the song of the angelic choir." Portions were composed at Vienna and on the Danube steamers. He returned to Paris in April, 1846, and arranged to have this work performed. It was given at the Opéra Comique, December 6th, 1846, and repeated on December 20th, both performances being poorly attended.
@@ -573,8 +578,7 @@ AT A TOUCH
 
 The perfect expression of genius needs a flawless medium. At a touch, the mellow chords of the Bluthner proclaim that here is an instrument worthy of the Master.
 
-Baby Grands from 120 Gns.
-Upright Grands from 75 Gns.
+Baby Grands from 120 Gns.    Upright Grands from 75 Gns.
 
 BLÜTHNER
 

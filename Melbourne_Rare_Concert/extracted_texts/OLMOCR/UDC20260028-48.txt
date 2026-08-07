@@ -9,17 +9,23 @@ PART I
 
 CANTATA... ... "The Viking's Last Voyage"... ... Chadwick
     (Baritone Solo, Mr. Horace E. Stevens)
-    Liedertafel
-SONGS ... ... ... { (a) "Sapphic Ode"... ... ... Brahms
-                { (b) "Resting Place"... ... ... Schubert
+
+Liedertafel
+
+SONGS ... ... ... { (a) "Sapphic Ode"... ... ... ... Brahms
+    { (b) "Resting Place"... ... ... ... Schubert
     Miss Cecilia John
+
 PART SONG (with humming accompaniment) "On the Water"... ... Abt
     Mr. A. W. Jack and Liedertafel
+
 PIANOFORTE SOLO "Liebeslied aus der Walküre"... ... Wagner-Schult
     Mr. Clarence Newell
-RECIT. ... ... ... "E strano" ... ... ... Verdi
+
+RECIT. ... ... ... "E strano" ... ... ... ... Verdi
 ARIA ... ... ... "Ah fors e lui" { (La Traviata) ... Verdi
-Mdlle. Antonia Dolores
+
+MdIle. Antonia Dolores
     { (a) "Boot, Saddle, to Horse, and Away"
     { (b) "King Charles"
     { (c) "Marching Along" } C. V. Stanford
@@ -29,32 +35,43 @@ Mdlle. Antonia Dolores
 PART II
 
 GRAND DOUBLE CHORUS FROM OEDIPUS AT COLONOS ... Mendelssohn
-    Liedertafel
-SONG ... ... ... "The Devout Lover"... ... ... White
+
+Liedertafel
+
+SONG ... ... ... "The Devout Lover"... ... ... ... White
     Mr. Horace E. Stevens
-RECIT. ... ... ... "Allons vite" { (Shallow Song, ) Meyerbeer
-    AIR ... ... ... "Ombre légère" { (Minora, ) Meyerbeer
-Mdlle. Antonia Dolores
-    { (a) Scherzo, Op. 8 (5-8 time) ... ... ... Arensky
-    { (b) "Si oiseau j'étais" ... ... ... Henselt
+
+RECIT. ... ... ... "Allons vite" { (Shallow Song, ) ... Meyerbeer
+    "Ombre légère" { (Minora, ) ... Meyerbeer
+
+MdIle. Antonia Dolores
+
+PIANOFORTE SOLI { (a) Scherzo, Op. 8 (5-8 time)... ... ... ... Arensky
+    { (b) "Si oiseau j'étais"... ... ... ... Henselt
     Mr. Clarence Newell
-SONG ... ... ... "Though I am young and cannot tell"... ... Carmichael
+
+SONG ... ... ... "Though I am young and cannot tell"... ... ... ... Carmichael
     Miss Cecilia John
-SERENADE ... ... ... "The Drowsy Woods"... ... ... Storch
+
+SERENADE ... ... ... "The Drowsy Woods"... ... ... ... Storch
     (Tenor Solo, Mr. G. J. Johnson)
+
+Liedertafel
+
+SONGS ... ... ... { (a) "Nymphs and Shepherds"... ... ... ... Purcell
+    { (b) "O, Listen to the Voice of Love"... ... ... ... Hook (1746-1827)
+
+MdIle. Antonia Dolores
+
+PART SONG ... ... ... "Loyal Song"... ... ... ... Kücken
     Liedertafel
-SONGS ... ... ... { (a) "Nymphs and Shepherds" ... ... Purcell
-                { (b) "O, Listen to the Voice of Love" ... ... Hook (1746-1827)
-Mdlle. Antonia Dolores
-PART SONG ... ... ... "Loyal Song"... ... ... Kücken
-    Liedertafel
+
 GOD SAVE THE KING
 
 === Page 3 ===
 212th Concert
 
-The Royal
-Metropolitan Liedertafel
+The Royal Metropolitan Liedertafel
 
 Conductor: Mr. Ernest Wood
 
@@ -115,6 +132,7 @@ ALLAN & CO. LTD., 276 AND 278 COLLINS STREET
 Members
 
 Tenors
+
 C. P. Rouvray .. 1870
 E. Simmonds .. 1873
 S. Symons .. 1876
@@ -152,7 +170,7 @@ J. E. Oaten .. 1896
 W. E. Porter .. 1898
 H. C. Nicholls .. 1899
 H. F. Briggs .. 1899
-H. O. Hangrave 1900
+H. O. Hangrave .. 1900
 A. G. Hall .. 1901
 F. W. Every .. 1901
 A. H. Charles .. 1901
@@ -165,6 +183,7 @@ R. Cocks .. 1902
 J. D. Wells .. 1902
 
 Basses
+
 E. Miller .. 1870
 J. Fordyce .. 1872
 A. W. Jack .. 1875
@@ -197,14 +216,14 @@ W. Goode .. 1872
 A. Stewart .. 1882
 R. Paterson .. 1882
 J. H. Bayley .. 1889
-A. Vasey .. 1893
+A. Vasev .. 1893
 
 J. Frankland .. 1893
 J. Adams .. 1894
 J. Blanchard .. 1895
 W. Patrick .. 1897
 E. A. Moore .. 1899
-D. Meadowcroft 1899
+D. Meadowcroft .. 1899
 P. A. Ashley .. 1899
 R. B. Tipton .. 1900
 A. W. M'Lean .. 1900
@@ -219,7 +238,7 @@ A. Hyde .. 1902
 === Page 6 ===
 THE SOCIETY WILL BE ASSISTED BY
 
-Madlle. Antonia Dolores
+Mdlle. Antonia Dolores
 
 Miss Cecilia John
 
@@ -266,7 +285,7 @@ The tide was fast ebbing and so was his life-blood,
     He knew that by nightfall he'd enter death's door.
 
 === Page 8 ===
-Sadly, yet bravely, he turned his glance seaward,
+Sadly, yet bravely, he turned his glance seaward.
     He saw his great warship at rest on the strand;
 The ship that had borne him through storm and through battle,
     Her helm ever faithful beneath his firm hand.
@@ -301,7 +320,7 @@ Just as the low sun had gilded with splendour
 And then sunk in crimson behind the far mountains,
     The soul of King Hakon from earth passed away.
 
-In the grey gloaming the moorings were severed,
+In the grey gloaming the moorings were severed.
     The fresh wind blew off shore, the fire leaped up red,
 In clear flame a-burning between the dark islands,
     Straight eastward to Odin, King Hakon's ship sped.
@@ -310,14 +329,13 @@ In clear flame a-burning between the dark islands,
 Songs—
   (a) Sapphic Ode
   (b) Resting Place
-    Miss Cecilia John
-      Brahms
-      Schubert
+
+Miss Cecilia John
 
 Part Song—On the Water
 (WITH HUMMING ACCOMPANIMENT)
+
 Mr. A. W. Jack and Liedertafel
-ABT
 
 Soft the glassy waves are flowing,
   Gently, gently let us glide;
@@ -353,10 +371,12 @@ WAGNER—SCHUTT
 Mr. Clarence Newell
 
 Recit.—E strano
-Aria—Ah fors e lui } (La Traviata) VERDI
+Aria—Ah fors e lui
+(La Traviata)
+VERDI
 Mdlle. Antonia Dolores
 
-Cavaliers’ Songs—
+Cavaliers' Songs—
 (a) Boot, saddle, to horse, and away
 (b) King Charles
 (c) Marching along
@@ -369,9 +389,9 @@ Rescue my castle before the hot day
 Brightens to blue from its silvery grey.
 Boot, saddle, to horse, and away!
 
-Ride past the suburbs, asleep as you’d say,
-Many’s the friend there will listen and pray
-God’s luck to the gallants that strike up the lay.
+Ride past the suburbs, asleep as you'd say,
+Many's the friend there will listen and pray
+God's luck to the gallants that strike up the lay.
 Boot, saddle, to horse, and away!
 
 === Page 11 ===
@@ -490,8 +510,8 @@ And see my country's cause triumphant!
 O all-seeing Jove, defend our great ruler!
         On him the victor's palm bestow!
         With verdant laurels deck his brow!
-            We call on thee, Pallas Athene!
-            Mighty hunter, Pcebus, hear us!
+        We call on thee, Pallas Athene!
+        Mighty hunter, Pcebus, hear us!
 And thy sister, fleet in chase, whose dart unerring
         Pierceth the far distant hart:
         O come, defend our guardians!
@@ -518,7 +538,9 @@ Miss Cecilia John
 
 === Page 16 ===
 Serenade—The Drowsy Woods
-(Tenor Solo, Mr. G. J. Johnson)
+(TENOR SOLO, MR. G. J. JOHNSON)
+STORCH
+
 Liedertafel
 
 The drowsy woods are wrapped in shadow;
@@ -538,14 +560,19 @@ If in thy soul the tones are ringing
 
 Songs—
 (a) Nymphs and Shepherds
+    PURCELL
 (b) O listen to the voice of Love
-    Mdlle. Antonia Dolores
+    HOOK
+    1746-1827
+Mdlle. Antonia Dolores
 
 Part Song—Loyal Song
+KÜCKEN
+
 Liedertafel
 
-Freedom dwells thro'out our own beloved land:
-    Up to heav'n its voice is swelling.
+FREEDOM dwells thro'out our own beloved land:
+    Up to heav'n its voice is swelling,
 From the mountain heights afar to ocean strand
     Ev'ry breeze the tale is telling.
 
@@ -587,13 +614,13 @@ This is the first Concert of the Thirtieth Season. Three are given to ladies and
 
 Intending subscribers may join Class A, £1 1s.; Class B, £2 2s.; Class C, £1 11s. 6d.
 
-Class A.—Two tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—8 TICKETS.
+CLASS A.—Two tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—8 TICKETS.
 
-Class B.—Five tickets for each Concert to ladies and gentlemen, and two for each Concert to gentlemen only—19 TICKETS.
+CLASS B.—Five tickets for each Concert to ladies and gentlemen, and two for each Concert to gentlemen only—19 TICKETS.
 
-Class C.—Three tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—11 TICKETS.
+CLASS C.—Three tickets for each Concert to ladies and gentlemen, and one for each Concert to gentlemen only—11 TICKETS.
 
-Life Subscribers.—The sum of Ten Guineas will secure for life the privileges of Class A.
+LIFE SUBSCRIBERS.—The sum of Ten Guineas will secure for life the privileges of Class A.
 
 Subscribers joining during the year are only charged pro rata.
 
@@ -605,19 +632,13 @@ The Hon. Secretary will be glad to receive nominations from ladies and gentlemen
 
 The Christmas Carol Smoke Concert will be given in the Athenaeum Hall, on Monday evening, 22nd December.
 
-276/8 Collins Street,
-Melbourne.
+276/8 COLLINS STREET,
+MELBOURNE.
 
 McCarron, Bird and Co., Printers, 479 Collins-street.
 
 === Page 19 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 20 ===
 TOWN HALL

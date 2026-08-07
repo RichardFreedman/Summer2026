@@ -11,13 +11,7 @@ WEDNESDAY EVENING
 OCTOBER 21, 1931
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -167,7 +161,7 @@ President: E. LIONEL WILSON
 Conductor: WILLIAM McKIE        Pianist: JOHN SIMONS
 
 "Sweet are the pleasures that to verse belong,
-But doubly sweet a brotherhood in song."---Keats.
+But doubly sweet a brotherhood in song." ---Keats.
 
 "God Save the King"
 
@@ -226,55 +220,56 @@ THE ROYAL VICTORIAN LIEDERTAFEL
 
 Operatic Aria—
 
-"Ave Maria"                Max Bruch
+"Ave Maria" Max Bruch
 (from the "Fiery Cross")
 MAY CRAVEN
 
 Unaccompanied Part Songs—
 
-(a) Hymn to Night           Beethoven
-(b) Cradle Song             MacDowell
+(a) Hymn to Night Beethoven
+(b) Cradle Song MacDowell
 (Presented to the Society by Mr. A. E. Thornton)
 
 THE ROYAL VICTORIAN LIEDERTAFEL
 
 (a) Holy night, oh soothe my breast
     With thy solemn tranquil calm;
-    Give the weary wand'rer rest,
+Give the weary wand'rer rest,
     O'er his sorrows shed thy balm.
 
-    Stars brightly o'er me gleaming,
-    From azure fields are beaming,
-    They set my soul a-dreaming
+Stars brightly o'er me gleaming,
+From azure fields are beaming,
+They set my soul a-dreaming
     Of rest above.
 
-    Hallowed sounds fall on my ear,
+Hallowed sounds fall on my ear,
     Wafted on the nightwind's sighs;
-    Murmurings from some blissful
+Murmurings from some blissful
     sphere,
-    Echoes from love's paradise.
+Echoes from love's paradise.
 
-    On high my glances turning,
-    Where heaven's stars are burning,
-    I dream with fervent yearning
+On high my glances turning,
+Where heaven's stars are burning,
+I dream with fervent yearning
     Of peace and love.
 
 (b) Birdling's flying to his nest,
     Wings are weary roaming,
-    Boats are sailing home to rest,
+Boats are sailing home to rest,
     From the ocean's moaning.
-    Twilight soothes the sun to sleep,
+Twilight soothes the sun to sleep,
     Far has he been coming,
-    Now he sinks in heaven's bed,
+Now he sinks in heaven's bed,
     In the crimson glooming.
-    Birdling rests in his warm nest,
+Birdling rests in his warm nest,
     Boats at anchor rocking,
-    Fast asleep is now the sun,
+Fast asleep is now the sun,
     Hush, my darling's nodding, hush.
 
 'Cello Solo—
 
-Sonata                        Bréval
+Sonata Bréval
+
 Allegro Assai—
 Adagio Molto Cantabile—
 Rondo
@@ -286,15 +281,11 @@ MAY CRAVEN,
 Operatic Soprano.
 
 === Page 8 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 9 ===
+THE ROYAL VICTORIAN LIEDERTAFEL
+
 Baritone Solos (with Male Chorus)—
 
 "Songs of the Sea"        C. Villiers Stanford
@@ -351,7 +342,7 @@ O Mother, think on us who think on thee!
 Earth-home, birth-home, with love remember yet
 The sons in exile on the eternal sea.
 
-DEVON, O DEVON, IN WIND AND RAIN
+DEVON. O DEVON, IN WIND AND RAIN
 
 Drake, in the North Sea grimly prowling,
 Treading his dear Revenge's deck.
@@ -362,78 +353,78 @@ Galleons drifting wreck by wreck.
 THE ROYAL VICTORIAN LIEDERTAFEL
 
 "Fetter and Faith for England's neck,
-  Faggot and Father, Saint and chain,—
+Faggot and Father, Saint and chain,—
 Yonder the Devil and all go howling,
-  Devon, O Devon, in wind and rain!"
+Devon, O Devon, in wind and rain!"
 Drake at the last off Nombre lying,
-  Knowing the night that towards him crept,
+Knowing the night that towards him crept,
 Gave to the sea-dogs around him crying
-  This for a sign before he slept:—
+This for a sign before he slept:—
 "Pride of the West! what Devon hath kept
-  Devon shall keep on tide or main:
+Devon shall keep on tide or main:
 Call to the storm and drive them flying,
-  Devon, O Devon, in wind and rain!"
+Devon, O Devon, in wind and rain!"
 
 Volour of England gaunt and whitening,
-  Far in a South-land brought to bay*;
-Locked in a death-grip all day tight'ning,
-  Waited the end in twilight gray.
+Far in a South-land brought to bay*;
+Locked in a death-grip all day tight'nig,
+Waited the end in twilight gray.
 Battle and storm and the sea-dog's way!
-  Drake from his long rest turn'd again,
+Drake from his long rest turn'd again,
 Victory lit thy steel with lightning,
-  Devon, O Devon, in wind and rain!!
+Devon, O Devon, in wind and rain!!
 *Waggon Hill, 6th January, 1900.
 
-HOMEWARD BOUND
+HOMeward BOUND
 
 After long labouring in the windy ways,
-  On smooth and shining tides,
+On smooth and shining tides,
 Swiftly the great ship glides,
-  Her storms forgot, her weary watches past!
+Her storms forgot, her weary watches past!
 Northward she glides, and thro' the enchanted haze
-  Faint on the verge her far hope dawns at least,
+Faint on the verge her far hope dawns at least,
 The phantom skyline of a shadowy down
-  Whose pale white cliffs below,
+Whose pale white cliffs below,
 Thro' sunny mists aglow,
-  Like noonday ghosts of summer moonshine gleam—
+Like noonday ghosts of summer moonshine gleam—
 Soft as old sorrow, bright as old renown,
-  There lies the home of all our mortal dream.
+There lies the home of all our mortal dream.
 
 THE OLD SUPERB
 
 The wind was rising easterly, the morning sky was blue,
-  The straits before us opened wide and free;
+The straits before us opened wide and free;
 We looked towards the Admiral, where high the Peter flew,
-  And all our hearts were dancing like the sea.
+And all our hearts were dancing like the sea.
 The foe are gone to Martinique with four and twenty sail,
-  The "Old Superb" is old and foul and slow!
+The "Old Superb" is old and foul and slow!
 But the foe are gone to Martinique, and Nelson's on the trail,
-  And where he goes the "Old Superb" must go.
+And where he goes the "Old Superb" must go.
 
 So Westward ho! for Trinidad, and Eastward ho! for Spain,
-  And "Ship ahoy!" a hundred times a day;
+And "Ship ahoy!" a hundred times a day;
 Round the world if need be, and round the world again,
-  With a lame duck lagging all the way.
+With a lame duck lagging all the way.
 The "Old Superb" was barnacled and green as grass below,
-  Her sticks were only fit for stirring grog;
+Her sticks were only fit for stirring grog;
 The pride of all her midshipmen was silent long ago,
-  And long ago they ceased to heave the log.
+And long ago they ceased to heave the log.
 Four years out from home she was, and ne'er a week in port,
-  And nothing save the guns aboard her bright;
+And nothing save the guns aboard her bright;
 But Captain Keats he knew the game, and swore to share the sport,
-  For he never yet come in too late to fight.
-  So Westward ho; etc.
+For he never yet come in too late to fight.
+So Westward ho; etc.
 
 "Now up, my lads," the Captain cried,
-  "For sure the case were hard,
+"For sure the case were hard,
 If longest out were first to fall behind;
-  Aloft, aloft with studding-sails, and lash them on the yard,
+Aloft, aloft with studding-sails, and lash them on the yard,
 For night and day the Trades are driving blind."
 So all day long and all day long behind the fleet we crept,
-  And how we fretted none but Nelson guessed;
+And how we fretted none but Nelson guessed;
 But ev'ry night the "Old Superb," she sail'd while others slept,
-  Till we ran the foe to earth with all the rest.
-  O 'twas Westward ho! etc.
+Till we ran the foe to earth with all the rest.
+O 'twas Westward ho! etc.
 
 === Page 11 ===
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -446,7 +437,6 @@ Which pierce the sense and live within the soul." ---Shelley.
 PART II.
 
 Part Song—
-
 "St. John's Eve"                Rheinberger
 
 THE ROYAL VICTORIAN LIEDERTAFEL
@@ -478,18 +468,14 @@ Such peace and beauty are combined,
 That man rejoiceth, prayeth, list'neth.
 
 Songs—
-
 (a) At Night                Rachmaninoff
-
-(b) Birthday Song                MacFadgen
+(b) Birthday Song            MacFadgen
 
 MAY CRAVEN
 
 'Cello Soli—
-
-(a) Apres le reve                Fauré
-
-(b) Toccata                Frescobaldi
+(a) Apres le reve            Fauré
+(b) Toccata                  Frescobaldi
 
 GWEN PROCKTER
 
@@ -530,19 +516,7 @@ And now for our dear homes."
 ---Coleridge.
 
 === Page 13 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 14 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

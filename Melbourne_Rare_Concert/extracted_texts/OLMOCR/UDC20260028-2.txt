@@ -7,43 +7,31 @@ MUSASHINO ACADEMIA MUSICAЕ
 TOKYO JAPAN
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 CONTENTS
 
 REGULAR CONCERTS
-    Orchestra and Chorus .................................................. 1
-    Wind Ensemble .......................................................... 1
+    Orchestra and Chorus ......................................................... 1
+    Wind Ensemble ............................................................................. 1
 
 SPECIAL CONCERTS
-    Vlado Perlemuter Piano Recital ........................................ 2
-    Edmund Kurtz Cello Recital ............................................. 2
-    Detlef Kraus Brahms Series ............................................. 3
-    George Vasarhelyi Piano Recital ....................................... 3
+    Vlado Perlemuter Piano Recital ............................................. 2
+    Edmund Kurtz Cello Recital ..................................................... 2
+    Detlef Kraus Brahms Series ..................................................... 3
+    George Vasarhelyi Piano Recital ............................................. 3
 
-OPERA ..................................................................................... 4
+OPERA ............................................................................................. 4
 
-STUDENT RECITALS ............................................................. 5
+STUDENT RECITALS ....................................................................... 5
 
 WEDNESDAY CONCERTS and SATURDAY CONCERTS ..................... 8
 
-GROUP CONCERTS .................................................................. 12
+GROUP CONCERTS ......................................................................... 12
 
 === Page 4 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 5 ===
 REGULAR CONCERTS
@@ -55,9 +43,9 @@ Wednesday, December 4, 1968 at 7:00 p.m./Tokyo Bunka Kaikan
 CONDUCTOR: AKEO WATANABE
 SOLOIST: YOSHIKO IKUTA (Piano)
 
-L. v. Beethoven .....................................................Overture "Egmont"
+L. v. Beethoven .........................................................Overture "Egmont"
 F. Liszt .....................................................Concerto for Piano and Orchestra No. 1 E flat major
-L. Cherubini .....................................................Requiem Mass c minor
+L. Cherubini .........................................................Requiem Mass c minor
 
 WIND ENSEMBLE (Chamber Music)
 
@@ -67,7 +55,7 @@ CONDUCTOR: MASAJI KATO
 PIANO: HARUYO OKADA, MASAE SUGA
 PERCUSSIONS: YOSHITAKA KOBAYASHI, SHIRO ICHIOKA
 
-H. Tomasi .....................................................Liturgic Fanfares
+H. Tomasi .........................................................Liturgic Fanfares
 B. Bartok .....................................................Sonata for Two Pianos and Percussions
 R. Strauss .....................................................Symphony for Winds
 
@@ -78,7 +66,7 @@ Saturday, January 18, 1969 at 3:00 p.m./Beethoven Hall
 CONDUCTER: MASAJI KATO
 PIANO: KAZUO KURITA
 
-F. Mendelssohn .....................................................Overture "Pour Musique D'harmonie" Op. 24
+F. Mendelssohn .........................................................Overture "Pour Musique D'harmonie" Op. 24
 P. Fauchet .....................................................Symphony in B flat
 G. Holst .....................................................Hammersmith Op. 52
 G. Gershwin .....................................................Rhapsody in Blue
@@ -91,32 +79,31 @@ VLADO PERLEMUTER PIANO RECITAL
 
 Thursday, November 14, 1968 at 7:00 p.m. / Toranomon Hall
 
-G. Fauré ..................................................... Theme and Variations Op. 73
-M. Ravel ..................................................... Sonatine
-C. Debussy .................................................. Suite for the Piano
-F. Chopin .................................................... 24 Preludes Op. 28
+G. Fauré ......................................................... Theme and Variations Op. 73
+M. Ravel ............................................................ Sonatine
+C. Debussy ....................................................... Suite for the Piano
+F. Chopin ......................................................... 24 Preludes Op. 28
 
 Saturday, November 30, 1968 at 3:00 p.m. / Beethoven Hall
 
-J. S. Bach .................................................. Italian Concerto BWV 971
-L. v. Beethoven ............................................. Sonata f minor Op. 57 "Appassionata"
-F. Chopin ................................................... 3 Mazurukas
-F. Chopin ................................................... Sonata b minor Op. 58
+J. S. Bach ......................................................... Italian Concerto BWV 971
+L. v. Beethoven .................................................. Sonata f minor Op. 57 "Appassionata"
+F. Chopin ......................................................... 3 Mazurukas
+F. Chopin ......................................................... Sonata b minor Op. 58
 
 EDMUND KURTZ VIOLONCELLO RECITAL
 
 Friday, November 15, 1968 at 4:00 p.m. / Mozart Hall
 
-Z. Kodaly .................................................. Sonata for Violoncello alone Op. 8
-B. Britten .................................................. Suite for Violoncello alone Op. 72
-J. Brahms .................................................. Sonata No. 2 F major Op. 88
+Z. Kodaly ......................................................... Sonata for Violoncello alone Op. 8
+B. Britten ....................................................... Suite for Violoncello alone Op. 72
+J. Brahms ....................................................... Sonata No. 2 F major Op. 88
 
 === Page 7 ===
 "BRAHMS SERIES"
 
 The complete Piano works for 2 hands by J. Brahms
 Played by Detlef Kraus
-
 at 4:10 p.m./Mozart Hall
 
 1969
@@ -124,31 +111,31 @@ at 4:10 p.m./Mozart Hall
 Tuesday, January 14 .............................................Rhapsody g minor Op. 79-2
                                                                  Ballades Op. 10
 Variations and Fugue on a theme by Händel Op. 24
-                                                                 8 Piano pieces Op. 76
+8 Piano pieces Op. 76
 
 Wednesday, January 15 ........Variations on a theme by Robert Schumann Op. 9
-                                                                 Sonata C major Op. 1
-                                                                 6 Piano pieces Op. 118
-                                                                 Scherzo e flat minor Op. 4
+Sonata C major Op. 1
+6 Piano pieces Op. 118
+Scherzo e flat minor Op. 4
 
-Thursday, January 16 .............................................Variations on an own theme Op. 21-1
-                                                                 Sonata f minor Op. 5
-                                                                 Fantasies Op. 116
+Thursday, January 16.............................Variations on an own theme Op. 21-1
+Sonata f minor Op. 5
+Fantasies Op. 116
 Variations on a Hungarian song Op. 21-2
 
 Friday, January 17 .............................................Rhapsody b minor Op. 79-1
-                                                                 Sonata f sharp minor Op. 2
-                                                                 4 Piano pieces Op. 119
-                                                                 3 Intermezzos on a theme by Paganini Op. 35
+Sonata f sharp minor Op. 2
+4 Piano pieces Op. 119
+3 Intermezzos on a theme by Paganini Op. 35
 
 GEORGE VASARHELYI PIANO RECITAL
 
 Saturday, March 8, 1969 at 7.00 p.m./Tokyo Bunkakaikan Recital Hall
 
-W.A. Mozart .........................................................Fantasy d minor K. 397
-W.A. Mozart .........................................................Sonata B flat major K. 333
-R. Schumann .........................................................Davidsbündler Dances Op. 6
-F. Liszt .............................................................Sonata b minor
+W.A. Mozart .......................................................Fantasy d minor K. 397
+W.A. Mozart .......................................................Sonata B flat major K. 333
+R. Schumann .....................................................Davidsbündler Dances Op. 6
+F. Liszt ............................................................Sonata b minor
 
 === Page 8 ===
 OPERA
@@ -177,122 +164,105 @@ Soloists were selected by a serious public audition
 STUDENT RECITAL
 
 Every student enrolled in the post-graduate courses leading to either master's degree or artist's diploma is required to give a recital at the end of the school year.
-
 Programs listed here are performed by three or four students as group.
 
-Monday, June 17, 1968 at 1:10 p.m., Mozart Hall
-
+Monday, June 17, 1968 at 1:10 p.m./Mozart Hall
 J. S. Bach .................................................. Toccata and Fugue No. 3 g minor
 F. Chopin .................................................. Fantasia f minor Op. 49
-R. Schumann ............................................. Sonata g minor Op. 22
+R. Schumann .................................................. Sonata g minor Op. 22
 J. Brahms .................................................. Piano Pieces Op. 119
 I. Albéniz .................................................. Triana
 
-Monday, June 24, 1968 at 1:10 p.m., Mozart Hall
-
+Monday, June 24, 1968 at 1:10 p.m./Mozart Hall
 J. S. Bach .................................................. "Christmas Oratorio"
 No. 8 Grosser Herr und starker König
-No. 47 Erleucht auch meine finst're Sinnen
-
+No. 47 Erleucht auch meine finstren Sinnen
 L. v. Beethoven ............................................. "Sechs Lieder von Gellert"
-
-H. Wolf ..................................................... Anakreons Grab
+H. Wolf .................................................. Anakreons Grab
 Er ist's
 Verborgenheit
 Mignon
-
-E. Grieg .................................................... Ich liebe dich
+E. Grieg .................................................. Ich liebe dich
 Ein Schwan
 Ein Traum
-
-W. A. Mozart ............................................. "Die Zauberflöte"
+W. A. Mozart .................................................. "Die Zauberflöte"
 Der Vogelfänger bin ich ja
 Papagena, Papagena
-
-U. Giordano ............................................. "Andrea Chénier"
+U. Giordano .................................................. "Andrea Chénier"
 La mamma morta
 
 === Page 10 ===
 Monday, December 9, 1968 at 1:10 p.m./Mozart Hall
-
-W. A. Mozart .................................................................Sonata c minor K. 457
-L. v. Beethoven .............................................................32 Variations c minor
-R. Schumann .................................................................Symphonic Etudes Op. 13
-X. Montsalvatge ............................................................Sonatine for Yvette
+W. A. Mozart ....................................................Sonata c minor K. 457
+L. v. Beethoven ..................................................32 Variations c minor
+R. Schumann .....................................................Symphonic Etudes Op. 13
+X. Montsalvatge ................................................Sonatine for Yvette
 
 Tuesday, December 10, 1968 at 1:10 p.m./Mozart Hall
-
-J. S. Bach .................................................................Preludes and Fugue f sharp minor
-R. Schumann .................................................................Carnival Op. 9
-G. Fauré .................................................................Impromptu Op. 31
+J. S. Bach.......................................................Preludes and Fugue f sharp minor
+R. Schumann .....................................................Carnival Op. 9
+G. Fauré ..........................................................Impromptu Op. 31
 
 Wednesday, December 11, 1968 at 1:10 p.m./Mozart Hall
-
-J. Brahms .................................................................Variations on a Theme by R. Schumann Op. 9
-F. Liszt ................................................................."Apres une lecture du Dante", Fantasia quasi sonata
-C. Debussy .................................................................Les collines d'Anacapri General Lavine eccentric
+J. Brahms .......................................................Variations on a Theme by R. Schumann Op. 9
+F. Liszt........................................................."Apres une lecture du Dante", Fantasia quasi sonata
+C. Debussy.....................................................Les collines d'Anacapri General Lavine eccentric
 
 Thursday, December 12, 1968 at 1:10 p.m./Mozart Hall
-
-W. A. Mozart .................................................................Fantasy d minor K. 397
-L. v. Beethoven .............................................................Sonata E major Op. 109
-R. Schumann .................................................................Symphonic etudes Op. 13
-J. Brahms .................................................................Variations and Fugue on a Theme by Handel Op. 24
+W. A. Mozart....................................................Fantasiey d minor K. 397
+L. v. Beethoven ..................................................Sonata E major Op. 109
+R. Schumann .....................................................Symphonic etudes Op. 13
+J. Brahms .......................................................Variations and Fugue on a Theme by Handel Op. 24
 
 Thursday, January 9, 1969 at 10:00 a.m./Mozart Hall
-
-G. B. Pergolesi ............................................................."La serva padrone"
+G. B. Pergolesi .................................................."La serva padrone"
 A Serpina penserete
-G. Giordani .................................................................Caro mio ben
-S. Donaudy .................................................................Perduta ho la speranza
-V. Bellini ................................................................."La Sonnambula"
+G. Giordani .....................................................Caro mio ben
+S. Donaudy .....................................................Perduta ho la speranza
+V. Bellini ......................................................"La Sonnambula"
 Ah! non credea mirarti
-L. Cherubini .................................................................Ahi! sola quand'io
-O. Respighi .................................................................Nebbie
-G. Verdi .................................................................Il poveretto
+L. Cherubini ...................................................Ahi! sola quand'io
+O. Respighi ....................................................Nebbie
+G. Verdi ..........................................................Il poveretto
 "La Traviata"
 Addio del passato
 
 === Page 11 ===
 Friday, January 10, 1969 at 10:00 a.m./Mozart Hall
 
-W. A. Mozart ....................................................."Le Nozze di Figaro"
-Non so più cosa son
-Voi, che sapete
-
-R. Schumann .....................................................Widmung Op. 25-1
-Mondnacht Op. 39-5
-Schöne Fremde Op. 39-6
-
-H. Wolf .....................................................Italienisches Liederbuch
-
-F. Schubert .....................................................Am Strome Op. 8-4
-Ganymed Op. 19-3
-
-R. Wagner .....................................................5 Gedichte von Mathilde Wesendonk
+W. A. Mozart ................................................................. "Le Nozze di Figaro"
+                                                                 Non so più cosa son
+                                                                 Voi, che sapete
+R. Schumann ................................................................. Widmung Op. 25-1
+                                                                 Mondnacht Op. 39-5
+                                                                 Schöne Fremde Op. 39-6
+H. Wolf ................................................................. Italienisches Liederbuch
+F. Schubert ................................................................. Am Strome Op. 8-4
+                                                                 Ganymed Op. 19-3
+R. Wagner ................................................................. 5 Gedichte von Mathilde Wesendonk
 
 Saturday, January 11, 1969 at 10:00 a.m./Mozart Hall
 
-L. v. Beethoven .....................................................Sechs Lieder von Gellert Op. 48
-R. Schumann .....................................................Frauen-Liebe und Leben Op. 42
-J. Brahms .....................................................5 Lieder Op. 105
-H. Pfitzner .....................................................Leuchtende Tage Op. 40-1
+L. v. Beethoven ................................................................. Sechs Lieder von Gellert Op. 48
+R. Schumann ................................................................. Frauen-Liebe und Leben Op. 42
+J. Brahms ................................................................. 5 Lieder Op. 105
+H. Pfitzner ................................................................. Leuchtende Tage Op. 40-1
 
 Monday, January 13, 1969 at 10:00 a.m./Mozart Hall
 
-C. M. v. Weber ..................Grand duo Concertanto for Clarinet and Piano Op. 48
-C. Franck .....................................................Violin Sonata A major
-J. Sibelius .....................................................Violin Concerto d minor
-R. V. Williams .....................................................Concerto for Bass Tuba
+C. M. v. Weber .................. Grand duo Concertanto for Clarinet and Piano Op. 48
+C. Franck ................................................................. Violin Sonata A major
+J. Sibelius ................................................................. Violin Concerto d minor
+R. V. Williams ............................................................. Concerto for Bass Tuba
 
 Tuesday, January 14, 1969 at 10:00 a.m./Mozart Hall
 
-W. A. Mozart .....................................................Piano Sonata D major K. 576
-L. v. Beethoven .....................................................Piano Sonata F sharp major Op. 78
-J. Haydn ....................................................."Die Jahreszeiten"
-Schon eilet froh der Ackersmann
-G. Puccini .....................................................E L'uccellino
-V. Billi .....................................................E canta il grillo
+W. A. Mozart ................................................................. Piano Sonata D major K. 576
+L. v. Beethoven ............................................................. Piano Sonata F sharp major Op. 78
+J. Haydn ................................................................. "Die Jahreszeiten"
+                                                                 Schon eilet froh der Ackersmann
+G. Puccini ................................................................. E L'uccellino
+V. Billi ................................................................. E canta il grillo
 
 === Page 12 ===
 WEDNESDAY CONCERT and SATURDAY CONCERT
@@ -301,13 +271,13 @@ Wednesday concert and Saturday concert series, open to public, are considered an
 
 Wed. April 24, 1968
 Herbert Brauer (Bariton)
-F. Schubert ............................................................."Die schöne Müllerin"
+F. Schubert ....................................................."Die schöne Müllerin"
 
 Wed. May 1, 1968
 Jürgen Uhde (Piano)
-J. S. Bach .........................................................Preludes and Fugue c sharp minor No. 4 BWV 849
-L. v. Beethoven ....................................................Sonata c minor Op. 111
-L. v. Beethoven ....................................................33 Variations, Walzer von Diabelli Op. 120
+J. S. Bach .............................................Preludes and Fugue c sharp minor No. 4 BWV 849
+L. v. Beethoven .............................................Sonata c minor Op. 111
+L. v. Beethoven.............................................33 Variations, Walzer von Diabelli Op. 120
 
 Wed. June 19, 1968
 Vocal Concert by Students
@@ -315,19 +285,19 @@ Arias by G. Donizetti, G. Puccini, G. Verdi and W. A. Mozart
 
 Wed. October 9, 1968
 Denes Zsigmondy (Violin)
-R. Schumann .........................................................Sonata a minor Op. 105
-S. Prokofiev .......................................................3 Melodies Op. 35
-B. Bartok ............................................................Sonata for Violin alone
-L. v. Beethoven ....................................................Sonata c minor Op. 30 No. 2
+R. Schumann .............................................Sonata a minor Op. 105
+S. Prokofiev .............................................3 Melodies Op. 35
+B. Bartok .............................................Sonata for Violin alone
+L. v. Beethoven .............................................Sonata c minor Op. 30 No. 2
 
 Sat. October 12, 1968
 Vocal Concert by Students
-R. Schumann .........................................................Das verlassene Mägdelein
+R. Schumann .............................................Das verlassene Mägdelein
 Der Knabe mit dem Wunderhorn
-J. Brahms ............................................................Geheimnis
+J. Brahms .............................................Geheimnis
 Es liebt sich so lieblich in Lenze
-G. Fauré .............................................................Clair de lune
-A. Dvorak ...........................................................Ich hebe meine Augen
+G. Fauré .............................................Clair de lune
+A. Dvorak .............................................Ich hebe meine Augen
 Herr, nun sing ich dir ein neues Lied
 
 === Page 13 ===
@@ -360,79 +330,79 @@ J. Brahms.................................................................Nachti
 R. Strauss .................................................................Allerseelen
                                                                                       Du meines Herzens Krönelein
                                                                                       Ich trage meine Minne
-H. Wolf .................................................................Das verlassene Mägdelein
+H. Wolf .................................................................Das verlassene Mägdlein
                                                                                       In dem Schatten meiner Locken
 
 === Page 14 ===
 Sat. October 26, 1968
 Piano Concert by Students
-Bach-Tausig ..................................................... Toccata and Fugue d minor
-F. Chopin ......................................................... Polonaise-Fantasie Np. 61
-M. Ravel .......................................................... Alborada del gracioso
-S. Prokofiev ..................................................... Sonata d minor Op. 14
-D. Kabalevsky .................................................. Sonata No. 3
+Bach-Tausig .................................................. Toccata and Fugue d minor
+F. Chopin ..................................................... Polonaise-Fantasie Np. 61
+M. Ravel ..................................................... Alborada del gracioso
+S. Prokofiev .................................................. Sonata d minor Op. 14
+D. Kabalevsky ................................................ Sonata No. 3
 
 Wed. November 13, 1968
 George Vasárhelyi (Piano)
-F. Liszt ............................................................ Sonetto 104 del Petrarca
-C. Debussy ....................................................... Voiles
+F. Liszt ....................................................... Sonetto 104 del Petrarca
+C. Debussy ................................................... Voiles
 Ce qu'a vu le vent d'ouest
-B. Bartok .......................................................... Rondo
+B. Bartok ..................................................... Rondo
 Allegro barbaro
 Klagegesang für Kinder
 
 Wed. November 27, 1968
 String Ensemble by Students
-L. v. Beethoven .................................................. Quartet f minor Op. 95
-D. Shostakovich .................................................. Piano Quintet Op. 57
-E. Chausson ..................................................... Concerto for Violin, Piano and Strings Op. 21
+L. v. Beethoven ............................................. Quartet f minor Op. 95
+D. Shostakovich ............................................. Piano Quintet Op. 57
+E. Chausson .................................................. Concerto for Violin, Piano and Strings Op. 21
 
 Sat. November 30, 1968
 Vocal Ensemble by Students
-W. A. Mozart ..................................................... "Die Zauberflote"
+W. A. Mozart .................................................. "Die Zauberflote"
 No. 1 Zu Hilfe! zu Hilfe!
 No. 5 Hm, hm, hm
 No. 16 Seid uns zum zweitenmal willkommen
 No. 21 Finale
-W. A. Mozart ..................................................... "Cosi fan tutte"
+W. A. Mozart .................................................. "Cosi fan tutte"
 No. 10 Soave sia il vento
 No. 18 Ah che tutta in un momento
-G. Puccini .......................................................... "La Boheme"
+G. Puccini .................................................... "La Boheme"
 Addio dolce svegliare alla mattina!
-G. Bizet ............................................................ "Carmen"
+G. Bizet ....................................................... "Carmen"
 No. 15 Nous avons en tête une affair
-P. Mascagni ...................................................... "L'amico Fritz"
+P. Mascagni .................................................. "L'amico Fritz"
 Duetto Le eliege
 
 === Page 15 ===
 Sat. December 7, 1968
 String Ensemble by Students
-W. A. Mozart .........................................................Eine kleine Nachtmusik
-E. Grieg .............................................................Letzter Frühling
-G. Rossini ............................................................Sonata No. 4
-B. Britten ............................................................Simple Symphony Op. 4
-P. I. Tschaikowsky ..................................................Serenade
+W. A. Mozart ..................................................Eine kleine Nachtmusik
+E. Grieg .....................................................Letzter Frühling
+G. Rossini ..................................................Sonata No. 4
+B. Britten ..................................................Simple Symphony Op. 4
+P. I. Tschaikowsky .............................................Serenade
 
 Sat. December 7, 1968
 Piano Concert by Students
-F. Liszt ...............................................................Sonetto 47, 104 del Petrarca
-L. v. Beethoven .....................................................Concerto c minor Op. 37
-P. Tschaikowsky ....................................................Grand Sonata G major Op. 37
-Hisatada Odaka .....................................................Sonatine
+F. Liszt .....................................................Sonetto 47, 104 del Petrarca
+L. v. Beethoven .............................................Concerto c minor Op. 37
+P. Tschaikowsky .............................................Grand Sonata G major Op. 37
+Hisatada Odaka ..............................................Sonatine
 
 Sat. January 11, 1969
 Miyoko Sato (Violin)
-H. Eccles ............................................................Sonata g minor
-C. Franck ............................................................Sonata A major
-O. Fauré ............................................................Andante
-B. Bartok ............................................................Rumanian Folk Dances
+H. Eccles ..................................................Sonata g minor
+C. Franck ..................................................Sonata A major
+O. Fauré ..................................................Andante
+B. Bartok ..................................................Rumanian Folk Dances
 
 Sat. January 18, 1969
 Chamber Chorus and String Ensemble
 Chamber Chorus
-J. Brahms ...........................................................Zigeunerlieder Op. 103
+J. Brahms ..................................................Zigeunerlieder Op. 103
 String Ensemble
-E. Grieg ............................................................Holberg Suite Op. 40
+E. Grieg ..................................................Holberg Suite Op. 40
 
 === Page 16 ===
 GROUP CONCERT
@@ -440,19 +410,7 @@ GROUP CONCERT
 Group concerts are planned all students to participate in one of the concerts. Through these performances each student has an opportunity of appearing before their teachers and fellow students. On account of space consideration we have to omit programs of the concerts.
 
 === Page 17 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 18 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

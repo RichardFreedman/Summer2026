@@ -1,18 +1,13 @@
 === Page 1 ===
-MELBOURNE LIEDERTAFEL
+MELBOURNE
+LIEDERTAFEL
 
 291st Concert. Town Hall, Melbourne Monday Evening, July 31st, 1905.
 
 WILKE & BOWDEN PRINT.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 By Special Appointment To His Excellency the Governor-General.
@@ -29,7 +24,7 @@ Engagement Rings,
 Opal Jewellery.
 
 No. 197.
-Pearl and Diamond Brooch. £15.
+Pearl and Diamond Brooch, £15.
 
 No. 188.
 Baroque Pearl and Diamond Brooch, £12 10s.
@@ -53,75 +48,75 @@ INSTITUTED 1868.
 RE-CONSTITUTED 1879.
 
 Patrons:
-HIS EXCELLENCY THE GOVERNOR-GENERAL.
-THE RIGHT HON. LORD NORTHCOTE, G.C.I.E., C.B.
+His Excellency the Governor-General.
+The Right Hon. Lord Northcote, G.C.I.E., C.B.
 
-HIS EXCELLENCY
-SIR JOHN MADDEN, K.C.M.G.,
-LIEUTENANT-GOVERNOR.
+His Excellency
+Sir John Madden, K.C.M.G.,
+Lieutenant-Governor.
 
-SIR MALCOLM McEACHARN, K.B.
+Sir Malcolm McEacharn, K.B.
 
 Patroness:
-JANET, LADY CLARKE.
+Janet, Lady Clarke.
 
 President.
-THE HON. SIR SAMUEL GILLOTT, K.B., M.L.A.
+The Hon. Sir Samuel Gillott, K.B., M.L.A.
 
 Vice-Presidents:
-THE HON. F. S. GRIMWADE.
-SIR ARTHUR SNOWDEN, K.B.
-E. G. FITZGIBBON, Esq., C.M.G.
+The Hon. F. S. Grimwade.
+Sir Arthur Snowden, K.B.
+E. G. Fitzgibbon, Esq., C.M.G.
 
 Council:
 Representing
 Subscribing Members.
-MR. CARL PINSCHOF.
-MR. J. H. THOMPSON.
-MR. F. TATE, M.A.
-MR. A. H. HASELL.
+Mr. Carl Pinschof.
+Mr. J. H. Thompson.
+Mr. F. Tate, M.A.
+Mr. A. H. Hasell.
 
 Representing
 Performing Members.
-DR. H. L. MURRAY.
-MR. A. A. BISHOP.
-MR. S. J. PERRY.
-MR. ALFRED PARDY.
-MR. F. W. THOMAS.
+Dr. H. L. Murray.
+Mr. A. A. Bishop.
+Mr. S. J. Perry.
+Mr. Alfred Pardy.
+Mr. F. W. Thomas.
 
 Representing
 Orchestra.
-MR. J. W. DAWSON.
-MR. F. TAYLOR.
+Mr. J. W. Dawson.
+Mr. F. Taylor.
 
 Hon. Conductor:
-PRO. MARSHALL-HALL.
+Pro. Marshall-Hall.
 
 Hon. Treasurer:
-MR. H. E. MORGAN.
+Mr. H. E. Morgan.
 
 Conductor:
-MR. AUGUST SIEDE.
+Mr. August Siebe.
 
 Hon. Pianist & Organist:
-MR. MANSLEY GREER.
+Mr. Mansley Greer.
 
 Hon. Auditors:
-MR. A. E. WHITEHEAD
-MR. JOHN LANG.
+Mr. A. E. Whitehead
+Mr. John Lang.
 
 Deputy Hon. Pianistis:
-MR. H. S. ELVINS.
-MR. FREDK. MEWTON.
+Mr. H. S. Elvins.
+Mr. Fredk. Mewtone.
 
 Hon. Librarian:
-MR. J. STATTERS.
+Mr. J. Statters.
 
 Asst. Hon. Librarian:
-MR. W. WILCOX.
+Mr. W. Wilcox.
 
 Hon. Secretary:
-MR. E. L. WILSON.
+Mr. E. L. Wilson.
 
 === Page 5 ===
 W. WATSON & SONS
@@ -150,11 +145,11 @@ Ladies are advised that Mr. Eve and staff of fully qualified hair colorers are d
 
 Mr. Eve may be consulted free of charge, on all matters relating to premature greyness, loss of hair, bald patches.
 
-A leading doctor says: "That wonderful coloring for the hair which by one application removes all traces of the finger marks of time and worry—otherwise grey hair, called 'Shadeine.'" Price, 5/6. Posted throughout the States, 6/-
+A leading doctor says: "That wonderful coloring for the hair which by one application removes all traces of the finger marks of time and worry—otherwise grey hair, called 'Shadeine.' Price, 5/6. Posted throughout the States, 6/-"
 
 J. S. EVE, Hair Specialist, 114 Bourke St.,
 exactly opposite Eastern Market, MELBOURNE.
-Established 50 Years. Notice Name before entering.
+Established 50 Years.
 
 === Page 6 ===
 Members of the Choir
@@ -163,8 +158,8 @@ FIRST TENOR.
 Manson, D. E. (Capt.)
 Aylwin, A. R.
 *Dyer, J.
-*Hart, J. W.
-Thackeray, J.
+*Harris, J. W.
+Thatcher, J.
 Swamburne, B. H.
 Bett, D.
 Brunton, W.
@@ -179,11 +174,11 @@ Tullo, O. C.
 Pedersen, O. E.
 *Robinson, H. J.
 Fardy, Alfred
-Golding, J. F.
+*Golding, J. F.
 *Gladman, F. F.
 Richardson, Geo.
 Shea, J.
-*Schellenberger, E.
+*Scheffenberger, E.
 Woess, C.
 McDonough H.
 Paterson, D.
@@ -248,7 +243,7 @@ Lang, E. J.
 Trevean, W.
 Thompson, R. H.
 Jones, W. J. B.
-Irvine, S.
+*Higgs, S.
 Thomas, A. A.
 Matthews, A.
 *Hasell, A. H.
@@ -271,7 +266,7 @@ Murray, Dr. H. L.
 Pepper, F.
 Jones, Walter C.
 Adcock, T.
-Wills, T. E.
+Wright, T. E.
 Teroes, H. A.
 Drew, W.
 *Skillicorn, J. F.
@@ -291,7 +286,7 @@ Lewis, W. E.
 Nicolson, R. G.
 *Chambers, F.
 *Hanify, F.
-Murray, Noel
+Murray, NoeI
 Davies, H.
 *Day, A. J.
 Walden, E.
@@ -345,8 +340,9 @@ MR. AUGUST SIEDE
 
 Part Song
 
-"Champagnerlied" Heinrich Hofmann
+"Champagnerlied"
 (Sele—Mr. JAMES WADE).
+Heinrich Hofmann
 
 THE LIEDERTAFEL.
 
@@ -369,18 +365,20 @@ Deeply in Ida's dun thickets concealed.
 Swaying and thinking in aureate room,
 Clink now the glasses with resonant swing;
 Rolling and swaying like zephyrs in spring-time.
-Dance frolicsome genii of champagne:
+Dance frolicsome genii of champagne;
 Backward and forward enlacing departing,
 Glistening, vanishing, lost in the crystal vase;
 Brief as the day of youth's gay effervescence.
 
 Song—
-"Blow, Blow, Thou Winter Wind" Sergeant
+
+"Blow, Blow, Thou Winter Wind"
 Words from "As You Like It."
 MR. E. A. URE.
 
 Cello Solo—
-"Adagio" Bargiel
+
+"Adagio"
 HERR LOUIS HATTENBACH.
 
 === Page 10 ===
@@ -396,49 +394,59 @@ Oculists' Prescriptions for Spectacles our Speciality.
 Accurately Fitting Frames.
 Finest Lenses Scientifically Worked. All Work done on Premises. Use the New "TORIC PERISCOPIC" LENSES for Comfort and Elegance.
 
+Opposite Scots' Church
+
 === Page 11 ===
 Part Song—
 "Serenade"
+Plumpton
+
 THE LIEDERTAFEL.
 
 If thou art sleeping maiden,
-Awake, awake and open thy door,
+  Awake, awake and open thy door,
 'Tis the break of day and we must away
-O'er meadow and mount and moor.
-Wait not to find the silken feet,
-But come with thy silken feet,
+  O'er meadow and mount and moor.
+Wait not to find the slippered feet,
+  But come with thy silken feet,
 We shall have to pass through the dewy grass
-And the waters wide and fleet.
+  And the waters wide and fleet.
 
 Piano Solo—
 Scherzo in C sharp minor
+Chopin
+
 MR. HAROLD S. ELVINS.
 
 Song—
 "To Music"
+Schubert
+
 MISS MARGUERITE HENDERSON.
 
 Gantata—
 "Festgesang"
+Mendelssohn
+
 (Double Quartette—Messrs. J. P. DONALDSON, C. WOESS, F. GOLDING, H. H. CHANDLER, W. H. FLOOD, T. GRAY, F. S. WHITEHEAD, A. A. BISHOP, H. Y. WOOD, E. A. URE, E. WALDRON, J. A. TODD, G. H. BROWN).
 
 THE LIEDERTAFEL.
 
 The Nation's glory into your hands is now given.
-    Oh, guard it well.
-To sink with you, or with you rise to heaven.
-    The magic spell of heart and song
+  Oh, guard it well.
+To sink with you, or with you rise to heaven,
+  The magic spell of heart and song
     Links all the worlds that roll along,
 So may they ever blended be in richest harmony.
 Her voice is like the dreadful thunder,
-    Terrible in its might and anger;
-It rises on victorious planks, and vengeance
-    takes on foes and minions—
+  Terrible in its might and anger;
+It rises on victorious planks and vengeance
+  Takes on foes and minions—
     Strikes terror to the tyrant's heart.
 If truth to exile e'er be driven;
 Then to her aid the Muse arisen
-Shall find revenge in lofty music's song.
-    Oh, freedom's soul of arise!
+Shall find revenge in lofty tuneful song.
+Oh, freedom's soul of light arise!
 Lift up your head to beauty's throne,
 And as with her you mount the skies,
 All lesser crowns disown.
@@ -454,28 +462,26 @@ The... Angelus and its Wonderful Phrasing Lever.
 
 No other Piano Playing Instrument has such a device, or its equivalent, and lacking it remains mechanical.
 
-SOLD EXCLUSIVELY BY Carnegie & Sons 106 ELIZABETH STREET.
+SOLD EXCLUSIVELY BY
+Carnegie & Sons  106 ELIZABETH STREET.
 
 SOLE AGENTS for the World-famed
-"RONISCH" Piano, Genuine BELL Organ,
+"RONISCH" Piano,        Genuine BELL Organ,
 The Mellow-toned "GORS & KALLMANN" Piano,
 Also the "STELLA," the latest and best Disc Musical Box, with
-Pianos and Organs Tuned and Repaired. unlimited tunes.
+Pianos and Organs Tuned and Repaired.        unlimited tunes.
 
 === Page 13 ===
 Recit and Aria —
 "Lend me your aid"
 MR. JAMES WADE.
-Gounod
 
 Part Song —
 "Thou art my dream"
-Gail Hofmann
-
 THE LIEDERTAFEL.
 
 THE drooping flowers their buds are closing.
-The silver stars keep watch above!
+The silver stars keep watch above:
 The world in tranquil sleep reposing
 My wakeful bosom yields to love.
 While here in hopeless grief I languish,
@@ -486,25 +492,21 @@ Thou art my dream thro' stilly night.
 Tho' all unmoved by love's appealing,
 No kindling passion lights thy brow?
 No voice of love thy heart revealing,
-Still, still, the silver stars above.
+Still, lady, still, list to my song.
 Bend softly down, ye golden tresses,
-Beam kindly once, bright orbs of light;
+Beam kindly once, bright orbs of light:
 List, lady, list to love's distresses—
 Thou art my dream thro' stilly night.
 
 *Cello Soli—
 (a) "Zur Guitarre"
-Popper
 (b) "Tarantelle" (A Major)
-Cossmann
 
 HERR LOUIS HATTENBACH.
 
 Part Song —
 "Die Post"
 (Cornet Solo—Mr. ARTHUR HAIGH).
-Schafer
-
 THE LIEDERTAFEL.
 
 THRO' forest deep at dead of night,
@@ -523,22 +525,18 @@ Pause at the open window,
 And mingling with them fly.
 
 Where sleeps the forest maiden,
-While beams the moon above;
+While beams the moon above:
 With love her dreams are laden—
 With melody and love.
 
 Aria —
 "Elsa's Dream"
 (Lohengrin)
-Wagner
-
 MISS MARGUERITE HENDERSON.
 
 === Page 14 ===
 Part Song—
-
 "Song of the Pirates"
-
 Bruch
 
 THE LIEDERTAFEL.
@@ -551,18 +549,18 @@ To-morrow monarchs of the foam!
     Glasses drain!
     Drink amain!
 
-When o'er the deep our sails are flying,
-All things must bow to our control;
-On every hand a tax we levy
-And ocean's pride must pay us toll.
-    Clink again!
-    Glasses drain!
-    Drink amain!
-
 Our coats are good broad-cloth from England,
 And heavy silk from Genoa;
 Our scores we reckon with the grapnel,
 And we receipt them with "Hurrah!"
+    Clink again!
+    Glasses drain!
+    Drink amain!
+
+When o'er the deep our sails are flying,
+All things must bow to our control;
+On every head a tax we levy
+And ocean's pride must pay us toll.
     Clink again!
     Glasses drain!
     Drink amain!
@@ -598,39 +596,32 @@ Creations Not Copies.
 
 Reject Substitutes.
 
+Corsets P.D. Corsets
+
 === Page 16 ===
 INVITATION
 
-Griffiths Bros. Proprietary Limited
+Griffiths Bros.
+Proprietary Limited
 
 Gordially invite you to call at their...
-
 SALESROOM:
 66 ELIZABETH ST.
-
 for a few minutes rest and a refreshing CUP OF TEA (gratis); also to send post card for samples of their delicious
-
 TEAS
 COFFEES & COCOAS.
-
 WAREHOUSE & OFFICES:
 30 FLINDERS STREET.
 
 THE MUTUAL STORE
-
 WINES AND SPIRITS
-
 Has been thoroughly re-organized, and is now under the management of
-
 Mr. G. BARTRAM
 (for 10 years Cellar Manager for Messrs. Price, Griffiths & Co., and 18 years Manager of Messrs. Lawrence & Adams' Wine and Spirit Department).
-
 Customers may depend upon all Blends and Brands being maintained up to standard.
-
 A Visit to our Wine Cellars will enable Mr. Bartram to personally select a liquor acceptable to any palate and the blend chosen can always be repeated.
-
-We have the LARGEST AND BEST ASSORTMENT of Wines and Spirits in Australia, and are justly famed for their excellence and uniformity. Our stocks include all the leading brands of Imported Champagnes, Brandies, Claret, Chablis, Hock, Sauterne, Burgundy, Moselle, Liqueurs, Bitters, etc., as well as a full range of all first-class Australian Wines.
-
+We have the
+LARGEST AND BEST ASSORTMENT
+of Wines and Spirits in Australia, and are justly famed for their excellence and uniformity. Our stocks include all the leading brands of Imported Champagnes, Brandies, Claret, Chablis, Hock, Sauterne, Burgundy, Moselle, Liqueurs, Bitters, etc., as well as a full range of all first-class Australian Wines.
 Please call and inspect samples. Satisfaction guaranteed.
-
 THE MUTUAL STORE, RIGHT OPPOSITE FLINDERS ST. STATION, MELBOURNE.

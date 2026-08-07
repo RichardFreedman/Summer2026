@@ -1,33 +1,20 @@
 === Page 1 ===
 RICHARD WAGNER
-
 Quarter Centenary Celebration.
-
 PARSIFAL
-
 Melbourne Liedertafel.
-
 CONCERT
-
 CHOIR AND ORCHESTRA
 OF 850 PERFORMERS.
-
 TOWN HALL,
 SATURDAY, NOV. 18, 1893.
-
 AT
 3 O'CLOCK.
-
 FRANZ LISZT
+T. G. RAMSAY & CO., PRINTERS, MELBOURNE AND BENDIGO.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 MELBOURNE LIEDERTAFEL.
@@ -93,7 +80,7 @@ Mr. G. Weston.
 " T. Zeplin.
 " W. Josephi.
 
-Violini II di. -
+Violini IIdi. -
 Mr. J. Wright.
 " M. A. Phillips.
 " A. Zelman.
@@ -106,7 +93,7 @@ Mr. G. H. Schacht.
 " H. Edwards.
 " T. Weidermann.
 
-Violoncello -
+Violoncelli -
 Mr. Geo. E. Howard.
 " F. Clutsam.
 " C. Harrison.
@@ -167,12 +154,10 @@ Mr. J. Mumyard.
 Tamburo Piccolo -
 Mr. G. W. Corbett.
 
-Cymbals |
-Campanetta |
+Cymbals / Campanetta /
 Mr. A. S. Clay.
 
-Triangle and |
-Glocken |
+Triangle and Glocken /
 -
 
 === Page 5 ===
@@ -345,12 +330,12 @@ A Festival Drama
 By RICHARD WAGNER.
 
 === Page 8 ===
-WAGNER was sixty-five years old when he began the music of "Parsifal"—the poem of which he had published in 1877. This Festival Drama occupied him until April 1879, while the instrumentation was finished at Palermo, January 15th, 1882. "Parsifal" was first produced in July 1882. Wagner has certainly in "Parsifal" succeeded in giving the most exquisite expressions to the deepest religious feeling—for Parsifal is really an allegorical personification of Christ—and, if we consider religious feeling the most exalted of all emotions, we must agree that Wagner in "Parsifal" struck finer chords than in any other of his works. The "Forspiel" is based on three of the most deeply religious motives in the entire work. It opens with the Motive of the Sacrament. Through this motive we gain insight into the office of the Knights of the Grail, who from time to time strengthen themselves for their spiritual duties by partaking of the Communion, on which occasions the Grail itself is uncovered. The Second Motive is indicative of the Grail, and the trumpets announce the third—the Motive of Faith.
+WAGNER was sixty-five years old when he began the music of "Parsifal"—the poem of which he had published in 1877. This Festival Drama occupied him until April 1879, while the instrumentation was finished at Palermo, January 15th, 1882. "Parsifal" was first produced in July 1882. Wagner has certainly in "Parsifal" succeeded in giving the most exquisite expressions to the deepest religious feeling—for Parsifal is really an allegorical personation of Christ—and, if we consider religious feeling the most exalted of all emotions, we must agree that Wagner in "Parsifal" struck finer chords than in any other of his works. The "Forspiel" is based on three of the most deeply religious motives in the entire work. It opens with the Motive of the Sacrament. Through this motive we gain insight into the office of the Knights of the Grail, who from time to time strengthen themselves for their spiritual duties by partaking of the Communion, on which occasions the Grail itself is uncovered. The Second Motive is indicative of the Grail, and the trumpets announce the third—the Motive of Faith.
 
 The plot of "Parsifal" is briefly as follows:—Amfortas, as King of the Knights of the Holy Grail, who dwell in the castle of Montsalvat among the mountains of Gothic Spain, is enticed by Kundry, a lovely woman under the sway of Klingsor, an evil magician on the southern slope of the same mountains, supposed to be facing Arabian Spain, into Klingsor's magic garden. While in her arms Amfortas drops the holy spear, which is at once seized by Klingsor, who wounds the King therewith, and carries it off. Amfortas cannot recover from the wound until it has been touched by the spear, which can be wrested from Klingsor only by "the guileless fool," one who has been all his life ignorant of sin, who through deep sympathy with the anguish of Amfortas becomes conscious of the King's sin, and can resist temptation though it come to him ever so enticingly. Such an one is Parsifal. By resisting Kundry's charms he regains the spear, destroys Klingsor, and thus frees Kundry from his evil sway, heals the wound of Amfortas, and is proclaimed King of the Knighthood. The plot is allegorical. Parsifal is the personification of Christianity, and the triumph of Parsifal over Klingsor is the triumph of Christianity over Paganism.
 
 === Page 9 ===
-The performance this afternoon will—after the Vorspiel—begin at a point in Act I, where the Knights of the Grail are to celebrate the Love Feast or Communion that day. Gurnemanz—an old but vigorous knight—bids the youthful Parsifal accompany him to the castle. Then occurs a change of scene which, in itself is highly effective dramatically. Long sustained trombone notes softly swell; approaching peals of bells are heard. At last Gurnemanz and Parsifal arrive at a mighty hall, which looms itself overhead in a high vaulted dome, down from which alone the light streams in. The change of scene is ushered in by the solemn BELL MOTIVE, which is the basis of the powerful Orchestral Interlude accompanying the Panorama, and also of the scene in the hall of the Grail Castle. King Amfortas gives way to violent grief and the MOTIVE OF CONTRITION graphically portrays his spiritual suffering. The MOTIVE OF THE SACRAMENT (followed by the BELL MOTIVE and the sonorous and powerful GRAIL MOTIVE) is succeeded by the Knights intoning the chorus, "To the last love feast," while the Orchestra plays a solemn processional based on the Bell Motive. Amfortas is borne in preceded by pages who bear the covered Grail. A chorus based upon the Motive of Contrition and then the Motive of Faith floats down from the dome in ethereal beauty as it sung by angel voices. Tortured by contrition the King refuses Titurel's summons to uncover the Grail. Comforting voices chant the prophecy of Amfortas' redemption through the Guileless Fool. The Grail is uncovered and the voices chant the chorus, "Take of my body, take of my blood, to the Sacrament Motive. Amfortas is bowed in prayer. Through the dusk a ray of brilliant light darts upon the Grail; Amfortas raises the Grail and blesses the wine and bread, all kneeling, while voices in the dome chant a chorus based on the Sacrament Motive. When it has been repeated, one-half of the Knights intone a chant, the Bell Motive solemnly accompanying it in the Orchestra, the other half chorus repeats the chant, and then the entire chorus takes up the Grail Motive. To the Faith Motive the congregation prepares to go. Amfortas bows his head and touches his wound, his action being accompanied by the Motive of Contrition in union with the Bell Motive. Parsifal presses his hand to his heart. We again hear the Motive of the Prophecy. The Grail and Bell Motives lead once more to the Prophecy, and the Act closes amid the spiritual harmonies of the Prophecy of the Guileless Fool and of the Grail Motive.
+The performance this afternoon will—after the Vorspiel—begin at a point in Act I where the Knights of the Grail are to celebrate the Love Feast or Communion that day. Gurnemanz—an old but vigorous knight—bids the youthful Parsifal accompany him to the castle. Then occurs a change of scene which, in itself is highly effective dramatically. Long sustained trombone notes softly swell; approaching peals of bells are heard. At last Gurnemanz and Parsifal arrive at a mighty hall, which looms itself overhead in a high vaulted dome, down from which alone the light streams in. The change of scene is ushered in by the solemn BELL MOTIVE, which is the basis of the powerful Orchestral Interlude accompanying the Panorama, and also of the scene in the hall of the Grail Castle. King Amfortas gives way to violent grief and the MOTIVE OF CONTRITION graphically portrays his spiritual suffering. The MOTIVE OF THE SACRAMENT (followed by the BELL MOTIVE and the sonorous and powerful GRAIL MOTIVE) is succeeded by the Knights intoning the chorus, "To the last love feast," while the Orchestra plays a solemn processional based on the Bell Motive. Amfortas is borne in preceded by pages who bear the covered Grail. A chorus based upon the Motive of Contrition and then the Motive of Faith floats down from the dome in ethereal beauty as if sung by angel voices. Tortured by contrition the King refuses Titurel's summons to uncover the Grail. Comforting voices chant the prophecy of Amfortas' redemption through the Guileless Fool. The Grail is uncovered and the voices chant the chorus, "Take of my body, take of my blood, to the Sacrament Motive. Amfortas is bowed in prayer. Through the dusk a ray of brilliant light darts upon the Grail; Amfortas raises the Grail and blesses the wine and bread, all kneeling, while voices in the dome chant a chorus based on the Sacrament Motive. When it has been repeated, one-half of the Knights intone a chant, the Bell Motive solemnly accompanying it in the Orchestra, the other half chorus repeats the chant, and then the entire chorus takes up the Grail Motive. To the Faith Motive the congregation prepares to go. Amfortas bows his head and touches his wound, his action being accompanied by the Motive of Contrition in union with the Bell Motive. Parsifal presses his hand to his heart. We again hear the Motive of the Prophecy. The Grail and Bell Motives lead once more to the Prophecy, and the Act closes amid the spiritual harmonies of the Prophecy of the Guileless Fool and of the Grail Motive.
 
 Richard Wagner was born May 22, 1813, and died February 13, 1883.
 —From Gustav Kobbé on "Wagner."
@@ -362,9 +347,9 @@ B. Verwandlungs—Musik und Schluss-Scene des 1ten Aktes.
 First production in Australia of the latter.
 
 === Page 10 ===
-PARSIFAL - HERR HIMMER.
-GURNEMANZ - HERR ERNEST HARTUNG.
-TITUREL - HERR LOUIS FLEISSNER.
+Parsifal - Herr Himmer.
+Gurnemanz - Herr Ernest Hartung.
+Titurel - Herr Louis Fleissner.
 
 The Knightly Brotherhood of the Grail, &c.
 
@@ -480,7 +465,7 @@ SOLOIST - Miss ADA CROSSLEY.
 
 The deep majestic expression which the greatest musical classic of our time has given to the Words of Gustle, establishes the work under notice as one of the highest manifestations of lofty subjectivity and profound contemplation that we worship in art. The Solo voice is responsible for the text throughout. The entry of Tenors and Basses—each in two parts—is made at the words, "But if thy Psalter."
 
-JOHANNES BRAHMS, born 1833 at Hamburg; as a boy excited great attention both by compositions and pianoforte playing. In 1874 he was made a member of the Academy of Arts at Berlin. Excepting opera, Brahms has cultivated nearly every branch of musical composition. Powerful, original and versatile, Brahms, more than any other, sums up in his strongly-marked individuality the varying elements, classical as well as romantic, of contemporaneous culture. His imagination, to which he at first allowed too free a scope (about to Op. 10), he has briddled by severe study and rigid self-criticism; and although reflection plays a large part in his compositions, he has produced abundance of music of a thoroughly spontaneous and inspired character. His melodies possess inexhaustible variety, ranging from naïve simplicity and a dreamy poetical tenderness peculiar to himself, to stirring pathos, striking force, and glowing passion, always remaining pregnant and concise. His harmony, often surprisingly bold and original, is subordinated to the dictates of a high artistic idea, which permeates and controls the formal construction of his works, in which an admirable mastery of contrapuntal art is often exhibited. His songs extend from the simplest specimens of popular melody to the richest and most complicated forms of art.
+JOHANNES BRAHMS, born 1833 at Hamburg; as a boy excited great attention both by compositions and pianoforte playing. In 1874 he was made a member of the Academy of Arts at Berlin. Excepting opera, Brahms has cultivated nearly every branch of musical composition. Powerful, original and versatile, Brahms, more than any other, sums up in his strongly-marked individuality the varying elements, classical as well as romantic, of contemporaneous culture. His imagination, to which he at first allowed too free a scope (about to Op. 10), he has bridled by severe study and rigid self-criticism; and although reflection plays a large part in his compositions, he has produced abundance of music of a thoroughly spontaneous and inspired character. His melodies possess inexhaustible variety, ranging from naïve simplicity and a dreamy poetical tenderness peculiar to himself, to stirring pathos, striking force, and glowing passion, always remaining pregnant and concise. His harmony, often surprisingly bold and original, is subordinated to the dictates of a high artistic idea, which permeates and controls the formal construction of his works, in which an admirable mastery of contrapuntal art is often exhibited. His songs extend from the simplest specimens of popular melody to the richest and most complicated forms of art.
 
 BUT who goes there apart? In the brake his pathway is lost,
 Close behind clash the branches together, the grass rises again,
@@ -509,7 +494,7 @@ First performance in this City in its original form.
 
 ALLEGRO MAESTOSO.
 QUASI ADAGIO.
-ALLEGROETTO VIVACE.
+ALLEGRETTO VIVACE.
 ALLEGRO MARZIALE ANIMATO.
 
 SOLOIST — MISS DORA STAMP.
@@ -544,7 +529,7 @@ And it was Olav Trygvason,
 Found he ne'er a spot to land.
 E'en like the waves the royal desire,
 Shattered upon the strand.
-"See!" cried the bard upleaping.
+"See!" cried the bard upleaping,
 Yonder snow covered peaks o'er cloud bands peeping.
 
 And it was Olav Trygvason,
@@ -589,12 +574,15 @@ S. ELIZABETH was specially composed by the Abbé Liszt at the instigation of the
 === Page 16 ===
 historically interesting relic of the middle ages. The legend of S. Elizabeth is a tolerably familiar one—at least to Roman Catholics. In the "Crusader Scene" to be performed this afternoon, the action presumably laid a Schmalkald on the borders of Thuringia—for it was to this place that Landgrave Ludwig went with Elizabeth and their family to meet the knights and nobles who were to accompany him to the Holy Land, represents the courtyard of a medieval castle, filled with troops on the point of departure and the friends who have come to bid them adieu. The troops, acknowledging Ludwig as their leader encourage each other in their resolve to fight for the Faith. Ludwig calls upon his assembled subjects to swear allegiance to him and to Elizabeth in his absence. After a sad but affectionate leave-taking of his wife and children, Ludwig places himself at the head of his troops, which now set out on their march to join the new crusade. The Gregorian "intonation" symbolical of the Cross, and as forming the key-note to its intent, appropriately forms the basis of the Crusaders' March and chorus. The "Trio" as it may be regarded, which occurs twice in the Crusaders' March, is derived from an old pilgrims' song dating from the time of the Crusaders.
 
-![Portrait of a man](page_420_1042_420_320.png)
+![Portrait of a man in a suit](page_624_1042_420_312.png)
 
 "The Crusaders' Scene."
 
-ELIZABETH        MME. ELISE WIEDELMANN.
-LANDGRAVE LUDWIG  HERR R. NITSCHKE.
+ELIZABETH
+MME. ELISE WIEDEMAN.
+
+LANDGRAVE LUDWIG
+HERR R. NITSCHKE.
 
 ASSOCIATED LADIES' CHOIR, LIEDERTAFEL
 ORGAN AND ORCHESTRA.
@@ -603,7 +591,6 @@ ORGAN AND ORCHESTRA.
 Chorus of Crusaders—Recitative of Landgrave—Parting of Landgrave and Elizabeth—Chorus and March of the Crusaders.
 
 Chorus—
-
 To Palestine, the Holy Land,
 Where the Redeemer's cross did stand,
 Be thou our host's commander!
@@ -613,7 +600,6 @@ And be our faith's defender.
 God wills it!
 
 Ludwig—
-
 Assembled are my faithful vassals,
 At my command, ere my departure,
 That they may swear to me allegiance
@@ -628,18 +614,15 @@ That you will guard her truly as your ruler,
 And stand by her in weal and woe to serve her.
 
 Chorus—
-
 She is all goodness, she is all beauty,
 We swear to her allegiance and duty;
 We stand by thee in weal and woe to serve,
 We stand by thee to serve thee faithfully.
 
 Ludwig—
-
 Farewell, my wife!
 
 Elizabeth—
-
 Oh tarry!
 O shorten not the hour,
 The last sweet hour of gladness,
@@ -734,37 +717,13 @@ Do. (for Ladies' Choir) £0 10s. 6d.
 (No Entrance Fee.)
 
 === Page 21 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 22 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 23 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 24 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

@@ -1,15 +1,9 @@
 === Page 1 ===
-R.M.L.
 THE ROYAL METROPOLITAN LIEGEBRIGADE
+R.M.L.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 161ST CONCERT
@@ -76,21 +70,21 @@ Members
 Tenors
 
 A. Cameron .. 1870    J. L. Carnegie .. 1888    J. Williams .. 1881
-R. Jones .. 1870    W. C. Fraser .. 1889    R. J. Moore .. 1881
+R. Jones .. 1870    W. C. Fraser .. 1880    R. J. Moore .. 1881
 W. H. Williams .. 1873    W. Kennedy .. 1889    W. H. Ford .. 1882
-W. H. Peryman .. 1873    G. Smibert .. 1873    A. J. Sage .. 1886
+W. H. Perryman .. 1873    G. Smibert .. 1873    A. J. Sage .. 1886
 C. P. Rouvray .. 1870    A. Jones .. 1889    G. W. J. Blom .. 1887
 E. Simmonds .. 1873    D. R. F. Youl .. 1889    S. E. Dixon .. 1883
 S. Symons .. 1876    A. H. Carleton .. 1890    A. M'Laren .. 1887
 W. Watts .. 1876    J. Felstead .. 1877    W. G. Barkley .. 1888
 J. Kendall .. 1876    F. Stapley .. 1891    H. W. Seymour .. 1888
-G. F. Smith .. 1878    N. P. Lenehan .. 1891    T. N. Jones .. 1889
+G. F. Smith .. 1878    N. P. Lenehan .. 1891    T. N. Jones .. 1899
 F. G. Whitney .. 1879    R. G. L. Atkinson .. 1892    G. G. Jordan .. 1890
 J. Iliffe .. 1880    C. Miller .. 1870    J. F. Whyte .. 1877
 W. G. Bundy .. 1880    J. S. Ridley .. 1874    P. A. Weston .. 1891
 A. Sherar .. 1881    J. A. Ure .. 1876    T. Searell .. 1891
 W. D. Prichard .. 1881    A. J. Campbell .. 1878    S. Fripp .. 1882
-T. Jack .. 1878    C. D. Dixon .. 1874    J. B. Pewtrrss .. 1892
+T. Jack .. 1878    C. D. Dixon .. 1874    J. B. Pewtrriss .. 1892
 W. B. Havward .. 1882    A. G. S. Williams .. 1880    G. C. D. Forster .. 1892
 W. Brown .. 1886    C. M. Lilburne .. 1880
 
@@ -119,7 +113,7 @@ W. A. Gilbert .. 1890    H. Rofe .. 1880
 === Page 6 ===
 THE SOCIETY WILL BE ASSISTED BY
 
-Miss Juliet Flegelraub (of Ballarat)
+Miss Juliet Flegelhaub (of Ballarat)
 (Her first appearance in Melbourne)
 
 Miss Fannie Charlesworth
@@ -143,7 +137,6 @@ PART I
 
 Part Song—"Consecration of Song"
 Gustave Baldamus
-
 SOLO—MR. J. GLADSTONE WRIGHT
 
 Liedertafel
@@ -233,9 +226,9 @@ Part Song—"The Miller's Daughter" Hartel
 Liedertafel
 
 STREAM and mill, your murmurs cease,
-Sounds, to silence all decline;
+    Sounds, to silence all decline;
 Now, ye woodbirds, rest in peace,
-Or in this my burthen join,
+    Or in this my burthen join,
 She is mine, she is mine; she has said she is mine.
 
 Lovely springtime, thee I welcome merrily,
@@ -250,6 +243,7 @@ INTERVAL OF FIVE MINUTES.
 PART II
 
 Cantata—"To the Sons of Art" Mendelssohn
+
 Liedertafel
 
 O Sons of Art, man's dignity to you is given:
@@ -280,11 +274,12 @@ Before the Throne where paths unite!
 
 === Page 11 ===
 9
+
 Song—"Alla Stella Confidente" Bobaudi
 (With Cello Obbligato by Herr Theo. Liebe)
 Signor Buzzi
 
-Part Song—"The Mariner's Return" Haeckler
+Part Song—"The Mariner's Return" Höcsler
 Liedertafel
 
 Pull away, boys, steer for the cove,
@@ -366,7 +361,7 @@ Liedertafel
 (a) Dioscuri! shining twin stars,
     Ye who light us o'er the ocean;
 Mighty helpers, guide us safely,
-    Still the waves to gentle motion.
+Still the waves to gentle motion.
 
 Tho' with firm hearts, fear unknowing,
     Undismayed with storms contending,
@@ -418,7 +413,7 @@ EXTRA TICKETS (Lady or Gentleman) ... 5s.
 284 AND 286 COLLINS STREET.
 
 === Page 16 ===
-TOWN HALL,
+TOWN HALL.
 MELBOURNE
 MONDAY EVENING
 27TH MARCH, 1899.

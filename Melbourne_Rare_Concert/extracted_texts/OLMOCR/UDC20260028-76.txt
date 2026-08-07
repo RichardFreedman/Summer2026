@@ -23,7 +23,11 @@ SONG ... "Blow, Blow thou Winter Wind" ... Sergeant
 PIANOFORTE SOLO ... "Spinnerlied" ... Wagner—Liszt
     MISS ATCHISON.
 
-SONGS ... { (a) "The Night has a Thousand Eyes" ... (b) "In Darkness" ... (c) "A Spring Song" ... MISS TRESSIE MADDEN.
+SONGS ... {
+    (a) "The Night has a Thousand Eyes" ...
+    (b) "In Darkness" ...
+    (c) "A Spring Song" ...
+    MISS TRESSIE MADDEN.
 
 DUO.—Piano and Violoncello ... "Variations Concertantes" ... Mendelssohn
 MESSRS. J. HASLER and C. HARRISON.
@@ -36,10 +40,4 @@ W. H. HEATHCOTE
 Hon. Secretary.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

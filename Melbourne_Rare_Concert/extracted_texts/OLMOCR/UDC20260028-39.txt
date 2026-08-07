@@ -2,16 +2,10 @@
 METROPOLITAN LIEDERTAFEL
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
-120th Concert
+130th Concert
 
 Under the patronage of
 Sir Wm. C. F. Robinson, Lt., G.C.M.G.
@@ -57,10 +51,9 @@ MR. C. FOSTER
 COMMITTEE
 MR. W. F. RASHLEIGH
 MR. H. ROFE
-MR. S. MOYLE
-
 MR. W. H. FORD
 MR. J. S. RIDLEY
+MR. S. MOYLE
 
 HON. AUDITORS
 MESSRS. A. J. MASTERS & THOS. BRENTNALL
@@ -86,7 +79,7 @@ G. F. Smith
 F. G. Whitley
 J. Iliffe
 W. G. Bundy
-A. Sibar
+A. Sorbar
 W. D. Prichard
 E. S. Webster
 T. Jack
@@ -137,7 +130,7 @@ J. H. Mulvany
 J. O. Cautwright
 J. W. Eggleston
 R. L. Thompson
-W. Greg
+W. Gheig
 D. Webster
 E. W. Clisby
 R. Jolley
@@ -159,16 +152,16 @@ C. H. Woodman
 M. St. J. Kennedy
 F. W. White
 S. Angus
-W. M. Uirk
+W. M. Urie
 H. Roff
 J. Kryston
-W. Urik
+W. Urie
 E. J. Rice
 E. Walsh
 M. Wakefield
 W. Boyle
 J. S. Duke
-W. Goodr
+W. Good
 A. Stewart
 P. A. Ashley
 R. Patterson
@@ -202,7 +195,6 @@ Orchestra Wagner
 "The Water-lily" op. 11
 H. Goetz—1840-76
 CANTATA FOR MALE VOICES AND SOPRANO SOLO
-
 Miss Lilian Tree, Liedertafel and Orchestra
 
 In evening stillness lies the lake,
@@ -262,11 +254,15 @@ Orchestra
 
 === Page 9 ===
 "Softly Sighs"  Weber
+
 Scena from "Der Freischütz"
+
 (WITH ORCHESTRAL ACCOMPANIMENT)
+
 Miss Lilian Tree
 
 "Forsaken"  Roschat
+
 Liedertafel
 
 ALONE! ah, forsaken!
@@ -288,7 +284,7 @@ And since my own loved one
     I am always alone.
 
 === Page 10 ===
-"Night in the Forest"    Schubert
+"Night in the Forest" Schubert
 (PART SONG WITH ACCOMPANIMENT OF HORNS)
 
 Liedertafel
@@ -334,8 +330,7 @@ Hungarian Rhapsodie No. 4
 Orchestra
 Liszt
 
-"Gondola Song"
-J. E. Schmöller
+"Gondola Song" J. E. Schmölzer
 
 Mr. Moyle and Liedertafel
 
@@ -372,13 +367,13 @@ Some magic store of fairy lore?
 Solo—Oh, no! oh, no! in sweeter strains my song must flow.
 
 === Page 12 ===
-"Die Allmacht" Schubert—Liszt
+"Die Allmacht"  Schubert—Liszt
 
 (WITH ORCHESTRAL ACCOMPANIMENT)
 
 Miss Lilian Tree and Liedertafel
 
-Great is Jehovah, the Lord!
+GREAT is Jehovah, the Lord!
 The heavens and the earth proclaim His wondrous might;
     In storms his dread accents are heard,
 In the wild forest stream He calls by night;
@@ -406,15 +401,15 @@ PART II
 
 THE Second Portion of the Concert will take the form of a CONVERSAZIONE in the Main Hall, during which the Orchestra will play a Selection of the following Works, viz.:
 
-1. Overture "William Tell" - - Rossini
-2. Pizzicato "Liebesliedchen" - - Taubert
+1. Overture "William Tell" - Rossini
+2. Pizzicato "Liebesliedchen" - Taubert
 3. "Midsummer Night's Dream" Mendelssohn (Scherzo, Nocturne, and Wedding March)
 4. "Ukrainischer Tanz" (Russian Dance) S. Noskowski
 5. Overture "Merry Wives of Windsor" Nicolai
 
 GOD SAVE THE QUEEN
 
-Note.—During the Conversazione Refreshments will be obtainable.
+Note. - During the Conversazione Refreshments will be obtainable.
 
 === Page 14 ===
 The Society's Terms of Subscription
@@ -430,13 +425,7 @@ In lieu of purchasing Extra Tickets a Subscription may be taken out in the name 
 EXTRA TICKETS—GENTLEMAN, 7s. 6d., LADY, 5s.
 
 === Page 15 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 16 ===
 EXHIBITION BUILDING

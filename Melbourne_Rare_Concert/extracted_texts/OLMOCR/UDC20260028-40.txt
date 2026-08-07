@@ -2,18 +2,12 @@
 Metropolitan Liedertafel
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 130th Concert
 
-Under the Patronage of
+Under the patronage of
 Sir Wm. C. F. Robinson, Lt., G.C.M.G.
 Administrator of the Government.
 
@@ -55,9 +49,12 @@ ASSISTANT LIBRARIAN
 MR. C. FOSTER
 
 COMMITTEE
-MR. W. F. RASHLEIGH | MR. W. H. FORD
-MR. H. ROFE | MS. J. S. RIDLEY
+MR. W. F. RASHLEIGH
+MR. H. ROFE
 MR. S. MOYLE
+
+MR. W. H. FORD
+MS. J. S. RIDLEY
 
 HON. AUDITORS
 MESSRS. A. J. MASTERS & THOS. BRENTNALL
@@ -69,6 +66,7 @@ MS. THOS. J. CONNOR
 Members
 
 Tenors
+
 A. Cameron
 R. Jones
 W. H. Williams
@@ -79,7 +77,7 @@ S. Symons
 W. Watts
 J. Kendall
 G. F. Smith
-F. G. Whitby
+F. G. Whittby
 J. Eliffe
 W. G. Bundy
 A. Sherar
@@ -107,7 +105,7 @@ W. H. Ford
 J. H. Kerr
 L. Hart
 W. A. Hart
-A. J. Sager
+A. J. Sagr
 G. J. W. Blom
 A. H. Thomson
 E. E. Dear
@@ -120,6 +118,7 @@ F. Foolman
 H. O. Capes
 
 Basses
+
 E. Miller
 J. Fordyce
 T. J. Connor
@@ -171,7 +170,7 @@ F. Vines
 P. St. J. Murphy
 H. E. Hooke
 G. P. Morison
-C. E. Tiber
+C. E. Tires
 J. Adcock
 
 === Page 6 ===
@@ -184,6 +183,7 @@ AND
 A GRAND ORCHESTRA
 
 LEADER—MR. GEO. WESTON
+
 HON. ORGANIST—MR. G. B. FENTUM
 
 === Page 7 ===
@@ -197,6 +197,7 @@ Orchestra
 "The Water-lily" op. 11
 H. Goetz—1840-76
 CANTATA FOR MALE VOICES AND SOPRANO SOLO
+
 Miss Lillian Tree, Liedertafel and Orchestra
 
 In evening stillness lies the lake,
@@ -250,20 +251,20 @@ And in terror the boy with tears homeward flies,
 Before me, in anger, the full moon appeared,
     O mother, I but a lily took!"
 
-(a) Gavotte "Mignon"        Ambroise Thomas
-(b) Pizzicato "Sylvia"        Delibes
+(a) Gavotte "Mignon"                Ambroise Thomas
+(b) Pizzicato "Sylvia"                Delibes
 Orchestra
 
 === Page 9 ===
-"Softly Sighs"  October
+"Softly Sighs"
 
-Scena from "Der Freischutz"
+Scene from "Der Freischutz"
 
 (WITH ORCHESTRAL ACCOMPANIMENT)
 
 Miss Lilian Tree
 
-"Forsaken"  Roschat
+" Forsaken "
 
 Liedertafel
 
@@ -287,7 +288,6 @@ And since my own loved one
 
 === Page 10 ===
 "Night in the Forest"    Schubert
-
 (PART SONG WITH ACCOMPANIMENT OF HORNS)
 
 Liedertafel
@@ -332,7 +332,9 @@ Where smiling from thy heav'nly dome,
 Hungarian Rhapsodie No. 4
 Orchestra
 
-"Gondola Song" J. E. Schmöller
+"Gondola Song"
+J. E. Schmöller
+
 Mr. Moyle and Liedertafel
 
 COME love, the sea invites us,
@@ -346,7 +348,7 @@ SOLO—Oh, no! oh, no! in sweeter strains my song must flow.
     Come love, the twilight darkens,
         The stars now greet our eyes;
 Say now if I shall sing thee
-    Of Freedom's high emprise?
+        Of Freedom's high emprise?
 Of patriots grand, of Fatherland?
 
 SOLO—Oh, no! oh, no! in sweeter strains my song must flow.
@@ -354,7 +356,7 @@ SOLO—Oh, no! oh, no! in sweeter strains my song must flow.
     Come love, my heart is longing
         For thy dear presence bright:
 Say now if I shall sing thee
-    Of mirth and gay delight?
+        Of mirth and gay delight?
 Shall themes of joy my lute employ?
 
 SOLO—Oh, no! oh, no! in sweeter strains my song must flow.
@@ -362,7 +364,7 @@ SOLO—Oh, no! oh, no! in sweeter strains my song must flow.
     Come love, let us together
         Sail o'er the waters clear;
 Say now with legend olden
-    Shall I enchant thine ear?
+        Shall I enchant thine ear?
 Some magic store of fairy lore?
 
 SOLO—Oh, no! oh, no! in sweeter strains my song must flow.
@@ -374,11 +376,11 @@ SOLO—Oh, no! oh, no! in sweeter strains my song must flow.
 
 Miss Lilian Tree and Liedertafel
 
-Great is Jehovah, the Lord!
+GREAT is Jehovah, the Lord!
 The heavens and the earth proclaim His wondrous might;
     In storms his dread accents are heard,
 In the wild forest stream He calls by night;
-    Great is Jehovah, the Lord!
+        Great is Jehovah, the Lord!
 
 Thou hearest it in the green budding boughs of the forest,
     See'st it in the corn fields that glow like gold,
@@ -389,13 +391,13 @@ Sounds His voice in the dread thunder roll,
     And flames in the lightning on its swift blinding flight,
 And each beating heart, every soul
     Feels His wondrous power and might;
-    The eternal God, the Lord!
+        The eternal God, the Lord!
 
 Thou to Him dost look for aid,
     In hope to gain His love and grace,
 Trust in Him, be not afraid,
     He ne'er will turn away His face.
-    Great is Jehovah, the Lord!
+        Great is Jehovah, the Lord!
 
 === Page 13 ===
 PART II
@@ -419,7 +421,6 @@ ARE:—
 
 GENTLEMEN (12 Admissions) ... ... ... £2 2 0
 LADIES (12 Admissions to Mixed Concerts only) 2 2 0
-
 Entrance, 10s. 6d.
 
 In lieu of purchasing Extra Tickets a Subscription may be taken out in the name of a lady member of the family, giving 12 Admissions as above, without entrance fee.
@@ -427,13 +428,7 @@ In lieu of purchasing Extra Tickets a Subscription may be taken out in the name 
 EXTRA TICKETS—GENTLEMAN, 7s. 6d., LADY, 5s.
 
 === Page 15 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 16 ===
 EXHIBITION BUILDING

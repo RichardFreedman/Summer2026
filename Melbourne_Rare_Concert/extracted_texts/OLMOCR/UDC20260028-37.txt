@@ -4,21 +4,14 @@
 Melbourne Liedertafel
 
 Town Hall
-
 Monday, August 6, '94.
 
 === Page 2 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 MELBOURNE LIEDERTAFEL.
-INSTITUTED 1868.  RE-CONSTITUTED 1879.
+INSTITUTED 1868. RE-CONSTITUTED 1879.
 
 Patron.
 THE HON. SIR W. J. CLARKE, BART.
@@ -46,10 +39,10 @@ MR. J. D. LAW.
 
 REPRESENTING PERFORMING MEMBERS:
 MR. T. H. TEMPLETON.
-,, W. H. FLOOD.
-,, A. BERRY.
-,, G. A. DAY.
-,, F. A. NEWMAN.
+" W. H. FLOOD.
+" A. BERRY.
+" G. A. DAY.
+" F. A. NEWMAN.
 
 Hon. Pianist & Organist.
 MR. AUGUST SEIDE.
@@ -73,13 +66,7 @@ Assist. Hon. Secy.
 MR. W. H. FLOOD.
 
 === Page 4 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 5 ===
 The Liedertafel will be assisted by the following Artists:
@@ -166,7 +153,7 @@ Muirhead, G. H. (Capt.)
 Day, G. A.
 Bennett, J. J.
 Clinton, F.
-Garritty, W. C.
+Garrity, W. C.
 Garrett, H.
 Gerson, J.
 Heathcote, W. H.
@@ -210,7 +197,7 @@ Groube, H.
 Pepper, F.
 Wilmot, H. G. (on leave)
 Jones, W. C.
-Adcock, John
+Acock, John
 Lewis, F.
 Owen, E. T.
 Smith, E. O.
@@ -236,7 +223,7 @@ THE FOLLOWING IS
 
 The Scheme.
 
-A fanfare of trumpets will announce the entrance of His Excellency the Governor, and subsequently the National Anthem will be sung by the LIEDERTAFEL.
+A fanfare of trumpets will announce the entrance of HIS EXCELLENCY THE GOVERNOR, and subsequently the NATIONAL ANTHEM will be sung by the LIEDERTAFEL.
 
 PART I.
 
@@ -255,7 +242,7 @@ And it was Olav Trygvason,
 Found he ne'er a spot to land,
 E'en like the waves the royal desire,
 Shattered upon the strand.
-"See!" cried the bard unleeping,
+"See!" cried the bard unleaping,
 "Yonder snow covered-peaks o'er cloud bands peeping."
 
 And it was Olav Trygvason,
@@ -356,19 +343,48 @@ MADAME SCHREIBER.
 
 === Page 10 ===
 MILA
-
 By ROBERT SCHWALM,
 Op. 38.
-
 (Translated from the German by SIEGFRIED PINCUS, Fitzroy.)
-
 This work is the gift of the Conductor.
 
 ROBERT SCHWALM'S Mila is essentially a product of the modern German school of thought. The original text has been done into English for the Liedertafel by Mr. Siegfried Pincus, one of the Performing Members. Mila will be presented for the first time in Australia this evening.
 
 The fragrance of the rose, breathing sweetness and laden with love and longing, fades and dies—if its dainty petals be wantonly culled and scattered even so, this superb tone-picture tells its own wondrous love-tale, an ideal romance of a fierce conflict betwixt human passion and superhuman power—it is a canvas wedded to colours of such a dazzling brilliancy and exquisite beauty as to defy description and scorn dissection.
 
-MILA - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+MILA - - - - - - - - - - MADAME SCHREIBER.
+VULCAN - - - - - - - - - - MR. P. C. JOSEPHS.
+SOLO QUARTETTE - MESSRS. H. ROBINSON, J. CHAMPION, C. HALL, AND W. C. JONES.
+
+CHORUS.
+Far into the mountain-forest
+Into Vulcan's dark dominion,
+Climbs the lithe and lovely Mila,
+And she tarries near his cave.
+
+Round her golden curls a garland
+Of forget-me-nots she twineth;
+From her lips the wings of Zephyr
+Softly waft her words of love:
+
+MILA.
+"Vulcan!
+Hear me, dark and fiery spirit!
+Rise! For thee my soul is thirsting.
+Rise! For thee my lone heart longs!"
+
+CHORUS.
+Through the ravine roars the thunder,
+Through the clefts the lightning flashes;
+Lo, the rocks are rent asunder,
+Burning lava belching forth.
+
+From the depths the spirit speaketh:
+
+VULCAN.
+"Child, beware and cease to call me,
+Stay thy tongue nor try to tempt me,
+Fearful fruit thy frolic bears."
 
 === Page 11 ===
 "Hark, the tempest rages fierce!
@@ -437,7 +453,7 @@ And a robe of purple splendour
 Brilliant radiance sheds around.
 
 (SOLO 1ST BASS)  Spell-bound, lost in awe and rapture,
-Mute and motionless stands Mila:
+Mute and motionless stands Mila;
 Heeding not the priestly wisdom
 She but whispers:
 
@@ -493,7 +509,7 @@ MISS DORA STAMP
 F. Chopin
 (Op. 31.).
 
-SONG - Die Vatergruft (A Death Summons)
+SONG - Die Vätergruft (A Death Summons)
 Franz Liszt.
 
 FIRST TIME IN AUSTRALIA.
@@ -546,7 +562,7 @@ WOMEN—
     Hear us!
 
 THE SACRIFICER—
-    Trudyang's Hlorrida, Bilskirner's Yireflame,
+    Trudvang's Hlorrida, Bilskirner's Yireflame,
     Thou of the strength-belt and hammer,
     Shield of the Aesir and of the Northmen,
     Ever the dread of the giants.
@@ -599,26 +615,26 @@ Show our fates the way to him, the god so long awaited—
     Hear us!
 
 THE VÖLVA—(From an elevation in the foreground)—
-    'Tis not enough that ye invoke Nornir and Aesir,
-    Runes must be graven duly
-    Evil to disperse from the pathway which to the gods doth lead.
-    There, see the gathered hosts
-    Upon their horns howling, to hide our voices,
-    That the gods never may hear us!
+'Tis not enough that ye invoke Nornir and Aesir,
+Runes must be graven duly
+Evil to disperse from the pathway which to the gods doth lead.
+There, see the gathered hosts
+Upon their horns howling, to hide our voices,
+That the gods never may hear us!
 
 MEN AND WOMEN—
     O prophetess mighty, rise in thy magic!
     Fill heaven and earth with Odin's word!
 
 THE VÖLVA—(Raises herself so that she stands high above all the others)—
-    Spirits base, basely mastered, ye who come from the southlands,
-    With Hel soon shall feast be holden:
-    Plague shall gnaw, serpents send through your veins deadly venom!
-    Let Hel's hounds awake, howling and foaming,
-    Monsters filled with madness, for your blood thirsting blindly!
-    For Hel no fitter food can afford them!
-    With Hel! spirits base, basely mastered, ye who come from the southland,
-    With Hel, here in the north, your feast is.
+Spirits base, basely mastered, ye who come from the southlands,
+With Hel soon shall feast be holden:
+Plague shall gnaw, serpents send through your veins deadly venom!
+Let Hel's hounds awake, howling and foaming,
+Monsters filled with madness, for your blood thirsting blindly!
+For Hel no fitter food can afford them!
+With Hel! spirits base, basely mastered, ye who come from the southland,
+With Hel, here in the north, your feast is.
 
 === Page 17 ===
 MEN AND WOMEN—
@@ -627,6 +643,7 @@ O prophetess mighty, rise in thy magic!
 Fill heaven and earth with Odin's word!
 
 THE VÖLVA—(Who has been carving runes, now continues to cut eagerly)—
+
 Spirits base, basely mastered, ye who come from the southland;
 To Hel soon shall your way be wended!
 Evil ones away! the Thunderer's weapon awaits ye!
@@ -638,11 +655,13 @@ With Hel ye shall devour that writing.
 (She casts the Rune-staff on the holy fire, which immediately bursts into flames that ascend to the roof of the Temple. A horrible din, accompanied by thunder in the distance, shakes the Temple.)
 
 MEN AND WOMEN—(Kneeling in terror)—
+
 Wondrous word of Odin goes
 To black abyss, the heaven's height,
 Awful, returneth the answer.
 
 THE VÖLVA—
+
 Answer came from Hel, from high gods;
 All fear it, yet not I.
 Now let us kneel to them!
@@ -695,7 +714,7 @@ Loki shall lighten him hence unto Hel!
 Three nights besought we, sung like son to sire,
 Three nights we pleaded, heard is our prayer.
 
-The Sacrificer and Elders having procured horns, they form a circle round the three "Holy Fires;" afterwards advancing and seating themselves at the sides. The Sacrificer, having made the "hammer sign," over the horns, proceeds to render the following song.
+The Sacrificer and Elders having procured horns, they form a circle round the three "Holy Fires:" afterwards advancing and seating themselves at the sides. The Sacrificer, having made the "hammer sign," over the horns, proceeds to render the following song.
 
 THE SACRIFICER—
 Raise high the horn, great host-father, Odin's horn,
@@ -767,7 +786,7 @@ Hail to the highest spirit that hides in hills!
 Hail! tiny elves who frolic in flow'rs.
 
 Hail our upholder, guardian of house and halls,
-Hail who upholds the harbour and holm.
+Hail who upholdest harbour and holm.
     Gladly then, etc.
 
 Faith of our fatherland, love thou dost light in us,
@@ -800,39 +819,19 @@ will be held at the Cafe Denat, 304 Little Collins Street, on Monday, 13th inst.
 
 Ladies and Gentlemen wishing to join the Society will please communicate with the Hon. Sec., 24 Queen Street.
 
-LIFE MEMBERSHIP - - - - - £10 10 0
+LIFE MEMBERSHIP - - - - - - - £10 10 0
 ANNUAL SUBSCRIPTION (for Subscribers) - 2 2 0
-(18 TICKETS PER ANNUM.)
-" " (for Active Members) 1 1 0
-" " (for Ladies' Choir) 0 10 6
+    (18 TICKETS PER ANNUM.)
+    "    "    (for Active Members) 1 1 0
+    "    "    (for Ladies' Choir) - 0 10 6
 
 NO ENTRANCE FEE.
 
-Paterson & Henderson, Printers, 493 Collins Street, City.
-
 === Page 22 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 23 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 24 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

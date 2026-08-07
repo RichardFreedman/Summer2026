@@ -6,16 +6,11 @@ Victorian Liedertafel
 
 Town Hall, Melbourne
 
-Monday Evening, 31st October, 1910
+Monday Evening, 31st October,
+1910
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 26TH CONCERT.
@@ -23,15 +18,16 @@ is_diagram: False
 The Royal
 Victorian Liedertafel
 
-Conductor: Mr. Ernest Wood.
+CONDUCTOR: MR. ERNEST WOOD.
 
 Town Hall, Melbourne,
 Monday Evening, 31st October, 1910.
 
-The Society will be assisted by
+THE SOCIETY WILL BE ASSISTED BY
+
 Miss Lilian Reid
 Mr. Horace Stevens
-Mr. C. J. Johnson
+Mr. G. J. Johnson
 Mr. Mansley Greer (PIANIST)
 Mr. Ernest Wood (CONDUCTOR)
 The Melbourne Orchestral Society
@@ -68,7 +64,8 @@ The Royal Victorian Liedertafel and Orchestra
 GOD SAVE THE KING.
 
 === Page 5 ===
-The Royal Victorian Liedertafel.
+The
+Royal Victorian Liedertafel.
 
 PATRONS:
 HIS EXCELLENCY THE RIGHT HONOURABLE
@@ -90,7 +87,6 @@ COMMITTEE:
 MR. H. T. GARRETT
 MR. A. W. JACK
 MR. G. J. JOHNSON
-
 MR. H. M. LEE
 MR. ALFRED PARDY
 MR. F. S. WHITEHEAD
@@ -110,11 +106,10 @@ MR. HERBERT E. MORGAN
 
 HON. LIBRARIAN:
 MR. H. W. SEYMOUR
+ASSISTANT HON. LIBRARIAN: MR. CHARLES FOSTER
 
 DEPUTY HON. LIBRARIAN
 MR. JOHN STATTERS
-
-ASSISTANT HON. LIBRARIAN: MR. CHARLES FOSTER
 
 HON. AUDITORS:
 MESSRS. A. E. WHITEHEAD AND A. J. FULLER
@@ -129,50 +124,62 @@ W. H. GLEN & CO., 272 AND 274 COLLINS STREET
 The Royal Victorian Liedertafel.
 
 1st Tenors.
-Dodd, H.                Fullagar, A. G.                Johnson, G. J.                Riley, T.
-(Ayliwin, A. R.           Feistead, J.                        Kendall, J.                        Shea, J.
-Andrews C. J.            Gladstone, D. H.                M'Donough, A. E.                Soul, V.
-Brunton, W.               Gray, E. S.                        M'Dowell, G.                        Symons, S.
-Champion, Afd.            Harvey, H. J.                        Nicholls, G. P.                        Sherar, A.
-Christian, R. A.          Jeffreson, A. E.                Pardy, A.                        Swan, W.
-Donaldson, J. P.          Jack, T.                            Paton, B. T.                        Wyatt, W. F.
-                                 Jewell, A.                        Pollock, A. J.                        Whitby, F. G.
+
+<table>
+  <tr><th>Dodd, H.</th><th>Fullagar, A. G.</th><th>Johnson, G. J.</th><th>Riley, T.</th></tr>
+  <tr><th>(Captain)</th><th>Feistead, J.</th><th>Kendall, J.</th><th>Shea, J.</th></tr>
+  <tr><th>Aylwin, A. R.</th><th>Gladstone, D. H.</th><th>M'Donough, A. E.</th><th>Soul, V.</th></tr>
+  <tr><th>Andrews C. J.</th><th>Gray, E. S.</th><th>M'Dowell, G.</th><th>Symons, S.</th></tr>
+  <tr><th>Brunton, W.</th><th>Harvey, H. J.</th><th>Nicholls, G. P.</th><th>Sherar, A.</th></tr>
+  <tr><th>Champion, Ald.</th><th>Jefferson, A. E.</th><th>Pardy, A.</th><th>Swan, W.</th></tr>
+  <tr><th>Christian, R. A.</th><th>Jack, T.</th><th>Paton, B. T.</th><th>Wyatt, W. F.</th></tr>
+  <tr><th>Donaldson, J. P.</th><th>Jewell, A.</th><th>Pollock, A. J.</th><th>Whitby, F. G.</th></tr>
+</table>
 
 2nd Tenors.
-Tuohy, W. E.             Flood, W. H.                        Moore, R. J.                        Roberts, T. B.
-(Captain)                 Gray, Thos.                        Nicholls, H. C.                        Robertson, P.
-Briggs, J. W.             Gurry, J. M.                        Nichterlein, W. H.                Rouvray, C. P.
-Bracken, J. W.            Hall, A. G.                        Pescott, J. R.                        Seymour, H. W.
-Edmanson, W. L.           Kent, J. H.                        Porter, W. E.                        Wells, A. E.
-Eddie, W. F.              Lester, A. G.                        Paterson, R.                        Wilson, S. J.
-Ellis, E. G.              Morgan, C. W.                        Ramsay, T. G.                        Young, R.
-Ford, W. H.               Miller, C.                        Restock, E. J.
+
+<table>
+  <tr><th>Tuohy, W. E.</th><th>Flood, W. H.</th><th>Moore, R. J.</th><th>Roberts, T. B.</th></tr>
+  <tr><th>(Captain)</th><th>Gray, Thos.</th><th>Nicholls, H. C.</th><th>Robertson, P.</th></tr>
+  <tr><th>Briggs, J. W.</th><th>Gurry, J. M.</th><th>Nichterlein, W. H.</th><th>Rouvray, C. P.</th></tr>
+  <tr><th>Bracken, J. W.</th><th>Hall, A. G.</th><th>Pescott, J. R.</th><th>Seymour, H. W.</th></tr>
+  <tr><th>Edmanson, W. L.</th><th>Keen, J. H.</th><th>Porter, W. E.</th><th>Wells, A. E.</th></tr>
+  <tr><th>Eddie, W. F.</th><th>Lester, A. G.</th><th>Paterson, R.</th><th>Wilson, S. J.</th></tr>
+  <tr><th>Ellis, E. G.</th><th>Morgan, C. W.</th><th>Ramsay, T. G.</th><th>Young, R.</th></tr>
+  <tr><th>Ford, W. H.</th><th>Miller, C.</th><th>Restock, E. J.</th><th></th></tr>
+</table>
 
 1st Basses.
-Orr, R. Stanley           Orr, H.                            Mulvany, J. H.                        Stanesby, C. E.
-(Captain)                 Crane, J. R.                        Mellor, F.                            Stillwell, H. S.
-Aylwin, P. J.             Cross, G. E.                        Mackay, F. S.                        Taylor, P. H.
-Attwood, W. J.            Fawcett, Jas.                        Mackay, H. K.                        Thompson, R. L.
-Brown, E. H.              Fraser, J. A.                        M'Farlane, P.                        Thompson, R. H.
-Bull, C. P.               Garrett, H. T.                        Pinch, S.                            Whitehead, F. S.
-Benson, H.                Jack, A. W.                        Rowe, R. T.                        Whitehead, A. E.
-Berry, T.                 Jolley, R.                            Rice, E. J.                        Wilson, E. L.
-Cahill, W. M.             Kelly, A.                            Ross, E.                            Wilcox, W.
-Cole, W. J.               Lang, E. J.                        Seale, E.                            Weir, A. J.
-Coppard, G. P.            Langford, C. F.
+
+<table>
+  <tr><th>Orr, R. Stanley</th><th>Corr, H.</th><th>Mulvany, J. H.</th><th>Stanesby, C. E.</th></tr>
+  <tr><th>(Captain)</th><th>Craire, J. R.</th><th>Mellor, F.</th><th>Stillwell, H. S.</th></tr>
+  <tr><th>Aylwin, P. J.</th><th>Cross, G. E.</th><th>Mackay, F. S.</th><th>Taylor, P. H.</th></tr>
+  <tr><th>Attwood, W. J.</th><th>Fawcett, Jas.</th><th>Mackay, H. K.</th><th>Thompson, R. L.</th></tr>
+  <tr><th>Brown, E. H.</th><th>Fraser, J. A.</th><th>M'Farlane, P.</th><th>Thompson, R. H.</th></tr>
+  <tr><th>Bull, C. P.</th><th>Garrett, H. T.</th><th>Pinch, S.</th><th>Whitehead, F. S.</th></tr>
+  <tr><th>Benson, H.</th><th>Jack, A. W.</th><th>Rowe, R. T.</th><th>Whitehead, A. E.</th></tr>
+  <tr><th>Berry, T.</th><th>Jolley, R.</th><th>Rice, E. J.</th><th>Wilson, E. L.</th></tr>
+  <tr><th>Cahill, W. M.</th><th>Kelly, A.</th><th>Ross, E.</th><th>Wilcox, W.</th></tr>
+  <tr><th>Cole, W. J.</th><th>Lang, E. J.</th><th>Seale, E.</th><th>Weir, A. J.</th></tr>
+  <tr><th>Coppard, G. P.</th><th>Langford, C. F.</th><th></th><th></th></tr>
+</table>
 
 2nd Basses.
-Tipton, R. B.             Davidson, V. L.                        Manton, G.                            Stewart, A.
-(Captain)                 Davies, H.                            Morgan, H. E.                        Samuels, J. W.
-Adams, J. P.              Feistead, H. J.                        Millar, R.                            Starters, J.
-Brown, G. H.              Frazer, J. J.                        Millist, R. G.                        Ternes, H. A.
-Bowden, W. J.             Goss, J. T.                            Moore, E. A.                        Trewhills, A.
-Bishop, A. P.             Goode, W.                            M'Gowen, Jas.                        Tred, J. A.
-Bayley, J. H.             Gairn A. B., Jun.                        M'Lean, A. W.                        White, T. E.
-Bayley, C. E.             Griersen, F.                        Perry, S. J.                        Walatab, F.
-Casper, E.                Hailes, F. L.                        Paterson, R.                        Whitehead, J. P.
-Cobb, H.                   Keyston, J.                        Patrick, W.                            Woodman, C. H.
-Collins, F. R.            Lee, H. M.                        Rashleigh, W. F.                        Woodman, L. E.
+
+<table>
+  <tr><th>Tipton, R. B.</th><th>Davidson, V. L.</th><th>Manton, G.</th><th>Stewart, A.</th></tr>
+  <tr><th>(Captain)</th><th>Davies, H.</th><th>Morgan, H. E.</th><th>Samuels, J. W.</th></tr>
+  <tr><th>Adamsen, P.</th><th>Feistead, H. J.</th><th>Millar, R.</th><th>Statters, J.</th></tr>
+  <tr><th>Brown, G. H.</th><th>Fraser, J. J.</th><th>Millist, R. G.</th><th>Ternes, H. A.</th></tr>
+  <tr><th>Bowden, W. J.</th><th>Goat, J. T.</th><th>Moore, E. A.</th><th>Thewlis, A.</th></tr>
+  <tr><th>Bishop, A. P.</th><th>Goode, W.</th><th>Morgan, Jas.</th><th>Todd, J. A.</th></tr>
+  <tr><th>Bayley, J. H.</th><th>Gairn A. B. Jun.</th><th>M'Lean, A. W.</th><th>White, T. E.</th></tr>
+  <tr><th>Bayley, C. E.</th><th>Grierson, F.</th><th>Perry, S. J.</th><th>Walsh, F.</th></tr>
+  <tr><th>Casper, E.</th><th>Hailes, F. L.</th><th>Paterson, R.</th><th>Whitehead, J. F.</th></tr>
+  <tr><th>Cobb, H.</th><th>Keyston, J.</th><th>Patrick, W.</th><th>Woodman, C. H.</th></tr>
+  <tr><th>Collins, F. R.</th><th>Lee, H. M.</th><th>Rashleigh, W. F.</th><th>Woodman, L. E.</th></tr>
+</table>
 
 Roll Secretary: W. Wilcox.
 
@@ -193,13 +200,12 @@ MR. JOHN W. DAWSON
 
 Committee:
 Messrs. BROGDEN, BRYANT, HORE, LEVEY,
-Dr. D. MAGGILLCUDDY, Dr. RUDALL, SMITH,
+Dr. J. MAGGILLCUDDY, DR. RUDALL, SMITH,
 AND TIPPING
 
 On. Treasurer: MR. J. C. SHOKNECHT
-
 Hon. Secretary:
-MR. D. HARDIE
+Mr. D. HARDIE
 
 The Orchestra.
 
@@ -207,76 +213,75 @@ Hon. Conductor: MR. JOHN W. DAWSON
 
 Violins—
 Mr. Dawson
-Mr. De Gillo
-Mr. Lestrange
-Mr. North
-Mr. Parkes
-C. A. Smith
+" De Gilio
+" Lestrange
+" North
+" Parkes
+" C. A. Smith
 Dr. MacGillicuddy
 Mr. Hall
-Mr. Rutland
-Mr. Shoknecht
-Mr. Whitney
+" Rutland
+" Shoknecht
+" Whitney
 Miss Chapman
-Mr. Conacher
-Mr. Coade
-Mr. Hope
-Mr. Lucas
-Mr. Maclean
-Mr. Whiteley
-Mr. Cook
-Mr. B. Cook
-Mr. McDermott
-Mr. Noske
-Mr. Obbinson
-Mr. Puttmann
+" Conacher
+" Coade
+" Hope
+" Lucas
+" Maclean
+" Whiteley
+" Cook
+" B. Cook
+" McDermott
+" Noske
+" Obbinson
+" Puttmann
 
 Violas—
 Mr. Rabl
 Miss Baker
-Mr. Cook
-Mr. Hart
+" Cook
+" Hart
 
 'Celli—
 Mr. Hattenbach
-Mr. Hore
-Mr. Rutland
+" Hore
+" Rutland
 Mrs. Wischer
-
 'Celli Basses—
 Mr. Haigh
-Mr. Tappe
-Mr. Thatcher
+" Tappe
+" Thatcher
 
 Flutes—
 Mr. Weston Pett
-Mr. Russell
+" Russell
 
 Oboes—
 Mr. Brogden
-Mr. Hurst
+" Hurst
 
 English Horn—
 Mr. Hurst
 
 Clarionets—
 Mr. Tipping
-Mr. Mohr
+" Mohr
 
 Horns—
 Mr. Hingott
-Mr. Levey
-Mr. Finlay
-Mr. Wood
+" Levey
+" Finlay
+" Wood
 
 Trumpets—
 Mr. Nott
-Mr. McKenzie
+" McKenzie
 
 Trombones—
 Mr. Prout
-Mr. Marsden
-Mr. Little
+" Marsden
+" Little
 
 Tuba—
 Mr. Rule
@@ -359,7 +364,7 @@ While they glide in Cephisus' tide.
 Still meandering day by day
 Over the plains, bearing streams ever pure along,
     Enriching all the bowers
-Embosomed in the favour'd land;
+    Embosomed in the favour'd land;
 Ever loved by the tuneful choir of Muses,
     And Cythera, whose zone is golden.
 
@@ -389,7 +394,7 @@ Guided thus, or curbed, he yields obedience.
 Through the billows we dash, stemming the deep,
     Speeded along by the oar and helm,
     Bounding on with the dancing nymphs—
-Nereus' hundred-footed daughters.
+    Nereus' hundred-footed daughters.
 
 The Athenians are successful, and Thesens returns with Antigone and Ismene. Oedipus expresses his gratitude to the King, who announces the arrival of Polynices seeking an interview with his father. The chorus describes the sorrows of life, and the blessing of death when old age has come.
 
@@ -424,12 +429,12 @@ Old and friendless, all these ills together meeting
     Crush their devoted victim.
 
 On man, poor mourner, all these evils fall.
-Fall as billows rushing beat the north strand,
+Fall as billows rushing beat the north strand.
 Dashing onward, urged by the blast of winter.
 Thus, then, storms of affliction, never-ending, assail us.
     Thus lowering sorrows around us gather;
     Whether from Helios' western bound,
-        Or from his eastern gate,
+        Or from his eastern gate.
         Or where his rays beam brightest,
         Or down from the home of Arcturus.
 
@@ -446,7 +451,7 @@ Theseus, followed by the citizens of Athens, again appears, and learning what Cr
         And never breath'd to mortal ear.
     There, glowing with ardour,
         Panting to rush agains the foe,
-        See, see all our legions,
+            See, see all our legions,
     With Theseus they wave their swords, and cry.
         Rescue the sisters!
 
@@ -465,7 +470,6 @@ BAYLEY & MCGILL
 Tailors, Mercers and Outfitters.
 
 SHIRTS, HATS, TIES, COLLARS, GLOVES, UMBRELLAS, UNDERWEAR, &c.
-
 Shirts and Pyjamas made to Measure.
 Shirts Refitted. Bands, 6d.; Cuffs, 1s.; Fronts, 1s. 6d.
 
@@ -473,7 +477,6 @@ Special range of Zephyr and Oxford Shirtings, newest designs.
 Latest patterns in Ceylon Flannels and Cellular Shirtings.
 Fancy Vests, Flannel and Duck Trousers, Athletic Knickers, Singlets, Straw and Felt Hats, in leading shapes, all makers. [Sweaters.
 Airtex, Balbriggan, and Natural Wool Underwear, all sizes.
-
 YOUR PATRONAGE RESPECTFULLY SOLICITED.
 
 60 Elizabeth Street.
@@ -493,28 +496,29 @@ They, who honour the deeds of sage Minerva,
 And Rhea's great son, earth encircling ocean's king,
 Press to the battle!
 Do they await, pursue or fight?
-My heart thrills with hope
+    My heart thrills with hope
 That they will soon rescue the captive maid,
 Who hath endur'd, and still endures her kindred's woe.
-This day, Jove will restore her.
-Crown your deeds, heroes, with glory!
-Like a dove high soaring,
-Sped along by the storm-wind,
-I, from the verge of a cloud,
-Would look down on the contest,
+    This day, Jove will restore her.
+    Crown your deeds, heroes, with glory!
+    Like a dove high soaring,
+    Sped along by the storm-wind,
+    I, from the verge of a cloud,
+    Would look down on the contest,
 And see my country's cause triumphant!
 Dread Pow'r that fillest heaven's high throne,
 O all-seeing Jove, defend our great ruler!
-On him the victor's palm bestow!
-With verdant laurels deck his brow!
-We call on thee, Pallas Athena!
-Mighty hunter, Phoebus, hear us!
+    On him the victor's palm bestow!
+    With verdant laurels deck his brow!
+    We call on thee, Pallas Athena!
+    Mighty hunter, Phoebus, hear us!
 And thy sister, fleet in chase, whose dart unerring
 Pierceth the far-distant hart:
-O come, defend our guardians!
-We pray ye, aid our native heroes!
+    O come, defend our guardians!
+    We pray ye, aid our native heroes!
 
 Solo—
+
 "Ocean! Thou Mighty Monster" Weber
 (Oberon)
 Miss Lillian Reid
@@ -522,6 +526,7 @@ Miss Lillian Reid
 "Eine Steppenskizze" A. Borodin
 
 The Melbourne Orchestral Society
+
 Into the silence of the monotonous Steppes of Middle Asia come the first echoes of a peaceful Russian song. In the distance sound the trampling of horses and camels and the strange cries of the Orient. Under the protection of the Russian flag it moves safely on its weary journey through the immeasurable waste. It recedes further and further. The songs of Russia and the wild notes of the East merge into the solemn harmony of nature, slowly sinking into the echoes of the eternal Steppes.
 
 INTERVAL.
@@ -538,7 +543,7 @@ Borne through his perilous voyage by his charmed ship "Ellida," Frithjof returns
 Frithjof is now shunned by all as a perpetrator of sacrilege; he is banished from his country, and, sailing away in the "Ellida," he devotes himself to a life of wild adventure. The hero's troubled life is ultimately crowned with happiness. After many years he returns to his native land, and succeeds in gaining the goodwill of King Ring, who at his death bequeaths him his kingdom and his queen.
 
 === Page 15 ===
-Bruch, Max, musical composer, born at Cologne 6th January, 1838, received his first musical instruction from his mother (nee Almenrider), who was a highly-esteemed teacher of music, and who often in her young days sang at the Rhenish musical festivals. At the age of eleven Bruch, then a pupil of Karl Breidenstein, attempted compositions on a large scale, and at the age of fourteen he had already brought out a Symphony at Cologne. From 1853 to 1857 he held the Mozart Scholarship at Cologne, and in that capacity he was a special pupil of Ferdinand Hiller in the theory of music and composition; and of Karl Reinecke (till 1854), and of Ferdinand Breunung in playing the piano. After a short stay in Leipzig, he resided from 1858 to 1861 as musical teacher at Cologne, and was very assiduous in composing. On the death of his father, in 1861 he set out on an extensive tour of study, which, after brief stays at Berlin, Leipzig, Vienna, Dresden, and Munich, ended at Mannheim, where his opera "Lorelei" (after the text written by Geibel for Mendelssohn) was produced in 1863. At Mannheim also, between 1862 and 1864, he wrote the chorus-works, "Frithjof," "Römischer Triumphgesang," "Gesang der heiligen drei Könige," and "Flucht der heiligen Familie." In 1864-65 he was again on his travels, visiting Hamburg, Hanover, Dresden, Breslau, Munich, Brussels, and Paris. Then he brought out his "Frithjof" with extraordinary success at Aix-la-Chapelle, Leipzig, and Vienna. From 1865 to 1867 he was musical director at Coblenz, and from 1867 to 1870 director of the court choir at Sonderhausen. At Coblenz he wrote, among other things, his well-known first concerto for the violin, and at Sonderhausen two symphonies and portions of a Mass. The opera "Hermione," which was produced in 1872 at Berlin, where Bruch resided from 1871 to 1873, had only a succès d'estime. The chorus "Odysseus" likewise belongs to the period of the composer's residence at Berlin. After he had been five years (1873-78) at Bonn, devoting his time exclusively to composing "Arminius," "The Song of the Bell," and his second concerto for the violin, and after he had paid two visits to England for the purpose of producing some of his works, he became in 1878, on the resignation of Hockhausen, Director of Stern's Singing Academy at Berlin; and in 1880 he was nominated to succeed Sir Julius Benedict as Director of the Philharmonic Society at Liverpool.
+Bruch, Max, musical composer, born at Cologne 6th January, 1838, received his first musical instruction from his mother (nee Almenrider), who was a highly-esteemed teacher of music, and who often in her young days sang at the Rhenish musical festivals. At the age of eleven Bruch, then a pupil of Karl Breidenstein, attempted compositions on a large scale, and at the age of fourteen he had already brought out a Symphony at Cologne. From 1853 to 1857 he held the Mozart Scholarship at Cologne, and in that capacity he was a special pupil of Ferdinand Hiller in the theory of music and composition; and of Karl Reinecke (till 1854), and of Ferdinand Breunung in playing the piano. After a short stay in Leipzig, he resided from 1858 to 1861 as musical teacher at Cologne, and was very assiduous in composing. On the death of his father, in 1861, he set out on an extensive tour of study, which, after brief stays at Berlin, Leipzig, Vienna, Dresden, and Munich, ended at Mannheim, where his opera "Lorelei" (after the text written by Geibel for Mendelssohn) was produced in 1863. At Mannheim also, between 1862 and 1864, he wrote the chorus-works, "Frithjof," "Römischer Triumphgesang," "Gesang der heiligen drei Könige," and "Flucht der heiligen Familie." In 1864-65 he was again on his travels, visiting Hamburg, Hanover, Dresden, Breslau, Munich, Brussels, and Paris. Then he brought out his "Frithjof" with extraordinary success at Aix-la-Chapelle, Leipzig, and Vienna. From 1865 to 1867 he was musical director at Coblenz, and from 1867 to 1870 director of the court choir at Sonderhausen. At Coblenz he wrote, among other things, his well-known first concerto for the violin, and at Sonderhausen two symphonies and portions of a Mass. The opera "Hermione," which was produced in 1872 at Berlin, where Bruch resided from 1871 to 1873, had only a succès d'estime. The chorus "Odysseus" likewise belongs to the period of the composer's residence at Berlin. After he had been five years (1873-78) at Bonn, devoting his time exclusively to composing "Arminius," "The Song of the Bell," and his second concerto for the violin, and after he had paid two visits to England for the purpose of producing some of his works, he became in 1878, on the resignation of Hockhausen, Director of Stern's Singing Academy at Berlin; and in 1880 he was nominated to succeed Sir Julius Benedict as Director of the Philharmonic Society at Liverpool.
 
 === Page 16 ===
 PART II.
@@ -592,10 +597,11 @@ On the tomb of my father I planted the lime-tree,
 Is the delicate stem still alive?
 Give, earth, thy growth,
 And thou, O heaven, send fostering dew.
-Oh 'tis delight!
+    Oh 'tis delight!
 
 Scene II.
 INGEBORG'S BRIDAL PROCESSION TO KING RING.
+
 MARCH—ORCHESTRA.
 
 Chorus.
@@ -615,40 +621,37 @@ An endless woe in my bosom burneth,
 But Bele's daughter pity spurneth!
 Yet bear to Frithjof greetings from Ingeborg!
 Great is my grief but I do not hate.
-All-father judges
-I bear my fate.
+    All-father judges
+    I bear my fate.
 
 Scene III.
 FRITHJOF'S REVENGE—TEMPLE IN FLAMES—CURSE.
 
 Chorus of Priests.
 Midnight sun on the mountain burns,
-Red like blood appearing,
+    Red like blood appearing,
 And through the strange mysterious light
-Helge's train is nearing.
+    Helge's train is nearing.
 Lo, he comes, while the glare is spread,
 Splendid crown adorns his head,
-Helge, mighty monarch!
+    Helge, m'ghty monarch!
 
 === Page 18 ===
 BY VICE-REGAL APPOINTMENT.
 
 GO TO
-
 ALFRED NOTT,
 Ophthalmic Optician,
 145 and 147 COLLINS STREET, MELBOURNE
 (Opposite Scots' Church), Corner of Russell Street,
 FOR SPECTACLES AND EYEGLASSES.
-
 Oculists' work our Specialty. Up-to-date Rimless Spectacles and Eyeglasses.
 'Phone 2684.
-
 The "CRYPTO."
 The New Combined Reading and Distance Lens. Invisibly joined.
 
 === Page 19 ===
-Recitative - Frithjof.
+Recitative - Frithjoj.
 
 Go to Hela's dark abode,
     Seek ye there the mighty rover;
@@ -659,7 +662,7 @@ Chorus.
 
 Woe! Ch! wicked deed!
 
-Frithjof.
+Frithjoj.
 
 Hush, wretched priests with gory knives,
     Moonlight's pallid princes!
@@ -688,8 +691,8 @@ Ah! the God, now filled with wrath,
 'Midst the flames is rushing,
 And the consecrated hearth
     By his weight is crushing.
-    Fane in flames!
-    Pour water on!
+        Fane in flames!
+        Pour water on!
 The waves of the sea bring hither!
 Lo! clouds of smoke are bursting forth,
 Morning winds blow from the North!
@@ -701,7 +704,7 @@ Blazing flames in the grove abound
 Onward like rivers flowing
 Sunlight smileth,
 But fjord and sound
-Blood-red with fire are glowing.
+Blood-red with fire are glowing,
     Woe! Woe! Woe!
 
 === Page 20 ===
@@ -780,7 +783,7 @@ O, why should'st thou fear me?
 Here on his hand,
 Worked on the canvas, thou proudly shall stand,
 Silver thy pinions unfolden;
-Thy claws shall be golden.
+Thy claws shall be golden,
 Thou darling bird!
 Sit on my shoulder, and list to my word!
 When I'm no more.
@@ -858,4 +861,4 @@ CAUTION.—Beware of inferior Oils, which may do harm rather than good.
 
 Ask for Bosisto's "Parrot Brand"
 
-MCGARRON, BIRD & CO., 479 COLLINS STREET.
+MCCARRON, BIRD & CO., 479 COLLINS STREET.

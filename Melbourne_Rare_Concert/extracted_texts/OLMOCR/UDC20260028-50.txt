@@ -1,30 +1,21 @@
 === Page 1 ===
-Concert -
-No. 277.
+Concert No. 277.
 
-Melbourne
-Liedertafel
+Melbourne Liedertafel
 
-Smoke -
-Concert
+Smoke Concert
 
 Town Hall, Melbourne,
 Monday, August 18th,
 1902.
 
-To Welcome the President -
+To Welcome the President
 Sir Malcolm McEacharn, M.P.
 
 Wilke & Bowden, Print.
 
 === Page 2 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 Melbourne Liedertafel
@@ -33,25 +24,25 @@ INSTITUTED 1868.
 RE-CONSTITUTED 1879.
 
 Patrons:
-His Excellency the Governor
-Sir George Sydenham Clarke,
+HIS EXCELLENCY THE GOVERNOR
+SIR GEORGE SYDENHAM CLARKE,
 K.C.M.G., F.R.S.
-His Excellency
-Sir John Madden, K.C.M.G.,
-Lieutenant-Governor.
+HIS EXCELLENCY
+SIR JOHN MADDEN, K.C.M.G.,
+LIEUTENANT-GOVERNOR.
 
 Patroness:
-Janet, Lady Clarke.
+JANET, LADY CLARKE.
 
 President.
-Sir Malcolm McEacharn,
+SIR MALCOLM McBEACHARN,
 K.B., M.P.
 
 Vice-Presidents:
-The Hon. F. S. Grimwade, M.L.C.
-The Hon. Sir Arthur Snowden, K.B., M.L.C
-E. G. Fitzgibbon, Esq., C.M.G.
-The Hon. Sir Samuel Gilloott, K.B., M.L.A.
+THE HON. F. S. GRIMWADE, M.L.C.
+THE HON. SIR ARTHUR SNOWDEN, K.B., M.L.C
+E. G. FITZGIBBON, ESQ., C.M.G.
+THE HON. SIR SAMUEL GILLOTT, K.B., M.L.A.
 The Right Worshipful the Mayor of Melbourne.
 
 Council:
@@ -59,49 +50,49 @@ Representing
 Subscribing Members.
 Representing
 Performing Members.
-Mr. J. D. Law. Dr. H. L. Murray.
-Mr. Carl Pinschof. Mr. J. McCullagh.
-Mr. David Abbott. Mr. S. J. Perry.
-Mr. J. H. Thompson. Mr. W. H. Flood.
-Hon. WM. Knox, M.H.R. Mr. F. W. Thomas.
+MR. J. D. LAW. DR. H. L. MURRAY.
+MR. CARL PINSCHOF. MR. J. McCULLAGH.
+MR. DAVID ABBOTT. MR. S. J. PERRY.
+MR. J. H. THOMPSON. MR. W. H. FLOOD.
+HON. WM. KNOX, M.H.R. MR. F. W. THOMAS.
 
 Representing Orchestra.
-Mr. J. W. Dawson.
-Mr. E. T. Holder.
-Mr. F. Taylor.
-Dr. MacGillicuddy.
+MR. J. W. DAWSON.
+MR. E. T. HOLDER.
+MR. F. TAYLOR.
+DR. MacGILLICUDDY.
 
 Hon. Life Conductor:
-Herr Julius Siede.
-
-Hon. Treasurer.
-Mr. H. E. Morgan.
+HERR JULIUS SIEDE.
 
 Hon. Conductor.
-Pro. Marshall-Hall.
-
-Hon. Auditors:
-Mr. E. L. Wilson.
-Mr. A. E. Whitehead
+PRO. MARSHALL-HALL.
 
 Conductor:
-Mr. August Siede.
+MR. AUGUST SIEDE.
 
 Hon. Pianist & Organist.
-Mr. Mansley Greer.
+MR. MANSLEY GREER.
 
 Deputy Hon. Pianists:
-Mr. H. S. Elvins.
-Miss N. A. Billings.
+MR. H. S. ELVINS.
+MISS N. A. BILLINGS.
+
+Hon. Treasurer.
+MR. H. E. MORGAN.
+
+Hon. Auditors:
+MR. E. L. WILSON.
+MR. A. E. WHITEHEAD
 
 Hon. Librarian:
-Mr. J. Statters.
+MR. J. STATTERS.
 
 Asst. Hon. Librarian:
-Mr. W. Wilcox.
+MR. W. WILCOX.
 
 Hon. Secretary:
-John Adcock.
+JOHN ADCOCK.
 
 === Page 4 ===
 NOTE. Gentlemen are particularly requested not to strike Wax Vestas, but to use the matches provided, and to wave the flag on the table when desiring to communicate with the attendants.
@@ -173,7 +164,7 @@ PIANO SOLI—
     Chopin.
 (b) "Spinning Song"
     Wagner-Liszt.
-Mr. H. S. Elwins.
+Mr. B. S. Elwins.
 
 === Page 6 ===
 SONG—
@@ -184,7 +175,7 @@ Schubert.
 ANDANTE FROM
 "The Clock" Symphony
 The Orchestra.
-Hadyn.
+Hodyn.
 
 SONG—
 "My Dreams"
@@ -196,6 +187,7 @@ SYMPHONIC ODE—
 PART III.
 "Sunrise"
 The Orchestra.
+
 "Departure of the Caravan"
 The Liedertafel and Orchestra.
 
@@ -329,7 +321,7 @@ Youth, happy youth, is life's richest prize!
 Then love, then young love, beams in beauty's
     bright eyes
 Banish maiden, all thoughts of sorrow,
-Cares that sudden thee leave till morrow;
+Cares that sadden thee leave till morrow;
     And lightly as thy twinkling feet,
     Light my fond heart doth beat;
     Thy fond glance I meet,
@@ -360,19 +352,7 @@ Choir Rehearsals are held on Monday and Orchestral Rehearsals on Tuesday evening
 Ladies and Gentlemen wishing to join the Society, either as Subscribing or Performing Members, will please communicate with the Hon. Secretary, c/o Messrs. Glen & Co., Collins St., who will be pleased to forward all information required.
 
 === Page 11 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 12 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

@@ -8,13 +8,7 @@ MONDAY EVENING,
 JULY 29th, 1901
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 OUR PRESIDENT
@@ -22,13 +16,7 @@ OUR PRESIDENT
 SIR MALCOLM M'EAHARN, M.P.
 
 === Page 4 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 5 ===
 Melbourne Liedertafel.
@@ -84,7 +72,7 @@ Mr. A. E. Whitehead.
 Hon. Librarian:
 Mr. A. A. Bishop.
 
-Asst. Hon. Librarian:
+Assi. Hon. Librarian:
 Mr. J. Statters.
 
 Hon. Secretary:
@@ -114,7 +102,7 @@ Mr. Hume
 Miss Moses
 Miss Nanson
 Miss Neil
-Miss Püttman
+Miss Pütteman
 Miss Riley
 
 Violas—
@@ -139,13 +127,13 @@ Mr. Crother
 
 Oboes—
 Mr. Taylor
-Dr. Rudall
+Dr Rudall
 
 Clarionets—
 Mr. Wallace
 Mr. Munro
 
-Bass Clarinet—
+Bass Clarionet—
 Mr. Lyons
 
 Bassoons—
@@ -241,7 +229,7 @@ Bishop, A. A.
 Hedding, Jas.
 Sutton, Alfred
 Haybittel, A. S.
-Day, Geo. A.
+Day, Geo A.
 Heathershaw, S A
 Wilcox, W.
 Smith, H. W.
@@ -281,7 +269,7 @@ Griffiths, H. L.
 Bona, E.
 Brown, G. H.
 Morgan, H. E.
-Hodggets, W. D.
+Hodgetts, W. D.
 Samuels, J. W.
 Heath, G. S. R.
 Perry, S. J.
@@ -325,8 +313,7 @@ GESANG DER PARZEN
 (SONG OF THE FATES)
 From the "IPHIGENIE" of Goethe
 FOR CHOIR AND ORCHESTRA
-Kindly presented to the Liedertafel
-by John Gray, Esq.
+Kindly presented to the Liedertafel by John Gray, Esq.
 Johannes Brahms.
 
 === Page 9 ===
@@ -348,11 +335,12 @@ Pour golden libations.
 They stride over height unto height thro' the heavens.
 
 NOTE.
+
 The Council of the Liedertafel politely requests that, at conclusion of the Concert, the audience should not take their departure until the Vice-Regal party have left, so that they may have free egress from the Hall.
 
 4th (The Clock) Symphony
 Haydn
-Adagio.....Presto.....Andante.....Allegretto.....Irru.....
+Adagio.....Presto......Andante......Allegretto......Irru ....
 Finale—Vivace.
 
 THE ORCHESTRA.
@@ -360,20 +348,22 @@ THE ORCHESTRA.
 === Page 10 ===
 Programme
 
-Under the Baton of the Hon. Conductor, PROFESSOR MARSHALL-HALL
+Under the Baton of the Hon. Conductor,
+PROFESSOR MARSHALL-HALL
 
 GESANG DER PARZEN
 (SONG OF THE FATES)
 From the "IPHIGENIE" of Goethe
 FOR CHOIR AND ORCHESTRA
 
-Kindly presented to the Liedertafel by John Gray, Esq.
+Kindly presented to the Liedertafel
+by John Gray, Esq.
 
 Johannes Brahms.
 
 === Page 11 ===
 In fear of the Gods shall ye dwell, sons of men!
-So 'le empire they hold in their hands everlasting
+So, in empire they hold in their hands everlasting
 And wield at their pleasure the lightnings of fate.
 
 He doubly shall tremble whom they have exalted!
@@ -405,7 +395,7 @@ Part 2.
 
 4th (The Clock) Symphony
 Haydn
-Adagio......Presto......Andante......Allegretto......Pno ....
+Adagio......Presto......Andante......Allegretto......Pno .....
 Finale—Vivace.
 
 THE ORCHESTRA.
@@ -427,7 +417,7 @@ G. W. L. Marshall-Hall.
 THE LIEDERTAFEL
 AND ORCHESTRA.
 
-THE lineal descendants of Hercules, the Messenians, have, by pestilence and their foes, been driven to their last stronghold, the citadel of Ithome. There they await the oracle of the god, which shall determine their fate, and in worship to Zeus recall the ancient splendid legend of the birth of their ancestor Hercules, and of the wrath of Hèrè (Juno), to whom they ascribe all their misfortunes. They implore Zeus to remember his erewhile love towards his offspring, and to avert from them "the wrath and the doom." The music is an attempt to realize something of the dignity and splendour with which the Greeks surrounded their gods, in whom they embodied the most vital characteristics of their race. There is nothing in the wonderful symbolism of their mythology more inspired than the conception that their Heroes were the offspring of the intercourse of gods with mortal beings. Thus alone did it seem to them, could the pre-eminence of certain of the greatest among men be accounted for.
+THE lineal descendants of Hercules, the Messenians, have, by pestilence and their foes, been driven to their last stronghold, the citadel of Ithome. There they await the oracle of the god, which shall determine their fate, and in worship to Zeus recall the ancient splendid legend of the birth of their ancestor Hercules, and of the wrath of Hêrê (Juno), to whom they ascribe all their misfortunes. They implore Zeus to remember his erewhile love towards his offspring, and to avert from them "the wrath and the doom." The music is an attempt to realize something of the dignity and splendour with which the Greeks surrounded their gods, in whom they embodied the most vital characteristics of their race. There is nothing in the wonderful symbolism of their mythology more inspired than the conception that their Heroes were the offspring of the intercourse of gods with mortal beings. Thus alone did it seem to them, could the pre-eminence of certain of the greatest among men be accounted for.
 
 === Page 13 ===
 NOTICE TO PERFORMING MEMBERS.
@@ -437,13 +427,7 @@ Gentlemen of the Choir are requested to attend at the Society's Rooms, on Monday
 Ladies' Choir will be notified by circular the date of their next rehearsal.
 
 === Page 14 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 15 ===
 The thanks of the Society are due to the Members of the Orchestral Class of the Conservatorium of Music, Melbourne, for kindly assisting this evening.
@@ -462,25 +446,14 @@ A Gentleman who ever took an active and enthusiastic interest in the welfare of 
 
 Now the laborer's task is o'er,
 Now the battle day is past.
+
 Father, in thy gracious keeping
 Leave we now thy servant sleeping.
 
 H. Wilke & Co., Print.
 
 === Page 17 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 18 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

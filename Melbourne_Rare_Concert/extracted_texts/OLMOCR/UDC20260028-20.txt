@@ -7,13 +7,7 @@ Melbourne Liedertafel Concert.
 IN AID OF THE HOMŒOPATHIC HOSPITAL
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 Programme
@@ -34,7 +28,7 @@ ORCHESTRA.
 "Now haud your tongue o' my love and vows,
     For they can breed but strife;
 Now haud your tongue o' my former vows,
-    For I am anither man's wife."
+    For I am another man's wife."
 "O fause are the vows o' womankind,
     But fair is their fause bodie;
 I wad never hae trodden on Irish ground,
@@ -45,8 +39,8 @@ And sail wi' me across the sea,
     Sae fair the wind doth blow."
 "See ye not seven pretty ships,
     The eighth brought me to land,
-With merchandis
-    And my..."
+With merchand
+And my..."
 
 === Page 4 ===
 "O weel I like the ship," she said,
@@ -106,18 +100,18 @@ Spake as tho' dreaming:
 Hell! these temple walls defy thee!
 Hearts are swelling, souls are yearning,
 God, to thee alone be glory.
-
 "Be my faith as yonder mountains,
 Root as deeply, shine as purely;
 And as these my faith strive upwards,
 On to him, the All Creator,"
 Olav's prayer be ours to utter,
 As we near the throne of mercy.
-Hearts are swelling, souls are yearning.
+Hearts are swelling, souls are yearning,
 God, to thee alone be glory
     On to God! On to God!
 
 Hungarian Dances J. Brahms
+
 No. 1—Allegro molto.    No. 2—Allegretto.
 
 ORCHESTRA.
@@ -129,7 +123,6 @@ CHORAL ODE—
 From Goethe's "Helena"
 (Faust, Part 2, Act 3.)
 G. W. L. Marshall-Hall.
-
 (Composed specially for and dedicated to the Melbourne Liedertafel.)
 
 THE LIEDERTAFEL, LADIES' CHOIR
@@ -149,14 +142,13 @@ In the following ode from Goethe's masterpiece, these qualities are passionately
 SCENE: Before the Palace of Menelaus at Sparta.
 Chorus of Captive Trojans.
 Andante.
-Werfet, O Schwestern,
 
 === Page 7 ===
 Zwar mit spät zurückkehrendem
 Though with overlong loitering,
 Aber mit desto festerem
 Yet with so much the eagerer
-Fusse freudig herannah!.
+Fusse freudig herannah!
 Footsteps joyfully neareth.
 
 Preiset die heiligen
@@ -198,12 +190,12 @@ Vainly yearning, pines away.
 Allegro Maestoso
 
 Aber sie ergiff ein Gott
-Yea, she seized a God
+Yea, she took a God to her aid.
 
 === Page 8 ===
 Vaterhaus,
 Ancestral home.
-Nach unsaglichen
+Nach unsäglichen
 After unspeakable
 Freuden und Qualen,
 Gladness and anguish,
@@ -220,7 +212,7 @@ Glücklich herstellenden
 Household Custodians,
 Und heimführenden Götter.
 Praise the homebringing Lares (Gods):
-Werfet, O Schwestern, ihr
+Werft, O Schwestern, ihr
 Banish, O sisters, ye
 Traurig gefangenen,
 Sorrowful captive ones,
@@ -278,7 +270,7 @@ AND ORCHESTRA.
 
 A CHIEFTAIN to the highlands bound
 Cries "Boatman, do not tarry!
-And I'll give you a guinea and
+And I'll give you a guinea
 To row
 
 === Page 10 ===
@@ -324,19 +316,7 @@ And I'll forgive your Highland chief,
     My daughter! oh, my daughter!"
 
 === Page 11 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 12 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+

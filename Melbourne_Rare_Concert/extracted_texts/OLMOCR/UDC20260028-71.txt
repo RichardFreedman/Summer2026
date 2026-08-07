@@ -6,18 +6,19 @@ The Musical Society of Victoria
 The Chapter House, St. Paul's Cathedral,
 Saturday Evening, 10th April, at 8 p.m.
 
-President: George Peake. Secretary: W. H. Heathcote
+President: George Peake.    Secretary: W. H. Heathcote
 
 Programme
 
-Sonata for Violin and Piano, Op. 24, in E minor Emil Sjögren
+Sonata for Violin and Piano, Op. 24, in E minor    Emil Sjögren
 (Allegro moderato, Allegretto scherzando, Andante sostenuto, Con fuoco)
 Miss Margery Gray, Miss Rita Hope
 
 Cavalier Tunes
 (a) Marching along ... ... Louis Lavater
 (b) Give a Rouse ... ... Louis Lavater
-(c) Boot and Saddle ... ... Louis Lavater
+(c) Boot and Saddle ... ...
+
 Mr. Henry Thomas
 
 PIANO SOLI
@@ -26,23 +27,24 @@ PIANO SOLI
 (c) Sonata in A major ... ... Scarlatti
 Miss Rita Hope
 
-Songs
-(a) Meine Liebe ist grün ... ... Brahms
+Songs ...
+(a) Meine Liebe ist grün ... ...
 (b) Liebestreu ... ... Brahms
-(c) Minnelied ... ... Brahms
+(c) Minnelied ... ... ...
+
 Miss Maud Harrington
 
-Violin Solo
-Air for the G String ... ... Bach
+Violin Solo ... Air for the G String ... ... Bach
 Miss Margery Gray
 
-Song Cycle
-The Princess ... ... C. Villiers Stanford
+Song Cycle ... The Princess ... C. Villiers Stanford
 Words selected from Lord Tennyson's "The Princess."
 For Solo Quartette and Pianoforte Accompaniment.
+
 Miss Maud Harrington, Madame Gregor Wood
 Mr. Gregor Wood, Mr. Henry Thomas
 Miss Rita Hope
+
 Accompaniste: Miss Madge Sissons
 
 General Meeting at conclusion of Programme; all Members are requested to remain.
@@ -59,10 +61,12 @@ As thro' the land at eve we went,
 We fell out—my wife and I—
     O we fell out, I know not why,
         And kiss'd again with tears.
+
 And blessings on the falling out,
     That all the more endears,
 When we fall out with those we love.
-        And kiss again with tears.
+    And kiss again with tears.
+
 For when we come where lies the child
     We lost in other years,
 O there above the little grave
@@ -74,14 +78,17 @@ Sweet and low, sweet and low,
     Wind of the western sea,
 Low, low, breathe and blow,
     Wind of the western sea.
+
 Over the rolling waters go,
 Come from the dying moon and blow,
 Blow him again to me.
 While my little one, while my pretty one sleeps.
+
 Sleep and rest, sleep and rest.
     Father will come to thee soon;
 Rest, rest, on mother's breast,
     Father will come to thee soon.
+
 Father will come to his babe in the nest,
 Silver sails all out of the west;
 Under the silver moon
@@ -95,12 +102,14 @@ The long light shakes across the lakes,
     And the wild cataract leaps in glory.
 Blow, bugle, blow, set the wild echoes flying,
 Blow, bugle, answer, echoes dying.
+
 O hark, O hear! How thin, how clear,
     And thinner, clearer, further going!
 O sweet and far from cliff and scar,
-    The horns of Elfland faintly blowing!
+    The horns of Elfand faintly blowing!
 Blow, let us hear the purple glens replying,
 Blow, bugle, answer, echoes dying.
+
 O love, they die in yon rich sky,
     They faint on hill or field or river.
 Our echoes roll from soul to soul,
@@ -119,7 +128,7 @@ Rise in the heart, and gather to the eyes,
 In looking on the happy autumn fields,
 And thinking of the days that are no more.
 
-Fresh as the first beam, glitt'ring on the sail,
+Fresh as the first beam glitt'ring on the sail,
 That brings our friends up from the under world,
 Sad as the last which reddens over one
 That sinks with all we love below the verge,
@@ -175,8 +184,8 @@ That beat to battle where he stands,
 Thy face before his fancy comes
 And gives the battle to his hands.
 A moment, when the trumpets blow,
-He sees his brood upon his knee.
-The next, like fire, meets the foe.
+He sees his brood upon his knee,
+The next, like fire, meets the foe,
 And strike him dead for thine and thee.
 
 7. Home they brought her Warrior dead.

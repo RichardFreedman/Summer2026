@@ -21,16 +21,10 @@ of ...
 
 Ye Melbourne Liedertafel
 
-Held at ye Hall of ye City of Melbourne - on ye night of Friday - 27. December - Anno Domini - 1971 - at ye hour of VIII.
+Held at the Hall of the City of Melbourne - on the night of Friday - 17 December - Anno Domini - 1971 - at the hour of VIII.
 
 === Page 2 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 3 ===
 The Liedertafel will be assisted by the following ... Artists ...
@@ -54,7 +48,8 @@ Collingwood, for loan of Furnishings.
 === Page 5 ===
 Programme
 
-Under the Baton of the Hon. Conductor,
+Under the Baton of the
+Hon. Conductor,
 Professor Marshall-Hall.
 
 Part I.
@@ -72,72 +67,75 @@ JOHN DOWLAND
 Liedertafel and Associated Ladies' Choir.
 
 (a) Now is the month of Maying, when merry lads are playing,
-    Fa la la, etc.
+Fa la la, etc.
 Each with his bonny lass, a dancing on the grass.
-    Fa la la, etc.
+Fa la la, etc.
+
 The Spring clad all in gladness, doth laugh at Winter's sadness,
-    Fa la la, etc.
+Fa la la, etc.
 And to the Bagpipes sound, the nymphs tread out their ground.
-    Fa la la, etc.
+Fa la la, etc.
+
 Fie then, why sit we musing, youth's sweet delight refusing?
-    Fa la la, etc.
+Fa la la, etc.
 Say, dainty nymphs, and speak, shall we play barley break?
-    Fa la la, etc.
+Fa la la, etc.
 
 (b) Awake, sweet love! thou art return'd;
-    My heart, which long in absence mourn'd,
-    Lives now in perfect joy.
+My heart, which long in absence mourn'd,
+Lives now in perfect joy.
+
 Only herself hath seemed fair,
-    She only I could love,
+She only I could love,
 She only drove me to despair
-    When she unkind did prove.
+When she unkind did prove.
 
 === Page 6 ===
 Arias—
 (a) Tre Giorni
-GIOVANNI B. PERGOLESE
-(1710)
+    GIOVANNI B. PERGOLESE
+    (1710)
 (b) Caro Mio Ben
-GIUSEPPE GIORDANI
-(1743)
+    GIUSEPPE GIORDANI
+    (1743)
 Miss Elva Rogers.
 
 Madrigal—
 Matona, Lovely Maiden
-ORLANDO LASSUS
-(1520-1594)
+    ORLANDO LASSUS
+    (1520-1594)
 
 Liedertafel and Associated Ladies' Choir.
 
 MATONA, lovely maiden,
-O listen to the song
-I sing beneath thy window,
-    While night clouds roll along,
-        Dong, dong, derry, derry, etc.,
+    O listen to the song
+    I sing beneath thy window,
+        While night clouds roll along,
+            Dong, dong, derry, derry, etc.,
 
-I pray you hear my ditty,
-    'Tis sweet and not too long,
-    'Tis pointed, if not witty,
-        And sharpen'd like a prong.
-        Dong, dong, derry, derry, etc.
+    I pray you hear my ditty,
+        'Tis sweet and not too long,
+        'Tis pointed, if not witty,
+            And sharpen'd like a prong.
+                Dong, dong, derry, derry, etc.
 
-The words of choicest tissue,
-    To shoot love's aim, belong,
-Then from your window issue,
-    Or else you do me wrong.
-        Dong, dong, derry, derry, etc.
+    The words of choicest tissue,
+        To shoot love's aim, belong,
+    Then from your window issue,
+        Or else you do me wrong.
+            Dong, dong, derry, derry, etc.
 
-You'll say if once you catch them,
-    And note their fine ding dong,
-Petrarcha could not match them,
-    They are so sweet and strong.
-        Dong, dong, derry, derry, etc.
+    You'll say if once you catch them,
+        And note their fine ding dong,
+    Petrarcha could not match them,
+        They are so sweet and strong.
+            Dong, dong, derry, derry, etc.
 
-But if you think the measure,
-    Should to all scorn belong,
-A more complying treasure
-    I'll choose from out the throng.
-        Dong, dong, derry derry, etc.
+    But if you think the measure,
+        Should to all scorn belong,
+    A more complying treasure
+        I'll choose from out the throng.
+            Dong, dong, derry derry, etc.
 
 === Page 7 ===
 Sonata for Violin and Pianoforte—
@@ -201,6 +199,7 @@ Aria—
 Pieta Signore, di me Dolente
 (Aria di Chiesa)
 STRADELLA (1680)
+
 Mr. E. A. Ure.
 
 Sonata for Violin and Pianoforte—
@@ -209,15 +208,15 @@ ALLEMANDA.
 SARABANDA.
 GIGA.
 ARCANGELO CORELLI (1653-1713)
+
 Mr. A. Zelman, jnr.
 
 Recit.—
 Deeper and Deeper Still
-Mr. J. Gregor Wood.
-
+HANDEL (1685-1759)
 Air—
 Waltz Her, Angels
-HANDEL (1685-1759)
+Mr. J. Gregor Wood.
 
 === Page 9 ===
 Madrigal—
@@ -293,19 +292,7 @@ Hon. Sec.
 WILKE & BOWDEN, PRINTERS.
 
 === Page 11 ===
----
-primary_language: None
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
 
 === Page 12 ===
----
-primary_language: en
-is_rotation_valid: True
-rotation_correction: 0
-is_table: False
-is_diagram: False
----
+
