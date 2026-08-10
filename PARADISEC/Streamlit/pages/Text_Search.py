@@ -4,6 +4,7 @@ from charset_normalizer import from_bytes
 import codecs
 from fuzzysearch import find_near_matches
 import io
+import math
 import mimetypes
 import pandas as pd
 import pymupdf
@@ -58,8 +59,7 @@ else:
             )
 
             total_filtered_items = response.json()['data']['items']['total']
-            pages = total_filtered_items // st.session_state.PAGE_LIMIT
-            if ((total_filtered_items % st.session_state.PAGE_LIMIT) != 0): pages = pages + 1
+            pages = math.ceil(total_filtered_items / st.session_state.PAGE_LIMIT)
 
             filtered_essences = {}
             total_essence_files = 0
@@ -185,18 +185,18 @@ else:
                                 all_text = []
                                 for phrase in xml.findall('.//phrase'):
                                     words = phrase.find('words')
-                                    if (words is not None):
+                                    if (words != None):
                                         text_words = []
                                         for word in words.findall('word'):
                                             text_item = word.find("item[@type='txt']")
-                                            if (text_item is not None and text_item.text): text_words.append(text_item.text.strip())
+                                            if (text_item != None and text_item.text): text_words.append(text_item.text.strip())
                                             else:
                                                 punctuation_item = word.find("item[@type='punct']")
-                                                if (punctuation_item is not None and punctuation_item.text): text_words.append(punctuation_item.text.strip())
+                                                if (punctuation_item != None and punctuation_item.text): text_words.append(punctuation_item.text.strip())
                                         original_text = ' '.join(text_words)
                                     else:
                                         text_item = phrase.find("item[@type='txt']")
-                                        original_text = text_item.text.strip() if text_item is not None and text_item.text else ''
+                                        original_text = text_item.text.strip() if text_item != None and text_item.text else ''
 
                                     gloss_items = phrase.findall("item[@type='gls']")
                                     translation_texts = ' '.join(gloss.text.strip() for gloss in gloss_items if gloss.text and gloss.text.strip())

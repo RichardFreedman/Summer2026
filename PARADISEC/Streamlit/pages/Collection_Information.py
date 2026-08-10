@@ -1,3 +1,4 @@
+import math
 import pandas as pd
 import streamlit as st
 import time
@@ -48,8 +49,7 @@ else:
         )
 
         total_items = response.json()['data']['items']['total']
-        pages = total_items // st.session_state.PAGE_LIMIT
-        if ((total_items % st.session_state.PAGE_LIMIT) != 0): pages = pages + 1
+        pages = math.ceil(total_items / st.session_state.PAGE_LIMIT)
 
         collection_items = []
         for page in range(pages):
