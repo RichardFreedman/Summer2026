@@ -1,332 +1,395 @@
 associated_work,composer,date_text,filename,manifest_contents,manifest_date,manifest_organization,movement_or_selection,name,page_number,part_or_instrument,place,record_type,review_flags,role,source_text,title
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,,1,,TOWN HALL,venue,,,"TOWN HALL,",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,,1,,"TOWN HALL,",venue,,,"TOWN HALL,",
 ,,"SATURDAY, NOV. 18, 1893. 3 O’CLOCK",UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,,1,,,date,,,"SATURDAY, NOV. 18, 1893. 3 O’CLOCK",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Melbourne LIEDERTAFEL,3,,,organization,,presenting organization,"Melbourne  LIEDERTAFEL
-Instituted  1868. RE-CONSTITUTED 1879",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,ASSOCIATED LADIES’ CHOIR,10,,,organization,,choir,"ASSOCIATED LADIES’ CHOIR,",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,THE LIEDERTAFEL,10,,,organization,,choir,THE LIEDERTAFEL.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Melbourne  LIEDERTAFEL,3,,,organization,,presenting organization,Melbourne  LIEDERTAFEL,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"ASSOCIATED LADIES’ CHOIR,",10,,,organization,,choir,"ASSOCIATED LADIES’ CHOIR,",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,THE LIEDERTAFEL.,10,,,organization,,choir,THE LIEDERTAFEL.,
 ,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,ORCHESTRA,10,,,organization,,orchestra,AND ORCHESTRA.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"The HON, STB W. J. CLARKE, BART., M.L.C.",3,,,patron,OCR garble in 'Catron' (Patron) and possibly in honorifics,Patron,"Catron: 
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,LIEDERTAFEL AND ORCHESTRA.,12,,,organization,,performing organization,LIEDERTAFEL AND ORCHESTRA.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,ASSOCIATED LADIES’ CHOIR AND VOLUNTEERS.,5,,,organization,,choir,ASSOCIATED LADIES’ CHOIR AND VOLUNTEERS.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"The  HON, STB W. J. CLARKE, BART., M.L.C.",3,,,patron,OCR likely reads 'Catron' for 'Patron',Patron,"Catron: 
 The  HON, STB W. J. CLARKE, BART., M.L.C.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"BARON Sir  F. von  MUELLER, K.C.M.G",3,,,patron,OCR garble in heading 'Mice-Gresidents' (Vice-Presidents),Vice-President,"Mice-Gresidents:
-BARON Sir  F. von  MUELLER, K.C.M.G",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"HON, F. S. GRIMWADE, M.L.C.",3,,,patron,OCR punctuation/spacing irregular; role inferred from section heading,Vice-President,"HON, F. S. GRIMWADE, M.L.C. | Hon . U. McBRYDE. M.L.C.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Hon . U. McBRYDE. M.L.C.,3,,,patron,OCR punctuation/spacing irregular; role inferred from section heading,Vice-President,"HON, F. S. GRIMWADE, M.L.C. | Hon . U. McBRYDE. M.L.C.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,PATON & SONS,19,,,patron,,Donor,"The thanks of the Society are due to Messrs. PATON 
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,PATON & SONS,19,,,patron,In-kind sponsor/donor,Donor,"The thanks of the Society are due to Messrs. PATON 
 & SONS (for the Plants)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,WEBB & SON,19,,,patron,,Donor,WEBB & SON (for the Vases,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,FOY & GIBSON,19,,,patron,,Donor,FOY & GIBSON (for the Draperies),
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,NICHOLSON & CO.,19,,,patron,OCR garble in company style ('GO.' for 'CO.'),Donor,"NICHOLSON & 
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,WEBB & SON,19,,,patron,In-kind sponsor/donor,Donor,WEBB & SON (for the Vases,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,FOY & GIBSON,19,,,patron,In-kind sponsor/donor,Donor,"FOY & GIBSON (for the Draperies),",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,NICHOLSON & GO.,19,,,patron,OCR likely 'GO.' for 'CO.'; in-kind sponsor/donor,Donor,"NICHOLSON & 
 GO. (for the Statuary).",
-,RICHARD WAGNER,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,,7,,,work,,,"PARSIFAL
+,RICHARD WAGNER.,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,,7,,,work,,,"-4 THE + SCHEME. -
+PARSIFAL
 A Festival Drama
-By  RICHARD WAGNER.",Parsifal
-,JOHANNES BRAHMS,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,,12,,,work,Minor OCR garble ('ans' for 'aus'),,"RHAPSODIE
+By  RICHARD WAGNER.",PARSIFAL
+,JOHANNES BRAHMS.,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,,12,,,work,,,"RHAPSODIE
 (fragment ans Goethe's Harzreise im Winter), 
 FOR
 Contralto Solo, Chorus pf Men’s Voices and Orchestra,
 By  JOHANNES BRAHMS.
-Op. 53.","Rhapsodie (fragment aus Goethe's Harzreise im Winter), Op. 53"
-,Franz Liszt,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,ALLEGRO Maestoso; Quasi ADAGIO; Allegretto Vivace; Allegro Marziale ANIMATO,,13,,,work,OCR garble in 'Noz Sianoforle' (Pianoforte) and numeral,,"Concerto  (No. ι in Ε flat)—
+Op. 53.",RHAPSODIE (fragment ans Goethe's Harzreise im Winter)
+,Franz Liszt,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,Noz Sianoforle & Orchestra; ALLEGRO Maestoso . Quasi  ADAGIO. Allegretto  Vivace . Allegro  Marziale  ANIMATO.,,13,,,work,,,"Concerto  (No. ι in Ε flat)—
 Noz Sianoforle & Orchestra
-Franz Liszt",Concerto No. 1 in E flat (for Pianoforte & Orchestra)
-,EDWARD GRIEG,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,,14,,,work,Composer OCR variant 'EDWARD GREIG' vs 'Edvard Grieg'—kept as printed,,"""LANDERKENNUNG""
+Franz Liszt",Concerto  (No. ι in Ε flat)
+,EDWARD GRIEG.,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,,14,,,work,,,"""LANDERKENNUNG""
 (LAND SIGHTING)
 For Baritone Solo, Chorus of Men’s voices, Organ and 
 Orchestra.
 BY EDWARD GRIEG.
-Op. 31.","Landerkennung (Land Sighting), Op. 31"
-,FRANZ LISZT,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,Chorus of Crusaders—Recitative of Landgrave—Parting—Chorus and March,,15,,,work,,,"THE LEGEND OF ST. ELIZABETH
+Op. 31.",LANDERKENNUNG (LAND SIGHTING)
+,FRANZ LISZT.,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,“emo Crusaders' Scene.,,15,,,work,,,"THE LEGEND OF ST. ELIZABETH
 (OF HUNGARY).
 For Solo Voices. Chorus (S.A.T.B.) Organ &. Orchestra,
 BY
-FRANZ LISZT.",The Legend of St. Elizabeth (Crusaders' Scene)
+FRANZ LISZT.",THE LEGEND OF ST. ELIZABETH (OF HUNGARY)
 ,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,MR. HENRY JOHN KING,4,Conductor,,performer,,,Conductor  - MR. HENRY JOHN KING,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,H. J. King,7,Conductor,,performer,OCR case/spacing oddities,,"Μκ. H. J. King , the Conductor, for the whole of the music set 
-down for performance this afternoon.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr . AUGUST SIEDE,3,Hon. Pianist & Organist,,performer,Unclear if this is a performing role in this concert,,"Hon. Gianist § Organist :
-Mr . AUGUST SIEDE.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,MR. GEO. WESTON,4,Principal Violin,,performer,,,Principal  Violin  MR. GEO. WESTON.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. G. Weston,4,Violini Imi.,,performer,,,"Violini Imi.—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,MR. GEO. WESTON.,4,Principal Violin,,performer,,,Principal  Violin  MR. GEO. WESTON.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. G. Weston.,4,First Violin,,performer,,,"Violini Imi.—
 Mr. G. Weston.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,F. Dierich,4,Violini Imi.,,performer,,,"Violini Imi.—
-F. Dierich.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,G. Sutch,4,Violini Imi.,,performer,,,"Violini Imi.—
-„G. Sutch.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,E. King,4,Violini Imi.,,performer,,,"Violini Imi.—
-„E. King.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,H. Schraeder,4,Violini Imi.,,performer,,,"Violini Imi.—
-„H. Schraeder.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,B. Stevens,4,Violini Imi.,,performer,,,"Violini Imi.—
-,, B. Stevens.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Zeplin,4,Violini Imi.,,performer,,,"Violini Imi.—
-„, T. Zeplin.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,W. Josephi,4,Violini Imi.,,performer,,,"Violini Imi.—
-,, W. Josephi.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Mr, J. Wright",4,Violini Ildi.,,performer,OCR 'Ildi.' (Second violins) kept as printed,,"Violini Ildi.—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,F. Dierich.,4,First Violin,,performer,,,F. Dierich.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,G. Sutch.,4,First Violin,,performer,,,„G. Sutch.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,E. King.,4,First Violin,,performer,,,„E. King.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,H. Schraeder.,4,First Violin,,performer,,,„H. Schraeder.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,B. Stevens.,4,First Violin,,performer,,,",, B. Stevens.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Zeplin.,4,First Violin,,performer,,,"„, T. Zeplin.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,W. Josephi.,4,First Violin,,performer,,,",, W. Josephi.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Mr, J. Wright.",4,Second Violin,,performer,,,"Violini Ildi.—
 Mr, J. Wright.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,M. A. Phillips,4,Violini Ildi.,,performer,,,"Violini Ildi.—
-,M. A. Phillips.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,A. Zelman,4,Violini Ildi.,,performer,,,"Violini Ildi.—
-„A. Zelman.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,E. Rawlins,4,Violini Ildi.,,performer,,,"Violini Ildi.—
-,, E. Rawlins.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"H. Weinberg, senr.",4,Violini Ildi.,,performer,OCR artifacts ('2*') present,,"Violini Ildi.—
-2* H. Weinberg, senr.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. G. II. Schacht,4,Violi,,performer,Section heading OCR ('Violi'),,"Violi —
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,M. A. Phillips.,4,Second Violin,,performer,,,",M. A. Phillips.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,A. Zelman.,4,Second Violin,,performer,,,„A. Zelman.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,E. Rawlins.,4,Second Violin,,performer,,,",, E. Rawlins.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"2* H. Weinberg, senr.",4,Second Violin,,performer,,,"2* H. Weinberg, senr.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. G. II. Schacht.,4,Viola,,performer,Header 'Violi —' assumed to indicate 'Viola',,"Violi —
 Mr. G. II. Schacht.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,A. Zeplin,4,Violi,,performer,,,"Violi —
-„A. Zeplin.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,H. Edwards,4,Violi,,performer,,,"Violi —
-,, H. Edwards.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Weidermann,4,Violi,,performer,,,"Violi —
-,, T. Weidermann.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. Geo. E. Howard,4,Violoncelli,,performer,,,"Violoncelli—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,A. Zeplin.,4,Viola,,performer,Header 'Violi —' assumed to indicate 'Viola',,„A. Zeplin.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,H. Edwards.,4,Viola,,performer,Header 'Violi —' assumed to indicate 'Viola',,",, H. Edwards.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Weidermann.,4,Viola,,performer,Header 'Violi —' assumed to indicate 'Viola',,",, T. Weidermann.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. Geo. E. Howard.,4,Violoncello (Cello),,performer,,,"Violoncelli—
 Mr. Geo. E. Howard.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,F. Clutsam,4,Violoncelli,,performer,,,"Violoncelli—
-„F. Clutsam.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,C. Harrison,4,Violoncelli,,performer,,,"Violoncelli—
-,, C. Harrison.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. A. Ceschina,4,Contra Bassi,,performer,,,"Contra Bassi —
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,F. Clutsam.,4,Violoncello (Cello),,performer,,,„F. Clutsam.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,C. Harrison.,4,Violoncello (Cello),,performer,,,",, C. Harrison.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. A. Ceschina,4,Double Bass,,performer,,,"Contra Bassi —
 Mr. A. Ceschina",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,W. Brown,4,Contra Bassi,,performer,,,"Contra Bassi —
-„W. Brown.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,H. West,4,Contra Bassi,,performer,,,"Contra Bassi —
-„H. West.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. H. L. Stoneham,4,Flauti,,performer,,,"Flauti—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,W. Brown.,4,Double Bass,,performer,,,„W. Brown.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,H. West.,4,Double Bass,,performer,,,„H. West.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. H. L. Stoneham.,4,Flute,,performer,,,"Flauti—
 Mr. H. L. Stoneham.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,J. S. Smith,4,Flauti,,performer,,,"Flauti—
-,, J. S. Smith.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. G. Wright,4,Flauto Piccolo,,performer,,,"Flauto Piccolo —
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,J. S. Smith.,4,Flute,,performer,,,",, J. S. Smith.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. G. Wright.,4,Piccolo,,performer,,,"Flauto Piccolo —
 Mr. G. Wright.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. E. Lyons,4,Oboi,,performer,,,"Oboi—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. E. Lyons.,4,Oboe,,performer,,,"Oboi—
 Mr. E. Lyons.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,R. Carolane,4,Oboi,,performer,,,"Oboi—
-„R. Carolane.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Cuttle,4,Oboi,,performer,,,"Oboi—
-„T. Cuttle.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. F. Luttich,4,Cor Ang’ais,,performer,Spacing OCR in section heading,,"Cor A ng’ais—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,R. Carolane.,4,Oboe,,performer,,,„R. Carolane.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Cuttle.,4,Oboe,,performer,,,„T. Cuttle.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. F. Luttich.,4,English Horn,,performer,,,"Cor A ng’ais—
 Mr. F. Luttich.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. Campbell,4,Clarinetti,,performer,,,"Clarinetti—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. Campbell.,4,Clarinet,,performer,,,"Clarinetti—
 Mr. Campbell.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,M. Lyons,4,Clarinetti,,performer,,,"Clarinetti—
-„M. Lyons.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,J. B. Walters,4,Clarinetti,,performer,,,"Clarinetti—
-„ J. B. Walters.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. Moffitt,4,Fagotti,,performer,,,"Fagotti—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,M. Lyons.,4,Clarinet,,performer,,,„M. Lyons.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,J. B. Walters.,4,Clarinet,,performer,,,„ J. B. Walters.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. Moffitt.,4,Bassoon,,performer,,,"Fagotti—
 Mr. Moffitt.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Chas. S. Rudall,4,Fagotti,,performer,,,"Fagotti—
-,, Chas. S. Rudall.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,A. X. Ingamells,4,Fagotti,,performer,,,"Fagotti—
-,, A. X. Ingamells.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. Η Kühr,4,Corni,,performer,Diacritic/initial OCR in name,,"Corni—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Chas. S. Rudall.,4,Bassoon,,performer,,,",, Chas. S. Rudall.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,A. X. Ingamells.,4,Bassoon,,performer,,,",, A. X. Ingamells.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Mr. Η Kühr,",4,Horn,,performer,,,"Corni—
 Mr. Η Kühr,",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,A. Flewin,4,Corni,,performer,,,"Corni—
-„A. Flewin.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,R. Peckotsch,4,Corni,,performer,,,"Corni—
-„R. Peckotsch.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,W. FL Heathcote,4,Corni,,performer,OCR in initials ('FL'),,"Corni—
-,, W. FL Heathcote.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. H. Stoneham,4,Trombe,,performer,Section heading OCR spacing,,"Trom be —
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,A. Flewin.,4,Horn,,performer,,,„A. Flewin.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,R. Peckotsch.,4,Horn,,performer,,,„R. Peckotsch.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,W. FL Heathcote.,4,Horn,,performer,,,„ W. FL Heathcote.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. H. Stoneham.,4,Trumpet,,performer,,,"Trom be —
 Mr. H. Stoneham.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Wilson,4,Trombe,,performer,,,"Trom be —
-,, T. Wilson.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,W. H. Matthias,4,Trombe,,performer,,,"Trom be —
-„W. H. Matthias.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. P. Downs,4,Tromboni,,performer,,,"Tromboni —
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Wilson.,4,Trumpet,,performer,,,„ T. Wilson.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,W. H. Matthias.,4,Trumpet,,performer,,,„W. H. Matthias.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. P. Downs.,4,Trombone,,performer,,,"Tromboni —
 Mr. P. Downs.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Lawson,4,Tromboni,,performer,,,"Tromboni —
-» T. Lawson.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,S. Hore,4,Tromboni,,performer,,,"Tromboni —
-„S. Hore.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. J. Fries,4,Tuba,,performer,Section heading OCR spacing,,"Tu ba —
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. Lawson.,4,Trombone,,performer,,,» T. Lawson.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,S. Hore.,4,Trombone,,performer,,,„S. Hore.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. J. Fries.,4,Tuba,,performer,,,"Tu ba —
 Mr. J. Fries.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. J. Mumyard,4,Timpani,,performer,,,"Timpani—
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. J. Mumyard.,4,Timpani,,performer,,,"Timpani—
 Mr. J. Mumyard.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. J. Lamble,4,Timpani,,performer,,,"Timpani—
-„ T. J. Lamble.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. G. W. Corbett,4,Tamburo Piccolo,,performer,,,"Tamburo Piccolo —
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,T. J. Lamble.,4,Timpani,,performer,,,„ T. J. Lamble.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. G. W. Corbett.,4,Snare Drum,,performer,,,"Tamburo Piccolo —
 Mr. G. W. Corbett.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. A. S. Clay,4,"Cymbals, Campanetta, Triangle and Glocken",,performer,Multiple instruments combined; OCR line breaks/spacing odd,,"Cymbals
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr. A. S. Clay.,4,"Percussion — Cymbals, Campanetta, Triangle, Glocken",,performer,,,"Cymbals
 Campanetta )
 Mr. A. S. Clay.
 Triangle andI
 Glocken (",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Madame Elise Wiedermann,6,Soloist,,performer,OCR garble; interpreted as 'Mme. Elise Wiedermann',,"J\4d ME. pLISE ^lEDERJVlANN,",
-The Legend of St. Elizabeth (Crusaders' Scene),,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,MDME. ELISE WIEDERMANN,16,Elizabeth (solo),,performer,,,ELIZABETH MDME. ELISE WIEDERMANN.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Miss ADA CROSSLEY,6,Soloist (Contralto),,performer,OCR garble; interpreted as 'Miss Ada Crossley',,"^ÆlSS ^DA J^F^SSLEY,",
-"Rhapsodie (fragment aus Goethe's Harzreise im Winter), Op. 53",,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Miss ADA CROSSLEY,12,Soloist (Contralto),,performer,,,Soloist  - Miss ADA CROSSLEY,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Miss DORA STAMP,6,Sole Pianoforte,,performer,OCR garble; interpreted as 'Miss Dora Stamp',,"Miss po^A STAMP
-(Sole Pianoforte).",
-Concerto No. 1 in E flat (for Pianoforte & Orchestra),,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Miss DORA STAMP,13,Pianoforte Soloist,,performer,,,SOLOIST - Miss DORA STAMP.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,HERR RUDOLPH HIMMER,6,Soloist,,performer,OCR garble ('MERR' for 'HERR'; surname matches later 'HIMMER'),,"MERR RUDOLPH HUMMER,",
-Parsifal,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Herr  HIMMER,10,Parsifal (role),,performer,,,PARSIFAL - Herr  HIMMER.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,HERR R. NITSCHKE,6,Baritone (soloist),,performer,,,"HERR R, NITSCHKE
-(Of Adelaide),",
-"Landerkennung (Land Sighting), Op. 31",,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,HERR R. NITSCHKE,14,Baritone Soloist,,performer,,,"Soloist  - HERR R. NITSCHKE,",
-The Legend of St. Elizabeth (Crusaders' Scene),,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,HERR R. NITSCHKE,16,Landgrave (role),,performer,OCR garble in title punctuation,,"LANDGRAVE L :w!, HERR R. NITSCHKE.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,HERR ERNEST HARTUNG,6,Soloist,,performer,OCR garble ('HERE' for 'HERR'),,"HERE ERNEST HARTUNG,",
-Parsifal,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Herr  ERNEST HARTUNG,10,Gurnemanz (role),,performer,,,GURNEMANZ - Herr  ERNEST HARTUNG.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,HERR LOUIS FLEISSNER,6,Soloist,,performer,OCR garble; interpreted as 'Herr Louis Fleissner',,MERR Louis pLElSSN.EPv,
-Parsifal,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Herr  LOUIS FLEISSNER,10,Titurel (role),,performer,,,TITUREL - Herr  LOUIS FLEISSNER.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,—,5,,,performer,Section header OCR artifacts; specific parts follow below,,"Members of the Choir, %",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Dickins, J. J. (Capt.)",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading,,"Dickins, J. J. (Capt.)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Speed, R. D. (on leave)",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading,,"Speed, R. D. (on leave)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Thomas, Τ. H.",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading; OCR in initial,,"Thomas, Τ. H",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Altmann, H.",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading,,"Altmann, H.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Altmann, H. A",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading,,"Altmann, H. A",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Manson, D. E.",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading; OCR spacing,,"Manson, D E.,",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Dyer, J.",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading,,"Dyer, J.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hardy, J. W.",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading,,"Hardy, J. W.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Heymanson, A. A.",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading,,"Heymanson, A. A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Madden, D. A.",5,,,performer,Part not explicitly indicated before 'FIRST TENOR' heading; OCR garble in initial,,"Madden, I). A",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,—,5,FIRST TENOR,,performer,,,FIRST TENOR.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Beaumont, D. A.",5,FIRST TENOR,,performer,,,"Beaumont, D. A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Newman, F. A.",5,FIRST TENOR,,performer,,,"Newman, F. A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Robie, D. L.",5,FIRST TENOR,,performer,,,"Robie, D. L.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Robinson, Η. J. (on Ive.)",5,FIRST TENOR,,performer,OCR 'Ive.' for 'leave',,"Robinson, Η. J. (on Ive.)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Woess, Carl",5,FIRST TENOR,,performer,,,"Woess, Carl",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Thackeray, J.",5,FIRST TENOR,,performer,,,"Thackeray, J.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Heron, G. K.",5,FIRST TENOR,,performer,,,"Heron, G. K.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Bird, Jno",5,FIRST TENOR,,performer,,,"Bird, Jno",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Ward Η.,5,FIRST TENOR,,performer,Initial OCR oddity,,Ward Η.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Fletcher, S. H. (on leave)",5,FIRST TENOR,,performer,,,"Fletcher, S. H. (on leave)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Brunton, W.",5,FIRST TENOR,,performer,,,"Brunton, W.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Fullagher, A. G.",5,FIRST TENOR,,performer,,,Fullagher A. G,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Eville, P. M.",5,FIRST TENOR,,performer,,,"Eville, P. M.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Harley, G.",5,FIRST TENOR,,performer,,,"Harley, G.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Donaldson, J. P.",5,FIRST TENOR,,performer,,,"Donaldson, J. P.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Boosey, Η.",5,FIRST TENOR,,performer,,,"Boosey, Η.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Harvey, H. J.",5,FIRST TENOR,,performer,,,"Harvey, H. J.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Power, F.",5,FIRST TENOR,,performer,,,Power. F.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Carne, A. E. (Capt.)",5,FIRST TENOR,,performer,,,"Carne, A. E. (Capt.)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Rament, Ε.",5,FIRST TENOR,,performer,,,"Rament, Ε.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Champion, W.",5,FIRST TENOR,,performer,,,Champion. W.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Forsyth, J. A.",5,FIRST TENOR,,performer,,,"Forsyth, J. A",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Herring, W. E.",5,FIRST TENOR,,performer,,,"Herring, W. E.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Lloyd, P.",5,FIRST TENOR,,performer,,,Lloyd. P.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Marshall, Capt. T. S. (on 1.)",5,FIRST TENOR,,performer,'on 1.' likely 'on leave' (OCR),,Marshall. Capt. T. S. (on 1.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hall, C. N.",5,FIRST TENOR,,performer,,,"Hall, C. N.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Rundell, W. R.",5,FIRST TENOR,,performer,,,"Rundell, W. R.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Day, G. A. (Capt.)",5,FIRST TENOR,,performer,,,"Day, G. A. (Capt.)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Bennett, J. J.",5,FIRST TENOR,,performer,,,"Bennett, J. J.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Clinton, F.",5,FIRST TENOR,,performer,,,"Clinton, F.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Garritty, W.",5,FIRST TENOR,,performer,,,"Garritty, W.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Garrett, H. (on leave)",5,FIRST TENOR,,performer,,,"Garrett, H. (on leave)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Gerson, J",5,FIRST TENOR,,performer,,,"Gerson, J",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Heathcote, W. H.",5,FIRST TENOR,,performer,,,"Heathcote, W. H.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Henne, D.",5,FIRST TENOR,,performer,,,"Henne, D.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Templeton, Capt. T. H.",5,FIRST TENOR,,performer,,,"Templeton, Capt. T. H.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Whitehead, F. S.",5,FIRST TENOR,,performer,,,"Whitehead, F. S.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hedding, Jas.",5,FIRST TENOR,,performer,,,"Hedding, Jas.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Carter, E. J.",5,FIRST TENOR,,performer,,,"Carter, E. J.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,—,5,SECOND TENOR,,performer,,,SECOND TENOR.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Gray, Thos.",5,SECOND TENOR,,performer,,,"Gray, Thos.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Whipp, A. A. (on leave)",5,SECOND TENOR,,performer,,,"Whipp, A. A. (on leave)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Beere, R. Η",5,SECOND TENOR,,performer,,,"Beere, R. Η",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Morgan, C. W. (on leave)",5,SECOND TENOR,,performer,Missing opening parenthesis (OCR),,"Morgan, C. W. on leave)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Ford, Η.",5,SECOND TENOR,,performer,,,"Ford, Η.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hotchin, T. H. K",5,SECOND TENOR,,performer,,,"Hotchin, T. H. K",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Pleasants, E. A.",5,SECOND TENOR,,performer,,,"Pleasants, E. A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Bates, Chas. Junr.",5,SECOND TENOR,,performer,,,"Bates, Chas. Junr.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"McRae, H.",5,SECOND TENOR,,performer,,,"McRae, H.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,—,5,FIRST BASS,,performer,,,FIRST BASS.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Eddy, A. E.",5,FIRST BASS,,performer,,,"Eddy, A. E.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Flood, W. H.",5,FIRST BASS,,performer,,,"Flood, W. H.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Bishop, A. A.",5,FIRST BASS,,performer,,,"Bishop, A. A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Küster, G. Η.",5,FIRST BASS,,performer,,,"Küster, G. Η.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wilson, E. L.",5,FIRST BASS,,performer,,,"Wilson, E. L.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Lennon, Geo. A.",5,FIRST BASS,,performer,,,"Lennon, Geo. A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Muirhead, G. Η.",5,FIRST BASS,,performer,,,"Muirhead, G. Η.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Turner, J. Τ.",5,FIRST BASS,,performer,,,"Turner, J. Τ.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Page, B.",5,FIRST BASS,,performer,,,"Page, B.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wilcox, W.",5,FIRST BASS,,performer,,,"Wilcox, W.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Excell, Fredk.",5,FIRST BASS,,performer,,,"Excell, Fredk.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Pincus, S.",5,FIRST BASS,,performer,,,"Pincus, S.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Prichard, J. J.",5,FIRST BASS,,performer,,,"Prichard, J. J.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Waugh, R. (on leave)",5,FIRST BASS,,performer,,,"Waugh, R. (on leave)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wood, W. C.",5,FIRST BASS,,performer,,,"Wood, W. C.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Champion, J.",5,FIRST BASS,,performer,,,Champion. J.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Ramsay, Τ. G.",5,FIRST BASS,,performer,,,"Ramsay, Τ G.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Sprod, W. G. R.",5,FIRST BASS,,performer,,,Sprod W. G. R.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Williams, E. H.",5,FIRST BASS,,performer,,,"Williams, E. H.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Williams, J. R.",5,FIRST BASS,,performer,,,"Williams, J. R.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Heathershaw, S. A.",5,FIRST BASS,,performer,,,"Heathershaw, S. A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Farr, Leigh",5,FIRST BASS,,performer,,,"Farr, Leigh",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Lemon, G. H.",5,FIRST BASS,,performer,,,Lemon. G. H.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Blades, R.",5,FIRST BASS,,performer,,,"Blades, R.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hall, F. F.",5,FIRST BASS,,performer,,,"Hall, F. F.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hislop, Η. (on leave)",5,FIRST BASS,,performer,,,"Hislop, Η. (on leave)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Smith, H. W.",5,FIRST BASS,,performer,,,Smith. H. W.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Appleby, W. E.",5,FIRST BASS,,performer,,,Appleby. W. E.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Holtz, F.",5,FIRST BASS,,performer,,,"Holtz, F.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Fleissner, L.",5,FIRST BASS,,performer,,,Fleissner L.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hall, C. E.",5,FIRST BASS,,performer,,,"Hall, C. E.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Casper, E. (Capt.)",5,FIRST BASS,,performer,,,"Casper, E. (Capt.)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Berry, A.",5,FIRST BASS,,performer,,,"Berry, A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Blashki, G. L.",5,FIRST BASS,,performer,,,"Blashki, G. L.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hasell, A. H.",5,FIRST BASS,,performer,,,"Hasell, A. H.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wilkes, K. (on leave)",5,FIRST BASS,,performer,,,"Wilkes, K. (on leave)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"McCall, R. W. V.",5,FIRST BASS,,performer,,,"McCall, R. W. V.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Pick, Geo.",5,FIRST BASS,,performer,,,"Pick, Geo.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Ashe, H. M.",5,FIRST BASS,,performer,,,"Ashe, H. M.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Watson, Jno.",5,FIRST BASS,,performer,,,"Watson, Jno.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Griffith, H. L.",5,FIRST BASS,,performer,,,"Griffith, H. L.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Statters, J.",5,FIRST BASS,,performer,,,"Statters, J.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Whitehead, A. E.",5,FIRST BASS,,performer,,,"Whitehead, A. E.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,—,5,SECOND BASS,,performer,,,SECOND BASS.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Turner, J. P.",5,SECOND BASS,,performer,,,"Turner, J. P.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Groube, H.",5,SECOND BASS,,performer,,,"Groube, H.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Pepper, F.",5,SECOND BASS,,performer,,,"Pepper, F.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wilmott, H. G.",5,SECOND BASS,,performer,,,"Wilmott, H. G.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Jones, W. C.",5,SECOND BASS,,performer,,,"Jones, W. C.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Adcock, John",5,SECOND BASS,,performer,,,"Adcock, John",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Lewis, F.",5,SECOND BASS,,performer,,,"Lewis, F.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Owen, E. T.",5,SECOND BASS,,performer,,,"Owen, E. T.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Smith, E. O.",5,SECOND BASS,,performer,,,"Smith, E. O.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hearn, A. H.",5,SECOND BASS,,performer,,,"Hearn, A. H.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Mattingly, A.",5,SECOND BASS,,performer,,,"Mattingly, A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"White, Thos. E.",5,SECOND BASS,,performer,,,"White, Thos, E.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Nunweek, A.",5,SECOND BASS,,performer,,,"Nunweek, A.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Sutherland, J.",5,SECOND BASS,,performer,,,"Sutherland, J.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Watkin, E. J. (on leave)",5,SECOND BASS,,performer,,,"Watkin, E. J. (on leave)",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"McHenry, Ε.",5,SECOND BASS,,performer,,,"McHenry, Ε.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Williamson, W. T. R.",5,SECOND BASS,,performer,,,"Williamson, W. T. R.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Smith, W.",5,SECOND BASS,,performer,,,Smith. W.,
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Irving, H. A. C.",5,SECOND BASS,,performer,,,"Irving, H. A. C.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Lloyd, H. D.",5,SECOND BASS,,performer,,,"Lloyd, H. D.",
-,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Adelt, Louis",5,SECOND BASS,,performer,,,"Adelt, Louis",
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,3,,"TOWN JALL, MELBOURNE",venue,,,"TOWN JALL, MELBOURNE",
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,20,,"yoWN JÎALL, MELBOURNE",venue,,,"yoWN JÎALL,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Μκ. H. J. King,7,Conductor,,performer,,,"Μκ. H. J. King , the Conductor, for the whole of the music set 
+down for performance this afternoon.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Mr . AUGUST SIEDE.,3,Pianist and Organist,,performer,Instrumental roles inferred from caption,,"Hon. Gianist § Organist :
+Mr . AUGUST SIEDE.",
+PARSIFAL,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Herr  HIMMER.,10,Parsifal (role),,performer,,,PARSIFAL - Herr  HIMMER.,
+PARSIFAL,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Herr  ERNEST HARTUNG.,10,Gurnemanz (role),,performer,,,GURNEMANZ - Herr  ERNEST HARTUNG.,
+PARSIFAL,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Herr  LOUIS FLEISSNER.,10,Titurel (role),,performer,,,TITUREL - Herr  LOUIS FLEISSNER.,
+RHAPSODIE (fragment ans Goethe's Harzreise im Winter),,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Miss ADA CROSSLEY,12,Contralto,,performer,,,Soloist  - Miss ADA CROSSLEY,
+Concerto  (No. ι in Ε flat),,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Miss DORA STAMP.,13,Piano,,performer,,,SOLOIST - Miss DORA STAMP.,
+LANDERKENNUNG (LAND SIGHTING),,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"HERR R. NITSCHKE,",14,Baritone,,performer,,,"Soloist  - HERR R. NITSCHKE,",
+THE LEGEND OF ST. ELIZABETH (OF HUNGARY),,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,MDME. ELISE WIEDERMANN.,16,Elizabeth (role),,performer,OCR garble in 'LANDGRAVE L :w!',,"ELIZABETH MDME. ELISE WIEDERMANN.
+LANDGRAVE L :w!, HERR R. NITSCHKE.",
+THE LEGEND OF ST. ELIZABETH (OF HUNGARY),,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,HERR R. NITSCHKE.,16,Landgrave (role),,performer,OCR garble in 'LANDGRAVE L :w!',,"ELIZABETH MDME. ELISE WIEDERMANN.
+LANDGRAVE L :w!, HERR R. NITSCHKE.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Beaumont, D. A.",5,First Tenor,,performer,,,FIRST TENOR.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Newman, F. A.",5,First Tenor,,performer,,,"Newman, F. A.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Robie, D. L.",5,First Tenor,,performer,,,"Robie, D. L.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Robinson, Η. J. (on Ive.)",5,First Tenor,,performer,'on Ive.' likely 'on leave',,"Robinson, Η. J. (on Ive.)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Woess, Carl",5,First Tenor,,performer,,,"Woess, Carl",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Thackeray, J.",5,First Tenor,,performer,,,"Thackeray, J.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Heron, G. K.",5,First Tenor,,performer,,,"Heron, G. K.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Bird, Jno",5,First Tenor,,performer,,,"Bird, Jno",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Ward Η.,5,First Tenor,,performer,,,Ward Η.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Fletcher, S. H. (on leave)",5,First Tenor,,performer,,,"Fletcher, S. H. (on leave)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Brunton, W.",5,First Tenor,,performer,,,"Brunton, W.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Fullagher A. G,5,First Tenor,,performer,,,Fullagher A. G,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Eville, P. M.",5,First Tenor,,performer,,,"Eville, P. M.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Harley, G.",5,First Tenor,,performer,,,"Harley, G.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Donaldson, J. P.",5,First Tenor,,performer,,,"Donaldson, J. P.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Boosey, Η.",5,First Tenor,,performer,,,"Boosey, Η.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Harvey, H. J.",5,First Tenor,,performer,,,"Harvey, H. J.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Power. F.,5,First Tenor,,performer,,,Power. F.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Carne, A. E. (Capt.)",5,First Tenor,,performer,,,"Carne, A. E. (Capt.)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Rament, Ε.",5,First Tenor,,performer,,,"Rament, Ε.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Champion. W.,5,First Tenor,,performer,,,Champion. W.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Forsyth, J. A",5,First Tenor,,performer,,,"Forsyth, J. A",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Herring, W. E.",5,First Tenor,,performer,,,"Herring, W. E.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Lloyd. P.,5,First Tenor,,performer,,,Lloyd. P.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Marshall. Capt. T. S. (on 1.,5,First Tenor,,performer,'on 1.' likely 'on leave',,Marshall. Capt. T. S. (on 1.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hall, C. N.",5,First Tenor,,performer,,,"Hall, C. N.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Rundell, W. R.",5,First Tenor,,performer,,,"Rundell, W. R.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Day, G. A. (Capt.)",5,First Tenor,,performer,,,"Day, G. A. (Capt.)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Bennett, J. J.",5,First Tenor,,performer,,,"Bennett, J. J.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Clinton, F.",5,First Tenor,,performer,,,"Clinton, F.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Garritty, W.",5,First Tenor,,performer,,,"Garritty, W.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Garrett, H. (on leave)",5,First Tenor,,performer,,,"Garrett, H. (on leave)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Gerson, J",5,First Tenor,,performer,,,"Gerson, J",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Heathcote, W. H.",5,First Tenor,,performer,,,"Heathcote, W. H.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Henne, D.",5,First Tenor,,performer,,,"Henne, D.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Templeton, Capt. T. H.",5,First Tenor,,performer,,,"Templeton, Capt. T. H.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Whitehead, F. S.",5,First Tenor,,performer,,,"Whitehead, F. S.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hedding, Jas.",5,First Tenor,,performer,,,"Hedding, Jas.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Carter, E. J.",5,First Tenor,,performer,,,"Carter, E. J.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Gray, Thos.",5,Second Tenor,,performer,,,SECOND TENOR.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Whipp, A. A. (on leave)",5,Second Tenor,,performer,,,"Whipp, A. A. (on leave)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Beere, R. Η",5,Second Tenor,,performer,,,"Beere, R. Η",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Morgan, C. W. on leave)",5,Second Tenor,,performer,Missing opening parenthesis in OCR,,"Morgan, C. W. on leave)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Ford, Η.",5,Second Tenor,,performer,,,"Ford, Η.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hotchin, T. H. K",5,Second Tenor,,performer,,,"Hotchin, T. H. K",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Pleasants, E. A.",5,Second Tenor,,performer,,,"Pleasants, E. A.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Bates, Chas. Junr.",5,Second Tenor,,performer,,,"Bates, Chas. Junr.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"McRae, H.",5,Second Tenor,,performer,,,"McRae, H.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Eddy, A. E.",5,First Bass,,performer,,,FIRST BASS.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Flood, W. H.",5,First Bass,,performer,,,"Flood, W. H.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Bishop, A. A.",5,First Bass,,performer,,,"Bishop, A. A.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Küster, G. Η.",5,First Bass,,performer,,,"Küster, G. Η.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wilson, E. L.",5,First Bass,,performer,,,"Wilson, E. L.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Lennon, Geo. A.",5,First Bass,,performer,,,"Lennon, Geo. A.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Muirhead, G. Η.",5,First Bass,,performer,,,"Muirhead, G. Η.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Turner, J. Τ.",5,First Bass,,performer,,,"Turner, J. Τ.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Page, B.",5,First Bass,,performer,,,"Page, B.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wilcox, W.",5,First Bass,,performer,,,"Wilcox, W.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Excell, Fredk.",5,First Bass,,performer,,,"Excell, Fredk.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Pincus, S.",5,First Bass,,performer,,,"Pincus, S.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Prichard, J. J.",5,First Bass,,performer,,,"Prichard, J. J.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Waugh, R. (on leave)",5,First Bass,,performer,,,"Waugh, R. (on leave)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wood, W. C.",5,First Bass,,performer,,,"Wood, W. C.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Champion. J.,5,First Bass,,performer,,,Champion. J.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Ramsay, Τ G.",5,First Bass,,performer,,,"Ramsay, Τ G.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Sprod W. G. R.,5,First Bass,,performer,,,Sprod W. G. R.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Williams, E. H.",5,First Bass,,performer,,,"Williams, E. H.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Williams, J. R.",5,First Bass,,performer,,,"Williams, J. R.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Heathershaw, S. A.",5,First Bass,,performer,,,"Heathershaw, S. A.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Farr, Leigh",5,First Bass,,performer,,,"Farr, Leigh",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Lemon. G. H.,5,First Bass,,performer,,,Lemon. G. H.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Blades, R.",5,First Bass,,performer,,,"Blades, R.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hall, F. F.",5,First Bass,,performer,,,"Hall, F. F.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hislop, Η. (on leave)",5,First Bass,,performer,,,"Hislop, Η. (on leave)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Smith. H. W.,5,First Bass,,performer,,,Smith. H. W.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Appleby. W. E.,5,First Bass,,performer,,,Appleby. W. E.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Holtz, F.",5,First Bass,,performer,,,"Holtz, F.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Fleissner L.,5,First Bass,,performer,,,Fleissner L.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hall, C. E.",5,First Bass,,performer,,,"Hall, C. E.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Casper, E. (Capt.)",5,First Bass,,performer,,,"Casper, E. (Capt.)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Berry, A.",5,First Bass,,performer,,,"Berry, A.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Blashki, G. L.",5,First Bass,,performer,,,"Blashki, G. L.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hasell, A. H.",5,First Bass,,performer,,,"Hasell, A. H.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wilkes, K. (on leave)",5,First Bass,,performer,,,"Wilkes, K. (on leave)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"McCall, R. W. V.",5,First Bass,,performer,,,"McCall, R. W. V.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Pick, Geo.",5,First Bass,,performer,,,"Pick, Geo.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Ashe, H. M.",5,First Bass,,performer,,,"Ashe, H. M.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Watson, Jno.",5,First Bass,,performer,,,"Watson, Jno.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Griffith, H. L.",5,First Bass,,performer,,,"Griffith, H. L.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Statters, J.",5,First Bass,,performer,,,"Statters, J.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Whitehead, A. E.",5,First Bass,,performer,,,"Whitehead, A. E.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Turner, J. P.",5,Second Bass,,performer,,,SECOND BASS.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Groube, H.",5,Second Bass,,performer,,,"Groube, H.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Pepper, F.",5,Second Bass,,performer,,,"Pepper, F.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Wilmott, H. G.",5,Second Bass,,performer,,,"Wilmott, H. G.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Jones, W. C.",5,Second Bass,,performer,,,"Jones, W. C.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Adcock, John",5,Second Bass,,performer,,,"Adcock, John",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Lewis, F.",5,Second Bass,,performer,,,"Lewis, F.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Owen, E. T.",5,Second Bass,,performer,,,"Owen, E. T.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Smith, E. O.",5,Second Bass,,performer,,,"Smith, E. O.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Hearn, A. H.",5,Second Bass,,performer,,,"Hearn, A. H.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Mattingly, A.",5,Second Bass,,performer,,,"Mattingly, A.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"White, Thos, E.",5,Second Bass,,performer,,,"White, Thos, E.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Nunweek, A.",5,Second Bass,,performer,,,"Nunweek, A.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Sutherland, J.",5,Second Bass,,performer,,,"Sutherland, J.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Watkin, E. J. (on leave)",5,Second Bass,,performer,,,"Watkin, E. J. (on leave)",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"McHenry, Ε.",5,Second Bass,,performer,,,"McHenry, Ε.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Williamson, W. T. R.",5,Second Bass,,performer,,,"Williamson, W. T. R.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,Smith. W.,5,Second Bass,,performer,,,Smith. W.,
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Irving, H. A. C.",5,Second Bass,,performer,,,"Irving, H. A. C.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Lloyd, H. D.",5,Second Bass,,performer,,,"Lloyd, H. D.",
+,,,UDC20260028-10.pdf,Concert Programs,1893,Melbourne Liedertafel,,"Adelt, Louis",5,Second Bass,,performer,,,"Adelt, Louis",
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,3,,"TOWN JALL, MELBOURNE",venue,OCR likely 'Hall'→'JALL' — kept as printed,,"TOWN JALL, MELBOURNE",
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,20,,"yoWN JÎALL, MELBOURNE",venue,OCR likely 'Town Hall' and diacritics garbled — kept as printed,,"yoWN JÎALL, 
 MELBOURNE",
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,18,,MELBOURNE,venue,,,MELBOURNE,
 ,,"WEDNESDAY EVENING, SIXTH NOVEMBER, 1889",UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,3,,,date,,,"WEDNESDAY EVENING, SIXTH NOVEMBER, 1889",
 ,,"6TH NOVEMBER, 1889.",UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,20,,,date,,,"6TH NOVEMBER, 1889.",
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,ïlùetropolitan OLieôertatel,5,,,organization,,presenting organization,ïlùetropolitan OLieôertatel,
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Liedertafel,7,,,organization,,choir,Liedertafel,
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Victorian Orchestra,13,,,organization,,orchestra,"Boys’ Choir, Victorian Orchestra
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,ïlùetropolitan OLieôertatel,5,,,organization,Best-guess correction: 'Metropolitan Liedertafel',presenting organization,ïlùetropolitan OLieôertatel,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Yictoman Orchestra,4,,,organization,Best-guess correction: 'Victorian Orchestra',orchestra,Yictoman Orchestra,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Victorian Orchestra,13,,,organization,,orchestra,Victorian Orchestra,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Boys’ Choir,13,,,organization,,boys' choir,"Boys’ Choir, Victorian Orchestra
 AND Liedertatel",
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Selected Choir of Boys,4,,,organization,,boys’ choir,0 Selected Choir of Boys,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,0 Selected Choir of Boys Y,4,,,organization,Best-guess normalization: 'A Selected Choir of Boys',boys' choir,0 Selected Choir of Boys Y,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Liedertatel,13,,,organization,Best-guess correction: 'Liedertafel',choir,Liedertatel,
 ,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,"HIS EXCELLENCY SIR HENRY BROUGHAM LOCH, K.C.B.",5,,,patron,,Patron,"Patron
 HIS EXCELLENCY SIR HENRY BROUGHAM LOCH, K.C.B.",
-,Feinrich Hofmann,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,7,,,work,Work title OCR appears garbled; likely the cantata “Harald’s Bridal Voyage/Journey”.; Composer spelling appears OCR-garbled; likely Heinrich Hofmann.,,"Cantata “taralô’s œriôal Dopage”
+,Feinrich Hofmann,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,7,,,work,Best-guess: 'Harald’s Bridal Voyage' by 'Heinrich Hofmann',,"Cantata “taralô’s œriôal Dopage”
 Feinrich Hofmann",Cantata “taralô’s œriôal Dopage”
-,Geethoven,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,11,,,work,Composer OCR-garbled as 'Geethoven'; likely Beethoven.,,Pianoforte Solo : Concerto in E Flat Major Geethoven,Concerto in E Flat Major
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,12,,,work,Composer unreadable/garbled as 'J.^.^tah'; composer left null.,,Serenade J.^.^tah,Serenade
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,12,,,work,Composer appears garbled as 'Ertiti'; composer left null.,,Song u l'Estasi ” Ertiti,Song “l’Estasi”
-,Gerlioz,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,13,,,work,Title OCR-garbled ('Xa' for 'La').; Composer OCR-garbled as 'Gerlioz'; likely Berlioz.,,"Selections from “Xa Damnation de jfaust""
-Gerlioz",Selections from “Xa Damnation de jfaust”
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,14,,,work,Title OCR-garbled; likely 'Bedouin Love Song'.; Composer OCR-garbled as 'Æoombs'; composer left null.,,"Solo “®eòouin Move Song"" Æoombs",Solo “®eòouin Move Song”
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,14,,,work,Composer OCR-garbled as 'Binkti'; composer left null.,,part Song “ Jfarewell” Binkti,Part Song “Jfarewell”
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,15,,,work,"Title OCR-garbled ('Waits' for 'Waltz', 'œiue' for 'Blue').; Composer truncated as 'Str'; likely Strauss. Composer left null.",,"Vocal Waits “ œiue Danube” (By request)
-(ARRANGED BY ELSASSER) Str",Vocal Waits “œiue Danube” (By request)
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,17,,,work,,,GOD SAVE THE QUEEN.,GOD SAVE THE QUEEN.
+,Geethoven,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,11,,,work,Best-guess: 'Beethoven' (probably Piano Concerto No. 5 in E-flat),,Pianoforte Solo : Concerto in E Flat Major Geethoven,Concerto in E Flat Major
+,J.^.^tah,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,12,,,work,Composer garbled; unclear reading,,Serenade J.^.^tah,Serenade
+,Ertiti,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,12,,,work,Composer garbled; unclear reading (possibly 'Tosti'?),,Song u l'Estasi ” Ertiti,Song u l'Estasi
+,Gerlioz,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,13,,,work,Best-guess: 'La Damnation de Faust' by 'Berlioz',,"Selections from “Xa Damnation de jfaust""
+Gerlioz","Selections from “Xa Damnation de jfaust"""
+,Æoombs,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,14,,,work,Best-guess: 'Bedouin Love Song' by 'Coombs' (uncertain),,"Sono “®eòouin Move Song"" Æoombs","Sono “®eòouin Move Song"""
+,Binkti,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,14,,,work,Best-guess: 'Pinsuti' (Part-song 'Farewell'),,part Song “ Jfarewell” Binkti,part Song “ Jfarewell”
+,Str,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,(ARRANGED BY ELSASSER),,15,,,work,Best-guess: 'Blue Danube' by 'Strauss'; genre likely 'Vocal Waltz',,"Vocal Waits “ œiue Danube” (By request) 
+(ARRANGED BY ELSASSER) Str",Vocal Waits “ œiue Danube”
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,,17,,,work,Composer not printed,,GOD SAVE THE QUEEN.,GOD SAVE THE QUEEN.
 ,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,MR. JULIUS HERZ,3,conductor,,performer,,,CONDUCTOR: MR. JULIUS HERZ,
-Concerto in E Flat Major,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Miss Florence Menk-Meyer,11,pianoforte,,performer,,,Miss Florence Menk-Meyer.,
-Serenade,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. W. Clarence Fraser,12,tenor solo,,performer,,,(Tenor  Solo  Mr. W. Clarence Fraser),
-Song “l’Estasi”,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Miss O’Shannessy,12,,,performer,,,Miss O’Shannessy,
-Cantata “taralô’s œriôal Dopage”,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. A. H. Gee,7,soloist,,performer,,,Solos  by  Mr. A. H. Gee and  Mr. Henry Rofe,
-Cantata “taralô’s œriôal Dopage”,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. Henry Rofe,7,soloist,,performer,,,Solos  by  Mr. A. H. Gee and  Mr. Henry Rofe,
-Solo “®eòouin Move Song”,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. A. H Gee,14,soloist,,performer,,,Mr. A. H Gee,
-,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. G. B. FENTUM,5,Hon. Pianist,,performer,,,"Hon . PIANIST 
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Piss Θ Shannessy,4,vocalist,,performer,Best-guess: 'Miss O’Shannessy',,Piss Θ Shannessy,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,FL 0. H. Gee,4,vocalist,,performer,Best-guess: 'Mr. A. H. Gee',,FL 0. H. Gee,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Piss Florence FRenk-FReyer,4,,,performer,Role not specified; possibly pianist (cf. p.11 'Miss Florence Menk-Meyer'); OCR likely garbled name,,Piss Florence FRenk-FReyer,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,PPbr. G. Θ. Fentum,4,accompanist,,performer,Best-guess: 'Mr. G. B. Fentum',,"PPbr. G. Θ. Fentum, Hon. Pianist",
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. JULIUS HERZ,5,conductor,,performer,,,"CONDUCTOR 
+Mr. JULIUS HERZ",
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. G. B. FENTUM,5,accompanist,,performer,,,"Hon . PIANIST 
 Mr. G. B. FENTUM",
-,,,UDC20260028-29.pdf,Museum Catalog,Unknown,Musashinto Academia Musicae,,MUSEUM  OF  MUSICAL  INSTRUMENTS  MUSASHINO  ACADEMIA  MUSICAE,1,,,organization,Unclear if this is a presenting/performing organization versus an institutional header; Document appears largely non-program/illegible; treat attribution with caution,,MUSEUM  OF  MUSICAL  INSTRUMENTS  MUSASHINO  ACADEMIA  MUSICAE,
+Cantata “taralô’s œriôal Dopage”,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. A. H. Gee,7,vocalist,,performer,,,Solos  by  Mr. A. H. Gee and  Mr. Henry Rofe,
+Cantata “taralô’s œriôal Dopage”,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. Henry Rofe,7,vocalist,,performer,,,Solos  by  Mr. A. H. Gee and  Mr. Henry Rofe,
+Concerto in E Flat Major,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Miss Florence Menk-Meyer.,11,piano,,performer,,,Miss Florence Menk-Meyer.,
+Serenade,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. W. Clarence Fraser,12,tenor,,performer,,,(Tenor  Solo  Mr. W. Clarence Fraser),
+Song u l'Estasi,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Miss O’Shannessy,12,vocalist,,performer,,,Miss O’Shannessy,
+"Sono “®eòouin Move Song""",,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,Mr. A. H Gee,14,vocalist,,performer,,,Mr. A. H Gee,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. CAMERON,6,tenor,,performer,,,"enors
+A. CAMERON J. Bradshaw",
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. Bradshaw,6,tenor,,performer,,,"enors
+A. CAMERON J. Bradshaw",
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,R. Jones,6,tenor,,performer,,,R. Jones J. J. Doyde,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. J. Doyde,6,tenor,,performer,,,R. Jones J. J. Doyde,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. H. Williams,6,tenor,,performer,,,W. H. Williams W. Brown,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. Brown,6,tenor,,performer,,,W. H. Williams W. Brown,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. H. PERYMAN,6,tenor,,performer,,,W. H. PERYMAN P. Kendall,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,P. Kendall,6,tenor,,performer,,,W. H. PERYMAN P. Kendall,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,C. P. ROUVRAY,6,tenor,,performer,,,C. P. ROUVRAY J. H. Williams,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. H. Williams,6,tenor,,performer,,,C. P. ROUVRAY J. H. Williams,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,E. Simmonds,6,tenor,,performer,,,E. Simmonds J. M. Gillespie,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. M. Gillespie,6,tenor,,performer,,,E. Simmonds J. M. Gillespie,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,S. Symons,6,tenor,,performer,,,S. Symons J. L. Carnegie,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. L. Carnegie,6,tenor,,performer,,,S. Symons J. L. Carnegie,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. Watts,6,tenor,,performer,,,W. Watts W. C. Fraser,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. C. Fraser,6,tenor,,performer,,,W. Watts W. C. Fraser,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. Kendall,6,tenor,,performer,,,J. Kendall R. H. HAYES,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,R. H. HAYES,6,tenor,,performer,,,J. Kendall R. H. HAYES,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,G. F. Smith,6,tenor,,performer,,,G. F. Smith W. Kennedy,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. Kennedy,6,tenor,,performer,,,G. F. Smith W. Kennedy,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,F. G. WIIITBY,6,tenor,,performer,,,F. G. WIIITBY G. SMIBERT,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,G. SMIBERT,6,tenor,,performer,,,F. G. WIIITBY G. SMIBERT,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. ILIFFE,6,tenor,,performer,,,J. ILIFFE C. Miller,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,C. Miller,6,tenor,,performer,,,J. ILIFFE C. Miller,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. G. BUNDY,6,tenor,,performer,,,W. G. BUNDY J. S. Ridley,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. S. Ridley,6,tenor,,performer,,,W. G. BUNDY J. S. Ridley,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. SHERAR,6,tenor,,performer,,,A. SHERAR J. A. URE,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. A. URE,6,tenor,,performer,,,A. SHERAR J. A. URE,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. D. PRICHARD,6,tenor,,performer,,,W. D. PRICHARD A. J. Campbell,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. J. Campbell,6,tenor,,performer,,,W. D. PRICHARD A. J. Campbell,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,E. S. Webster,6,tenor,,performer,,,E. S. Webster C. D. Dixon,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,C. D. Dixon,6,tenor,,performer,,,E. S. Webster C. D. Dixon,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,T. Jack,6,tenor,,performer,,,T. Jack A. Williams,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. Williams,6,tenor,,performer,,,T. Jack A. Williams,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. B. Hayward,6,tenor,,performer,,,W. B. Hayward C. M. LILBURNE,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,C. M. LILBURNE,6,tenor,,performer,,,W. B. Hayward C. M. LILBURNE,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,R. J. Moore,6,tenor,,performer,,,R. J. Moore,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. H. Ford,6,tenor,,performer,,,W. H. Ford,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. H. Kerr,6,tenor,,performer,,,J. H. Kerr,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,L. Hart,6,tenor,,performer,,,L. Hart,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. A. Hart,6,tenor,,performer,,,W. A. Hart,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. J. Sage,6,tenor,,performer,,,A. J. Sage,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,G. J. W. Blom,6,tenor,,performer,,,G. J. W. Blom,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. H. Thomson,6,tenor,,performer,,,A. H. Thomson,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,E. E. Dear,6,tenor,,performer,,,E. E. Dear,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,S. E. Dixon,6,tenor,,performer,,,S. E. Dixon,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. McLaren,6,tenor,,performer,,,A. McLaren,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. H. Chandler,6,tenor,,performer,,,W. H. Chandler,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. G. Barkley,6,tenor,,performer,,,W. G. Barkley,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,H. Seymour,6,tenor,,performer,,,H. Seymour,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,F. Poolman,6,tenor,,performer,,,F. Poolman,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,H. O. Capes,6,tenor,,performer,,,H. O. Capes,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,T. N. Jones,6,tenor,,performer,,,T. N. Jones,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. Williams,6,tenor,,performer,,,J. Williams,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,E. Miller,6,bass,,performer,,,"Gasses
+E. Miller E. H. Bardwell J. KEYSTON",
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,E. H. Bardwell,6,bass,,performer,,,"Gasses
+E. Miller E. H. Bardwell J. KEYSTON",
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. KEYSTON,6,bass,,performer,,,J. KEYSTON,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. FORDYCE,6,bass,,performer,,,J. FORDYCE F. B. BRYANT W. URIK,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,F. B. BRYANT,6,bass,,performer,,,J. FORDYCE F. B. BRYANT W. URIK,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. URIK,6,bass,,performer,,,J. FORDYCE F. B. BRYANT W. URIK,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,T. J. Connor,6,bass,,performer,,,T. J. Connor R. T. Rows E. Walsh,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,R. T. Rows,6,bass,,performer,,,T. J. Connor R. T. Rows E. Walsh,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,E. Walsh,6,bass,,performer,,,T. J. Connor R. T. Rows E. Walsh,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. D. Tate,6,bass,,performer,,,W. D. Tate H. J. Ralph M. Wakefield,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,H. J. Ralph,6,bass,,performer,,,W. D. Tate H. J. Ralph M. Wakefield,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,M. Wakefield,6,bass,,performer,,,W. D. Tate H. J. Ralph M. Wakefield,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,C. F. WENBORN,6,bass,,performer,,,C. F. WENBORN J. W. PERYMAN W. BOYLE,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. W. PERYMAN,6,bass,,performer,,,C. F. WENBORN J. W. PERYMAN W. BOYLE,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. BOYLE,6,bass,,performer,,,C. F. WENBORN J. W. PERYMAN W. BOYLE,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. W. Jack,6,bass,,performer,,,A. W. Jack W. A. Gilbert J. S. Duke,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. A. Gilbert,6,bass,,performer,,,A. W. Jack W. A. Gilbert J. S. Duke,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. S. Duke,6,bass,,performer,,,A. W. Jack W. A. Gilbert J. S. Duke,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,G. Wrigley,6,bass,,performer,,,G. Wrigley W. MELLOR W. Goode,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. MELLOR,6,bass,,performer,,,G. Wrigley W. MELLOR W. Goode,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. Goode,6,bass,,performer,,,G. Wrigley W. MELLOR W. Goode,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. L. PRYDE,6,bass,,performer,,,A. L. PRYDE E. J. Rice A. Stewart,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,E. J. Rice,6,bass,,performer,,,A. L. PRYDE E. J. Rice A. Stewart,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. Stewart,6,bass,,performer,,,A. L. PRYDE E. J. Rice A. Stewart,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. H. MULVANY,6,bass,,performer,,,J. H. MULVANY C. S. Cunningham P. A. Ashley,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,C. S. Cunningham,6,bass,,performer,,,J. H. MULVANY C. S. Cunningham P. A. Ashley,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,P. A. Ashley,6,bass,,performer,,,J. H. MULVANY C. S. Cunningham P. A. Ashley,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. O. CARTWRIGHT,6,bass,,performer,,,J. O. CARTWRIGHT D. Wright R. Paterson,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,D. Wright,6,bass,,performer,,,J. O. CARTWRIGHT D. Wright R. Paterson,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,R. Paterson,6,bass,,performer,,,J. O. CARTWRIGHT D. Wright R. Paterson,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. W. Eggleston,6,bass,,performer,,,J. W. Eggleston S. Moyle F. Vines,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,S. Moyle,6,bass,,performer,,,J. W. Eggleston S. Moyle F. Vines,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,F. Vines,6,bass,,performer,,,J. W. Eggleston S. Moyle F. Vines,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,R. L. Thompson,6,bass,,performer,,,R. L. Thompson W. F. Rashleigh P. St. J. Murphy,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. F. Rashleigh,6,bass,,performer,,,R. L. Thompson W. F. Rashleigh P. St. J. Murphy,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,P. St. J. Murphy,6,bass,,performer,,,R. L. Thompson W. F. Rashleigh P. St. J. Murphy,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. Greig,6,bass,,performer,,,W. Greig C. H. Woodman H. E. Hooke,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,C. H. Woodman,6,bass,,performer,,,W. Greig C. H. Woodman H. E. Hooke,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,H. E. Hooke,6,bass,,performer,,,W. Greig C. H. Woodman H. E. Hooke,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,E. W. CLISBY,6,bass,,performer,,,E. W. CLISBY M. Sr. J. Kennedy C. E. TIBBS,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,M. Sr. J. Kennedy,6,bass,,performer,,,E. W. CLISBY M. Sr. J. Kennedy C. E. TIBBS,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,C. E. TIBBS,6,bass,,performer,,,E. W. CLISBY M. Sr. J. Kennedy C. E. TIBBS,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,R. JOLLEY,6,bass,,performer,,,R. JOLLEY F. W. White J. Adcock,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,F. W. White,6,bass,,performer,,,R. JOLLEY F. W. White J. Adcock,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. Adcock,6,bass,,performer,,,R. JOLLEY F. W. White J. Adcock,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. Astley,6,bass,,performer,,,A. Astley S. Angus A. M’CLELLAND,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,S. Angus,6,bass,,performer,,,A. Astley S. Angus A. M’CLELLAND,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,A. M’CLELLAND,6,bass,,performer,,,A. Astley S. Angus A. M’CLELLAND,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,I. Bowley,6,bass,,performer,,,I. Bowley W. M. URE J. H. Bayley,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,W. M. URE,6,bass,,performer,,,I. Bowley W. M. URE J. H. Bayley,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,J. H. Bayley,6,bass,,performer,,,I. Bowley W. M. URE J. H. Bayley,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,S. J. Warnock,6,bass,,performer,,,S. J. Warnock H. ROFE T. GROUBE,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,H. ROFE,6,bass,,performer,,,S. J. Warnock H. ROFE T. GROUBE,
+,,,UDC20260028-13.pdf,Concert Programs,1889,Melbourne Liedertafel,,T. GROUBE,6,bass,,performer,,,S. J. Warnock H. ROFE T. GROUBE,

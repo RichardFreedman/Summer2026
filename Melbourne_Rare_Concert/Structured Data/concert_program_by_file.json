@@ -5,7 +5,7 @@
         "page_number": 1,
         "source_text": "TOWN HALL,",
         "review_flags": [],
-        "place": "TOWN HALL"
+        "place": "TOWN HALL,"
       }
     ],
     "dates": [
@@ -19,23 +19,23 @@
     "organizations": [
       {
         "page_number": 3,
-        "source_text": "Melbourne  LIEDERTAFEL\nInstituted  1868. RE-CONSTITUTED 1879",
+        "source_text": "Melbourne  LIEDERTAFEL",
         "review_flags": [],
-        "name": "Melbourne LIEDERTAFEL",
+        "name": "Melbourne  LIEDERTAFEL",
         "role": "presenting organization"
       },
       {
         "page_number": 10,
         "source_text": "ASSOCIATED LADIES’ CHOIR,",
         "review_flags": [],
-        "name": "ASSOCIATED LADIES’ CHOIR",
+        "name": "ASSOCIATED LADIES’ CHOIR,",
         "role": "choir"
       },
       {
         "page_number": 10,
         "source_text": "THE LIEDERTAFEL.",
         "review_flags": [],
-        "name": "THE LIEDERTAFEL",
+        "name": "THE LIEDERTAFEL.",
         "role": "choir"
       },
       {
@@ -44,6 +44,20 @@
         "review_flags": [],
         "name": "ORCHESTRA",
         "role": "orchestra"
+      },
+      {
+        "page_number": 12,
+        "source_text": "LIEDERTAFEL AND ORCHESTRA.",
+        "review_flags": [],
+        "name": "LIEDERTAFEL AND ORCHESTRA.",
+        "role": "performing organization"
+      },
+      {
+        "page_number": 5,
+        "source_text": "ASSOCIATED LADIES’ CHOIR AND VOLUNTEERS.",
+        "review_flags": [],
+        "name": "ASSOCIATED LADIES’ CHOIR AND VOLUNTEERS.",
+        "role": "choir"
       }
     ],
     "patrons": [
@@ -51,56 +65,35 @@
         "page_number": 3,
         "source_text": "Catron: \nThe  HON, STB W. J. CLARKE, BART., M.L.C.",
         "review_flags": [
-          "OCR garble in 'Catron' (Patron) and possibly in honorifics"
+          "OCR likely reads 'Catron' for 'Patron'"
         ],
-        "name": "The HON, STB W. J. CLARKE, BART., M.L.C.",
+        "name": "The  HON, STB W. J. CLARKE, BART., M.L.C.",
         "role": "Patron"
-      },
-      {
-        "page_number": 3,
-        "source_text": "Mice-Gresidents:\nBARON Sir  F. von  MUELLER, K.C.M.G",
-        "review_flags": [
-          "OCR garble in heading 'Mice-Gresidents' (Vice-Presidents)"
-        ],
-        "name": "BARON Sir  F. von  MUELLER, K.C.M.G",
-        "role": "Vice-President"
-      },
-      {
-        "page_number": 3,
-        "source_text": "HON, F. S. GRIMWADE, M.L.C. | Hon . U. McBRYDE. M.L.C.",
-        "review_flags": [
-          "OCR punctuation/spacing irregular; role inferred from section heading"
-        ],
-        "name": "HON, F. S. GRIMWADE, M.L.C.",
-        "role": "Vice-President"
-      },
-      {
-        "page_number": 3,
-        "source_text": "HON, F. S. GRIMWADE, M.L.C. | Hon . U. McBRYDE. M.L.C.",
-        "review_flags": [
-          "OCR punctuation/spacing irregular; role inferred from section heading"
-        ],
-        "name": "Hon . U. McBRYDE. M.L.C.",
-        "role": "Vice-President"
       },
       {
         "page_number": 19,
         "source_text": "The thanks of the Society are due to Messrs. PATON \n& SONS (for the Plants)",
-        "review_flags": [],
+        "review_flags": [
+          "In-kind sponsor/donor"
+        ],
         "name": "PATON & SONS",
         "role": "Donor"
       },
       {
         "page_number": 19,
         "source_text": "WEBB & SON (for the Vases",
-        "review_flags": [],
+        "review_flags": [
+          "In-kind sponsor/donor"
+        ],
         "name": "WEBB & SON",
         "role": "Donor"
       },
       {
         "page_number": 19,
-        "source_text": "FOY & GIBSON (for the Draperies)",
-        "review_flags": [],
+        "source_text": "FOY & GIBSON (for the Draperies),",
+        "review_flags": [
+          "In-kind sponsor/donor"
+        ],
         "name": "FOY & GIBSON",
         "role": "Donor"
       },
@@ -108,58 +101,52 @@
         "page_number": 19,
         "source_text": "NICHOLSON & \nGO. (for the Statuary).",
         "review_flags": [
-          "OCR garble in company style ('GO.' for 'CO.')"
+          "OCR likely 'GO.' for 'CO.'; in-kind sponsor/donor"
         ],
-        "name": "NICHOLSON & CO.",
+        "name": "NICHOLSON & GO.",
         "role": "Donor"
       }
     ],
     "works": [
       {
         "page_number": 7,
-        "source_text": "PARSIFAL\nA Festival Drama\nBy  RICHARD WAGNER.",
+        "source_text": "-4 THE + SCHEME. -\nPARSIFAL\nA Festival Drama\nBy  RICHARD WAGNER.",
         "review_flags": [],
-        "composer": "RICHARD WAGNER",
-        "title": "Parsifal",
+        "composer": "RICHARD WAGNER.",
+        "title": "PARSIFAL",
         "movement_or_selection": null
       },
       {
         "page_number": 12,
         "source_text": "RHAPSODIE\n(fragment ans Goethe's Harzreise im Winter), \nFOR\nContralto Solo, Chorus pf Men’s Voices and Orchestra,\nBy  JOHANNES BRAHMS.\nOp. 53.",
-        "review_flags": [
-          "Minor OCR garble ('ans' for 'aus')"
-        ],
-        "composer": "JOHANNES BRAHMS",
-        "title": "Rhapsodie (fragment aus Goethe's Harzreise im Winter), Op. 53",
+        "review_flags": [],
+        "composer": "JOHANNES BRAHMS.",
+        "title": "RHAPSODIE (fragment ans Goethe's Harzreise im Winter)",
         "movement_or_selection": null
       },
       {
         "page_number": 13,
         "source_text": "Concerto  (No. ι in Ε flat)—\nNoz Sianoforle & Orchestra\nFranz Liszt",
-        "review_flags": [
-          "OCR garble in 'Noz Sianoforle' (Pianoforte) and numeral"
-        ],
+        "review_flags": [],
         "composer": "Franz Liszt",
-        "title": "Concerto No. 1 in E flat (for Pianoforte & Orchestra)",
-        "movement_or_selection": "ALLEGRO Maestoso; Quasi ADAGIO; Allegretto Vivace; Allegro Marziale ANIMATO"
+        "title": "Concerto  (No. ι in Ε flat)",
+        "movement_or_selection": "Noz Sianoforle & Orchestra; ALLEGRO Maestoso . Quasi  ADAGIO. Allegretto  Vivace . Allegro  Marziale  ANIMATO."
       },
       {
         "page_number": 14,
         "source_text": "\"LANDERKENNUNG\"\n(LAND SIGHTING)\nFor Baritone Solo, Chorus of Men’s voices, Organ and \nOrchestra.\nBY EDWARD GRIEG.\nOp. 31.",
-        "review_flags": [
-          "Composer OCR variant 'EDWARD GREIG' vs 'Edvard Grieg'—kept as printed"
-        ],
-        "composer": "EDWARD GRIEG",
-        "title": "Landerkennung (Land Sighting), Op. 31",
+        "review_flags": [],
+        "composer": "EDWARD GRIEG.",
+        "title": "LANDERKENNUNG (LAND SIGHTING)",
         "movement_or_selection": null
       },
       {
         "page_number": 15,
         "source_text": "THE LEGEND OF ST. ELIZABETH\n(OF HUNGARY).\nFor Solo Voices. Chorus (S.A.T.B.) Organ &. Orchestra,\nBY\nFRANZ LISZT.",
         "review_flags": [],
-        "composer": "FRANZ LISZT",
-        "title": "The Legend of St. Elizabeth (Crusaders' Scene)",
-        "movement_or_selection": "Chorus of Crusaders—Recitative of Landgrave—Parting—Chorus and March"
+        "composer": "FRANZ LISZT.",
+        "title": "THE LEGEND OF ST. ELIZABETH (OF HUNGARY)",
+        "movement_or_selection": "“emo Crusaders' Scene."
       }
     ],
     "performers": [
@@ -172,30 +159,10 @@
         "associated_work": null
       },
       {
-        "page_number": 7,
-        "source_text": "Μκ. H. J. King , the Conductor, for the whole of the music set \ndown for performance this afternoon.",
-        "review_flags": [
-          "OCR case/spacing oddities"
-        ],
-        "name": "H. J. King",
-        "part_or_instrument": "Conductor",
-        "associated_work": null
-      },
-      {
-        "page_number": 3,
-        "source_text": "Hon. Gianist § Organist :\nMr . AUGUST SIEDE.",
-        "review_flags": [
-          "Unclear if this is a performing role in this concert"
-        ],
-        "name": "Mr . AUGUST SIEDE",
-        "part_or_instrument": "Hon. Pianist & Organist",
-        "associated_work": null
-      },
-      {
         "page_number": 4,
         "source_text": "Principal  Violin  MR. GEO. WESTON.",
         "review_flags": [],
-        "name": "MR. GEO. WESTON",
+        "name": "MR. GEO. WESTON.",
         "part_or_instrument": "Principal Violin",
         "associated_work": null
       },
@@ -203,166 +170,168 @@
         "page_number": 4,
         "source_text": "Violini Imi.—\nMr. G. Weston.",
         "review_flags": [],
-        "name": "Mr. G. Weston",
-        "part_or_instrument": "Violini Imi.",
+        "name": "Mr. G. Weston.",
+        "part_or_instrument": "First Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Imi.—\nF. Dierich.",
+        "source_text": "F. Dierich.",
         "review_flags": [],
-        "name": "F. Dierich",
-        "part_or_instrument": "Violini Imi.",
+        "name": "F. Dierich.",
+        "part_or_instrument": "First Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Imi.—\n„G. Sutch.",
+        "source_text": "„G. Sutch.",
         "review_flags": [],
-        "name": "G. Sutch",
-        "part_or_instrument": "Violini Imi.",
+        "name": "G. Sutch.",
+        "part_or_instrument": "First Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Imi.—\n„E. King.",
+        "source_text": "„E. King.",
         "review_flags": [],
-        "name": "E. King",
-        "part_or_instrument": "Violini Imi.",
+        "name": "E. King.",
+        "part_or_instrument": "First Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Imi.—\n„H. Schraeder.",
+        "source_text": "„H. Schraeder.",
         "review_flags": [],
-        "name": "H. Schraeder",
-        "part_or_instrument": "Violini Imi.",
+        "name": "H. Schraeder.",
+        "part_or_instrument": "First Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Imi.—\n,, B. Stevens.",
+        "source_text": ",, B. Stevens.",
         "review_flags": [],
-        "name": "B. Stevens",
-        "part_or_instrument": "Violini Imi.",
+        "name": "B. Stevens.",
+        "part_or_instrument": "First Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Imi.—\n„, T. Zeplin.",
+        "source_text": "„, T. Zeplin.",
         "review_flags": [],
-        "name": "T. Zeplin",
-        "part_or_instrument": "Violini Imi.",
+        "name": "T. Zeplin.",
+        "part_or_instrument": "First Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Imi.—\n,, W. Josephi.",
+        "source_text": ",, W. Josephi.",
         "review_flags": [],
-        "name": "W. Josephi",
-        "part_or_instrument": "Violini Imi.",
+        "name": "W. Josephi.",
+        "part_or_instrument": "First Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Violini Ildi.—\nMr, J. Wright.",
-        "review_flags": [
-          "OCR 'Ildi.' (Second violins) kept as printed"
-        ],
-        "name": "Mr, J. Wright",
-        "part_or_instrument": "Violini Ildi.",
-        "associated_work": null
-      },
-      {
-        "page_number": 4,
-        "source_text": "Violini Ildi.—\n,M. A. Phillips.",
         "review_flags": [],
-        "name": "M. A. Phillips",
-        "part_or_instrument": "Violini Ildi.",
+        "name": "Mr, J. Wright.",
+        "part_or_instrument": "Second Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Ildi.—\n„A. Zelman.",
+        "source_text": ",M. A. Phillips.",
         "review_flags": [],
-        "name": "A. Zelman",
-        "part_or_instrument": "Violini Ildi.",
+        "name": "M. A. Phillips.",
+        "part_or_instrument": "Second Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Ildi.—\n,, E. Rawlins.",
+        "source_text": "„A. Zelman.",
         "review_flags": [],
-        "name": "E. Rawlins",
-        "part_or_instrument": "Violini Ildi.",
+        "name": "A. Zelman.",
+        "part_or_instrument": "Second Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violini Ildi.—\n2* H. Weinberg, senr.",
-        "review_flags": [
-          "OCR artifacts ('2*') present"
-        ],
-        "name": "H. Weinberg, senr.",
-        "part_or_instrument": "Violini Ildi.",
+        "source_text": ",, E. Rawlins.",
+        "review_flags": [],
+        "name": "E. Rawlins.",
+        "part_or_instrument": "Second Violin",
+        "associated_work": null
+      },
+      {
+        "page_number": 4,
+        "source_text": "2* H. Weinberg, senr.",
+        "review_flags": [],
+        "name": "2* H. Weinberg, senr.",
+        "part_or_instrument": "Second Violin",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Violi —\nMr. G. II. Schacht.",
         "review_flags": [
-          "Section heading OCR ('Violi')"
+          "Header 'Violi —' assumed to indicate 'Viola'"
         ],
-        "name": "Mr. G. II. Schacht",
-        "part_or_instrument": "Violi",
+        "name": "Mr. G. II. Schacht.",
+        "part_or_instrument": "Viola",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violi —\n„A. Zeplin.",
-        "review_flags": [],
-        "name": "A. Zeplin",
-        "part_or_instrument": "Violi",
+        "source_text": "„A. Zeplin.",
+        "review_flags": [
+          "Header 'Violi —' assumed to indicate 'Viola'"
+        ],
+        "name": "A. Zeplin.",
+        "part_or_instrument": "Viola",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violi —\n,, H. Edwards.",
-        "review_flags": [],
-        "name": "H. Edwards",
-        "part_or_instrument": "Violi",
+        "source_text": ",, H. Edwards.",
+        "review_flags": [
+          "Header 'Violi —' assumed to indicate 'Viola'"
+        ],
+        "name": "H. Edwards.",
+        "part_or_instrument": "Viola",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violi —\n,, T. Weidermann.",
-        "review_flags": [],
-        "name": "T. Weidermann",
-        "part_or_instrument": "Violi",
+        "source_text": ",, T. Weidermann.",
+        "review_flags": [
+          "Header 'Violi —' assumed to indicate 'Viola'"
+        ],
+        "name": "T. Weidermann.",
+        "part_or_instrument": "Viola",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Violoncelli—\nMr. Geo. E. Howard.",
         "review_flags": [],
-        "name": "Mr. Geo. E. Howard",
-        "part_or_instrument": "Violoncelli",
+        "name": "Mr. Geo. E. Howard.",
+        "part_or_instrument": "Violoncello (Cello)",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violoncelli—\n„F. Clutsam.",
+        "source_text": "„F. Clutsam.",
         "review_flags": [],
-        "name": "F. Clutsam",
-        "part_or_instrument": "Violoncelli",
+        "name": "F. Clutsam.",
+        "part_or_instrument": "Violoncello (Cello)",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Violoncelli—\n,, C. Harrison.",
+        "source_text": ",, C. Harrison.",
         "review_flags": [],
-        "name": "C. Harrison",
-        "part_or_instrument": "Violoncelli",
+        "name": "C. Harrison.",
+        "part_or_instrument": "Violoncello (Cello)",
         "associated_work": null
       },
       {
@@ -370,224 +339,214 @@
         "source_text": "Contra Bassi —\nMr. A. Ceschina",
         "review_flags": [],
         "name": "Mr. A. Ceschina",
-        "part_or_instrument": "Contra Bassi",
+        "part_or_instrument": "Double Bass",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Contra Bassi —\n„W. Brown.",
+        "source_text": "„W. Brown.",
         "review_flags": [],
-        "name": "W. Brown",
-        "part_or_instrument": "Contra Bassi",
+        "name": "W. Brown.",
+        "part_or_instrument": "Double Bass",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Contra Bassi —\n„H. West.",
+        "source_text": "„H. West.",
         "review_flags": [],
-        "name": "H. West",
-        "part_or_instrument": "Contra Bassi",
+        "name": "H. West.",
+        "part_or_instrument": "Double Bass",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Flauti—\nMr. H. L. Stoneham.",
         "review_flags": [],
-        "name": "Mr. H. L. Stoneham",
-        "part_or_instrument": "Flauti",
+        "name": "Mr. H. L. Stoneham.",
+        "part_or_instrument": "Flute",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Flauti—\n,, J. S. Smith.",
+        "source_text": ",, J. S. Smith.",
         "review_flags": [],
-        "name": "J. S. Smith",
-        "part_or_instrument": "Flauti",
+        "name": "J. S. Smith.",
+        "part_or_instrument": "Flute",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Flauto Piccolo —\nMr. G. Wright.",
         "review_flags": [],
-        "name": "Mr. G. Wright",
-        "part_or_instrument": "Flauto Piccolo",
+        "name": "Mr. G. Wright.",
+        "part_or_instrument": "Piccolo",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Oboi—\nMr. E. Lyons.",
         "review_flags": [],
-        "name": "Mr. E. Lyons",
-        "part_or_instrument": "Oboi",
+        "name": "Mr. E. Lyons.",
+        "part_or_instrument": "Oboe",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Oboi—\n„R. Carolane.",
+        "source_text": "„R. Carolane.",
         "review_flags": [],
-        "name": "R. Carolane",
-        "part_or_instrument": "Oboi",
+        "name": "R. Carolane.",
+        "part_or_instrument": "Oboe",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Oboi—\n„T. Cuttle.",
+        "source_text": "„T. Cuttle.",
         "review_flags": [],
-        "name": "T. Cuttle",
-        "part_or_instrument": "Oboi",
+        "name": "T. Cuttle.",
+        "part_or_instrument": "Oboe",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Cor A ng’ais—\nMr. F. Luttich.",
-        "review_flags": [
-          "Spacing OCR in section heading"
-        ],
-        "name": "Mr. F. Luttich",
-        "part_or_instrument": "Cor Ang’ais",
+        "review_flags": [],
+        "name": "Mr. F. Luttich.",
+        "part_or_instrument": "English Horn",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Clarinetti—\nMr. Campbell.",
         "review_flags": [],
-        "name": "Mr. Campbell",
-        "part_or_instrument": "Clarinetti",
+        "name": "Mr. Campbell.",
+        "part_or_instrument": "Clarinet",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Clarinetti—\n„M. Lyons.",
+        "source_text": "„M. Lyons.",
         "review_flags": [],
-        "name": "M. Lyons",
-        "part_or_instrument": "Clarinetti",
+        "name": "M. Lyons.",
+        "part_or_instrument": "Clarinet",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Clarinetti—\n„ J. B. Walters.",
+        "source_text": "„ J. B. Walters.",
         "review_flags": [],
-        "name": "J. B. Walters",
-        "part_or_instrument": "Clarinetti",
+        "name": "J. B. Walters.",
+        "part_or_instrument": "Clarinet",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Fagotti—\nMr. Moffitt.",
         "review_flags": [],
-        "name": "Mr. Moffitt",
-        "part_or_instrument": "Fagotti",
+        "name": "Mr. Moffitt.",
+        "part_or_instrument": "Bassoon",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Fagotti—\n,, Chas. S. Rudall.",
+        "source_text": ",, Chas. S. Rudall.",
         "review_flags": [],
-        "name": "Chas. S. Rudall",
-        "part_or_instrument": "Fagotti",
+        "name": "Chas. S. Rudall.",
+        "part_or_instrument": "Bassoon",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Fagotti—\n,, A. X. Ingamells.",
+        "source_text": ",, A. X. Ingamells.",
         "review_flags": [],
-        "name": "A. X. Ingamells",
-        "part_or_instrument": "Fagotti",
+        "name": "A. X. Ingamells.",
+        "part_or_instrument": "Bassoon",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Corni—\nMr. Η Kühr,",
-        "review_flags": [
-          "Diacritic/initial OCR in name"
-        ],
-        "name": "Mr. Η Kühr",
-        "part_or_instrument": "Corni",
-        "associated_work": null
-      },
-      {
-        "page_number": 4,
-        "source_text": "Corni—\n„A. Flewin.",
         "review_flags": [],
-        "name": "A. Flewin",
-        "part_or_instrument": "Corni",
+        "name": "Mr. Η Kühr,",
+        "part_or_instrument": "Horn",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Corni—\n„R. Peckotsch.",
+        "source_text": "„A. Flewin.",
         "review_flags": [],
-        "name": "R. Peckotsch",
-        "part_or_instrument": "Corni",
+        "name": "A. Flewin.",
+        "part_or_instrument": "Horn",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Corni—\n,, W. FL Heathcote.",
-        "review_flags": [
-          "OCR in initials ('FL')"
-        ],
-        "name": "W. FL Heathcote",
-        "part_or_instrument": "Corni",
+        "source_text": "„R. Peckotsch.",
+        "review_flags": [],
+        "name": "R. Peckotsch.",
+        "part_or_instrument": "Horn",
+        "associated_work": null
+      },
+      {
+        "page_number": 4,
+        "source_text": "„ W. FL Heathcote.",
+        "review_flags": [],
+        "name": "W. FL Heathcote.",
+        "part_or_instrument": "Horn",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Trom be —\nMr. H. Stoneham.",
-        "review_flags": [
-          "Section heading OCR spacing"
-        ],
-        "name": "Mr. H. Stoneham",
-        "part_or_instrument": "Trombe",
+        "review_flags": [],
+        "name": "Mr. H. Stoneham.",
+        "part_or_instrument": "Trumpet",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Trom be —\n,, T. Wilson.",
+        "source_text": "„ T. Wilson.",
         "review_flags": [],
-        "name": "T. Wilson",
-        "part_or_instrument": "Trombe",
+        "name": "T. Wilson.",
+        "part_or_instrument": "Trumpet",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Trom be —\n„W. H. Matthias.",
+        "source_text": "„W. H. Matthias.",
         "review_flags": [],
-        "name": "W. H. Matthias",
-        "part_or_instrument": "Trombe",
+        "name": "W. H. Matthias.",
+        "part_or_instrument": "Trumpet",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Tromboni —\nMr. P. Downs.",
         "review_flags": [],
-        "name": "Mr. P. Downs",
-        "part_or_instrument": "Tromboni",
+        "name": "Mr. P. Downs.",
+        "part_or_instrument": "Trombone",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Tromboni —\n» T. Lawson.",
+        "source_text": "» T. Lawson.",
         "review_flags": [],
-        "name": "T. Lawson",
-        "part_or_instrument": "Tromboni",
+        "name": "T. Lawson.",
+        "part_or_instrument": "Trombone",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Tromboni —\n„S. Hore.",
+        "source_text": "„S. Hore.",
         "review_flags": [],
-        "name": "S. Hore",
-        "part_or_instrument": "Tromboni",
+        "name": "S. Hore.",
+        "part_or_instrument": "Trombone",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Tu ba —\nMr. J. Fries.",
-        "review_flags": [
-          "Section heading OCR spacing"
-        ],
-        "name": "Mr. J. Fries",
+        "review_flags": [],
+        "name": "Mr. J. Fries.",
         "part_or_instrument": "Tuba",
         "associated_work": null
       },
@@ -595,15 +554,15 @@
         "page_number": 4,
         "source_text": "Timpani—\nMr. J. Mumyard.",
         "review_flags": [],
-        "name": "Mr. J. Mumyard",
+        "name": "Mr. J. Mumyard.",
         "part_or_instrument": "Timpani",
         "associated_work": null
       },
       {
         "page_number": 4,
-        "source_text": "Timpani—\n„ T. J. Lamble.",
+        "source_text": "„ T. J. Lamble.",
         "review_flags": [],
-        "name": "T. J. Lamble",
+        "name": "T. J. Lamble.",
         "part_or_instrument": "Timpani",
         "associated_work": null
       },
@@ -611,278 +570,110 @@
         "page_number": 4,
         "source_text": "Tamburo Piccolo —\nMr. G. W. Corbett.",
         "review_flags": [],
-        "name": "Mr. G. W. Corbett",
-        "part_or_instrument": "Tamburo Piccolo",
+        "name": "Mr. G. W. Corbett.",
+        "part_or_instrument": "Snare Drum",
         "associated_work": null
       },
       {
         "page_number": 4,
         "source_text": "Cymbals\nCampanetta )\nMr. A. S. Clay.\nTriangle andI\nGlocken (",
-        "review_flags": [
-          "Multiple instruments combined; OCR line breaks/spacing odd"
-        ],
-        "name": "Mr. A. S. Clay",
-        "part_or_instrument": "Cymbals, Campanetta, Triangle and Glocken",
-        "associated_work": null
-      },
-      {
-        "page_number": 6,
-        "source_text": "J\\4d ME. pLISE ^lEDERJVlANN,",
-        "review_flags": [
-          "OCR garble; interpreted as 'Mme. Elise Wiedermann'"
-        ],
-        "name": "Madame Elise Wiedermann",
-        "part_or_instrument": "Soloist",
-        "associated_work": null
-      },
-      {
-        "page_number": 16,
-        "source_text": "ELIZABETH MDME. ELISE WIEDERMANN.",
         "review_flags": [],
-        "name": "MDME. ELISE WIEDERMANN",
-        "part_or_instrument": "Elizabeth (solo)",
-        "associated_work": "The Legend of St. Elizabeth (Crusaders' Scene)"
-      },
-      {
-        "page_number": 6,
-        "source_text": "^ÆlSS ^DA J^F^SSLEY,",
-        "review_flags": [
-          "OCR garble; interpreted as 'Miss Ada Crossley'"
-        ],
-        "name": "Miss ADA CROSSLEY",
-        "part_or_instrument": "Soloist (Contralto)",
+        "name": "Mr. A. S. Clay.",
+        "part_or_instrument": "Percussion — Cymbals, Campanetta, Triangle, Glocken",
         "associated_work": null
       },
       {
-        "page_number": 12,
-        "source_text": "Soloist  - Miss ADA CROSSLEY",
+        "page_number": 7,
+        "source_text": "Μκ. H. J. King , the Conductor, for the whole of the music set \ndown for performance this afternoon.",
         "review_flags": [],
-        "name": "Miss ADA CROSSLEY",
-        "part_or_instrument": "Soloist (Contralto)",
-        "associated_work": "Rhapsodie (fragment aus Goethe's Harzreise im Winter), Op. 53"
-      },
-      {
-        "page_number": 6,
-        "source_text": "Miss po^A STAMP\n(Sole Pianoforte).",
-        "review_flags": [
-          "OCR garble; interpreted as 'Miss Dora Stamp'"
-        ],
-        "name": "Miss DORA STAMP",
-        "part_or_instrument": "Sole Pianoforte",
+        "name": "Μκ. H. J. King",
+        "part_or_instrument": "Conductor",
         "associated_work": null
       },
       {
-        "page_number": 13,
-        "source_text": "SOLOIST - Miss DORA STAMP.",
-        "review_flags": [],
-        "name": "Miss DORA STAMP",
-        "part_or_instrument": "Pianoforte Soloist",
-        "associated_work": "Concerto No. 1 in E flat (for Pianoforte & Orchestra)"
-      },
-      {
-        "page_number": 6,
-        "source_text": "MERR RUDOLPH HUMMER,",
+        "page_number": 3,
+        "source_text": "Hon. Gianist § Organist :\nMr . AUGUST SIEDE.",
         "review_flags": [
-          "OCR garble ('MERR' for 'HERR'; surname matches later 'HIMMER')"
+          "Instrumental roles inferred from caption"
         ],
-        "name": "HERR RUDOLPH HIMMER",
-        "part_or_instrument": "Soloist",
+        "name": "Mr . AUGUST SIEDE.",
+        "part_or_instrument": "Pianist and Organist",
         "associated_work": null
       },
       {
         "page_number": 10,
         "source_text": "PARSIFAL - Herr  HIMMER.",
         "review_flags": [],
-        "name": "Herr  HIMMER",
+        "name": "Herr  HIMMER.",
         "part_or_instrument": "Parsifal (role)",
-        "associated_work": "Parsifal"
-      },
-      {
-        "page_number": 6,
-        "source_text": "HERR R, NITSCHKE\n(Of Adelaide),",
-        "review_flags": [],
-        "name": "HERR R. NITSCHKE",
-        "part_or_instrument": "Baritone (soloist)",
-        "associated_work": null
-      },
-      {
-        "page_number": 14,
-        "source_text": "Soloist  - HERR R. NITSCHKE,",
-        "review_flags": [],
-        "name": "HERR R. NITSCHKE",
-        "part_or_instrument": "Baritone Soloist",
-        "associated_work": "Landerkennung (Land Sighting), Op. 31"
-      },
-      {
-        "page_number": 16,
-        "source_text": "LANDGRAVE L :w!, HERR R. NITSCHKE.",
-        "review_flags": [
-          "OCR garble in title punctuation"
-        ],
-        "name": "HERR R. NITSCHKE",
-        "part_or_instrument": "Landgrave (role)",
-        "associated_work": "The Legend of St. Elizabeth (Crusaders' Scene)"
-      },
-      {
-        "page_number": 6,
-        "source_text": "HERE ERNEST HARTUNG,",
-        "review_flags": [
-          "OCR garble ('HERE' for 'HERR')"
-        ],
-        "name": "HERR ERNEST HARTUNG",
-        "part_or_instrument": "Soloist",
-        "associated_work": null
+        "associated_work": "PARSIFAL"
       },
       {
         "page_number": 10,
         "source_text": "GURNEMANZ - Herr  ERNEST HARTUNG.",
         "review_flags": [],
-        "name": "Herr  ERNEST HARTUNG",
+        "name": "Herr  ERNEST HARTUNG.",
         "part_or_instrument": "Gurnemanz (role)",
-        "associated_work": "Parsifal"
-      },
-      {
-        "page_number": 6,
-        "source_text": "MERR Louis pLElSSN.EPv",
-        "review_flags": [
-          "OCR garble; interpreted as 'Herr Louis Fleissner'"
-        ],
-        "name": "HERR LOUIS FLEISSNER",
-        "part_or_instrument": "Soloist",
-        "associated_work": null
+        "associated_work": "PARSIFAL"
       },
       {
         "page_number": 10,
         "source_text": "TITUREL - Herr  LOUIS FLEISSNER.",
         "review_flags": [],
-        "name": "Herr  LOUIS FLEISSNER",
+        "name": "Herr  LOUIS FLEISSNER.",
         "part_or_instrument": "Titurel (role)",
-        "associated_work": "Parsifal"
+        "associated_work": "PARSIFAL"
       },
       {
-        "page_number": 5,
-        "source_text": "Members of the Choir, %",
-        "review_flags": [
-          "Section header OCR artifacts; specific parts follow below"
-        ],
-        "name": "—",
-        "part_or_instrument": null,
-        "associated_work": null
+        "page_number": 12,
+        "source_text": "Soloist  - Miss ADA CROSSLEY",
+        "review_flags": [],
+        "name": "Miss ADA CROSSLEY",
+        "part_or_instrument": "Contralto",
+        "associated_work": "RHAPSODIE (fragment ans Goethe's Harzreise im Winter)"
       },
       {
-        "page_number": 5,
-        "source_text": "Dickins, J. J. (Capt.)",
-        "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading"
-        ],
-        "name": "Dickins, J. J. (Capt.)",
-        "part_or_instrument": null,
-        "associated_work": null
+        "page_number": 13,
+        "source_text": "SOLOIST - Miss DORA STAMP.",
+        "review_flags": [],
+        "name": "Miss DORA STAMP.",
+        "part_or_instrument": "Piano",
+        "associated_work": "Concerto  (No. ι in Ε flat)"
       },
       {
-        "page_number": 5,
-        "source_text": "Speed, R. D. (on leave)",
-        "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading"
-        ],
-        "name": "Speed, R. D. (on leave)",
-        "part_or_instrument": null,
-        "associated_work": null
+        "page_number": 14,
+        "source_text": "Soloist  - HERR R. NITSCHKE,",
+        "review_flags": [],
+        "name": "HERR R. NITSCHKE,",
+        "part_or_instrument": "Baritone",
+        "associated_work": "LANDERKENNUNG (LAND SIGHTING)"
       },
       {
-        "page_number": 5,
-        "source_text": "Thomas, Τ. H",
+        "page_number": 16,
+        "source_text": "ELIZABETH MDME. ELISE WIEDERMANN.\nLANDGRAVE L :w!, HERR R. NITSCHKE.",
         "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading; OCR in initial"
+          "OCR garble in 'LANDGRAVE L :w!'"
         ],
-        "name": "Thomas, Τ. H.",
-        "part_or_instrument": null,
-        "associated_work": null
+        "name": "MDME. ELISE WIEDERMANN.",
+        "part_or_instrument": "Elizabeth (role)",
+        "associated_work": "THE LEGEND OF ST. ELIZABETH (OF HUNGARY)"
       },
       {
-        "page_number": 5,
-        "source_text": "Altmann, H.",
+        "page_number": 16,
+        "source_text": "ELIZABETH MDME. ELISE WIEDERMANN.\nLANDGRAVE L :w!, HERR R. NITSCHKE.",
         "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading"
+          "OCR garble in 'LANDGRAVE L :w!'"
         ],
-        "name": "Altmann, H.",
-        "part_or_instrument": null,
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Altmann, H. A",
-        "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading"
-        ],
-        "name": "Altmann, H. A",
-        "part_or_instrument": null,
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Manson, D E.,",
-        "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading; OCR spacing"
-        ],
-        "name": "Manson, D. E.",
-        "part_or_instrument": null,
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Dyer, J.",
-        "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading"
-        ],
-        "name": "Dyer, J.",
-        "part_or_instrument": null,
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Hardy, J. W.",
-        "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading"
-        ],
-        "name": "Hardy, J. W.",
-        "part_or_instrument": null,
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Heymanson, A. A.",
-        "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading"
-        ],
-        "name": "Heymanson, A. A.",
-        "part_or_instrument": null,
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Madden, I). A",
-        "review_flags": [
-          "Part not explicitly indicated before 'FIRST TENOR' heading; OCR garble in initial"
-        ],
-        "name": "Madden, D. A.",
-        "part_or_instrument": null,
-        "associated_work": null
+        "name": "HERR R. NITSCHKE.",
+        "part_or_instrument": "Landgrave (role)",
+        "associated_work": "THE LEGEND OF ST. ELIZABETH (OF HUNGARY)"
       },
       {
         "page_number": 5,
         "source_text": "FIRST TENOR.",
         "review_flags": [],
-        "name": "—",
-        "part_or_instrument": "FIRST TENOR",
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Beaumont, D. A.",
-        "review_flags": [],
         "name": "Beaumont, D. A.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -890,7 +681,7 @@
         "source_text": "Newman, F. A.",
         "review_flags": [],
         "name": "Newman, F. A.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -898,17 +689,17 @@
         "source_text": "Robie, D. L.",
         "review_flags": [],
         "name": "Robie, D. L.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Robinson, Η. J. (on Ive.)",
         "review_flags": [
-          "OCR 'Ive.' for 'leave'"
+          "'on Ive.' likely 'on leave'"
         ],
         "name": "Robinson, Η. J. (on Ive.)",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -916,7 +707,7 @@
         "source_text": "Woess, Carl",
         "review_flags": [],
         "name": "Woess, Carl",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -924,7 +715,7 @@
         "source_text": "Thackeray, J.",
         "review_flags": [],
         "name": "Thackeray, J.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -932,7 +723,7 @@
         "source_text": "Heron, G. K.",
         "review_flags": [],
         "name": "Heron, G. K.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -940,17 +731,15 @@
         "source_text": "Bird, Jno",
         "review_flags": [],
         "name": "Bird, Jno",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Ward Η.",
-        "review_flags": [
-          "Initial OCR oddity"
-        ],
+        "review_flags": [],
         "name": "Ward Η.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -958,7 +747,7 @@
         "source_text": "Fletcher, S. H. (on leave)",
         "review_flags": [],
         "name": "Fletcher, S. H. (on leave)",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -966,15 +755,15 @@
         "source_text": "Brunton, W.",
         "review_flags": [],
         "name": "Brunton, W.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Fullagher A. G",
         "review_flags": [],
-        "name": "Fullagher, A. G.",
-        "part_or_instrument": "FIRST TENOR",
+        "name": "Fullagher A. G",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -982,7 +771,7 @@
         "source_text": "Eville, P. M.",
         "review_flags": [],
         "name": "Eville, P. M.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -990,7 +779,7 @@
         "source_text": "Harley, G.",
         "review_flags": [],
         "name": "Harley, G.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -998,7 +787,7 @@
         "source_text": "Donaldson, J. P.",
         "review_flags": [],
         "name": "Donaldson, J. P.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1006,7 +795,7 @@
         "source_text": "Boosey, Η.",
         "review_flags": [],
         "name": "Boosey, Η.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1014,15 +803,15 @@
         "source_text": "Harvey, H. J.",
         "review_flags": [],
         "name": "Harvey, H. J.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Power. F.",
         "review_flags": [],
-        "name": "Power, F.",
-        "part_or_instrument": "FIRST TENOR",
+        "name": "Power. F.",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1030,7 +819,7 @@
         "source_text": "Carne, A. E. (Capt.)",
         "review_flags": [],
         "name": "Carne, A. E. (Capt.)",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1038,23 +827,23 @@
         "source_text": "Rament, Ε.",
         "review_flags": [],
         "name": "Rament, Ε.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Champion. W.",
         "review_flags": [],
-        "name": "Champion, W.",
-        "part_or_instrument": "FIRST TENOR",
+        "name": "Champion. W.",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Forsyth, J. A",
         "review_flags": [],
-        "name": "Forsyth, J. A.",
-        "part_or_instrument": "FIRST TENOR",
+        "name": "Forsyth, J. A",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1062,25 +851,25 @@
         "source_text": "Herring, W. E.",
         "review_flags": [],
         "name": "Herring, W. E.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Lloyd. P.",
         "review_flags": [],
-        "name": "Lloyd, P.",
-        "part_or_instrument": "FIRST TENOR",
+        "name": "Lloyd. P.",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Marshall. Capt. T. S. (on 1.",
         "review_flags": [
-          "'on 1.' likely 'on leave' (OCR)"
+          "'on 1.' likely 'on leave'"
         ],
-        "name": "Marshall, Capt. T. S. (on 1.)",
-        "part_or_instrument": "FIRST TENOR",
+        "name": "Marshall. Capt. T. S. (on 1.",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1088,7 +877,7 @@
         "source_text": "Hall, C. N.",
         "review_flags": [],
         "name": "Hall, C. N.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1096,7 +885,7 @@
         "source_text": "Rundell, W. R.",
         "review_flags": [],
         "name": "Rundell, W. R.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1104,7 +893,7 @@
         "source_text": "Day, G. A. (Capt.)",
         "review_flags": [],
         "name": "Day, G. A. (Capt.)",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1112,7 +901,7 @@
         "source_text": "Bennett, J. J.",
         "review_flags": [],
         "name": "Bennett, J. J.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1120,7 +909,7 @@
         "source_text": "Clinton, F.",
         "review_flags": [],
         "name": "Clinton, F.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1128,7 +917,7 @@
         "source_text": "Garritty, W.",
         "review_flags": [],
         "name": "Garritty, W.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1136,7 +925,7 @@
         "source_text": "Garrett, H. (on leave)",
         "review_flags": [],
         "name": "Garrett, H. (on leave)",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1144,7 +933,7 @@
         "source_text": "Gerson, J",
         "review_flags": [],
         "name": "Gerson, J",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1152,7 +941,7 @@
         "source_text": "Heathcote, W. H.",
         "review_flags": [],
         "name": "Heathcote, W. H.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1160,7 +949,7 @@
         "source_text": "Henne, D.",
         "review_flags": [],
         "name": "Henne, D.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1168,7 +957,7 @@
         "source_text": "Templeton, Capt. T. H.",
         "review_flags": [],
         "name": "Templeton, Capt. T. H.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1176,7 +965,7 @@
         "source_text": "Whitehead, F. S.",
         "review_flags": [],
         "name": "Whitehead, F. S.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1184,7 +973,7 @@
         "source_text": "Hedding, Jas.",
         "review_flags": [],
         "name": "Hedding, Jas.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
@@ -1192,23 +981,15 @@
         "source_text": "Carter, E. J.",
         "review_flags": [],
         "name": "Carter, E. J.",
-        "part_or_instrument": "FIRST TENOR",
+        "part_or_instrument": "First Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "SECOND TENOR.",
         "review_flags": [],
-        "name": "—",
-        "part_or_instrument": "SECOND TENOR",
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Gray, Thos.",
-        "review_flags": [],
         "name": "Gray, Thos.",
-        "part_or_instrument": "SECOND TENOR",
+        "part_or_instrument": "Second Tenor",
         "associated_work": null
       },
       {
@@ -1216,7 +997,7 @@
         "source_text": "Whipp, A. A. (on leave)",
         "review_flags": [],
         "name": "Whipp, A. A. (on leave)",
-        "part_or_instrument": "SECOND TENOR",
+        "part_or_instrument": "Second Tenor",
         "associated_work": null
       },
       {
@@ -1224,17 +1005,17 @@
         "source_text": "Beere, R. Η",
         "review_flags": [],
         "name": "Beere, R. Η",
-        "part_or_instrument": "SECOND TENOR",
+        "part_or_instrument": "Second Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Morgan, C. W. on leave)",
         "review_flags": [
-          "Missing opening parenthesis (OCR)"
+          "Missing opening parenthesis in OCR"
         ],
-        "name": "Morgan, C. W. (on leave)",
-        "part_or_instrument": "SECOND TENOR",
+        "name": "Morgan, C. W. on leave)",
+        "part_or_instrument": "Second Tenor",
         "associated_work": null
       },
       {
@@ -1242,7 +1023,7 @@
         "source_text": "Ford, Η.",
         "review_flags": [],
         "name": "Ford, Η.",
-        "part_or_instrument": "SECOND TENOR",
+        "part_or_instrument": "Second Tenor",
         "associated_work": null
       },
       {
@@ -1250,7 +1031,7 @@
         "source_text": "Hotchin, T. H. K",
         "review_flags": [],
         "name": "Hotchin, T. H. K",
-        "part_or_instrument": "SECOND TENOR",
+        "part_or_instrument": "Second Tenor",
         "associated_work": null
       },
       {
@@ -1258,7 +1039,7 @@
         "source_text": "Pleasants, E. A.",
         "review_flags": [],
         "name": "Pleasants, E. A.",
-        "part_or_instrument": "SECOND TENOR",
+        "part_or_instrument": "Second Tenor",
         "associated_work": null
       },
       {
@@ -1266,7 +1047,7 @@
         "source_text": "Bates, Chas. Junr.",
         "review_flags": [],
         "name": "Bates, Chas. Junr.",
-        "part_or_instrument": "SECOND TENOR",
+        "part_or_instrument": "Second Tenor",
         "associated_work": null
       },
       {
@@ -1274,23 +1055,15 @@
         "source_text": "McRae, H.",
         "review_flags": [],
         "name": "McRae, H.",
-        "part_or_instrument": "SECOND TENOR",
+        "part_or_instrument": "Second Tenor",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "FIRST BASS.",
         "review_flags": [],
-        "name": "—",
-        "part_or_instrument": "FIRST BASS",
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Eddy, A. E.",
-        "review_flags": [],
         "name": "Eddy, A. E.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1298,7 +1071,7 @@
         "source_text": "Flood, W. H.",
         "review_flags": [],
         "name": "Flood, W. H.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1306,7 +1079,7 @@
         "source_text": "Bishop, A. A.",
         "review_flags": [],
         "name": "Bishop, A. A.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1314,7 +1087,7 @@
         "source_text": "Küster, G. Η.",
         "review_flags": [],
         "name": "Küster, G. Η.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1322,7 +1095,7 @@
         "source_text": "Wilson, E. L.",
         "review_flags": [],
         "name": "Wilson, E. L.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1330,7 +1103,7 @@
         "source_text": "Lennon, Geo. A.",
         "review_flags": [],
         "name": "Lennon, Geo. A.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1338,7 +1111,7 @@
         "source_text": "Muirhead, G. Η.",
         "review_flags": [],
         "name": "Muirhead, G. Η.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1346,7 +1119,7 @@
         "source_text": "Turner, J. Τ.",
         "review_flags": [],
         "name": "Turner, J. Τ.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1354,7 +1127,7 @@
         "source_text": "Page, B.",
         "review_flags": [],
         "name": "Page, B.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1362,7 +1135,7 @@
         "source_text": "Wilcox, W.",
         "review_flags": [],
         "name": "Wilcox, W.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1370,7 +1143,7 @@
         "source_text": "Excell, Fredk.",
         "review_flags": [],
         "name": "Excell, Fredk.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1378,7 +1151,7 @@
         "source_text": "Pincus, S.",
         "review_flags": [],
         "name": "Pincus, S.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1386,7 +1159,7 @@
         "source_text": "Prichard, J. J.",
         "review_flags": [],
         "name": "Prichard, J. J.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1394,7 +1167,7 @@
         "source_text": "Waugh, R. (on leave)",
         "review_flags": [],
         "name": "Waugh, R. (on leave)",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1402,31 +1175,31 @@
         "source_text": "Wood, W. C.",
         "review_flags": [],
         "name": "Wood, W. C.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Champion. J.",
         "review_flags": [],
-        "name": "Champion, J.",
-        "part_or_instrument": "FIRST BASS",
+        "name": "Champion. J.",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Ramsay, Τ G.",
         "review_flags": [],
-        "name": "Ramsay, Τ. G.",
-        "part_or_instrument": "FIRST BASS",
+        "name": "Ramsay, Τ G.",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Sprod W. G. R.",
         "review_flags": [],
-        "name": "Sprod, W. G. R.",
-        "part_or_instrument": "FIRST BASS",
+        "name": "Sprod W. G. R.",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1434,7 +1207,7 @@
         "source_text": "Williams, E. H.",
         "review_flags": [],
         "name": "Williams, E. H.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1442,7 +1215,7 @@
         "source_text": "Williams, J. R.",
         "review_flags": [],
         "name": "Williams, J. R.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1450,7 +1223,7 @@
         "source_text": "Heathershaw, S. A.",
         "review_flags": [],
         "name": "Heathershaw, S. A.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1458,15 +1231,15 @@
         "source_text": "Farr, Leigh",
         "review_flags": [],
         "name": "Farr, Leigh",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Lemon. G. H.",
         "review_flags": [],
-        "name": "Lemon, G. H.",
-        "part_or_instrument": "FIRST BASS",
+        "name": "Lemon. G. H.",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1474,7 +1247,7 @@
         "source_text": "Blades, R.",
         "review_flags": [],
         "name": "Blades, R.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1482,7 +1255,7 @@
         "source_text": "Hall, F. F.",
         "review_flags": [],
         "name": "Hall, F. F.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1490,23 +1263,23 @@
         "source_text": "Hislop, Η. (on leave)",
         "review_flags": [],
         "name": "Hislop, Η. (on leave)",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Smith. H. W.",
         "review_flags": [],
-        "name": "Smith, H. W.",
-        "part_or_instrument": "FIRST BASS",
+        "name": "Smith. H. W.",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Appleby. W. E.",
         "review_flags": [],
-        "name": "Appleby, W. E.",
-        "part_or_instrument": "FIRST BASS",
+        "name": "Appleby. W. E.",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1514,15 +1287,15 @@
         "source_text": "Holtz, F.",
         "review_flags": [],
         "name": "Holtz, F.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Fleissner L.",
         "review_flags": [],
-        "name": "Fleissner, L.",
-        "part_or_instrument": "FIRST BASS",
+        "name": "Fleissner L.",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1530,7 +1303,7 @@
         "source_text": "Hall, C. E.",
         "review_flags": [],
         "name": "Hall, C. E.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1538,7 +1311,7 @@
         "source_text": "Casper, E. (Capt.)",
         "review_flags": [],
         "name": "Casper, E. (Capt.)",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1546,7 +1319,7 @@
         "source_text": "Berry, A.",
         "review_flags": [],
         "name": "Berry, A.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1554,7 +1327,7 @@
         "source_text": "Blashki, G. L.",
         "review_flags": [],
         "name": "Blashki, G. L.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1562,7 +1335,7 @@
         "source_text": "Hasell, A. H.",
         "review_flags": [],
         "name": "Hasell, A. H.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1570,7 +1343,7 @@
         "source_text": "Wilkes, K. (on leave)",
         "review_flags": [],
         "name": "Wilkes, K. (on leave)",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1578,7 +1351,7 @@
         "source_text": "McCall, R. W. V.",
         "review_flags": [],
         "name": "McCall, R. W. V.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1586,7 +1359,7 @@
         "source_text": "Pick, Geo.",
         "review_flags": [],
         "name": "Pick, Geo.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1594,7 +1367,7 @@
         "source_text": "Ashe, H. M.",
         "review_flags": [],
         "name": "Ashe, H. M.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1602,7 +1375,7 @@
         "source_text": "Watson, Jno.",
         "review_flags": [],
         "name": "Watson, Jno.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1610,7 +1383,7 @@
         "source_text": "Griffith, H. L.",
         "review_flags": [],
         "name": "Griffith, H. L.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1618,7 +1391,7 @@
         "source_text": "Statters, J.",
         "review_flags": [],
         "name": "Statters, J.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
@@ -1626,23 +1399,15 @@
         "source_text": "Whitehead, A. E.",
         "review_flags": [],
         "name": "Whitehead, A. E.",
-        "part_or_instrument": "FIRST BASS",
+        "part_or_instrument": "First Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "SECOND BASS.",
         "review_flags": [],
-        "name": "—",
-        "part_or_instrument": "SECOND BASS",
-        "associated_work": null
-      },
-      {
-        "page_number": 5,
-        "source_text": "Turner, J. P.",
-        "review_flags": [],
         "name": "Turner, J. P.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1650,7 +1415,7 @@
         "source_text": "Groube, H.",
         "review_flags": [],
         "name": "Groube, H.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1658,7 +1423,7 @@
         "source_text": "Pepper, F.",
         "review_flags": [],
         "name": "Pepper, F.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1666,7 +1431,7 @@
         "source_text": "Wilmott, H. G.",
         "review_flags": [],
         "name": "Wilmott, H. G.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1674,7 +1439,7 @@
         "source_text": "Jones, W. C.",
         "review_flags": [],
         "name": "Jones, W. C.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1682,7 +1447,7 @@
         "source_text": "Adcock, John",
         "review_flags": [],
         "name": "Adcock, John",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1690,7 +1455,7 @@
         "source_text": "Lewis, F.",
         "review_flags": [],
         "name": "Lewis, F.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1698,7 +1463,7 @@
         "source_text": "Owen, E. T.",
         "review_flags": [],
         "name": "Owen, E. T.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1706,7 +1471,7 @@
         "source_text": "Smith, E. O.",
         "review_flags": [],
         "name": "Smith, E. O.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1714,7 +1479,7 @@
         "source_text": "Hearn, A. H.",
         "review_flags": [],
         "name": "Hearn, A. H.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1722,15 +1487,15 @@
         "source_text": "Mattingly, A.",
         "review_flags": [],
         "name": "Mattingly, A.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "White, Thos, E.",
         "review_flags": [],
-        "name": "White, Thos. E.",
-        "part_or_instrument": "SECOND BASS",
+        "name": "White, Thos, E.",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1738,7 +1503,7 @@
         "source_text": "Nunweek, A.",
         "review_flags": [],
         "name": "Nunweek, A.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1746,7 +1511,7 @@
         "source_text": "Sutherland, J.",
         "review_flags": [],
         "name": "Sutherland, J.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1754,7 +1519,7 @@
         "source_text": "Watkin, E. J. (on leave)",
         "review_flags": [],
         "name": "Watkin, E. J. (on leave)",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1762,7 +1527,7 @@
         "source_text": "McHenry, Ε.",
         "review_flags": [],
         "name": "McHenry, Ε.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1770,15 +1535,15 @@
         "source_text": "Williamson, W. T. R.",
         "review_flags": [],
         "name": "Williamson, W. T. R.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
         "page_number": 5,
         "source_text": "Smith. W.",
         "review_flags": [],
-        "name": "Smith, W.",
-        "part_or_instrument": "SECOND BASS",
+        "name": "Smith. W.",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1786,7 +1551,7 @@
         "source_text": "Irving, H. A. C.",
         "review_flags": [],
         "name": "Irving, H. A. C.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1794,7 +1559,7 @@
         "source_text": "Lloyd, H. D.",
         "review_flags": [],
         "name": "Lloyd, H. D.",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       },
       {
@@ -1802,7 +1567,7 @@
         "source_text": "Adelt, Louis",
         "review_flags": [],
         "name": "Adelt, Louis",
-        "part_or_instrument": "SECOND BASS",
+        "part_or_instrument": "Second Bass",
         "associated_work": null
       }
     ]
@@ -1812,14 +1577,24 @@
       {
         "page_number": 3,
         "source_text": "TOWN JALL, MELBOURNE",
-        "review_flags": [],
+        "review_flags": [
+          "OCR likely 'Hall'→'JALL' — kept as printed"
+        ],
         "place": "TOWN JALL, MELBOURNE"
       },
       {
         "page_number": 20,
-        "source_text": "yoWN JÎALL,\nMELBOURNE",
-        "review_flags": [],
+        "source_text": "yoWN JÎALL, \nMELBOURNE",
+        "review_flags": [
+          "OCR likely 'Town Hall' and diacritics garbled — kept as printed"
+        ],
         "place": "yoWN JÎALL, MELBOURNE"
+      },
+      {
+        "page_number": 18,
+        "source_text": "MELBOURNE",
+        "review_flags": [],
+        "place": "MELBOURNE"
       }
     ],
     "dates": [
@@ -1840,30 +1615,52 @@
       {
         "page_number": 5,
         "source_text": "ïlùetropolitan OLieôertatel",
-        "review_flags": [],
+        "review_flags": [
+          "Best-guess correction: 'Metropolitan Liedertafel'"
+        ],
         "name": "ïlùetropolitan OLieôertatel",
         "role": "presenting organization"
       },
       {
-        "page_number": 7,
-        "source_text": "Liedertafel",
-        "review_flags": [],
-        "name": "Liedertafel",
-        "role": "choir"
+        "page_number": 4,
+        "source_text": "Yictoman Orchestra",
+        "review_flags": [
+          "Best-guess correction: 'Victorian Orchestra'"
+        ],
+        "name": "Yictoman Orchestra",
+        "role": "orchestra"
       },
       {
         "page_number": 13,
-        "source_text": "Boys’ Choir, Victorian Orchestra\nAND Liedertatel",
+        "source_text": "Victorian Orchestra",
         "review_flags": [],
         "name": "Victorian Orchestra",
         "role": "orchestra"
       },
       {
-        "page_number": 4,
-        "source_text": "0 Selected Choir of Boys",
+        "page_number": 13,
+        "source_text": "Boys’ Choir, Victorian Orchestra\nAND Liedertatel",
         "review_flags": [],
-        "name": "Selected Choir of Boys",
-        "role": "boys’ choir"
+        "name": "Boys’ Choir",
+        "role": "boys' choir"
+      },
+      {
+        "page_number": 4,
+        "source_text": "0 Selected Choir of Boys Y",
+        "review_flags": [
+          "Best-guess normalization: 'A Selected Choir of Boys'"
+        ],
+        "name": "0 Selected Choir of Boys Y",
+        "role": "boys' choir"
+      },
+      {
+        "page_number": 13,
+        "source_text": "Liedertatel",
+        "review_flags": [
+          "Best-guess correction: 'Liedertafel'"
+        ],
+        "name": "Liedertatel",
+        "role": "choir"
       }
     ],
     "patrons": [
@@ -1880,8 +1677,7 @@
         "page_number": 7,
         "source_text": "Cantata “taralô’s œriôal Dopage”\nFeinrich Hofmann",
         "review_flags": [
-          "Work title OCR appears garbled; likely the cantata “Harald’s Bridal Voyage/Journey”.",
-          "Composer spelling appears OCR-garbled; likely Heinrich Hofmann."
+          "Best-guess: 'Harald’s Bridal Voyage' by 'Heinrich Hofmann'"
         ],
         "composer": "Feinrich Hofmann",
         "title": "Cantata “taralô’s œriôal Dopage”",
@@ -1891,7 +1687,7 @@
         "page_number": 11,
         "source_text": "Pianoforte Solo : Concerto in E Flat Major Geethoven",
         "review_flags": [
-          "Composer OCR-garbled as 'Geethoven'; likely Beethoven."
+          "Best-guess: 'Beethoven' (probably Piano Concerto No. 5 in E-flat)"
         ],
         "composer": "Geethoven",
         "title": "Concerto in E Flat Major",
@@ -1901,9 +1697,9 @@
         "page_number": 12,
         "source_text": "Serenade J.^.^tah",
         "review_flags": [
-          "Composer unreadable/garbled as 'J.^.^tah'; composer left null."
+          "Composer garbled; unclear reading"
         ],
-        "composer": null,
+        "composer": "J.^.^tah",
         "title": "Serenade",
         "movement_or_selection": null
       },
@@ -1911,59 +1707,58 @@
         "page_number": 12,
         "source_text": "Song u l'Estasi ” Ertiti",
         "review_flags": [
-          "Composer appears garbled as 'Ertiti'; composer left null."
+          "Composer garbled; unclear reading (possibly 'Tosti'?)"
         ],
-        "composer": null,
-        "title": "Song “l’Estasi”",
+        "composer": "Ertiti",
+        "title": "Song u l'Estasi",
         "movement_or_selection": null
       },
       {
         "page_number": 13,
         "source_text": "Selections from “Xa Damnation de jfaust\"\nGerlioz",
         "review_flags": [
-          "Title OCR-garbled ('Xa' for 'La').",
-          "Composer OCR-garbled as 'Gerlioz'; likely Berlioz."
+          "Best-guess: 'La Damnation de Faust' by 'Berlioz'"
         ],
         "composer": "Gerlioz",
-        "title": "Selections from “Xa Damnation de jfaust”",
+        "title": "Selections from “Xa Damnation de jfaust\"",
         "movement_or_selection": null
       },
       {
         "page_number": 14,
-        "source_text": "Solo “®eòouin Move Song\" Æoombs",
+        "source_text": "Sono “®eòouin Move Song\" Æoombs",
         "review_flags": [
-          "Title OCR-garbled; likely 'Bedouin Love Song'.",
-          "Composer OCR-garbled as 'Æoombs'; composer left null."
+          "Best-guess: 'Bedouin Love Song' by 'Coombs' (uncertain)"
         ],
-        "composer": null,
-        "title": "Solo “®eòouin Move Song”",
+        "composer": "Æoombs",
+        "title": "Sono “®eòouin Move Song\"",
         "movement_or_selection": null
       },
       {
         "page_number": 14,
         "source_text": "part Song “ Jfarewell” Binkti",
         "review_flags": [
-          "Composer OCR-garbled as 'Binkti'; composer left null."
+          "Best-guess: 'Pinsuti' (Part-song 'Farewell')"
         ],
-        "composer": null,
-        "title": "Part Song “Jfarewell”",
+        "composer": "Binkti",
+        "title": "part Song “ Jfarewell”",
         "movement_or_selection": null
       },
       {
         "page_number": 15,
-        "source_text": "Vocal Waits “ œiue Danube” (By request)\n(ARRANGED BY ELSASSER) Str",
+        "source_text": "Vocal Waits “ œiue Danube” (By request) \n(ARRANGED BY ELSASSER) Str",
         "review_flags": [
-          "Title OCR-garbled ('Waits' for 'Waltz', 'œiue' for 'Blue').",
-          "Composer truncated as 'Str'; likely Strauss. Composer left null."
+          "Best-guess: 'Blue Danube' by 'Strauss'; genre likely 'Vocal Waltz'"
         ],
-        "composer": null,
-        "title": "Vocal Waits “œiue Danube” (By request)",
-        "movement_or_selection": null
+        "composer": "Str",
+        "title": "Vocal Waits “ œiue Danube”",
+        "movement_or_selection": "(ARRANGED BY ELSASSER)"
       },
       {
         "page_number": 17,
         "source_text": "GOD SAVE THE QUEEN.",
-        "review_flags": [],
+        "review_flags": [
+          "Composer not printed"
+        ],
         "composer": null,
         "title": "GOD SAVE THE QUEEN.",
         "movement_or_selection": null
@@ -1979,35 +1774,68 @@
         "associated_work": null
       },
       {
-        "page_number": 11,
-        "source_text": "Miss Florence Menk-Meyer.",
-        "review_flags": [],
-        "name": "Miss Florence Menk-Meyer",
-        "part_or_instrument": "pianoforte",
-        "associated_work": "Concerto in E Flat Major"
+        "page_number": 4,
+        "source_text": "Piss Θ Shannessy",
+        "review_flags": [
+          "Best-guess: 'Miss O’Shannessy'"
+        ],
+        "name": "Piss Θ Shannessy",
+        "part_or_instrument": "vocalist",
+        "associated_work": null
       },
       {
-        "page_number": 12,
-        "source_text": "(Tenor  Solo  Mr. W. Clarence Fraser)",
-        "review_flags": [],
-        "name": "Mr. W. Clarence Fraser",
-        "part_or_instrument": "tenor solo",
-        "associated_work": "Serenade"
+        "page_number": 4,
+        "source_text": "FL 0. H. Gee",
+        "review_flags": [
+          "Best-guess: 'Mr. A. H. Gee'"
+        ],
+        "name": "FL 0. H. Gee",
+        "part_or_instrument": "vocalist",
+        "associated_work": null
       },
       {
-        "page_number": 12,
-        "source_text": "Miss O’Shannessy",
-        "review_flags": [],
-        "name": "Miss O’Shannessy",
+        "page_number": 4,
+        "source_text": "Piss Florence FRenk-FReyer",
+        "review_flags": [
+          "Role not specified; possibly pianist (cf. p.11 'Miss Florence Menk-Meyer')",
+          "OCR likely garbled name"
+        ],
+        "name": "Piss Florence FRenk-FReyer",
         "part_or_instrument": null,
-        "associated_work": "Song “l’Estasi”"
+        "associated_work": null
+      },
+      {
+        "page_number": 4,
+        "source_text": "PPbr. G. Θ. Fentum, Hon. Pianist",
+        "review_flags": [
+          "Best-guess: 'Mr. G. B. Fentum'"
+        ],
+        "name": "PPbr. G. Θ. Fentum",
+        "part_or_instrument": "accompanist",
+        "associated_work": null
+      },
+      {
+        "page_number": 5,
+        "source_text": "CONDUCTOR \nMr. JULIUS HERZ",
+        "review_flags": [],
+        "name": "Mr. JULIUS HERZ",
+        "part_or_instrument": "conductor",
+        "associated_work": null
+      },
+      {
+        "page_number": 5,
+        "source_text": "Hon . PIANIST \nMr. G. B. FENTUM",
+        "review_flags": [],
+        "name": "Mr. G. B. FENTUM",
+        "part_or_instrument": "accompanist",
+        "associated_work": null
       },
       {
         "page_number": 7,
         "source_text": "Solos  by  Mr. A. H. Gee and  Mr. Henry Rofe",
         "review_flags": [],
         "name": "Mr. A. H. Gee",
-        "part_or_instrument": "soloist",
+        "part_or_instrument": "vocalist",
         "associated_work": "Cantata “taralô’s œriôal Dopage”"
       },
       {
@@ -2015,23 +1843,903 @@
         "source_text": "Solos  by  Mr. A. H. Gee and  Mr. Henry Rofe",
         "review_flags": [],
         "name": "Mr. Henry Rofe",
-        "part_or_instrument": "soloist",
+        "part_or_instrument": "vocalist",
         "associated_work": "Cantata “taralô’s œriôal Dopage”"
+      },
+      {
+        "page_number": 11,
+        "source_text": "Miss Florence Menk-Meyer.",
+        "review_flags": [],
+        "name": "Miss Florence Menk-Meyer.",
+        "part_or_instrument": "piano",
+        "associated_work": "Concerto in E Flat Major"
+      },
+      {
+        "page_number": 12,
+        "source_text": "(Tenor  Solo  Mr. W. Clarence Fraser)",
+        "review_flags": [],
+        "name": "Mr. W. Clarence Fraser",
+        "part_or_instrument": "tenor",
+        "associated_work": "Serenade"
+      },
+      {
+        "page_number": 12,
+        "source_text": "Miss O’Shannessy",
+        "review_flags": [],
+        "name": "Miss O’Shannessy",
+        "part_or_instrument": "vocalist",
+        "associated_work": "Song u l'Estasi"
       },
       {
         "page_number": 14,
         "source_text": "Mr. A. H Gee",
         "review_flags": [],
         "name": "Mr. A. H Gee",
-        "part_or_instrument": "soloist",
-        "associated_work": "Solo “®eòouin Move Song”"
+        "part_or_instrument": "vocalist",
+        "associated_work": "Sono “®eòouin Move Song\""
       },
       {
-        "page_number": 5,
-        "source_text": "Hon . PIANIST \nMr. G. B. FENTUM",
+        "page_number": 6,
+        "source_text": "enors\nA. CAMERON J. Bradshaw",
         "review_flags": [],
-        "name": "Mr. G. B. FENTUM",
-        "part_or_instrument": "Hon. Pianist",
+        "name": "A. CAMERON",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "enors\nA. CAMERON J. Bradshaw",
+        "review_flags": [],
+        "name": "J. Bradshaw",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "R. Jones J. J. Doyde",
+        "review_flags": [],
+        "name": "R. Jones",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "R. Jones J. J. Doyde",
+        "review_flags": [],
+        "name": "J. J. Doyde",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. H. Williams W. Brown",
+        "review_flags": [],
+        "name": "W. H. Williams",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. H. Williams W. Brown",
+        "review_flags": [],
+        "name": "W. Brown",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. H. PERYMAN P. Kendall",
+        "review_flags": [],
+        "name": "W. H. PERYMAN",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. H. PERYMAN P. Kendall",
+        "review_flags": [],
+        "name": "P. Kendall",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "C. P. ROUVRAY J. H. Williams",
+        "review_flags": [],
+        "name": "C. P. ROUVRAY",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "C. P. ROUVRAY J. H. Williams",
+        "review_flags": [],
+        "name": "J. H. Williams",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "E. Simmonds J. M. Gillespie",
+        "review_flags": [],
+        "name": "E. Simmonds",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "E. Simmonds J. M. Gillespie",
+        "review_flags": [],
+        "name": "J. M. Gillespie",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "S. Symons J. L. Carnegie",
+        "review_flags": [],
+        "name": "S. Symons",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "S. Symons J. L. Carnegie",
+        "review_flags": [],
+        "name": "J. L. Carnegie",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. Watts W. C. Fraser",
+        "review_flags": [],
+        "name": "W. Watts",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. Watts W. C. Fraser",
+        "review_flags": [],
+        "name": "W. C. Fraser",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. Kendall R. H. HAYES",
+        "review_flags": [],
+        "name": "J. Kendall",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. Kendall R. H. HAYES",
+        "review_flags": [],
+        "name": "R. H. HAYES",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "G. F. Smith W. Kennedy",
+        "review_flags": [],
+        "name": "G. F. Smith",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "G. F. Smith W. Kennedy",
+        "review_flags": [],
+        "name": "W. Kennedy",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "F. G. WIIITBY G. SMIBERT",
+        "review_flags": [],
+        "name": "F. G. WIIITBY",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "F. G. WIIITBY G. SMIBERT",
+        "review_flags": [],
+        "name": "G. SMIBERT",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. ILIFFE C. Miller",
+        "review_flags": [],
+        "name": "J. ILIFFE",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. ILIFFE C. Miller",
+        "review_flags": [],
+        "name": "C. Miller",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. G. BUNDY J. S. Ridley",
+        "review_flags": [],
+        "name": "W. G. BUNDY",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. G. BUNDY J. S. Ridley",
+        "review_flags": [],
+        "name": "J. S. Ridley",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. SHERAR J. A. URE",
+        "review_flags": [],
+        "name": "A. SHERAR",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. SHERAR J. A. URE",
+        "review_flags": [],
+        "name": "J. A. URE",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. D. PRICHARD A. J. Campbell",
+        "review_flags": [],
+        "name": "W. D. PRICHARD",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. D. PRICHARD A. J. Campbell",
+        "review_flags": [],
+        "name": "A. J. Campbell",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "E. S. Webster C. D. Dixon",
+        "review_flags": [],
+        "name": "E. S. Webster",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "E. S. Webster C. D. Dixon",
+        "review_flags": [],
+        "name": "C. D. Dixon",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "T. Jack A. Williams",
+        "review_flags": [],
+        "name": "T. Jack",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "T. Jack A. Williams",
+        "review_flags": [],
+        "name": "A. Williams",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. B. Hayward C. M. LILBURNE",
+        "review_flags": [],
+        "name": "W. B. Hayward",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. B. Hayward C. M. LILBURNE",
+        "review_flags": [],
+        "name": "C. M. LILBURNE",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "R. J. Moore",
+        "review_flags": [],
+        "name": "R. J. Moore",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. H. Ford",
+        "review_flags": [],
+        "name": "W. H. Ford",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. H. Kerr",
+        "review_flags": [],
+        "name": "J. H. Kerr",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "L. Hart",
+        "review_flags": [],
+        "name": "L. Hart",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. A. Hart",
+        "review_flags": [],
+        "name": "W. A. Hart",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. J. Sage",
+        "review_flags": [],
+        "name": "A. J. Sage",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "G. J. W. Blom",
+        "review_flags": [],
+        "name": "G. J. W. Blom",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. H. Thomson",
+        "review_flags": [],
+        "name": "A. H. Thomson",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "E. E. Dear",
+        "review_flags": [],
+        "name": "E. E. Dear",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "S. E. Dixon",
+        "review_flags": [],
+        "name": "S. E. Dixon",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. McLaren",
+        "review_flags": [],
+        "name": "A. McLaren",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. H. Chandler",
+        "review_flags": [],
+        "name": "W. H. Chandler",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. G. Barkley",
+        "review_flags": [],
+        "name": "W. G. Barkley",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "H. Seymour",
+        "review_flags": [],
+        "name": "H. Seymour",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "F. Poolman",
+        "review_flags": [],
+        "name": "F. Poolman",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "H. O. Capes",
+        "review_flags": [],
+        "name": "H. O. Capes",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "T. N. Jones",
+        "review_flags": [],
+        "name": "T. N. Jones",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. Williams",
+        "review_flags": [],
+        "name": "J. Williams",
+        "part_or_instrument": "tenor",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "Gasses\nE. Miller E. H. Bardwell J. KEYSTON",
+        "review_flags": [],
+        "name": "E. Miller",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "Gasses\nE. Miller E. H. Bardwell J. KEYSTON",
+        "review_flags": [],
+        "name": "E. H. Bardwell",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. KEYSTON",
+        "review_flags": [],
+        "name": "J. KEYSTON",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. FORDYCE F. B. BRYANT W. URIK",
+        "review_flags": [],
+        "name": "J. FORDYCE",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. FORDYCE F. B. BRYANT W. URIK",
+        "review_flags": [],
+        "name": "F. B. BRYANT",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. FORDYCE F. B. BRYANT W. URIK",
+        "review_flags": [],
+        "name": "W. URIK",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "T. J. Connor R. T. Rows E. Walsh",
+        "review_flags": [],
+        "name": "T. J. Connor",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "T. J. Connor R. T. Rows E. Walsh",
+        "review_flags": [],
+        "name": "R. T. Rows",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "T. J. Connor R. T. Rows E. Walsh",
+        "review_flags": [],
+        "name": "E. Walsh",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. D. Tate H. J. Ralph M. Wakefield",
+        "review_flags": [],
+        "name": "W. D. Tate",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. D. Tate H. J. Ralph M. Wakefield",
+        "review_flags": [],
+        "name": "H. J. Ralph",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. D. Tate H. J. Ralph M. Wakefield",
+        "review_flags": [],
+        "name": "M. Wakefield",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "C. F. WENBORN J. W. PERYMAN W. BOYLE",
+        "review_flags": [],
+        "name": "C. F. WENBORN",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "C. F. WENBORN J. W. PERYMAN W. BOYLE",
+        "review_flags": [],
+        "name": "J. W. PERYMAN",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "C. F. WENBORN J. W. PERYMAN W. BOYLE",
+        "review_flags": [],
+        "name": "W. BOYLE",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. W. Jack W. A. Gilbert J. S. Duke",
+        "review_flags": [],
+        "name": "A. W. Jack",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. W. Jack W. A. Gilbert J. S. Duke",
+        "review_flags": [],
+        "name": "W. A. Gilbert",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. W. Jack W. A. Gilbert J. S. Duke",
+        "review_flags": [],
+        "name": "J. S. Duke",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "G. Wrigley W. MELLOR W. Goode",
+        "review_flags": [],
+        "name": "G. Wrigley",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "G. Wrigley W. MELLOR W. Goode",
+        "review_flags": [],
+        "name": "W. MELLOR",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "G. Wrigley W. MELLOR W. Goode",
+        "review_flags": [],
+        "name": "W. Goode",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. L. PRYDE E. J. Rice A. Stewart",
+        "review_flags": [],
+        "name": "A. L. PRYDE",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. L. PRYDE E. J. Rice A. Stewart",
+        "review_flags": [],
+        "name": "E. J. Rice",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. L. PRYDE E. J. Rice A. Stewart",
+        "review_flags": [],
+        "name": "A. Stewart",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. H. MULVANY C. S. Cunningham P. A. Ashley",
+        "review_flags": [],
+        "name": "J. H. MULVANY",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. H. MULVANY C. S. Cunningham P. A. Ashley",
+        "review_flags": [],
+        "name": "C. S. Cunningham",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. H. MULVANY C. S. Cunningham P. A. Ashley",
+        "review_flags": [],
+        "name": "P. A. Ashley",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. O. CARTWRIGHT D. Wright R. Paterson",
+        "review_flags": [],
+        "name": "J. O. CARTWRIGHT",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. O. CARTWRIGHT D. Wright R. Paterson",
+        "review_flags": [],
+        "name": "D. Wright",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. O. CARTWRIGHT D. Wright R. Paterson",
+        "review_flags": [],
+        "name": "R. Paterson",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. W. Eggleston S. Moyle F. Vines",
+        "review_flags": [],
+        "name": "J. W. Eggleston",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. W. Eggleston S. Moyle F. Vines",
+        "review_flags": [],
+        "name": "S. Moyle",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "J. W. Eggleston S. Moyle F. Vines",
+        "review_flags": [],
+        "name": "F. Vines",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "R. L. Thompson W. F. Rashleigh P. St. J. Murphy",
+        "review_flags": [],
+        "name": "R. L. Thompson",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "R. L. Thompson W. F. Rashleigh P. St. J. Murphy",
+        "review_flags": [],
+        "name": "W. F. Rashleigh",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "R. L. Thompson W. F. Rashleigh P. St. J. Murphy",
+        "review_flags": [],
+        "name": "P. St. J. Murphy",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. Greig C. H. Woodman H. E. Hooke",
+        "review_flags": [],
+        "name": "W. Greig",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. Greig C. H. Woodman H. E. Hooke",
+        "review_flags": [],
+        "name": "C. H. Woodman",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "W. Greig C. H. Woodman H. E. Hooke",
+        "review_flags": [],
+        "name": "H. E. Hooke",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "E. W. CLISBY M. Sr. J. Kennedy C. E. TIBBS",
+        "review_flags": [],
+        "name": "E. W. CLISBY",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "E. W. CLISBY M. Sr. J. Kennedy C. E. TIBBS",
+        "review_flags": [],
+        "name": "M. Sr. J. Kennedy",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "E. W. CLISBY M. Sr. J. Kennedy C. E. TIBBS",
+        "review_flags": [],
+        "name": "C. E. TIBBS",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "R. JOLLEY F. W. White J. Adcock",
+        "review_flags": [],
+        "name": "R. JOLLEY",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "R. JOLLEY F. W. White J. Adcock",
+        "review_flags": [],
+        "name": "F. W. White",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "R. JOLLEY F. W. White J. Adcock",
+        "review_flags": [],
+        "name": "J. Adcock",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. Astley S. Angus A. M’CLELLAND",
+        "review_flags": [],
+        "name": "A. Astley",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. Astley S. Angus A. M’CLELLAND",
+        "review_flags": [],
+        "name": "S. Angus",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "A. Astley S. Angus A. M’CLELLAND",
+        "review_flags": [],
+        "name": "A. M’CLELLAND",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "I. Bowley W. M. URE J. H. Bayley",
+        "review_flags": [],
+        "name": "I. Bowley",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "I. Bowley W. M. URE J. H. Bayley",
+        "review_flags": [],
+        "name": "W. M. URE",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "I. Bowley W. M. URE J. H. Bayley",
+        "review_flags": [],
+        "name": "J. H. Bayley",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "S. J. Warnock H. ROFE T. GROUBE",
+        "review_flags": [],
+        "name": "S. J. Warnock",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "S. J. Warnock H. ROFE T. GROUBE",
+        "review_flags": [],
+        "name": "H. ROFE",
+        "part_or_instrument": "bass",
+        "associated_work": null
+      },
+      {
+        "page_number": 6,
+        "source_text": "S. J. Warnock H. ROFE T. GROUBE",
+        "review_flags": [],
+        "name": "T. GROUBE",
+        "part_or_instrument": "bass",
         "associated_work": null
       }
     ]
@@ -2039,18 +2747,7 @@
   "UDC20260028-29.pdf": {
     "venues": [],
     "dates": [],
-    "organizations": [
-      {
-        "page_number": 1,
-        "source_text": "MUSEUM  OF  MUSICAL  INSTRUMENTS  MUSASHINO  ACADEMIA  MUSICAE",
-        "review_flags": [
-          "Unclear if this is a presenting/performing organization versus an institutional header",
-          "Document appears largely non-program/illegible; treat attribution with caution"
-        ],
-        "name": "MUSEUM  OF  MUSICAL  INSTRUMENTS  MUSASHINO  ACADEMIA  MUSICAE",
-        "role": null
-      }
-    ],
+    "organizations": [],
     "patrons": [],
     "works": [],
     "performers": []
