@@ -325,4 +325,6 @@ else:
                         st.write(f'Description: {response.json()['data']['item']['description']}')
                         st.write(f'Identifier: {item_identifier}')
                         item_permalinks = [permalink for permalink, identifier in matched_permalinks.items() if identifier == item_identifier]
-                        st.write(f'Links to matched essences: {' | '.join(item_permalinks)}')
+                        st.write(f'Link(s) to matched essence(s): {' | '.join(item_permalinks)}')
+
+                        time.sleep(0.2)
