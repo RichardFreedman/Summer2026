@@ -7,12 +7,12 @@ To approach such a task, we must first find a way to identify and categorize var
 *Two graphs, the top being amplitude vs. time (audio waveform), the bottom being frequency vs. time with color gradient representing amplitude (audio spectrogram). Both contain the exact same sonic information.*  
   
 The python audio analysis library *Librosa* does the conversion between waveform and spectrogram automatically, and also extracts useful information about the resulting spectrogram. Given that the identification of the amplitude of various tones over time is a critical aspect of audio analysis, the information which Librosa provides is quite useful for the identification of audio elements. 
-<img width="913" height="610" alt="image" src="https://github.com/user-attachments/assets/ead94de0-579f-4638-9fca-54ec4bc32093" />
+<img width="913" height="610" alt="image" src="https://github.com/user-attachments/assets/ead94de0-579f-4638-9fca-54ec4bc32093" />  
 *The parameters which Librosa extracts from the audio are data about the spectral representation of audio itself. However, given the form of a spectrogram, these parameters are very useful.*
 ## PANNs Inference and webrtcVAD
 With the extracted audio data we have from Librosa, it is now necessary to determine a way to categorize audio clips using this information. In a future iteration of this project, I hope to train a logistic regression model on data from the PARADESIC catalog to create a PARADESEC-specific speech vs. music identifier. For now, however, the project uses two online audio tagging libraries that have already been developed:
-- PANNs Inference is a collection of Pretrained Audio Neural Networks which process data extracted via Librosa and predict a confidence score for 527 separate audio tags. These tags include labels like "speech", "music", "traffic" and are assigned a value from 0 (certainly not present in the audio) to 1 (certainly present in the audio).
-- webrtcVAD is a Voice Activity Detection library for Python which processes frequency amplitude information for small slices of an audio spectrogram to predict whether speech is or is not present in an audio clip.  
+- PANNs Inference is a collection of Pretrained Audio Neural Networks which process data extracted via Librosa and predict a confidence score for 527 separate audio tags. These tags include labels like "speech", "music", "traffic" and are assigned a value from 0 (certainly not present in the audio) to 1 (certainly present in the audio). This is done by using Convolutional Neural Networks. To vastly oversimplify the process, a CNN replicates the way in which humans process visual information in the brain by simulating an interconnected web of "neurons," interspersed with filters. By training how these neurons react to one another, you can tailor certain types of inputs to produce certain types of outputs. In this case, the CNN will take in the data extracted via Librosa, run the values through numerous filters and neurons, and ultimately produce 527 seperate values, each corresponding to the confidence of one audio tag. You can find a more technical description of Convolutional Neural Networks here: https://www.geeksforgeeks.org/machine-learning/introduction-convolution-neural-network/ 
+- webrtcVAD is a Voice Activity Detection library for Python which processes frequency amplitude information for small slices of an audio spectrogram to predict whether speech is or is not present in an audio clip. It uses Gaussian Mixture Modeling, which, in simplified terms, compares the collection of data points obtained from Librosa to previously labelled data points from speech and non-speech audio clips. It will then categorize the clip based on whether it is closer to the speech clips or non-speech clips. A technical description of GMMs can be found here: https://www.geeksforgeeks.org/machine-learning/gaussian-mixture-model/  
 
 By combining the information produced by these two libraries, this notebook labels the sonic features present throughout an audio file, and predicts when speech occurs.
 
@@ -29,11 +29,11 @@ To begin, ensure that you have Python 3.9+ installed to your device. Additionall
 
 These libraries/packages can be installed with the terminal command:
 ```
-$pip install [package name]
+$pip install package_name
 ```
 or 
 ```
-$pip3 install [package name]
+$pip3 install package_name
 ```
 depending on the pip version you have installed.
 
