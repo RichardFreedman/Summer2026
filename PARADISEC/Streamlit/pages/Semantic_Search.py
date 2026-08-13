@@ -1,6 +1,7 @@
 import json
 import math
 from ollama import chat
+import random
 import streamlit as st
 import time
 
@@ -98,7 +99,10 @@ else:
                     time.sleep(0.2)
                 return collections_metadata
 
+            st.caption('Gathering Collection Metadata...')
+
             collections_metadata = get_collections_metadata()
+            random.shuffle(collections_metadata) # Helps prevent the model from only pulling from related collections in a batch
 
             collection_parsing_progress_bar = st.progress(0.0, 'Searching Through Collections...')
             chat_percent = 1.0 / (math.ceil(len(collections_metadata) / 40) + 1)
@@ -324,6 +328,8 @@ else:
             collection_parsing_progress_bar.progress(1.0, 'Collections Searched!')
 
             # Retrieves the metadata for all the items within the matched collections
+            st.caption('Gathering Item Metadata...')
+
             items_metadata = []
             for collection in matched_collections:
                 query = '''
@@ -458,6 +464,8 @@ else:
 
                     time.sleep(0.2)
 
+            random.shuffle(items_metadata) # Helps prevent the model from only pulling items from the same collection in a batch
+
             item_parsing_progress_bar = st.progress(0.0, 'Searching Through Items...')
             chat_percent = 1.0 / (math.ceil(len(items_metadata) / 40) + 1)
             completion_percent = 0.0
@@ -466,7 +474,6 @@ else:
             items_metadata_batches = [items_metadata[i:i + 40] for i in range(0, len(items_metadata), 40)]
             candidate_items = []
             for batch in items_metadata_batches:
-                # FIXME Ensure items from only one collection don't dominate the output
                 chat_response = chat(
                     'llama3.1:8b',
                     [
@@ -484,10 +491,10 @@ else:
                                 containing various pieces of metadata.
                                 2. A user's query or description of what they are looking for.
 
-                                Your job is to identify which items are likely to be relevant to the
-                                user's query, based ONLY on the item metadata provided. This is not a final
-                                answer — you are only identifying likely candidates. Do not try to answer the
-                                user's query itself.
+                                Your job is to identify which items might be relevant to the user's query,
+                                based ONLY on the item metadata provided. This is not a final answer — you
+                                are only identifying possible candidates. Do not try to answer the user's
+                                query itself.
 
                                 Each item is a JSON object containing a "full_identifier" field (its unique
                                 ID) plus metadata fields such as title, description, and others. Always
@@ -497,8 +504,8 @@ else:
                                 RULES
                                 - Only use the item full_identifiers given to you. Never invent, alter, or
                                 abbreviate a full_identifier.
-                                - Select items with a high chance of relating to the query. Do not require total
-                                certainty, and do not include items that are likely unrelated.
+                                - Select items with some chance of relating to the query. Do not require
+                                certainty, and do not include items that are clearly and absolutely unrelated.
                                 - The "title" and "description" fields will be most important for semantic matching.
                                 - Return AT MOST 5 items. If more than 5 seem plausible, return only
                                 the 5 most likely. Do not limit returns otherwise.
@@ -560,7 +567,6 @@ else:
             if len(candidate_items) <= 3: matched_items = candidate_items
             else:
                 candidate_items_metadata = [metadata for metadata in items_metadata if metadata['full_identifier'] in candidate_items]
-                # FIXME Ensure items from only one collection don't dominate the output
                 chat_response = chat(
                     'llama3.1:8b',
                     [
@@ -579,10 +585,10 @@ else:
                                 containing various pieces of metadata.
                                 2. A user's query or description of what they are looking for.
 
-                                Your job is to identify which items are likely to be relevant to the
-                                user's query, based ONLY on the item metadata provided. This is not a final
-                                answer — you are only identifying likely candidates. Do not try to answer the
-                                user's query itself.
+                                Your job is to identify which items might be relevant to the user's query,
+                                based ONLY on the item metadata provided. This is not a final answer — you
+                                are only identifying possible candidates. Do not try to answer the user's
+                                query itself.
 
                                 Each item is a JSON object containing a "full_identifier" field (its unique
                                 ID) plus metadata fields such as title, description, and others. Always
@@ -592,8 +598,8 @@ else:
                                 RULES
                                 - Only use the item full_identifiers given to you. Never invent, alter, or
                                 abbreviate a full_identifier.
-                                - Select items with a high chance of relating to the query. Do not require total
-                                certainty, and do not include items that are likely unrelated.
+                                - Select items with some chance of relating to the query. Do not require
+                                certainty, and do not include items that are clearly and absolutely unrelated.
                                 - The "title" and "description" fields will be most important for semantic matching.
                                 - Return AT LEAST 3 items.
                                 - Return AT MOST 15 items. If more than 15 seem plausible, return only
@@ -683,30 +689,81 @@ else:
 
             item_parsing_progress_bar.progress(1.0, 'Items Searched!')
 
-            st.json(matched_items)
-            # TODO Take matched items and give them back to the LLM again to generate and output an actual
-            # response explaining why each item was returned (eg. how it's related to what the user input)
+            st.caption('Preparing Response...')
 
+            matched_items_metadata = [metadata for metadata in items_metadata if metadata['full_identifier'] in matched_items]
 
+            # Generates an actual response that gives each matched item's full_identifier as well as some explanation of why it matched
+            stream = chat(
+                model = 'llama3.1:8b',
+                messages = [
+                    {
+                        'role': 'system',
+                        'content': '''
+                            You are explaining, for a semantic search system, why each item in a list
+                            was surfaced as a match for a user's query.
 
-# # Allows for typewriter effect
-# def stream_text(stream):
-#     for chunk in stream:
-#         content = chunk['message']['content']
-#         if content: yield content
+                            You are working with metadata from PARADISEC, which is a digital archive of
+                            records of some of the many small cultures and languages of the world. Within
+                            their catalog is digitized audio, text and visual material.
 
-# stream = chat(
-#     model='llama3.1:8b',
-#     messages=[
-#         {
-#             'role': 'system',
-#             'content': 'You are a poet. Respond in rhyme.'
-#         },
-#         {
-#             'role': 'user',
-#             'content': 'This is a test. Is this working?'
-#         }
-#     ],
-#     stream=True
-# )
-# st.write_stream(stream_text(stream))
+                            TASK
+                            You are given:
+                            1. A list of items — each a JSON object with a full_identifier plus
+                            metadata fields such as title, description, and others.
+                            2. A user's query.
+
+                            For EACH item, in the order given, write a short explanation of why it is
+                            a reasonable match for the query, grounded ONLY in the metadata provided.
+                            Do not invent facts, dates, names, or content the metadata doesn't state.
+                            You are talking to the user directly.
+
+                            FORMAT FOR EACH ITEM
+                            Start each item's explanation on its own line with this exact format:
+                            ### <full_identifier>
+                            <1-5 sentence explanation>
+
+                            Process every item in the list, in order, with no items skipped and no
+                            items added. Do not include any text before the first "###" line or after
+                            the last item. Do not add a summary, introduction, or conclusion.
+
+                            RULES
+                            - Refer to specific fields or values that justify the match (e.g. title
+                            wording, a matching language, a matching university).
+                            - If the connection is more indirect, say so plainly rather than
+                            overstating confidence.
+                            - Do not restate the full metadata verbatim — synthesize, don't list.
+                            - Do not mention "the metadata", "the JSON", or any implementation detail —
+                            write as if describing the item itself to the user.
+                        '''
+                    },
+                    {
+                        'role': 'user',
+                        'content': f'''
+                            Items:
+                            ```json
+                            {json.dumps(matched_items_metadata)}
+                            ```
+
+                            User query:
+                            """
+                            {st.session_state.search_llm}
+                            """
+
+                            Write the explanations now, following the required format exactly.
+                        '''
+                    }
+                ],
+                options = {'temperature': 0.3, 'num_ctx': 8192},
+                stream = True
+            )
+
+            st.write_stream(filter(None, (chunk['message']['content'] for chunk in stream)))
+
+            # NOTE Often returns less results that it probably should, but I don't want to increase the
+            # minimum number of returns for fear of overreturning on an extremely specific query; I've done
+            # a lot of tweaking and at this point I believe it may just be a limitation of the ability of a
+            # local model - it's certainly possible that continually reworking the prompt will eventually reach
+            # improved results, but I doubt it will be worth the effort compared to using a much more
+            # powerful, assumedly non-local model
+            # Also, many items from one collection being returned is still not entirely uncommon
