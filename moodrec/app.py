@@ -21,7 +21,7 @@ from recommender import (
     build_playlist,
 )
 
-st.set_page_config(page_title="MoodRec", page_icon="🎵", layout="wide")
+st.set_page_config(page_title="Genre-based music recommendation", page_icon="🎵", layout="wide")
 
 
 # ---------------------------------------------------------------------------
