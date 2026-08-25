@@ -8,7 +8,7 @@ REMOTE_DIR="~/melbourne-moods"
 REPO_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 
 rsync -az --delete \
-  --exclude '.git' --exclude '.summer' --exclude '.env' \
+  --exclude '.git' --exclude '.summer' --exclude '.env' --exclude '.shared-password' \
   --exclude '__pycache__' --exclude '.ipynb_checkpoints' \
   --exclude 'recommender.ipynb' --exclude '*_network.html' \
   "$REPO_ROOT/moodrec" "$REPO_ROOT/deploy" "$HOST:$REMOTE_DIR/"
