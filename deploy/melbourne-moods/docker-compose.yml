@@ -1,0 +1,27 @@
+services:
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    env_file: .env
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - melbourne-moods
+
+  melbourne-moods:
+    build: ../../moodrec
+    restart: unless-stopped
+    env_file: .env
+    # Not published to the host; only Caddy can reach it.
+    expose:
+      - "8501"
+
+volumes:
+  caddy_data:
+  caddy_config:

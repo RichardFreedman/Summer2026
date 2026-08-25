@@ -1,0 +1,27 @@
+# Caddy front door for seris.researchsoftware.unimelb.edu.au.
+#
+# Each app lives under its own path prefix so new apps can be added without
+# touching DNS. To add another app: add a service to docker-compose.yml and
+# copy the handle block below with a new prefix and upstream.
+
+seris.researchsoftware.unimelb.edu.au {
+	encode gzip
+
+	# --- Melbourne Moods (moodrec Streamlit app) -------------------------
+	# Bare /melbourne-moods -> /melbourne-moods/ so relative asset URLs resolve.
+	redir /melbourne-moods /melbourne-moods/ permanent
+
+	handle /melbourne-moods/* {
+		basic_auth {
+			{$MELBOURNE_MOODS_USER} {$MELBOURNE_MOODS_PASSWORD_HASH}
+		}
+		# Streamlit is started with --server.baseUrlPath=melbourne-moods, so
+		# the prefix is passed through unchanged (handle, not handle_path).
+		reverse_proxy melbourne-moods:8501
+	}
+
+	# Anything else on the root domain: nothing here yet.
+	handle {
+		respond "Nothing to see here." 404
+	}
+}
