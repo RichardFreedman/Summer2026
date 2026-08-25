@@ -30,7 +30,7 @@ def _load_streamlit_secrets_into_env() -> None:
         secrets = st.secrets
     except Exception:
         return
-    for key in ("OPENAI_API_KEY", "LASTFM_API_KEY"):
+    for key in ("OPENAI_API_KEY", "LASTFM_API_KEY", "GENRE_MODE"):
         if not os.environ.get(key):
             try:
                 value = secrets.get(key)

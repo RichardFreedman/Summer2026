@@ -47,6 +47,18 @@ Run all cells in order from top to bottom.
 
 ---
 
+## Genre preference modes
+
+Set `GENRE_MODE` in `.env` (or Streamlit secrets):
+
+- `supergenre` (default): pick one or more super-genres from a dropdown. Songs are
+  filtered deterministically by the tag -> super-genre mapping in
+  `supergenre_cache.json` (matching on any of a song's tags). No live LLM calls, so
+  playlists are instant; suited to workshops. If fewer than twice the playlist length
+  match, matching songs are preferred rather than required so a journey is still possible.
+- `llm`: free-text genre/mood input scored per song by OpenAI (`genre_fit_cache.json`).
+  Slower on first use for a new genre, but handles arbitrary descriptions like "rainy-day indie".
+
 ## How it works
 
 1. **Song library** — `MoodRec_Songs.csv` (367 songs with Spotify audio features)

@@ -20,6 +20,21 @@ from recommender import (
     score_all_genre_fits,
     build_playlist,
 )
+from supergenres import (
+    SUPERGENRE_CACHE,
+    SUPERGENRES,
+    SELECTABLE_SUPERGENRES,
+    song_supergenres,
+    apply_supergenre_preference,
+)
+
+# GENRE_MODE (from .env / st.secrets, loaded by recommender.py):
+#   "supergenre" (default) - pick super-genres from a dropdown; deterministic,
+#                            no live LLM calls, fast enough for a workshop.
+#   "llm"                  - free-text genres scored per song by OpenAI (cached).
+GENRE_MODE = os.environ.get("GENRE_MODE", "supergenre").strip().lower()
+if GENRE_MODE not in ("supergenre", "llm"):
+    GENRE_MODE = "supergenre"
 
 st.set_page_config(page_title="Melbourne Moods", page_icon="🎵", layout="wide")
 
@@ -28,10 +43,28 @@ st.set_page_config(page_title="Melbourne Moods", page_icon="🎵", layout="wide"
 # Cached startup — runs once per server session
 # ---------------------------------------------------------------------------
 
+class LazyLLM:
+    """Builds the OpenAI client only when something actually calls it, so
+    the default super-genre mode runs from the cache files with no key."""
+
+    def __init__(self):
+        self._llm = None
+
+    def invoke(self, *args, **kwargs):
+        if self._llm is None:
+            if not os.environ.get("OPENAI_API_KEY"):
+                raise RuntimeError(
+                    "This request needs OpenAI (a tag or genre is not in the cache) "
+                    "but OPENAI_API_KEY is not set."
+                )
+            self._llm = ChatOpenAI(model=OPENAI_MODEL, temperature=0)
+        return self._llm.invoke(*args, **kwargs)
+
+
 @st.cache_resource(show_spinner=False)
 def load_enriched_df():
     with st.spinner("Starting up — loading songs and enriching with tags (first run only)..."):
-        llm = ChatOpenAI(model=OPENAI_MODEL, temperature=0)
+        llm = LazyLLM()
         df  = load_dataframe()
         df  = enrich_dataframe(df, llm)
     return df, llm
@@ -150,9 +183,6 @@ def quadrant_label(v, e):
 # ---------------------------------------------------------------------------
 
 QUADRANTS = ["Stressed / Anxious", "Excited / Happy", "Sad / Depressed", "Calm / Relaxed"]
-SUPERGENRE_CACHE = "supergenre_cache.json"
-SUPERGENRES = ["Jazz", "Soul/R&B", "Hip Hop/Rap", "Rock", "Pop", "Folk/Country",
-               "Electronic/Dance", "Classical/Orchestral", "World Music", "Other"]
 MIN_TAG_FREQ = 4
 
 
@@ -212,6 +242,8 @@ def add_supergenre_column(df, _llm):
     df["supergenre"] = df["all_tags"].apply(
         lambda s: supergenre_map.get(s.split(",")[0], "Other") if s else "Other"
     )
+    # Every super-genre a song touches (any tag), used for preference filtering.
+    df["supergenres"] = df["all_tags"].apply(lambda s: song_supergenres(s, supergenre_map))
     return df
 
 
@@ -387,12 +419,19 @@ with st.sidebar:
     st.caption(f"**{quadrant_label(des_v, des_e)}**")
 
     st.divider()
-    st.subheader("Genre / mood preference")
-    genre_input = st.text_input(
-        "Enter genres separated by commas (optional)",
-        placeholder="e.g. indie folk, jazz",
-    )
-    genre_preferences = [g.strip() for g in genre_input.split(",") if g.strip()] if genre_input else []
+    st.subheader("Genre preference")
+    if GENRE_MODE == "llm":
+        genre_input = st.text_input(
+            "Enter genres separated by commas (optional)",
+            placeholder="e.g. indie folk, jazz",
+        )
+        genre_preferences = [g.strip() for g in genre_input.split(",") if g.strip()] if genre_input else []
+    else:
+        genre_preferences = st.multiselect(
+            "Pick one or more genres (optional)",
+            SELECTABLE_SUPERGENRES,
+            placeholder="Any genre",
+        )
 
     st.divider()
     st.subheader("Playlist length")
@@ -411,17 +450,29 @@ with tab_playlist:
     else:
         df = df_base.copy()
 
-        # Genre scoring (cached to file — fast on repeat runs)
-        if genre_preferences:
+        genre_label = " + ".join(genre_preferences) if genre_preferences else None
+        show_fit = False
+
+        if genre_preferences and GENRE_MODE == "llm":
+            # Per-song genre fit scored by OpenAI (cached to file after first run)
             genre_scores = []
-            with st.spinner(f"Scoring genre fit for: {', '.join(genre_preferences)}..."):
+            with st.spinner(f"Scoring genre fit for: {genre_label}..."):
                 for genre in genre_preferences:
                     df = score_all_genre_fits(df, genre, llm)
                     genre_scores.append(df["genre_fit"].values.copy())
             df["genre_fit"] = np.mean(genre_scores, axis=0)
-            genre_label = " + ".join(genre_preferences)
-        else:
-            genre_label = None
+            show_fit = True
+        elif genre_preferences:
+            # Deterministic: keep only songs in the chosen super-genres. If that
+            # leaves too few for a journey, prefer them instead of requiring them.
+            df, hard = apply_supergenre_preference(df, genre_preferences, min_songs=2 * n_steps)
+            if hard:
+                genre_label = None   # already filtered; no genre term in the distance
+            else:
+                st.info(
+                    f"Only {int(df['genre_fit'].sum())} songs match {genre_label}; "
+                    "the playlist will favour them but also draw on other genres."
+                )
 
         playlist = build_playlist(
             df, cur_v, cur_e, des_v, des_e,
@@ -437,7 +488,7 @@ with tab_playlist:
                 with st.container():
                     st.markdown(f"**{int(row['step'])}.  {row['title']}**  \n*{row['artist']}*")
                     meta = f"valence {row['valence']}  ·  energy {row['energy']}"
-                    if genre_label:
+                    if show_fit:
                         meta += f"  ·  genre fit {row['genre_fit']:.2f}"
                     st.caption(meta)
 
