@@ -74,6 +74,9 @@ def load_enriched_df():
 # Journey chart
 # ---------------------------------------------------------------------------
 
+MAX_TITLE_CHARS = 30
+
+
 def plot_journey(playlist, current_valence, current_energy, desired_valence, desired_energy):
     fig, ax = plt.subplots(figsize=(8, 6))
 
@@ -98,9 +101,19 @@ def plot_journey(playlist, current_valence, current_energy, desired_valence, des
     ax.scatter(playlist["valence"], playlist["energy"],
                s=100, color="royalblue", zorder=5, label="Songs")
     for _, row in playlist.iterrows():
-        ax.annotate(f"{int(row['step'])}. {row['title']}",
+        title = row["title"]
+        if len(title) > MAX_TITLE_CHARS:
+            title = title[:MAX_TITLE_CHARS - 1].rstrip() + "…"
+        # Point labels inward near the edges so they stay inside the axes.
+        right_side = row["valence"] > 0.7
+        top_side   = row["energy"]  > 0.9
+        ax.annotate(f"{int(row['step'])}. {title}",
                     (row["valence"], row["energy"]),
-                    textcoords="offset points", xytext=(6, 6), fontsize=8)
+                    textcoords="offset points",
+                    xytext=(-6 if right_side else 6, -10 if top_side else 6),
+                    ha="right" if right_side else "left",
+                    va="top" if top_side else "bottom",
+                    fontsize=8)
 
     ax.scatter([current_valence], [current_energy],
                s=200, color="red", marker="*", zorder=6, label="You are here")
