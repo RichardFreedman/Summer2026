@@ -1,15 +1,11 @@
 #!/usr/bin/env bash
-# Sync the shared Caddy config to the server and reload it.
-# Usage: deploy/caddy/deploy.sh [ssh-host]   (default: workshops)
+# Update the server checkout and reload the shared Caddy.
+# Usage: deploy/caddy/deploy.sh          (env: DEPLOY_HOST, DEPLOY_BRANCH)
 set -euo pipefail
+source "$(dirname "$0")/../lib.sh"
 
-HOST="${1:-workshops}"
-REMOTE_DIR="/volume/summer2026/deploy/caddy"
-HERE="$(cd "$(dirname "$0")" && pwd)"
-
-rsync -az --delete --exclude '.env' "$HERE/" "$HOST:$REMOTE_DIR/"
-
-ssh "$HOST" "cd $REMOTE_DIR && \
+remote_update_checkout
+ssh "$HOST" "cd $REMOTE_ROOT/deploy/caddy && \
   test -f .env || { echo 'Missing .env on server; copy .env.example and fill it in.'; exit 1; } && \
   docker network inspect web >/dev/null 2>&1 || docker network create web && \
   docker compose up -d && \

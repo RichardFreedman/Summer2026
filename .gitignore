@@ -223,3 +223,6 @@ __marimo__/
 
 # pyvis exports from the notebook (app builds these live)
 moodrec/*_network.html
+
+# Server-side plaintext of the shared login (deploy/caddy/)
+.shared-password

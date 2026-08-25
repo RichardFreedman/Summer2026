@@ -1,7 +1,7 @@
 # Deployment
 
-Everything runs on the `workshops` server (Ubuntu, Docker only) under
-`/volume/summer2026` (a mirror of this repo's `moodrec/` and `deploy/`), behind a single shared Caddy at
+Everything runs on the `workshops` server (Ubuntu, Docker only) from a git
+clone of this repo at `/volume/summer2026`, behind a single shared Caddy at
 <https://dhworkshops.researchsoftware.unimelb.edu.au/>. Each app gets a path
 prefix rather than a subdomain, so adding an app never touches DNS.
 
@@ -22,11 +22,20 @@ deploy/
 |---|---|---|---|
 | `/melbourne-moods/` | Melbourne Moods | `moodrec/` | shared user + password (`deploy/caddy/.env`) |
 
+## How deploys work
+
+Each `deploy/<x>/deploy.sh` runs `git pull` in the server clone and then
+`docker compose up` for that stack. Only committed, pushed code gets deployed.
+By default the server tracks `main`; set `DEPLOY_BRANCH=<branch>` to deploy
+something else (the script checks that branch out on the server). `.env` files
+are gitignored and untouched by pulls.
+
 ## First-time setup of the server
 
 ```
-deploy/caddy/deploy.sh              # stops: .env missing
 ssh workshops
+  sudo mkdir -p /volume/summer2026 && sudo chown $USER /volume/summer2026
+  git clone https://github.com/dan321/Summer2026.git /volume/summer2026
   cd /volume/summer2026/deploy/caddy && cp .env.example .env
   docker run --rm caddy:2 caddy hash-password --plaintext 'the-password'
   nano .env                         # paste the hash in single quotes
@@ -44,8 +53,9 @@ deploy/melbourne-moods/deploy.sh
 
 ## Updating
 
-- App code changed: `deploy/<app>/deploy.sh` (rsync + rebuild that app only).
-- Routing or passwords changed: `deploy/caddy/deploy.sh` (rsync + reload).
+- App code changed: commit, push, `deploy/<app>/deploy.sh` (pull + rebuild that app only).
+- Routing changed: commit, push, `deploy/caddy/deploy.sh` (pull + reload).
+- Passwords changed (`deploy/caddy/.env` on the server): `docker compose up -d --force-recreate caddy`.
 - `.env` changed on the server: `docker compose up -d --force-recreate <service>`
   in that directory. `docker compose restart` does not reload `.env`.
 
