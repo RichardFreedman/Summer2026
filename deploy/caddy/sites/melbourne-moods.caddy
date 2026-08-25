@@ -1,0 +1,11 @@
+# Melbourne Moods (moodrec Streamlit app), see deploy/melbourne-moods/.
+# Streamlit runs with --server.baseUrlPath=melbourne-moods, so the prefix is
+# passed through unchanged (handle, not handle_path).
+redir /melbourne-moods /melbourne-moods/ permanent
+
+handle /melbourne-moods/* {
+	basic_auth {
+		{$MELBOURNE_MOODS_USER} {$MELBOURNE_MOODS_PASSWORD_HASH}
+	}
+	reverse_proxy melbourne-moods:8501
+}

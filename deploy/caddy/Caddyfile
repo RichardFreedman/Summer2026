@@ -1,0 +1,15 @@
+# Shared front door for dhworkshops.researchsoftware.unimelb.edu.au.
+#
+# One Caddy owns ports 80/443 for the whole machine. Each app is served under
+# its own path prefix from a snippet in sites/, so adding an app never touches
+# DNS or this file. Apps are reached over the external Docker network "web".
+
+dhworkshops.researchsoftware.unimelb.edu.au {
+	encode gzip
+
+	import sites/*.caddy
+
+	handle {
+		respond "Nothing to see here." 404
+	}
+}

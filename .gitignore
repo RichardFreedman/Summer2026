@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local virtualenvs
+.summer/
+.venv/
+
+# pyvis exports from the notebook (app builds these live)
+moodrec/*_network.html
+
+# Server-side plaintext of the shared login (deploy/caddy/)
+.shared-password
