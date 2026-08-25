@@ -11,7 +11,15 @@ Both generate iso-principle playlists — sequences of songs that guide a listen
 
 Emotions are modelled as points in a 2D space: **valence** (unpleasant → pleasant) × **energy** (calm → energized).
 
-**Rule of thumb:** Algorithmic changes go in the notebook first, then are mirrored into `recommender.py`. Never edit `app.py` for logic changes.
+**Rule of thumb:** Algorithmic changes go in the notebook first, then are mirrored into `recommender.py`. Never edit `app.py` for logic changes. App-only logic that has no notebook equivalent (currently the deterministic super-genre filter) lives in its own module, `supergenres.py`, with tests in `tests/`.
+
+## Genre preference modes (`GENRE_MODE`)
+
+Read from `.env` / `st.secrets` by `app.py`:
+- `supergenre` (default): sidebar `st.multiselect` of the nine real super-genres ("Other" excluded). `supergenres.apply_supergenre_preference()` hard-filters the library to songs whose tags touch any selected super-genre (union), or, when fewer than 2× the playlist length match, keeps the full library and sets a 0/1 `genre_fit` preference instead. No LLM calls; `app.py`'s `LazyLLM` means no OpenAI key is needed unless a cache misses.
+- `llm`: the original free-text input scored per song by `score_all_genre_fits` (below).
+
+Deployment (Docker, Caddy, the shared password) is documented in `../deploy/README.md`.
 
 ## Song library
 
@@ -126,7 +134,8 @@ Delete a cache file and re-run to force a refresh. Empty Last.fm results are nev
 | File | Role | Touch? |
 |------|------|--------|
 | `recommender.py` | Core functions mirrored from notebook cells [09] (Last.fm tags), [11] (tag scoring), [12] (genre fit), [17]/[18] (extended `find_closest_song`/`build_playlist`), plus `load_dataframe()`/`enrich_dataframe()` pipeline helpers. **Does not mirror cell [15]'s super-genre mapping** — `enrich_dataframe()` produces `tag_valence_shift`, `tag_arousal_shift`, `top_emotions`, `dominant_emotion` but not `all_tags`/`supergenre` | Mirror notebook changes here |
-| `app.py` | Streamlit UI — sidebar inputs, `@st.cache_resource` startup, 5 tabs: **Playlist**, **Song library**, **Genre network**, **Emotion network**, **Genre × Emotion**. The three network tabs port the Part 1c `pyvis`/`plotly` visualisations, each with a Super-genre/Individual-tags toggle and a simple physics on/off toggle. Since `recommender.py` doesn't provide `all_tags`/`supergenre`, `app.py`'s `add_supergenre_column()` reconstructs both locally from `song_tags_cache.json` + `supergenre_cache.json` (falls back to a live GPT call only for genuinely new, uncached tags) | UI changes only |
+| `supergenres.py` | Deterministic super-genre helpers: `song_supergenres()` (every super-genre any of a song's tags maps to) and `apply_supergenre_preference()`. Tested in `tests/test_supergenre_filter.py` | OK |
+| `app.py` | Streamlit UI — sidebar inputs, `@st.cache_resource` startup, 6 tabs: **Playlist**, **Song library**, **Genre network**, **Emotion network**, **Genre × Emotion**, **Library counts** (bar charts of songs per super-genre / dominant emotion / emotional zone). The three network tabs port the Part 1c `pyvis`/`plotly` visualisations, each with a Super-genre/Individual-tags toggle and a simple physics on/off toggle. Since `recommender.py` doesn't provide `all_tags`/`supergenre`, `app.py`'s `add_supergenre_column()` reconstructs both locally from `song_tags_cache.json` + `supergenre_cache.json` (falls back to a live GPT call only for genuinely new, uncached tags), plus a `supergenres` set column (any-tag membership) used by the dropdown filter and the counts tab | UI changes only |
 
 Run with: `streamlit run app.py`
 
