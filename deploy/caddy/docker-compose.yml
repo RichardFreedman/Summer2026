@@ -10,8 +10,9 @@ services:
       - "443:443/udp"
     env_file: .env
     volumes:
-      - ./Caddyfile:/etc/caddy/Caddyfile:ro
-      - ./sites:/etc/caddy/sites:ro
+      # Mount the directory, not individual files: git replaces files on pull,
+      # and a single-file bind mount would keep pointing at the old inode.
+      - ./config:/etc/caddy:ro
       - caddy_data:/data
       - caddy_config:/config
     networks:
