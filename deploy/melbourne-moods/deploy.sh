@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Update the server checkout and rebuild the Melbourne Moods app.
-# Usage: deploy/melbourne-moods/deploy.sh   (env: DEPLOY_HOST, DEPLOY_BRANCH)
+# Usage: deploy/melbourne-moods/deploy.sh
 set -euo pipefail
 source "$(dirname "$0")/../lib.sh"
 

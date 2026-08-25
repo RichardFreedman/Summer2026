@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Update the server checkout and reload the shared Caddy.
-# Usage: deploy/caddy/deploy.sh          (env: DEPLOY_HOST, DEPLOY_BRANCH)
+# Usage: deploy/caddy/deploy.sh       
 set -euo pipefail
 source "$(dirname "$0")/../lib.sh"
 

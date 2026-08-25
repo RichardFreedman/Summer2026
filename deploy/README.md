@@ -24,11 +24,10 @@ deploy/
 
 ## How deploys work
 
-Each `deploy/<x>/deploy.sh` runs `git pull` in the server clone and then
-`docker compose up` for that stack. Only committed, pushed code gets deployed.
-By default the server tracks `main`; set `DEPLOY_BRANCH=<branch>` to deploy
-something else (the script checks that branch out on the server). `.env` files
-are gitignored and untouched by pulls.
+Each `deploy/<x>/deploy.sh` pulls `main` in the server clone and then runs
+`docker compose up` for that stack. Only code merged to `main` gets deployed;
+work on a branch, open a PR, merge, then deploy. `.env` files are gitignored
+and untouched by pulls.
 
 ## First-time setup of the server
 
