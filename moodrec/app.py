@@ -1,5 +1,6 @@
 import os
 import json
+from pathlib import Path
 from collections import Counter
 
 import streamlit as st
@@ -490,8 +491,8 @@ with st.sidebar:
     generate = st.button("Generate playlist", type="primary", use_container_width=True)
 
 # --- Main area ---
-tab_playlist, tab_scatter, tab_genre_network, tab_emotion_network, tab_heatmap, tab_counts = st.tabs([
-    "Playlist", "Song library", "Genre network", "Emotion network", "Genre × Emotion", "Library counts"
+tab_playlist, tab_scatter, tab_genre_network, tab_emotion_network, tab_heatmap, tab_counts, tab_resources = st.tabs([
+    "Playlist", "Song library", "Genre network", "Emotion network", "Genre × Emotion", "Library counts", "Resources"
 ])
 
 with tab_playlist:
@@ -844,3 +845,7 @@ with tab_counts:
     st.subheader("Songs per emotional zone")
     st.caption("Quadrant of the valence × energy space each song's Spotify features place it in.")
     st.plotly_chart(count_bar_chart(quadrant_counts, "Songs"), use_container_width=True)
+
+with tab_resources:
+    # Edit resources.md to change this list; no code changes needed.
+    st.markdown((Path(__file__).parent / "resources.md").read_text(encoding="utf-8"))
