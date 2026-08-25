@@ -8,8 +8,8 @@ prefix rather than a subdomain, so adding an app never touches DNS.
 ```
 deploy/
   caddy/                 shared reverse proxy: TLS, auth, path routing
-    Caddyfile            domain block; imports sites/*.caddy
-    sites/<app>.caddy    one routing snippet per app
+    config/Caddyfile     domain block; imports sites/*.caddy
+    config/sites/<app>.caddy   one routing snippet per app
     .env.example         one USER / PASSWORD_HASH pair per protected app
   melbourne-moods/       the moodrec Streamlit app
     docker-compose.yml   app container only, joins the "web" network
@@ -64,7 +64,7 @@ deploy/melbourne-moods/deploy.sh
    otherwise use `handle_path` in the snippet to strip it).
 2. Add `deploy/<app>/docker-compose.yml` with no published ports and
    `networks: [web]` (copy `deploy/melbourne-moods/`).
-3. Add `deploy/caddy/sites/<app>.caddy` (copy `melbourne-moods.caddy`). For a
+3. Add `deploy/caddy/config/sites/<app>.caddy` (copy `melbourne-moods.caddy`). For a
    password, add a `<APP>_USER` / `<APP>_PASSWORD_HASH` pair to `deploy/caddy/.env`.
 4. `deploy/caddy/deploy.sh`, then `deploy/<app>/deploy.sh`.
 
