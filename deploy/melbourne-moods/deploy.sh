@@ -15,4 +15,5 @@ rsync -az --delete \
 
 ssh "$HOST" "cd $REMOTE_DIR/deploy/melbourne-moods && \
   test -f .env || { echo 'Missing .env on server; copy .env.example and fill it in.'; exit 1; } && \
-  docker compose up -d --build && docker compose ps"
+  docker compose up -d --build && \
+  docker compose exec caddy caddy reload --config /etc/caddy/Caddyfile && docker compose ps"
