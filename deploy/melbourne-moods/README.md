@@ -17,7 +17,7 @@ the host.
    The first run stops because `.env` is missing. On the server:
    ```
    ssh workshops
-   cd ~/melbourne-moods/deploy/melbourne-moods
+   cd /volume/melbourne-moods/deploy/melbourne-moods
    cp .env.example .env
    docker run --rm caddy:2 caddy hash-password --plaintext 'the-shared-password'
    nano .env   # paste API keys, user, and the hash (keep the hash in single quotes)

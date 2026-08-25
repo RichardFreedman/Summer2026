@@ -4,7 +4,7 @@
 set -euo pipefail
 
 HOST="${1:-workshops}"
-REMOTE_DIR="~/melbourne-moods"
+REMOTE_DIR="/volume/melbourne-moods"
 REPO_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 
 rsync -az --delete \
