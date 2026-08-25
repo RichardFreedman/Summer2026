@@ -1,7 +1,7 @@
 # Deploying Melbourne Moods
 
 Serves the `moodrec` Streamlit app at
-<https://seris.researchsoftware.unimelb.edu.au/melbourne-moods/> behind a
+<https://dhworkshops.researchsoftware.unimelb.edu.au/melbourne-moods/> behind a
 single shared username/password, on the `workshops` server.
 
 Stack: Docker Compose running Caddy (automatic HTTPS, basic auth, path

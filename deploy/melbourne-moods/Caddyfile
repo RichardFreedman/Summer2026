@@ -1,10 +1,10 @@
-# Caddy front door for seris.researchsoftware.unimelb.edu.au.
+# Caddy front door for dhworkshops.researchsoftware.unimelb.edu.au.
 #
 # Each app lives under its own path prefix so new apps can be added without
 # touching DNS. To add another app: add a service to docker-compose.yml and
 # copy the handle block below with a new prefix and upstream.
 
-seris.researchsoftware.unimelb.edu.au {
+dhworkshops.researchsoftware.unimelb.edu.au {
 	encode gzip
 
 	# --- Melbourne Moods (moodrec Streamlit app) -------------------------
