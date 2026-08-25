@@ -1,0 +1,186 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://grainger.example/emu/catalogue-record.schema.json",
+  "title": "Grainger EMu catalogue record (intermediate)",
+  "description": "Clean intermediate record the LLM emits per catalogue entry. A deterministic downstream script maps this to EMu import columns (see field_mapping.json). Repeating EMu tables are arrays here; grouped EMu tables (kind/number, category/value/unit, type/text) are arrays of aligned objects so pairs never drift. Party-linked fields carry a match key (name) rather than an IRN; resolve/attach in the loader. Every field the model could not determine confidently should also be listed in review_flags. Output MUST be a JSON array of these objects and nothing else.",
+  "type": "array",
+  "items": { "$ref": "#/$defs/record" },
+  "$defs": {
+    "record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["object_number", "record_role", "object_type", "title_proper", "creators", "source_text"],
+      "properties": {
+        "object_number": {
+          "type": "string",
+          "description": "Grainger classification, verbatim. e.g. 'MG C1/BAC-65-2'. Maps to the primary object number + Other Number kind 'Grainger classification'.",
+          "examples": ["MG C1/BAC-65-2", "MG C1/BAC-61-3:1"]
+        },
+        "record_role": {
+          "type": "string",
+          "enum": ["standalone", "parent", "child", "sibling"],
+          "description": "standalone = ordinary single record; parent = has '+' child parts; child = a '+' part (number ends with ':n'); sibling = an edition variant ('-n') of a work that has others."
+        },
+        "parent_object_number": {
+          "type": ["string", "null"],
+          "description": "For record_role='child': the parent's object_number (the number without the ':n' part). Null otherwise."
+        },
+        "related": {
+          "type": "array",
+          "description": "Relationship links to other records (siblings / cross-references). Field 26.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["relation", "object_number"],
+            "properties": {
+              "relation": { "type": "string", "enum": ["Another edition of", "Part of", "See also", "Substitute for"] },
+              "object_number": { "type": "string" }
+            }
+          }
+        },
+        "object_type": {
+          "type": "string",
+          "enum": ["Printed music", "Manuscript", "Set of parts", "Photoprint", "Unknown"],
+          "description": "Field 20. 'Ms.'/'autograph'/'holograph' -> Manuscript; printed edition -> Printed music."
+        },
+        "uniform_title": {
+          "type": ["object", "null"],
+          "description": "Field 3. The square-bracketed standardized title, parsed.",
+          "additionalProperties": false,
+          "properties": {
+            "text": { "type": "string", "description": "Full uniform title verbatim, e.g. 'Toccatas, organ, S.565, D minor; arr.'" },
+            "key": { "type": ["string", "null"], "description": "e.g. 'D minor'" },
+            "is_arrangement": { "type": "boolean", "description": "true if 'arr.' present" }
+          }
+        },
+        "title_proper": {
+          "type": "string",
+          "description": "Field 5 -> TitMainTitle. Text before the first ' / '."
+        },
+        "creators": {
+          "type": "array",
+          "description": "Fields 2, 6, 9, 18, 19. One entry per agent+role. Party links resolved by name downstream.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["name", "party_type", "role"],
+            "properties": {
+              "name": { "type": "string", "description": "Authority form, inverted for persons: 'Backer-Lunde, Johan'. Org name as-is: 'Breitkopf & Hartel'." },
+              "party_type": { "type": "string", "enum": ["Person", "Organisation"] },
+              "role": {
+                "type": "string",
+                "enum": ["Composer", "Arranger", "Editor", "Fingering", "Lyricist", "Annotator", "Inscriber", "Publisher", "Former owner", "Other"],
+                "description": "Controlled role vocab. 'edited and fingered by' -> two creator entries (Editor + Fingering). 'words by' -> Lyricist."
+              },
+              "birth": { "type": ["string", "null"], "description": "Year or date if given, e.g. '1874'." },
+              "death": { "type": ["string", "null"], "description": "Year or date if given, e.g. '1922'." }
+            }
+          }
+        },
+        "publication": {
+          "type": ["object", "null"],
+          "description": "Fields 8-10 (imprint). Publisher also appears as a creators[] entry with role='Publisher'.",
+          "additionalProperties": false,
+          "properties": {
+            "place": { "type": ["string", "null"] },
+            "publisher": { "type": ["string", "null"] },
+            "date_text": { "type": ["string", "null"], "description": "Verbatim, e.g. 'c1939', '[18--]', '[s.a.]'." },
+            "date_from": { "type": ["integer", "null"], "description": "Normalized earliest year, or null." },
+            "date_to": { "type": ["integer", "null"], "description": "Normalized latest year, or null." },
+            "date_qualifier": { "type": ["string", "null"], "enum": ["circa", "exact", "range", "unknown", null] }
+          }
+        },
+        "edition": { "type": ["string", "null"], "description": "Field 7." },
+        "physical": {
+          "type": ["object", "null"],
+          "description": "Fields 11-12.",
+          "additionalProperties": false,
+          "properties": {
+            "extent": { "type": ["string", "null"], "description": "Pagination / number & type of units, e.g. '11 p.' or '1 conductor score (8 p.)'." },
+            "dimensions": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["DimCategory", "DimValue", "DimUnit"],
+                "properties": {
+                  "DimCategory": { "type": "string", "examples": ["Height"] },
+                  "DimValue": { "type": "number" },
+                  "DimUnit": { "type": "string", "examples": ["cm"] }
+                }
+              }
+            }
+          }
+        },
+        "series": {
+          "type": "array",
+          "description": "Field 13.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["title"],
+            "properties": {
+              "title": { "type": "string" },
+              "number": { "type": ["string", "null"], "description": "e.g. 'vol. 1538', 'no. 210'." }
+            }
+          }
+        },
+        "other_numbers": {
+          "type": "array",
+          "description": "Fields 4, 14, 15 (+ classification from field 1). Grouped EMu table: keep kind/number aligned.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["NumOtherKind_tab", "NumOtherNumber_tab"],
+            "properties": {
+              "NumOtherKind_tab": {
+                "type": "string",
+                "enum": ["Grainger classification", "Plate number", "Publisher number", "Thematic catalogue (BWV)", "Other"]
+              },
+              "NumOtherNumber_tab": { "type": "string" }
+            }
+          }
+        },
+        "notes": {
+          "type": "array",
+          "description": "Fields 16, 17, 19, 21, 22, 23, 24. Grouped EMu Notes table: one row per note, typed.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["NteType_tab", "NotNotes"],
+            "properties": {
+              "NteType_tab": {
+                "type": "string",
+                "enum": ["Contents", "Duration", "Annotation", "Inscription", "Enclosure", "Condition", "Copies", "Provenance", "General"]
+              },
+              "NotNotes": { "type": "string", "description": "Verbatim note text." }
+            }
+          }
+        },
+        "languages": {
+          "type": "array",
+          "description": "Field 25 (LanLanguage_tab). Inferred -> flag in review_flags.",
+          "items": { "type": "string" }
+        },
+        "review_flags": {
+          "type": "array",
+          "description": "Anything uncertain, inferred, OCR-garbled, or mapped to a 'Verify'-confidence field. Drives human QA.",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["field", "reason"],
+            "properties": {
+              "field": { "type": "string", "description": "Which output field/path is uncertain." },
+              "reason": { "type": "string", "enum": ["low_confidence_inference", "ambiguous_source", "ocr_suspect", "config_dependent_field", "unmapped_text"] },
+              "detail": { "type": ["string", "null"] }
+            }
+          }
+        },
+        "source_text": {
+          "type": "string",
+          "description": "The verbatim catalogue entry this record was parsed from. Always retained for audit/QA."
+        }
+      }
+    }
+  }
+}

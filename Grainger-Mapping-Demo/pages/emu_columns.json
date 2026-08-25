@@ -1,0 +1,137 @@
+{
+  "_comment": "Confirm every column with confirmed=false against the museum's EMu data dictionary (client '?' field-help -> Field Information -> Column), then set confirmed=true. Import files won't generate while any USED field is unconfirmed (see field_mapping.json).",
+  "modules": {
+    "ecatalogue": {
+      "object_number": {
+        "column": "<primary object/registration number field>",
+        "confirmed": false
+      },
+      "title_proper": {
+        "column": "TitMainTitle",
+        "confirmed": true
+      },
+      "uniform_title": {
+        "column": "TitObjectTitle",
+        "confirmed": false
+      },
+      "object_type": {
+        "column": "<object name/category field>",
+        "confirmed": false
+      },
+      "edition": {
+        "column": "<edition field>",
+        "confirmed": false
+      },
+      "place": {
+        "column": "<publication place field>",
+        "confirmed": false
+      },
+      "publisher_text": {
+        "column": "<publisher field>",
+        "confirmed": false
+      },
+      "date_text": {
+        "column": "ProDateProduced",
+        "confirmed": false
+      },
+      "date_from": {
+        "column": "ProDateProducedFrom",
+        "confirmed": false
+      },
+      "date_to": {
+        "column": "ProDateProducedTo",
+        "confirmed": false
+      },
+      "extent": {
+        "column": "PhyDescription",
+        "confirmed": false
+      },
+      "dim_category": {
+        "column": "DimCategory_tab",
+        "confirmed": false
+      },
+      "dim_value": {
+        "column": "DimValue_tab",
+        "confirmed": false
+      },
+      "dim_unit": {
+        "column": "DimUnit_tab",
+        "confirmed": false
+      },
+      "series_title": {
+        "column": "<series title field>",
+        "confirmed": false
+      },
+      "series_number": {
+        "column": "<series number field>",
+        "confirmed": false
+      },
+      "num_kind": {
+        "column": "NumOtherKind_tab",
+        "confirmed": true
+      },
+      "num_number": {
+        "column": "NumOtherNumber_tab",
+        "confirmed": true
+      },
+      "note_type": {
+        "column": "NteType_tab",
+        "confirmed": true
+      },
+      "note_text": {
+        "column": "NotNotes",
+        "confirmed": true
+      },
+      "language": {
+        "column": "LanLanguage_tab",
+        "confirmed": false
+      },
+      "creator_ref": {
+        "column": "<creator party link column>",
+        "confirmed": false
+      },
+      "creator_role": {
+        "column": "<creator role column>",
+        "confirmed": false
+      },
+      "parent_ref": {
+        "column": "<parent record link column>",
+        "confirmed": false
+      },
+      "related_ref": {
+        "column": "<related records link column>",
+        "confirmed": false
+      },
+      "related_kind": {
+        "column": "<related relation kind column>",
+        "confirmed": false
+      }
+    },
+    "eparties": {
+      "party_type": {
+        "column": "NamPartyType",
+        "confirmed": true
+      },
+      "last_name": {
+        "column": "NamLast",
+        "confirmed": false
+      },
+      "first_name": {
+        "column": "NamFirst",
+        "confirmed": false
+      },
+      "organisation": {
+        "column": "NamOrganisation",
+        "confirmed": false
+      },
+      "birth": {
+        "column": "BioBirthDate",
+        "confirmed": false
+      },
+      "death": {
+        "column": "BioDeathDate",
+        "confirmed": false
+      }
+    }
+  }
+}

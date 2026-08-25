@@ -1,0 +1,202 @@
+{
+  "$comment": "Few-shot examples for the parser. Each item pairs a verbatim catalogue chunk (input) with the expected output array (per output_schema.json). Use these in the prompt. Example 2 demonstrates the parent + '+'-child modelling; Example 3 shows birth-date capture, two imprints, provenance and language inference.",
+  "examples": [
+    {
+      "name": "Standalone manifestation (one of a -n edition group)",
+      "input": "MG C1/BAC-65-2\n[Toccatas, organ, S.565, D minor; arr.]\nToccata and fugue in D minor for organ (pedal and manual) / Johann Sebastian Bach ; free piano-arrangement for concert use by Carl Tausig ; edited and fingered by Paolo Gallico. - New York : Schirmer, c1939. - 11p. ; 30cm. - Pl.no.: 19107.",
+      "output": [
+        {
+          "object_number": "MG C1/BAC-65-2",
+          "record_role": "standalone",
+          "parent_object_number": null,
+          "related": [],
+          "object_type": "Printed music",
+          "uniform_title": { "text": "Toccatas, organ, S.565, D minor; arr.", "key": "D minor", "is_arrangement": true },
+          "title_proper": "Toccata and fugue in D minor for organ (pedal and manual)",
+          "creators": [
+            { "name": "Bach, Johann Sebastian", "party_type": "Person", "role": "Composer", "birth": null, "death": null },
+            { "name": "Tausig, Carl", "party_type": "Person", "role": "Arranger", "birth": null, "death": null },
+            { "name": "Gallico, Paolo", "party_type": "Person", "role": "Editor", "birth": null, "death": null },
+            { "name": "Gallico, Paolo", "party_type": "Person", "role": "Fingering", "birth": null, "death": null },
+            { "name": "G. Schirmer", "party_type": "Organisation", "role": "Publisher", "birth": null, "death": null }
+          ],
+          "publication": { "place": "New York", "publisher": "G. Schirmer", "date_text": "c1939", "date_from": 1939, "date_to": 1939, "date_qualifier": "circa" },
+          "edition": null,
+          "physical": { "extent": "11 p.", "dimensions": [ { "DimCategory": "Height", "DimValue": 30, "DimUnit": "cm" } ] },
+          "series": [],
+          "other_numbers": [
+            { "NumOtherKind_tab": "Grainger classification", "NumOtherNumber_tab": "MG C1/BAC-65-2" },
+            { "NumOtherKind_tab": "Thematic catalogue (BWV)", "NumOtherNumber_tab": "S.565" },
+            { "NumOtherKind_tab": "Plate number", "NumOtherNumber_tab": "19107" }
+          ],
+          "notes": [],
+          "languages": [],
+          "review_flags": [
+            { "field": "related", "reason": "ambiguous_source", "detail": "Object number ends in '-2', implying it is one of a numbered edition group (BAC-65-n). Sibling 'Another edition of' links should be created in the cross-record post-processing pass, not from this entry alone." },
+            { "field": "creators", "reason": "low_confidence_inference", "detail": "Forenames normalized to authority form; verify against name authority." },
+            { "field": "publication.publisher", "reason": "config_dependent_field", "detail": "'Schirmer' expanded to 'G. Schirmer'; publisher field/link is config-dependent." }
+          ],
+          "source_text": "MG C1/BAC-65-2 [Toccatas, organ, S.565, D minor; arr.] Toccata and fugue in D minor for organ (pedal and manual) / Johann Sebastian Bach ; free piano-arrangement for concert use by Carl Tausig ; edited and fingered by Paolo Gallico. - New York : Schirmer, c1939. - 11p. ; 30cm. - Pl.no.: 19107."
+        }
+      ]
+    },
+    {
+      "name": "Parent with '+' children (each '+' becomes its own child record)",
+      "input": "MG C1/BAC-61-3\n[Suites, orchestra, S.1068, D major. Air; arr.]\nAir : the celebrated movement from the 3rd suite / Johann Sebastian Bach ; arranged for military band by Frank Winterbottom ; Bach's Fugue a la gigue / arranged for military band by Gustav Holst. - London : Hawkes, c1929. - 1 conductor score (8p.) ; 36cm. - Duration: \"2.15 without repeats\" pencilled in by Grainger. - Sewn into cardboard cover labelled by Grainger.\n+ 1 set of band parts (comprising 1 part each for concert flute & piccolo, Db flute & piccolo, oboes ... + 1 timpani part) (Hawkes & Sons M.B. journal ; no. 497). - Pl.no.: H.& S. 6728. - All parts annotated and inscribed: Play only sections marked \"Bach\". MG C1/BAC-61-3:1\n+ 4 ms. harp or piano parts for the \"Air\" (1 leaf 12 stave Natco ms. paper) dated Int., Ju. 29, '37. - Ms. in Grainger's autograph (photoprints). - Elizabeth Wright's article in The Grainger Journal Vol. 3, no. 1 (August 1980) asserts that this is not an original Grainger arrangement but simply a transcription of the published Breitkopf & Hartel cembalo part into Eb major, the key of Winterbottom's arrangement of the \"Air\" for military band. MG C1/BAC-61-3:2\n+ 1 ms. organ part for the \"Air\" (8 staves ms. paper) dated Int., June 26, '37 & pasted into a brown paper cover labelled by Grainger. - Ms. in Grainger's holograph (black ink). - Annotated in red pencil. - Inscribed: AIR from Overture No. 3. arr. for wind band and organ. MG C1/BAC-61-3:3",
+      "output": [
+        {
+          "object_number": "MG C1/BAC-61-3",
+          "record_role": "parent",
+          "parent_object_number": null,
+          "related": [],
+          "object_type": "Printed music",
+          "uniform_title": { "text": "Suites, orchestra, S.1068, D major. Air; arr.", "key": "D major", "is_arrangement": true },
+          "title_proper": "Air : the celebrated movement from the 3rd suite",
+          "creators": [
+            { "name": "Bach, Johann Sebastian", "party_type": "Person", "role": "Composer", "birth": null, "death": null },
+            { "name": "Winterbottom, Frank", "party_type": "Person", "role": "Arranger", "birth": null, "death": null },
+            { "name": "Holst, Gustav", "party_type": "Person", "role": "Arranger", "birth": null, "death": null },
+            { "name": "Hawkes", "party_type": "Organisation", "role": "Publisher", "birth": null, "death": null }
+          ],
+          "publication": { "place": "London", "publisher": "Hawkes", "date_text": "c1929", "date_from": 1929, "date_to": 1929, "date_qualifier": "circa" },
+          "edition": null,
+          "physical": { "extent": "1 conductor score (8 p.)", "dimensions": [ { "DimCategory": "Height", "DimValue": 36, "DimUnit": "cm" } ] },
+          "series": [],
+          "other_numbers": [
+            { "NumOtherKind_tab": "Grainger classification", "NumOtherNumber_tab": "MG C1/BAC-61-3" },
+            { "NumOtherKind_tab": "Thematic catalogue (BWV)", "NumOtherNumber_tab": "S.1068" }
+          ],
+          "notes": [
+            { "NteType_tab": "Duration", "NotNotes": "\"2.15 without repeats\" pencilled in by Grainger." },
+            { "NteType_tab": "General", "NotNotes": "Sewn into cardboard cover labelled by Grainger." }
+          ],
+          "languages": [],
+          "review_flags": [
+            { "field": "creators", "reason": "ambiguous_source", "detail": "Two works in one entry: Winterbottom arranged the 'Air'; Holst arranged the 'Fugue a la gigue'. Roles flattened to 'Arranger'." }
+          ],
+          "source_text": "MG C1/BAC-61-3 [Suites, orchestra, S.1068, D major. Air; arr.] Air : the celebrated movement from the 3rd suite / Johann Sebastian Bach ; arranged for military band by Frank Winterbottom ; Bach's Fugue a la gigue / arranged for military band by Gustav Holst. - London : Hawkes, c1929. - 1 conductor score (8p.) ; 36cm. - Duration: \"2.15 without repeats\" pencilled in by Grainger. - Sewn into cardboard cover labelled by Grainger."
+        },
+        {
+          "object_number": "MG C1/BAC-61-3:1",
+          "record_role": "child",
+          "parent_object_number": "MG C1/BAC-61-3",
+          "related": [],
+          "object_type": "Set of parts",
+          "uniform_title": null,
+          "title_proper": "Band parts for the \"Air\"",
+          "creators": [],
+          "publication": { "place": null, "publisher": "Hawkes", "date_text": null, "date_from": null, "date_to": null, "date_qualifier": "unknown" },
+          "edition": null,
+          "physical": { "extent": "1 set of band parts (1 part each for concert flute & piccolo, Db flute & piccolo, oboes ... + 1 timpani part)", "dimensions": [] },
+          "series": [ { "title": "Hawkes & Sons M.B. journal", "number": "no. 497" } ],
+          "other_numbers": [
+            { "NumOtherKind_tab": "Grainger classification", "NumOtherNumber_tab": "MG C1/BAC-61-3:1" },
+            { "NumOtherKind_tab": "Plate number", "NumOtherNumber_tab": "H. & S. 6728" }
+          ],
+          "notes": [
+            { "NteType_tab": "Inscription", "NotNotes": "All parts annotated and inscribed: Play only sections marked \"Bach\"." }
+          ],
+          "languages": [],
+          "review_flags": [
+            { "field": "creators", "reason": "ambiguous_source", "detail": "Creators inherited from parent (Bach/Winterbottom/Holst); left empty here pending decision on whether children duplicate parent creators." }
+          ],
+          "source_text": "+ 1 set of band parts (comprising 1 part each for concert flute & piccolo, Db flute & piccolo, oboes ... + 1 timpani part) (Hawkes & Sons M.B. journal ; no. 497). - Pl.no.: H.& S. 6728. - All parts annotated and inscribed: Play only sections marked \"Bach\". MG C1/BAC-61-3:1"
+        },
+        {
+          "object_number": "MG C1/BAC-61-3:2",
+          "record_role": "child",
+          "parent_object_number": "MG C1/BAC-61-3",
+          "related": [],
+          "object_type": "Manuscript",
+          "uniform_title": null,
+          "title_proper": "Harp or piano parts for the \"Air\"",
+          "creators": [],
+          "publication": null,
+          "edition": null,
+          "physical": { "extent": "4 ms. parts, 1 leaf, 12-stave Natco ms. paper", "dimensions": [] },
+          "series": [],
+          "other_numbers": [
+            { "NumOtherKind_tab": "Grainger classification", "NumOtherNumber_tab": "MG C1/BAC-61-3:2" }
+          ],
+          "notes": [
+            { "NteType_tab": "General", "NotNotes": "Dated Int., Ju. 29, '37." },
+            { "NteType_tab": "Annotation", "NotNotes": "Ms. in Grainger's autograph (photoprints)." },
+            { "NteType_tab": "General", "NotNotes": "Elizabeth Wright's article in The Grainger Journal Vol. 3, no. 1 (August 1980) asserts that this is not an original Grainger arrangement but simply a transcription of the published Breitkopf & Hartel cembalo part into Eb major, the key of Winterbottom's arrangement of the \"Air\" for military band." }
+          ],
+          "languages": [],
+          "review_flags": [
+            { "field": "object_type", "reason": "ambiguous_source", "detail": "'Ms. in Grainger's autograph (photoprints)' — manuscript original vs photoprint reproduction; confirm." },
+            { "field": "creators", "reason": "ambiguous_source", "detail": "Grainger named as scribe but the Grainger Journal disputes his authorship of the arrangement; left unlinked pending curator decision." }
+          ],
+          "source_text": "+ 4 ms. harp or piano parts for the \"Air\" (1 leaf 12 stave Natco ms. paper) dated Int., Ju. 29, '37. - Ms. in Grainger's autograph (photoprints). - Elizabeth Wright's article ... MG C1/BAC-61-3:2"
+        },
+        {
+          "object_number": "MG C1/BAC-61-3:3",
+          "record_role": "child",
+          "parent_object_number": "MG C1/BAC-61-3",
+          "related": [],
+          "object_type": "Manuscript",
+          "uniform_title": null,
+          "title_proper": "Organ part for the \"Air\"",
+          "creators": [
+            { "name": "Grainger, Percy", "party_type": "Person", "role": "Annotator", "birth": null, "death": null }
+          ],
+          "publication": null,
+          "edition": null,
+          "physical": { "extent": "1 ms. part, 8-stave ms. paper", "dimensions": [] },
+          "series": [],
+          "other_numbers": [
+            { "NumOtherKind_tab": "Grainger classification", "NumOtherNumber_tab": "MG C1/BAC-61-3:3" }
+          ],
+          "notes": [
+            { "NteType_tab": "General", "NotNotes": "Dated Int., June 26, '37 & pasted into a brown paper cover labelled by Grainger." },
+            { "NteType_tab": "Annotation", "NotNotes": "Ms. in Grainger's holograph (black ink). Annotated in red pencil." },
+            { "NteType_tab": "Inscription", "NotNotes": "Inscribed in red pencil: AIR from Overture No. 3. arr. for wind band and organ." }
+          ],
+          "languages": [],
+          "review_flags": [],
+          "source_text": "+ 1 ms. organ part for the \"Air\" (8 staves ms. paper) dated Int., June 26, '37 & pasted into a brown paper cover labelled by Grainger. - Ms. in Grainger's holograph (black ink). - Annotated in red pencil. - Inscribed: AIR from Overture No. 3. arr. for wind band and organ. MG C1/BAC-61-3:3"
+        }
+      ]
+    },
+    {
+      "name": "Song entry (birth date from heading, two imprints, provenance, language)",
+      "input": "BACKER-LUNDE, Johan 1874-\n\nMG C1/BACK-2\nLady Moon : op. 40, no. 1 / words by Lord Houghton ; music by Johan Backer-Lunde. - Kristiania : Oluf By's Musikforlag ; London : Hodder & Stoughton, [191-?]. - 5p. ; 35cm. - For voice and piano. - (A new series of English songs ; no. 7). - Transferred from White Plains, 1977.",
+      "output": [
+        {
+          "object_number": "MG C1/BACK-2",
+          "record_role": "standalone",
+          "parent_object_number": null,
+          "related": [],
+          "object_type": "Printed music",
+          "uniform_title": null,
+          "title_proper": "Lady Moon : op. 40, no. 1",
+          "creators": [
+            { "name": "Houghton, Lord", "party_type": "Person", "role": "Lyricist", "birth": null, "death": null },
+            { "name": "Backer-Lunde, Johan", "party_type": "Person", "role": "Composer", "birth": "1874", "death": null },
+            { "name": "Oluf By's Musikforlag", "party_type": "Organisation", "role": "Publisher", "birth": null, "death": null },
+            { "name": "Hodder & Stoughton", "party_type": "Organisation", "role": "Publisher", "birth": null, "death": null }
+          ],
+          "publication": { "place": "Kristiania", "publisher": "Oluf By's Musikforlag", "date_text": "[191-?]", "date_from": 1910, "date_to": 1919, "date_qualifier": "range" },
+          "edition": null,
+          "physical": { "extent": "5 p.", "dimensions": [ { "DimCategory": "Height", "DimValue": 35, "DimUnit": "cm" } ] },
+          "series": [ { "title": "A new series of English songs", "number": "no. 7" } ],
+          "other_numbers": [
+            { "NumOtherKind_tab": "Grainger classification", "NumOtherNumber_tab": "MG C1/BACK-2" }
+          ],
+          "notes": [
+            { "NteType_tab": "General", "NotNotes": "For voice and piano." },
+            { "NteType_tab": "Provenance", "NotNotes": "Transferred from White Plains, 1977." }
+          ],
+          "languages": ["English"],
+          "review_flags": [
+            { "field": "creators[1].birth", "reason": "config_dependent_field", "detail": "Birth year 1874 taken from the composer authority heading 'BACKER-LUNDE, Johan 1874-' above the entry, not from the entry itself." },
+            { "field": "publication", "reason": "ambiguous_source", "detail": "Two co-imprints: Kristiania (Oluf By's Musikforlag) and London (Hodder & Stoughton). Primary place/publisher set to the first; both publishers retained in creators[]." },
+            { "field": "languages", "reason": "low_confidence_inference", "detail": "English inferred from series title 'A new series of English songs'." }
+          ],
+          "source_text": "MG C1/BACK-2 Lady Moon : op. 40, no. 1 / words by Lord Houghton ; music by Johan Backer-Lunde. - Kristiania : Oluf By's Musikforlag ; London : Hodder & Stoughton, [191-?]. - 5p. ; 35cm. - For voice and piano. - (A new series of English songs ; no. 7). - Transferred from White Plains, 1977."
+        }
+      ]
+    }
+  ]
+}
