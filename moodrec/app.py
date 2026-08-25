@@ -847,6 +847,5 @@ with tab_counts:
     st.plotly_chart(count_bar_chart(quadrant_counts, "Songs"), use_container_width=True)
 
 with tab_resources:
-    st.caption("Reading, tools, and playlists from the Mood Machines workshop.")
     # Edit resources.md to change this list; no code changes needed.
     st.markdown((Path(__file__).parent / "resources.md").read_text(encoding="utf-8"))
