@@ -395,6 +395,43 @@ def render_pyvis_html(net, physics_enabled=True):
 
 
 # ---------------------------------------------------------------------------
+# Library count bar charts
+# ---------------------------------------------------------------------------
+
+BAR_COLOUR = "#4a6fa5"
+
+
+def count_bar_chart(counts, x_label):
+    """Horizontal single-series bar chart, largest at the top, values labelled."""
+    counts = counts.sort_values(ascending=True)
+    fig = px.bar(
+        x=counts.values, y=counts.index, orientation="h", text=counts.values,
+        labels={"x": x_label, "y": ""},
+    )
+    fig.update_traces(
+        marker_color=BAR_COLOUR, marker_line_width=0, textposition="outside",
+        hovertemplate="%{y}: %{x} songs<extra></extra>",
+    )
+    fig.update_layout(
+        height=max(260, 32 * len(counts) + 80), margin=dict(l=10, r=40, t=10, b=40),
+        bargap=0.35, showlegend=False, plot_bgcolor="rgba(0,0,0,0)",
+        xaxis=dict(showgrid=True, gridcolor="rgba(128,128,128,0.2)", zeroline=False),
+        yaxis=dict(showgrid=False),
+    )
+    return fig
+
+
+@st.cache_data(show_spinner=False)
+def library_counts(df):
+    supergenre_counts = pd.Series(
+        Counter(sg for sgs in df["supergenres"] for sg in sgs)
+    ).drop("Other", errors="ignore")
+    emotion_counts  = df["dominant_emotion"].value_counts()
+    quadrant_counts = df.apply(lambda r: quadrant_label(r["valence"], r["energy"]), axis=1).value_counts()
+    return supergenre_counts, emotion_counts, quadrant_counts
+
+
+# ---------------------------------------------------------------------------
 # Main UI
 # ---------------------------------------------------------------------------
 
@@ -440,8 +477,8 @@ with st.sidebar:
     generate = st.button("Generate playlist", type="primary", use_container_width=True)
 
 # --- Main area ---
-tab_playlist, tab_scatter, tab_genre_network, tab_emotion_network, tab_heatmap = st.tabs([
-    "Playlist", "Song library", "Genre network", "Emotion network", "Genre × Emotion"
+tab_playlist, tab_scatter, tab_genre_network, tab_emotion_network, tab_heatmap, tab_counts = st.tabs([
+    "Playlist", "Song library", "Genre network", "Emotion network", "Genre × Emotion", "Library counts"
 ])
 
 with tab_playlist:
@@ -774,3 +811,23 @@ with tab_heatmap:
         "lower-volume super-genres like Jazz and Folk/Country comparable to Rock despite "
         "having far fewer songs in the library."
     )
+
+with tab_counts:
+    supergenre_counts, emotion_counts, quadrant_counts = library_counts(df_base)
+    n_songs = len(df_base)
+
+    st.subheader("Songs per super-genre")
+    st.caption(
+        f"A song counts towards every super-genre any of its tags maps to, so the bars "
+        f"sum to more than the {n_songs} songs in the library. This is what the genre "
+        "dropdown filters on. The \"Other\" bucket is omitted."
+    )
+    st.plotly_chart(count_bar_chart(supergenre_counts, "Songs"), use_container_width=True)
+
+    st.subheader("Songs per dominant emotion")
+    st.caption("Each song's single strongest emotion from its tag scores.")
+    st.plotly_chart(count_bar_chart(emotion_counts, "Songs"), use_container_width=True)
+
+    st.subheader("Songs per emotional zone")
+    st.caption("Quadrant of the valence × energy space each song's Spotify features place it in.")
+    st.plotly_chart(count_bar_chart(quadrant_counts, "Songs"), use_container_width=True)
