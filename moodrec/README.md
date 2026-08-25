@@ -1,4 +1,4 @@
-# MoodRec — Emotion-Regulated Music Recommender
+# Melbourne Moods (MoodRec) — Emotion-Regulated Music Recommender
 
 A music recommendation system that generates iso-principle playlists using content-based filtering on Spotify audio features, built as an expansion of Lowe-Brown et al. (2024).
 

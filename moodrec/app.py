@@ -21,7 +21,7 @@ from recommender import (
     build_playlist,
 )
 
-st.set_page_config(page_title="Genre-based music recommendation", page_icon="🎵", layout="wide")
+st.set_page_config(page_title="Melbourne Moods", page_icon="🎵", layout="wide")
 
 
 # ---------------------------------------------------------------------------
@@ -369,7 +369,7 @@ def render_pyvis_html(net, physics_enabled=True):
 df_base, llm = load_enriched_df()
 df_base = add_supergenre_column(df_base, llm)
 
-st.title("MoodRec")
+st.title("Melbourne Moods")
 st.caption("Emotion-regulated playlists using the iso principle from music therapy.")
 
 # --- Sidebar ---
