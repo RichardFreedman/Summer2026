@@ -44,7 +44,7 @@ tree and rebuilds only the app image.
 ```
 docker compose logs -f melbourne-moods   # app logs
 docker compose logs -f caddy             # TLS / auth / routing
-docker compose restart melbourne-moods
+docker compose up -d --force-recreate melbourne-moods   # restart alone does not reload .env
 ```
 
 ## Notes
@@ -54,4 +54,4 @@ docker compose restart melbourne-moods
   lost on rebuild. Fine for a demo; mount a volume if that matters.
 - The shared login is HTTP basic auth at the Caddy layer, so it also covers
   Streamlit's websocket and static assets. Change it by regenerating the
-  hash in `.env` and `docker compose restart caddy`.
+  hash in `.env` and `docker compose up -d --force-recreate caddy`.
