@@ -1,0 +1,27 @@
+# Shared reverse proxy. Bring this up once; apps join the "web" network.
+#   docker network create web   (once, before first start)
+services:
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    env_file: .env
+    volumes:
+      # Mount the directory, not individual files: git replaces files on pull,
+      # and a single-file bind mount would keep pointing at the old inode.
+      - ./config:/etc/caddy:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
+
+volumes:
+  caddy_data:
+  caddy_config:

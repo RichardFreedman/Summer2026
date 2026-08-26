@@ -1,0 +1,15 @@
+# Melbourne Moods app. No ports published; the shared Caddy in deploy/caddy
+# reaches it as "melbourne-moods:8501" over the external "web" network.
+services:
+  melbourne-moods:
+    build: ../../moodrec
+    restart: unless-stopped
+    env_file: .env
+    expose:
+      - "8501"
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
