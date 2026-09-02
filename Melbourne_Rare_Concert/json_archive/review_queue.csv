@@ -1,0 +1,460 @@
+Severity,Record Type,Source Document,Page,Organization,Date,OCR Original,LLM Resolution,Suggested Problem
+High — OCR/legibility,patron,UDC20260028-10.pdf,3,Melbourne Liedertafel,1893,"Catron: 
+The  HON, STB W. J. CLARKE, BART., M.L.C.","name: The  HON, STB W. J. CLARKE, BART., M.L.C. | role: Patron",OCR likely reads 'Catron' for 'Patron'
+High — OCR/legibility,performer,UDC20260028-10.pdf,5,Melbourne Liedertafel,1893,"Morgan, C. W. on leave)","name: Morgan, C. W. on leave) | part_or_instrument: Second Tenor",Missing opening parenthesis in OCR
+High — OCR/legibility,performer,UDC20260028-10.pdf,16,Melbourne Liedertafel,1893,"ELIZABETH MDME. ELISE WIEDERMANN.
+LANDGRAVE L :w!, HERR R. NITSCHKE.",name: MDME. ELISE WIEDERMANN. | part_or_instrument: Elizabeth (role) | associated_work: THE LEGEND OF ST. ELIZABETH (OF HUNGARY),OCR garble in 'LANDGRAVE L :w!'
+High — OCR/legibility,performer,UDC20260028-10.pdf,16,Melbourne Liedertafel,1893,"ELIZABETH MDME. ELISE WIEDERMANN.
+LANDGRAVE L :w!, HERR R. NITSCHKE.",name: HERR R. NITSCHKE. | part_or_instrument: Landgrave (role) | associated_work: THE LEGEND OF ST. ELIZABETH (OF HUNGARY),OCR garble in 'LANDGRAVE L :w!'
+High — OCR/legibility,patron,UDC20260028-10.pdf,19,Melbourne Liedertafel,1893,"NICHOLSON & 
+GO. (for the Statuary).",name: NICHOLSON & GO. | role: Donor,OCR likely 'GO.' for 'CO.'; in-kind sponsor/donor
+High — OCR/legibility,organization,UDC20260028-11.pdf,3,Melbourne Liedertafel,1893,"OYAL
+METROPOLITAN LIEDERTAFEL","name: OYAL
+METROPOLITAN LIEDERTAFEL | role: presenting organization",Name likely 'ROYAL METROPOLITAN LIEDERTAFEL' (OCR missing initial 'R')
+High — OCR/legibility,organization,UDC20260028-11.pdf,4,Melbourne Liedertafel,1893,Ube Uopi Metropolitan Xiebertatel,name: Ube Uopi Metropolitan Xiebertatel | role: presenting organization,Name likely 'The Royal Metropolitan Liedertafel' (OCR garble)
+High — OCR/legibility,work,UDC20260028-11.pdf,8,Melbourne Liedertafel,1893,"Cavatina-“Convien partir” Tonizetti
+(La Figlia del Reggimento)",title: Convien partir | composer: Tonizetti | movement_or_selection: (La Figlia del Reggimento),Composer likely 'Donizetti' (OCR)
+High — OCR/legibility,work,UDC20260028-11.pdf,8,Melbourne Liedertafel,1893,"Cantata—""God and Jatberland"" cal. Eschirch",title: God and Jatberland | composer: cal. Eschirch,Composer likely 'Carl Eschrich' (OCR)
+High — OCR/legibility,work,UDC20260028-11.pdf,9,Melbourne Liedertafel,1893,"MBallad—""Ever Chine""
+...
+Franz ^bt",title: Ever Chine | composer: Franz ^bt,Composer likely 'Franz Abt' (OCR)
+High — OCR/legibility,work,UDC20260028-11.pdf,11,Melbourne Liedertafel,1893,"Song—""The Three Wishes” insuti",title: The Three Wishes | composer: insuti,Composer likely 'Pinsuti' (OCR)
+High — OCR/legibility,venue,UDC20260028-11.pdf,16,Melbourne Liedertafel,1893,"yoWN JÎALL, 
+^ELBOURNE","place: yoWN JÎALL, ^ELBOURNE","Likely 'TOWN HALL, MELBOURNE' (OCR garble)"
+High — OCR/legibility,date,UDC20260028-11.pdf,16,Melbourne Liedertafel,1893,"MONDAY pVENINQ
+2JTH ^ARCH, 1893.","date_text: MONDAY pVENINQ 2JTH ^ARCH, 1893.","Likely 'MONDAY EVENING 27TH MARCH, 1893' (OCR garble)"
+High — OCR/legibility,venue,UDC20260028-13.pdf,3,Melbourne Liedertafel,1889,"TOWN JALL, MELBOURNE","place: TOWN JALL, MELBOURNE",OCR likely 'Hall'→'JALL' — kept as printed
+High — OCR/legibility,performer,UDC20260028-13.pdf,4,Melbourne Liedertafel,1889,Piss Florence FRenk-FReyer,name: Piss Florence FRenk-FReyer,Role not specified; possibly pianist (cf. p.11 'Miss Florence Menk-Meyer'); OCR likely garbled name
+High — OCR/legibility,work,UDC20260028-13.pdf,12,Melbourne Liedertafel,1889,Serenade J.^.^tah,title: Serenade | composer: J.^.^tah,Composer garbled; unclear reading
+High — OCR/legibility,work,UDC20260028-13.pdf,12,Melbourne Liedertafel,1889,Song u l'Estasi ” Ertiti,title: Song u l'Estasi | composer: Ertiti,Composer garbled; unclear reading (possibly 'Tosti'?)
+High — OCR/legibility,work,UDC20260028-13.pdf,14,Melbourne Liedertafel,1889,"Sono “®eòouin Move Song"" Æoombs","title: Sono “®eòouin Move Song"" | composer: Æoombs",Best-guess: 'Bedouin Love Song' by 'Coombs' (uncertain)
+High — OCR/legibility,venue,UDC20260028-13.pdf,20,Melbourne Liedertafel,1889,"yoWN JÎALL, 
+MELBOURNE","place: yoWN JÎALL, MELBOURNE",OCR likely 'Town Hall' and diacritics garbled — kept as printed
+High — OCR/legibility,venue,UDC20260028-15.pdf,3,Melbourne Liedertafel,1889,"TOWN MALL, MELBOURNE","place: TOWN MALL, MELBOURNE","Likely reads 'Town Hall, Melbourne' (OCR error); kept as printed"
+High — OCR/legibility,performer,UDC20260028-15.pdf,3,Melbourne Liedertafel,1889,CONDUCTOR: yVl-R. jIULIUS ^ERZ,name: yVl-R. jIULIUS ^ERZ | part_or_instrument: conductor,Name badly garbled; likely 'Mr. Julius Herz' (OCR); kept as printed
+High — OCR/legibility,organization,UDC20260028-15.pdf,4,Melbourne Liedertafel,1889,Selected Choir of Boys Yoices,name: Selected Choir of Boys Yoices | role: choir,'Yoices' is likely 'Voices' (OCR); kept as printed
+High — OCR/legibility,organization,UDC20260028-15.pdf,4,Melbourne Liedertafel,1889,Yicto rian Orchestra,name: Yicto rian Orchestra | role: orchestra,Likely 'Victorian Orchestra' (OCR); kept as printed
+High — OCR/legibility,performer,UDC20260028-15.pdf,4,Melbourne Liedertafel,1889,"PPbr. G. e. Fentum, Hon. Pianist","name: PPbr. G. e. Fentum, Hon. Pianist | part_or_instrument: pianist",OCR garbling of initials/case; same person as Mr. G. B. FENTUM
+High — OCR/legibility,performer,UDC20260028-15.pdf,4,Melbourne Liedertafel,1889,PRiss Florence FRen^-FReyer,name: PRiss Florence FRen^-FReyer,Name badly garbled; likely refers to Miss Florence Menk-Meyer (OCR); instrument not stated here
+High — OCR/legibility,performer,UDC20260028-15.pdf,4,Melbourne Liedertafel,1889,FPr. 0. H. Gee,name: FPr. 0. H. Gee | part_or_instrument: vocal soloist,Initials garbled; likely 'Mr. A. H. Gee' (OCR)
+High — OCR/legibility,work,UDC20260028-15.pdf,7,Melbourne Liedertafel,1889,"Cantata “ibaralô’s Bridal Vogage""
+Feinrich Bofmann","title: Cantata “ibaralô’s Bridal Vogage"" | composer: Feinrich Bofmann",Composer likely 'Heinrich Hofmann' (OCR); kept as printed; Title likely 'Harald’s Bridal Voyage' (OCR); kept as printed
+High — OCR/legibility,work,UDC20260028-15.pdf,11,Melbourne Liedertafel,1889,pianoforte Solo 1 Concerto in E Flat Major eethoben,title: Concerto in E Flat Major | composer: eethoben,Composer likely 'Beethoven' (OCR); kept as printed
+High — OCR/legibility,work,UDC20260028-15.pdf,12,Melbourne Liedertafel,1889,"Song ""W'Estasi” Erditi","title: Song ""W'Estasi” | composer: Erditi",Composer name may be mis-read (OCR); kept as printed
+High — OCR/legibility,organization,UDC20260028-15.pdf,13,Melbourne Liedertafel,1889,"Boys’ Choir, Victorian Orchestra
+and  Liedertatel",name: Liedertatel | role: choir,Likely 'Liedertafel' (OCR); kept as printed
+High — OCR/legibility,work,UDC20260028-15.pdf,13,Melbourne Liedertafel,1889,"Selections from “Xa Damnation de Faust""
+Berlioz","title: Selections from “Xa Damnation de Faust"" | composer: Berlioz",Title likely 'La Damnation de Faust' (OCR); kept as printed
+High — OCR/legibility,work,UDC20260028-15.pdf,14,Melbourne Liedertafel,1889,"Song ""Gedouin Uove Song ” Coombs","title: Song ""Gedouin Uove Song ” | composer: Coombs",Title appears garbled (OCR); kept as printed
+High — OCR/legibility,work,UDC20260028-15.pdf,14,Melbourne Liedertafel,1889,Part Song “ ffarewell” ^«^ι,title: Part Song “ ffarewell”,Composer not given on program page; Title likely 'Farewell' (OCR); kept as printed
+High — OCR/legibility,work,UDC20260028-15.pdf,15,Melbourne Liedertafel,1889,"Vocal Walts “ ®lue Danube” (By request) 
+(ARRANGED BY ELSASSER) Strauss",title: Vocal Walts “ ®lue Danube” (By request) (ARRANGED BY ELSASSER) | composer: Strauss,'Walts' and '®lue' likely OCR for 'Waltz' and 'Blue' (kept as printed)
+High — OCR/legibility,venue,UDC20260028-15.pdf,20,Melbourne Liedertafel,1889,"yoWN JÌALE, 
+ylELBOURNE","place: yoWN JÌALE, 
+ylELBOURNE","Likely 'Town Hall, Melbourne' (OCR garbling); kept as printed"
+High — OCR/legibility,organization,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,"Presented  By  
+Che  Madang  Dramatic  Society",name: Che  Madang  Dramatic  Society | role: presenting organization,OCR likely misread 'Che' for 'The'; best-guess correction: 'The Madang Dramatic Society'
+High — OCR/legibility,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Miss  Rosemary  Sutton  *,name: Miss  Rosemary  Sutton  * | part_or_instrument: actor | associated_work: Only  An  Orphan  Girl,Role standardized to 'actor' from 'cast' wording.; Asterisk appears in OCR; retained as printed.; Associated work title appears on page 6; cross-page inference.
+High — OCR/legibility,work,UDC20260028-17.pdf,2,Melbourne Liedertafel,1899,“May Morning” ...................................Disiin,title: May Morning | composer: Disiin,Best guess: composer is likely 'Dibdin' (OCR garble).
+High — OCR/legibility,work,UDC20260028-17.pdf,2,Melbourne Liedertafel,1899,"Violoncello  Soli ((Λ) “Berceuse” ..
+.. César Ctii",title: Berceuse | composer: César Ctii,Best guess: 'César Cui' (OCR garble).
+High — OCR/legibility,work,UDC20260028-17.pdf,2,Melbourne Liedertafel,1899,"”)(Λ) “Tarantella” ....
+.. Fiatti",title: Tarantella | composer: Fiatti,Best guess: 'Piatti' (OCR garble).
+High — OCR/legibility,venue,UDC20260028-17.pdf,3,Melbourne Liedertafel,1899,"Gown Eoli, Melbourne","place: Gown Eoli, Melbourne","Likely intended 'Town Hall, Melbourne' (OCR garble)."
+High — OCR/legibility,date,UDC20260028-17.pdf,3,Melbourne Liedertafel,1899,"jHonday Evening, 201Ç jl2a^, 1899","date_text: jHonday Evening, 201Ç jl2a^, 1899","Best guess: 'Monday Evening, 20th May, 1899' (OCR garble)."
+High — OCR/legibility,organization,UDC20260028-17.pdf,3,Melbourne Liedertafel,1899,"Tie ΐ^ογαΐ
+ÎXIeiropolifû^ Liede^iafel",name: Tie ΐ^ογαΐ ÎXIeiropolifû^ Liede^iafel | role: presenting organization,Best guess: 'The Royal Metropolitan Liedertafel' (OCR garble).
+High — OCR/legibility,organization,UDC20260028-17.pdf,4,Melbourne Liedertafel,1899,Ube IRogal ilbetropolitan Liedertatel,name: Ube IRogal ilbetropolitan Liedertatel | role: presenting organization,Best guess: 'The Royal Metropolitan Liedertafel' (OCR garble).
+High — OCR/legibility,performer,UDC20260028-17.pdf,6,Melbourne Liedertafel,1899,"Mr. 6. Κ Fenlum,
+Gong j^iaitisi",name: Mr. 6. Κ Fenlum | part_or_instrument: accompanist,"Best guess: 'Mr. G. B. Fentum, Song Pianist' (OCR garble). Assumed same person as p.4."
+High — OCR/legibility,performer,UDC20260028-17.pdf,6,Melbourne Liedertafel,1899,Herr Louis Gaffenbach,name: Herr Louis Gaffenbach | part_or_instrument: cello,Best guess: 'Herr Louis Hattenbach' (OCR garble). Instrument inferred from other pages.
+High — OCR/legibility,performer,UDC20260028-17.pdf,6,Melbourne Liedertafel,1899,"(122r. T. J. Wsgaff, ^r. J}. J. Lolleff,
+Mr. J. G. Drake, r. 6. Kofe)",name: 122r. T. J. Wsgaff | part_or_instrument: vocalist,Best guesses: 'Mr. T. J. Wiggall?'; 'Mr. J. J. Lofley?'; 'Mr. G. Rofe?' (OCR garble). Members of S. Paul’s Cathedral Quartet Party.
+High — OCR/legibility,performer,UDC20260028-17.pdf,6,Melbourne Liedertafel,1899,"(122r. T. J. Wsgaff, ^r. J}. J. Lolleff,
+Mr. J. G. Drake, r. 6. Kofe)",name: ^r. J}. J. Lolleff | part_or_instrument: vocalist,Best guess: 'Mr. J. J. Lofley?' (OCR garble). Member of S. Paul’s Cathedral Quartet Party.
+High — OCR/legibility,performer,UDC20260028-17.pdf,6,Melbourne Liedertafel,1899,r. 6. Kofe),name: r. 6. Kofe | part_or_instrument: vocalist,Best guess: 'Mr. G. Rofe?' (OCR garble). Member of S. Paul’s Cathedral Quartet Party.
+High — OCR/legibility,work,UDC20260028-17.pdf,10,Melbourne Liedertafel,1899,Vocal Quartets - (b) always /lore Seifert,title: always /lore | composer: Seifert,Title garbled; best guess could be 'Always More' or similar.
+High — OCR/legibility,performer,UDC20260028-17.pdf,15,Melbourne Liedertafel,1899,"Song—S Summer Right GORING-THOMAS
+Miss Minnie Waugh",name: Miss Minnie Waugh | part_or_instrument: vocalist | associated_work: A Summer Night,Best guess: 'A Summer Night' (OCR garble).
+High — OCR/legibility,work,UDC20260028-17.pdf,16,Melbourne Liedertafel,1899,"(Λ) Sleep, Gentle Xaôp Bishop","title: Sleep, Gentle Xaôp | composer: Bishop","Best guess: title 'Sleep, Gentle Lady' (OCR garble)."
+High — OCR/legibility,work,UDC20260028-17.pdf,16,Melbourne Liedertafel,1899,(J) Qnwarò TRoanuno Müller,title: Qnwarò TRoanuno | composer: Müller,Best guess: title 'Onward Roaming' (OCR garble).
+High — OCR/legibility,work,UDC20260028-17.pdf,17,Melbourne Liedertafel,1899,IPart Song-21 Capstan Chorus Smart,title: Capstan Chorus | composer: Smart,Best guess: 'A Capstan Chorus' (OCR garble).
+High — OCR/legibility,venue,UDC20260028-17.pdf,20,Melbourne Liedertafel,1899,"yOWN HAUL 
+/Melbourne",place: yOWN HAUL /Melbourne,"Likely intended 'Town Hall, Melbourne' (OCR garble)."
+High — OCR/legibility,venue,UDC20260028-18.pdf,4,Musashinto Academia Musicae,1973-74,"Saturday,  December  8,  1973,  7  p. m.  /Tokyo  Bunka  Haikan",place: Tokyo  Bunka  Haikan,Possible OCR variant of 'Kaikan'
+High — OCR/legibility,date,UDC20260028-18.pdf,4,Musashinto Academia Musicae,1973-74,"Saturday,  December  8,  1973,  7  p. m.  /Tokyo  Bunka  Haikan","date_text: Saturday,  December  8,  1973,  7 p. m.",Possible OCR variant of 'Kaikan'
+High — OCR/legibility,work,UDC20260028-18.pdf,5,Musashinto Academia Musicae,1973-74,M.  Ravel ...................................................................................................................Jeux  deau,title: Jeux  deau | composer: M.  Ravel,OCR missing apostrophe in 'Jeux d'eau'
+High — OCR/legibility,work,UDC20260028-18.pdf,5,Musashinto Academia Musicae,1973-74,"Max  Reger: .........../Phantasie  
+und  Fuge  über  ""Wie  schon  leucht ’ uns  der  Morgenstern ”  Op.  40-1,","title: Phantasie  und  Fuge  über  ""Wie  schon  leucht ’ uns  der  Morgenstern ” | composer: Max  Reger | movement_or_selection: Op.  40-1",OCR diacritics
+High — OCR/legibility,date,UDC20260028-18.pdf,6,Musashinto Academia Musicae,1973-74,"Wednesday,  May  23,   1973,  4 2  10p.  m./B.  H.","date_text: Wednesday,  May  23,  1973,  4:10 p. m.",Spacing/OCR issues in time
+High — OCR/legibility,work,UDC20260028-18.pdf,6,Musashinto Academia Musicae,1973-74,Τ. Mattei  .................................................................................................- .......Non  e  ver,title: Non  e  ver | composer: Τ. Mattei,OCR 'Τ.' may be 'T.'
+High — OCR/legibility,work,UDC20260028-18.pdf,6,Musashinto Academia Musicae,1973-74,"J.  S.  Bach ................-.....................................................Prâludium  und  Fuge  Es-dur,",title: Prâludium  und  Fuge | composer: J.  S.  Bach | movement_or_selection: Es-dur,OCR accent in 'Präludium'
+High — OCR/legibility,work,UDC20260028-18.pdf,7,Musashinto Academia Musicae,1973-74,C.  Debussy  ...................... ...........................................................................“ Images ”  Π,title: Images | composer: C.  Debussy | movement_or_selection: “  Π,OCR 'Π' likely 'II'
+High — OCR/legibility,work,UDC20260028-18.pdf,7,Musashinto Academia Musicae,1973-74,J.  S.  Bach .....................................................Praludium  und  Fuge  C-dur  BWV  547,title: Praludium  und  Fuge | composer: J.  S.  Bach | movement_or_selection: C-dur  BWV  547,OCR 'Praludium'
+High — OCR/legibility,work,UDC20260028-18.pdf,7,Musashinto Academia Musicae,1973-74,W.   Stockmeier  ..............................................................................................Sonate  bl,title: Sonate | composer: W.   Stockmeier | movement_or_selection: bl,OCR 'bl' unclear (probably 'b1' or 'B♭')
+High — OCR/legibility,work,UDC20260028-18.pdf,7,Musashinto Academia Musicae,1973-74,H.   Dutill  eux  ...................................................................................Sonatine  (Flute),title: Sonatine | composer: H.   Dutill  eux | movement_or_selection: (Flute),OCR spacing in 'Dutilleux'
+High — OCR/legibility,work,UDC20260028-18.pdf,8,Musashinto Academia Musicae,1973-74,"G.  Puccini  ...................................Oper  “La  Boheme”  Si,  mi  chiamano  Mimi","title: Oper  “La  Boheme” | composer: G.  Puccini | movement_or_selection: Si,  mi  chiamano  Mimi",OCR 'Boheme' vs 'Bohème'
+High — OCR/legibility,work,UDC20260028-18.pdf,8,Musashinto Academia Musicae,1973-74,J.  Haydn  ···   Oratorium“Die  Schopfung”  Nun  beut  die  Flur  das  frische  Grün,title: Oratorium “Die  Schopfung” | composer: J.  Haydn | movement_or_selection: Nun  beut  die  Flur  das  frische  Grün,OCR 'Schopfung'
+High — OCR/legibility,work,UDC20260028-18.pdf,8,Musashinto Academia Musicae,1973-74,"G.  Puccini  ......  Oper  “Suor  Angelica”Senza  mamma,  ο  bimbo,  tu  sei  morto","title: Oper  “Suor  Angelica” | composer: G.  Puccini | movement_or_selection: Senza  mamma,  ο  bimbo,  tu  sei  morto",OCR spacing
+High — OCR/legibility,work,UDC20260028-18.pdf,8,Musashinto Academia Musicae,1973-74,"W.  Α.  Mozart  ..................Oper  “Le  Nozze  di  Figaro”  Vedro,  mentrio  sospiro","title: Oper  “Le  Nozze  di  Figaro” | composer: W.  Α.  Mozart | movement_or_selection: Vedro,  mentrio  sospiro",OCR 'mentrio'
+High — OCR/legibility,work,UDC20260028-18.pdf,8,Musashinto Academia Musicae,1973-74,"P.  Tchaikovsky....................................................................Warum?,  Versohnung","title: Warum?,  Versohnung | composer: P.  Tchaikovsky",German titles by Tchaikovsky unusual; OCR?
+High — OCR/legibility,work,UDC20260028-18.pdf,8,Musashinto Academia Musicae,1973-74,M.  J.  Ravel............................    Le  Tombeau  de  Couprin,title: Le  Tombeau  de  Couprin | composer: M.  J.  Ravel,OCR 'Couprin' likely 'Couperin'
+High — OCR/legibility,work,UDC20260028-18.pdf,8,Musashinto Academia Musicae,1973-74,"F.  Schubert.....................................................Wanderer  Fantasie  C-dur  I,Π","title: Wanderer  Fantasie | composer: F.  Schubert | movement_or_selection: C-dur  I,Π",OCR 'Π' likely 'II'
+High — OCR/legibility,work,UDC20260028-18.pdf,8,Musashinto Academia Musicae,1973-74,S.  Prokofiev............................................................Konzert  Nr.3  C-dur  Ορ.26  I,title: Konzert  Nr.3 | composer: S.  Prokofiev | movement_or_selection: C-dur  Ορ.26  I,OCR 'Ορ.'
+High — OCR/legibility,work,UDC20260028-18.pdf,9,Musashinto Academia Musicae,1973-74,"K.  Czerny  ....................................................Konzert  Nr.  4  e-moll  II,  II  (Bass)","title: Konzert  Nr.  4 | composer: K.  Czerny | movement_or_selection: e-moll  II,  II  (Bass)","Movement 'II, II' duplicated; OCR?"
+High — OCR/legibility,work,UDC20260028-18.pdf,9,Musashinto Academia Musicae,1973-74,N.  Paganini .............................................Konzert  Nr.1  D-dur  Ορ.6  I  (Violin),title: Konzert  Nr.1 | composer: N.  Paganini | movement_or_selection: D-dur  Ορ.6  I  (Violin),OCR 'Ορ.'
+High — OCR/legibility,work,UDC20260028-18.pdf,9,Musashinto Academia Musicae,1973-74,"M.  Bruch .....................................................Schottische  Fantasie  II,  DI  (Violin)","title: Schottische  Fantasie | composer: M.  Bruch | movement_or_selection: II,  DI  (Violin)",OCR 'DI' unclear
+High — OCR/legibility,work,UDC20260028-18.pdf,9,Musashinto Academia Musicae,1973-74,Α  ·  Dvofâk  ..............................................................  Konzert  h-moll  I  (Cello),title: Konzert | composer: Α  ·  Dvofâk | movement_or_selection: h-moll  I  (Cello),OCR 'Dvofâk'
+High — OCR/legibility,work,UDC20260028-18.pdf,9,Musashinto Academia Musicae,1973-74,"R.  Schumann  ....................................Kreisleriana  Op.16  Nr.I,  II,  V,   MI  (Piano)","title: Kreisleriana | composer: R.  Schumann | movement_or_selection: Op.16  Nr.I,  II,  V,   MI  (Piano)",OCR 'MI' unclear (maybe VII)
+High — OCR/legibility,work,UDC20260028-18.pdf,9,Musashinto Academia Musicae,1973-74,"J.  Brahms  ............................................Fantasien  Op.116  Nr.I,  ΠΙ,   IV,  VI  (Piano)","title: Fantasien | composer: J.  Brahms | movement_or_selection: Op.116  Nr.I,  ΠΙ,   IV,  VI  (Piano)",OCR 'ΠΙ' likely 'III'
+High — OCR/legibility,work,UDC20260028-18.pdf,10,Musashinto Academia Musicae,1973-74,F.   Mendelssohn  ..................................................................Lift  Thine  Eyes  (Elija),title: Lift  Thine  Eyes | composer: F.   Mendelssohn | movement_or_selection: (Elija),OCR 'Elija' for 'Elijah'
+High — OCR/legibility,work,UDC20260028-18.pdf,11,Musashinto Academia Musicae,1973-74,L.  Janâcek...........................................................................................................Im  Nebel,title: Im  Nebel | composer: L.  Janâcek,OCR 'Janâcek'
+High — OCR/legibility,work,UDC20260028-18.pdf,11,Musashinto Academia Musicae,1973-74,L.  Janâcek........................................  String  Quartet  No.  2  “Intimate  Pages”,title: String  Quartet  No.  2 | composer: L.  Janâcek | movement_or_selection: “Intimate  Pages”,OCR 'Janâcek'
+High — OCR/legibility,work,UDC20260028-18.pdf,12,Musashinto Academia Musicae,1973-74,.  Bach  ..........................................  .......................Engliselie  Suite  VI  BW1  811,title: Engliselie  Suite  VI | composer: .  Bach | movement_or_selection: BW1  811,OCR '. Bach' likely 'J. S. Bach'; OCR 'Engliselie'; OCR 'BW1'
+High — OCR/legibility,work,UDC20260028-18.pdf,12,Musashinto Academia Musicae,1973-74,"Wohltemperiertes  Klavier  II
+Nr.  5  BWV  874
+Nr.9  BWV  878 ^
+Nr.20  BWV  889  Z?<",title: Nr.  5 | composer: Wohltemperiertes  Klavier  II | movement_or_selection: BWV  874,OCR artifacts ^ Z? <
+High — OCR/legibility,work,UDC20260028-18.pdf,12,Musashinto Academia Musicae,1973-74,"Wohltemperiertes  Klavier  II
+Nr.  5  BWV  874
+Nr.9  BWV  878 ^
+Nr.20  BWV  889  Z?<",title: Nr.9 | composer: Wohltemperiertes  Klavier  II | movement_or_selection: BWV  878,OCR artifacts
+High — OCR/legibility,work,UDC20260028-18.pdf,12,Musashinto Academia Musicae,1973-74,"Wohltemperiertes  Klavier  II
+Nr.  5  BWV  874
+Nr.9  BWV  878 ^
+Nr.20  BWV  889  Z?<",title: Nr.20 | composer: Wohltemperiertes  Klavier  II | movement_or_selection: BWV  889,OCR artifacts
+High — OCR/legibility,work,UDC20260028-18.pdf,12,Musashinto Academia Musicae,1973-74,Partita  li  BWV  826,title: Partita  li | movement_or_selection: BWV  826,OCR 'li' likely 'II'
+High — OCR/legibility,date,UDC20260028-18.pdf,13,Musashinto Academia Musicae,1973-74,"Thursday,  May  17,  1973,  3  .'  10  p.  m./M.  H.","date_text: Thursday,  May  17,  1973,  3:10 p. m.",OCR punctuation/spacing
+High — OCR/legibility,work,UDC20260028-18.pdf,13,Musashinto Academia Musicae,1973-74,"L.   Janâcek   ...................................................................................Sonate   “  I.  X,  1905”","title: Sonate | composer: L.   Janâcek | movement_or_selection: “  I.  X,  1905”",OCR 'Janâcek'
+High — OCR/legibility,date,UDC20260028-18.pdf,14,Musashinto Academia Musicae,1973-74,"Thuesday,  June  5,  1973,  10  a.  m.  /Setagaya-Kumin-Kaikan","date_text: Tuesday,  June  5,  1973,  10 a. m.",OCR 'Thuesday'
+High — OCR/legibility,work,UDC20260028-18.pdf,15,Musashinto Academia Musicae,1973-74,"G.   Puccini/from   ""Turandt""   Signore   ascolta,","title: from   ""Turandt""   Signore   ascolta | composer: G.   Puccini",OCR 'Turandt'
+High — OCR/legibility,work,UDC20260028-18.pdf,15,Musashinto Academia Musicae,1973-74,"R.   Wagner/Tràume,",title: Tràume | composer: R.   Wagner,OCR accent
+High — OCR/legibility,work,UDC20260028-18.pdf,16,Musashinto Academia Musicae,1973-74,B.  Bartôk   .......................................................................................................Suite   Op.   14,title: Suite | composer: B.  Bartôk | movement_or_selection: Op.   14,OCR accent
+High — OCR/legibility,date,UDC20260028-18.pdf,17,Musashinto Academia Musicae,1973-74,"Wednesday,   February   6,   1974,  1110  p.m.","date_text: Wednesday,  February  6,  1974,  1:10 p.m.",OCR time '1110'
+High — OCR/legibility,work,UDC20260028-18.pdf,17,Musashinto Academia Musicae,1973-74,M.Marais  ......................................Leo  Foiles  d ’Espagne  pour  flute  seul  (Flute),title: Leo  Foiles  d ’Espagne  pour  flute  seul | composer: M.Marais | movement_or_selection: (Flute),OCR 'Leo Foiles' likely 'Les Folies'
+High — OCR/legibility,work,UDC20260028-18.pdf,17,Musashinto Academia Musicae,1973-74,E.  Scheffmann   .....................................................Konzert   stiicke   Op.  67  (Trombone),title: Konzert   stiicke | composer: E.  Scheffmann | movement_or_selection: Op.  67  (Trombone),OCR 'stiicke'
+High — OCR/legibility,work,UDC20260028-18.pdf,19,Musashinto Academia Musicae,1973-74,H.  Wolf   ....................................................................................................-............Erist ’s,title: Erist ’s | composer: H.  Wolf,OCR 'Erist ’s' likely 'Er ist's'
+High — OCR/legibility,work,UDC20260028-18.pdf,19,Musashinto Academia Musicae,1973-74,W.A.   Mozart   .......................................Quartet   Bflat-major   Κ.   V.   458   1st   mov.,title: Quartet | composer: W.A.   Mozart | movement_or_selection: Bflat-major   Κ.   V.   458   1st   mov.,OCR 'Bflat'
+High — OCR/legibility,work,UDC20260028-19.pdf,7,Musashinto Academia Musicae,1975-76,Kazuto  Miyazawa···  Konsonanz  fur  3 Saxophonespieler  order  einen  und  Tonband,title: Konsonanz  fur  3 Saxophonespieler  order  einen  und  Tonband | composer: Kazuto  Miyazawa,OCR appears garbled; likely 'oder einen'; left as printed.
+High — OCR/legibility,venue,UDC20260028-19.pdf,8,Musashinto Academia Musicae,1975-76,"Wednesday,  October  15, 1975, 4:10 p.m./M.H.V",place: M.H.V,"Venue abbreviation appears as 'M.H.V', likely variant/garble of 'M.H.' or a specific room; left as printed."
+High — OCR/legibility,work,UDC20260028-19.pdf,8,Musashinto Academia Musicae,1975-76,G.Donizetti .......................................................................,title: “La Favorita ”  Spirto  gentil | composer: G.Donizetti,Line truncated before title; see following text for full aria; unrecoverable split.
+High — OCR/legibility,work,UDC20260028-19.pdf,8,Musashinto Academia Musicae,1975-76,"C.Debussy ....................................................................................""Préludes  II’ Bruyères","title: ""Préludes  II’  Bruyères | composer: C.Debussy",Punctuation around II/quote appears garbled; left as printed.
+High — OCR/legibility,work,UDC20260028-19.pdf,11,Musashinto Academia Musicae,1975-76,G.Donizetti ..................................................“ L’elisir  d ’amore  Una  furtiva  lagrima,title: “ L’elisir  d ’amore | composer: G.Donizetti | movement_or_selection: Una  furtiva  lagrima,Quotation and spacing garbled; treated as aria from the opera.
+High — OCR/legibility,work,UDC20260028-19.pdf,13,Musashinto Academia Musicae,1975-76,G.Rossini .......................................................... ...................................Lulti mo  ricordo,title: Lulti  mo  ricordo | composer: G.Rossini,OCR garble in 'Lultimo'; left as printed.
+High — OCR/legibility,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,3  Intermezzos  on  a  theme  by  Paganini  Op.  35,title: 3  Intermezzos  on  a  theme  by  Paganini  Op.  35 | composer: J.  Brahms,Brahms Op. 35 are 'Variations on a Theme by Paganini'; printed title likely OCR/error
+High — OCR/legibility,venue,UDC20260028-2.pdf,11,Musashinto Academia Musicae,1968-69,"Monday,  January  13, 1969 at  10:00 a.m./Mozarl  Hall",place: Mozarl  Hall,Likely 'Mozart Hall' (OCR)
+High — OCR/legibility,date,UDC20260028-2.pdf,13,Musashinto Academia Musicae,1968-69,"Wed.  October  19,  1968 Chamber  Chorus  by  Students","date_text: Wed.  October  19,  1968","Day/date mismatch likely OCR (also 'Sat. October 19, 1968' appears below)"
+High — OCR/legibility,work,UDC20260028-2.pdf,14,Musashinto Academia Musicae,1968-69,F Phnom Polonaise-Fantasie Np. 61,title: Polonaise-Fantasie  Np.  61 | composer: F  Phnom,Composer likely 'F. Chopin' (OCR garble)
+High — OCR/legibility,work,UDC20260028-2.pdf,14,Musashinto Academia Musicae,1968-69,μ  Raval .Alborada del gracioso,title: Alborada  del  gracioso | composer: μ   Raval,Composer likely 'M. Ravel' (OCR garble)
+High — OCR/legibility,work,UDC20260028-2.pdf,14,Musashinto Academia Musicae,1968-69,c DraloGov Sonata d minor Op. 14,title: Sonata  d  minor  Op.  14 | composer: c  DraloGov,Composer line garbled; unrecoverable
+High — OCR/legibility,work,UDC20260028-2.pdf,15,Musashinto Academia Musicae,1968-69,L.v. Beethoven  ...............................................Grand  Sonata  G  major  Op.  3/,title: Grand  Sonata  G  major  Op.  3/ | composer: L.v.  Beethoven,Opus appears garbled; likely Op. 31
+High — OCR/legibility,patron,UDC20260028-20.pdf,1,Melbourne Liedertafel,1899,"IN AID OF THE
+HOMŒOPATHIC HOSPI",name: HOMŒOPATHIC HOSPI | role: Beneficiary,OCR truncation; likely 'HOMŒOPATHIC HOSPITAL'
+High — OCR/legibility,work,UDC20260028-20.pdf,4,Melbourne Liedertafel,1899,"ARIA—JAV Quesla Sonnba Obscura
+Beethoven,","title: ARIA—JAV Quesla Sonnba Obscura | composer: Beethoven,","OCR garbled title; likely a Beethoven aria (e.g., 'Ah! perfido'); comma after composer preserved from OCR"
+High — OCR/legibility,work,UDC20260028-20.pdf,6,Melbourne Liedertafel,1899,"Choral  Ode —
+^wm βο^ί’ί u JCe Ce ita ’
+(Jauat, part 2, Bet 8.)
+G. W. L. Matshall-HaiL.","title: Choral  Ode — ^wm βο^ί’ί u JCe Ce ita ’ | composer: G. W. L. Matshall-HaiL | movement_or_selection: (Jauat, part 2, Bet 8.)",OCR garbled title/source reference; likely Goethe/Faust; composer OCR likely 'Marshall-Hall'
+High — OCR/legibility,work,UDC20260028-20.pdf,9,Melbourne Liedertafel,1899,"SoxG ®ie Sorefei A Liszt
+Orchestrated by Professor Marshall-Hall.",title: SoxG ®ie Sorefei | composer: A Liszt,OCR-garbled title; likely 'Song “Die Lorelei”'; composer text appears garbled
+High — OCR/legibility,work,UDC20260028-20.pdf,9,Melbourne Liedertafel,1899,"Ballad —Xoz? Ollin’s Dauqliter
+Hamish MacCunn.",title: Ballad —Xoz? Ollin’s Dauqliter | composer: Hamish MacCunn.,OCR-garbled title; likely 'Lord Ullin’s Daughter'
+High — OCR/legibility,venue,UDC20260028-21.pdf,1,Melbourne Liedertafel,1899,"TOWN HALL,1","place: TOWN HALL,1",Possible OCR artifact: trailing '1' after 'TOWN HALL'
+High — OCR/legibility,organization,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"t Members Amateur Orchestra Conservatorium of Music, 
+Melbourne University.","name: Amateur Orchestra Conservatorium of Music, Melbourne University. | role: orchestra (assisting)",Name reconstructed from a line-end; 't' mark denotes membership; possible truncation/line-break OCR issues
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Williins-
+Mr. Dierich (leader)",name: Mr. Dierich | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'; 'leader' indicates concertmaster
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Brenncke,name: Brenncke | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,η Boy,name: Boy | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'; leading mark likely ditto for 'Mr.'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Hunter,name: Hunter | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Hess,name: Hess | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Massari,name: Massari | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Parkes,name: Parkes | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Schieblich,name: Schieblich | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Wallenstein,name: Wallenstein | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Wright,name: Wright | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"„Weinberg, sen.","name: Weinberg, sen. | part_or_instrument: violin",Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,",, Zelman, A.","name: Zelman, A. | part_or_instrument: violin",Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,τ Miss Archib rid,name: Miss Archib rid | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'; surname likely 'Archibald'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,T „ Cuddon,name: Cuddon | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,t „ Nankivell,name: Nankivell | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,t „ Stanford,name: Stanford | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,t„ Stuckey,name: Stuckey | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,t„Whitley,name: Whitley | part_or_instrument: violin,Instrument heading OCR-garbled; mapped to 'Violin'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"IMaiae -
+Mr. Dawson",name: Mr. Dawson | part_or_instrument: viola,Instrument heading OCR-garbled; mapped to 'Viola'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Joseph!,name: Joseph! | part_or_instrument: viola,Instrument heading OCR-garbled; mapped to 'Viola'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"„Wiedermann, junr.","name: Wiedermann, junr. | part_or_instrument: viola",Instrument heading OCR-garbled; mapped to 'Viola'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"„ Zelman, V.","name: Zelman, V. | part_or_instrument: viola",Instrument heading OCR-garbled; mapped to 'Viola'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,t „ West,name: West | part_or_instrument: viola,Instrument heading OCR-garbled; mapped to 'Viola'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,τMiss Charge,name: Miss Charge | part_or_instrument: viola,Instrument heading OCR-garbled; mapped to 'Viola'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"’€νΠ09 —
+Mr. Harrison",name: Mr. Harrison | part_or_instrument: violoncello (cello),Instrument heading OCR-garbled; mapped to 'Violoncello (Cello)'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,η Fox,name: Fox | part_or_instrument: violoncello (cello),Instrument heading OCR-garbled; mapped to 'Violoncello (Cello)'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"„Montague, A.","name: Montague, A. | part_or_instrument: violoncello (cello)",Instrument heading OCR-garbled; mapped to 'Violoncello (Cello)'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Τ,, Hore, E. A.","name: Hore, E. A. | part_or_instrument: violoncello (cello)",Instrument heading OCR-garbled; mapped to 'Violoncello (Cello)'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Pirrvlo
+t Mr. Zelman, Ε.","name: Mr. Zelman, Ε. | part_or_instrument: piccolo",Instrument heading OCR-garbled; mapped to 'Piccolo'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Dies —
+Mr. Taylor.
+tDr Rudall",name: Mr. Taylor. | part_or_instrument: oboe,Instrument heading OCR-garbled; mapped to 'Oboe'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Dies —
+Mr. Taylor.
+tDr Rudall",name: Dr Rudall | part_or_instrument: oboe,Instrument heading OCR-garbled; mapped to 'Oboe'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"©assumi» —
+ t Mr. Rudall 
+ t„Destreé",name: Mr. Rudall | part_or_instrument: bassoon,Instrument heading OCR-garbled; mapped to 'Bassoon'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"©assumi» —
+ t Mr. Rudall 
+ t„Destreé",name: Destreé | part_or_instrument: bassoon,Instrument heading OCR-garbled; mapped to 'Bassoon'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Burns—
+Mr. Kühr",name: Mr. Kühr | part_or_instrument: horn,Instrument heading OCR-garbled; mapped to 'Horn'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Barwood,name: Barwood | part_or_instrument: horn,Instrument heading OCR-garbled; mapped to 'Horn'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„ Hingott ,name: Hingott | part_or_instrument: horn,Instrument heading OCR-garbled; mapped to 'Horn'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,„Levey,name: Levey | part_or_instrument: horn,Instrument heading OCR-garbled; mapped to 'Horn'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Crvnbvnes —
+Mr. Lawson, junr.
+„Hore, junr.
+„Fries","name: Mr. Lawson, junr. | part_or_instrument: trombone",Instrument heading OCR-garbled; mapped to 'Trombone'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Crvnbvnes —
+Mr. Lawson, junr.
+„Hore, junr.
+„Fries","name: Hore, junr. | part_or_instrument: trombone",Instrument heading OCR-garbled; mapped to 'Trombone'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Crvnbvnes —
+Mr. Lawson, junr.
+„Hore, junr.
+„Fries",name: Fries | part_or_instrument: trombone,Instrument heading OCR-garbled; mapped to 'Trombone'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Cuba —
+Mr, Lüttich","name: Mr, Lüttich | part_or_instrument: tuba",Instrument heading OCR-garbled; mapped to 'Tuba'
+High — OCR/legibility,performer,UDC20260028-21.pdf,4,Melbourne Liedertafel,1899,"Enntpani—
+Mr. Munyard",name: Mr. Munyard | part_or_instrument: timpani,Instrument heading OCR-garbled; mapped to 'Timpani'
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Temp leton, H. O.","name: Temp leton, H. O. | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings; OCR split in surname
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Blundell, R. S.P (on I’ve)","name: Blundell, R. S.P (on I’ve) | part_or_instrument: Second Tenor",'on I’ve' OCR-garbled for 'on leave'
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,Humphrev G.,name: Humphrev G. | part_or_instrument: Second Tenor,Surname OCR-garbled (likely 'Humphrey')
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Muirhead, G. H. (on I’ve)","name: Muirhead, G. H. (on I’ve) | part_or_instrument: First Bass",'on I’ve' OCR-garbled for 'on leave'
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,Templeton. Capt ’I' H.,name: Templeton. Capt ’I' H. | part_or_instrument: First Bass,Middle initial OCR-garbled
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Whitehead, F, 9.","name: Whitehead, F, 9. | part_or_instrument: First Bass",Initial/character OCR-garbled
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Heathershaw,S A on I’ve","name: Heathershaw,S A on I’ve | part_or_instrument: First Bass",OCR-garbled; indicates 'on leave'
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Lewes, II M. (on I’ve)","name: Lewes, II M. (on I’ve) | part_or_instrument: First Bass",Initial OCR-garbled
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Willmott, Η. C.","name: Willmott, Η. C. | part_or_instrument: First Bass",Initial OCR-garbled
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Whitehead, Λ. E.","name: Whitehead, Λ. E. | part_or_instrument: First Bass",Initial OCR-garbled
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Turner, J. I’ (on leave)","name: Turner, J. I’ (on leave) | part_or_instrument: Second Bass",Initial/apostrophe OCR-garbled
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Perrv, S. J. (on I’ve)","name: Perrv, S. J. (on I’ve) | part_or_instrument: Second Bass",Surname OCR-garbled; 'on I’ve' for 'on leave'
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Wilkes, Κ.","name: Wilkes, Κ. | part_or_instrument: Second Bass",Initial OCR-garbled
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Denneston, Η B.","name: Denneston, Η B. | part_or_instrument: Second Bass",Initial OCR-garbled
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Watson, J. (on leave","name: Watson, J. (on leave | part_or_instrument: Second Bass",Line appears truncated by OCR
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Burke, R, Η, (on I've)","name: Burke, R, Η, (on I've) | part_or_instrument: Second Bass",Initials OCR-garbled; 'on I've' for 'on leave'
+High — OCR/legibility,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Watkin, Ε J.","name: Watkin, Ε J. | part_or_instrument: Second Bass",Initial OCR-garbled
+High — OCR/legibility,work,UDC20260028-21.pdf,9,Melbourne Liedertafel,1899,"Aria —
+Qui 83^no non S’accende
+(Ji Glautu Magirv)
+Mozart.",title: Qui 83^no non S’accende | composer: Mozart. | movement_or_selection: Ji Glautu Magirv,Aria title and parent work OCR-garbled; likely 'Qui sdegno non s’accende' and opera title garbled
+High — OCR/legibility,work,UDC20260028-21.pdf,9,Melbourne Liedertafel,1899,"Nocturne
+91 iou 111 nez Oliq Al’s Tican
+Felix Mendelssohn, Bartholdy.","title: Nocturne | composer: Felix Mendelssohn, Bartholdy.","Context suggests A Midsummer Night’s Dream; parent work garbled; movement context (Act III, Scene 2) noted in prose"
+High — OCR/legibility,work,UDC20260028-21.pdf,10,Melbourne Liedertafel,1899,"Choral  Ode —
+evicun ^oetlie’o ^JfefcHci”
+(IFaitsf, ^arf 2, Het 3.)
+G. W. L. Marshall-Hall.","title: evicun ^oetlie’o ^JfefcHci” | composer: G. W. L. Marshall-Hall. | movement_or_selection: (IFaitsf, ^arf 2, Het 3.)","Title/parent work OCR-garbled; context indicates Goethe (Faust, Part 2, Act 3)"
+High — OCR/legibility,work,UDC20260028-21.pdf,14,Melbourne Liedertafel,1899,"Aria
+(Hampson)
+Handel.",title: Aria | composer: Handel. | movement_or_selection: (Hampson),Parent work garbled; likely 'Samson'
+High — OCR/legibility,work,UDC20260028-21.pdf,15,Melbourne Liedertafel,1899,"Aria —
+Conn ein Schlauket Buzochi
+(Der Freischutz)
+Weber.",title: Conn ein Schlauket Buzochi | composer: Weber. | movement_or_selection: (Der Freischutz),Aria title OCR-garbled; likely 'Kommt ein schlanker Bursch gegangen'
+High — OCR/legibility,work,UDC20260028-21.pdf,16,Melbourne Liedertafel,1899,"Ballad —
+Sot? ^Π/Cm’o Daughter
+Hamish MacCunn.",title: Sot? ^Π/Cm’o Daughter | composer: Hamish MacCunn.,Title OCR-garbled; likely 'Lord Ullin’s Daughter'
+High — OCR/legibility,organization,UDC20260028-30.pdf,3,Musashinto Academia Musicae,1969-71,Chor:Musashino  Academia  Musicae  Oper  Kurse  Choc,name: Musashino  Academia  Musicae  Oper  Kurse  Choc | role: choir,"Organization name appears garbled (""Choc""). Kept as printed."
+High — OCR/legibility,performer,UDC20260028-30.pdf,10,Musashinto Academia Musicae,1969-71,Fiordiligi  I  Kyoko  Iwasaki,name: Kyoko  Iwasaki | part_or_instrument: Fiordiligi | associated_work: Cosi  fan  tutte,Role delimiter appears garbled ('I' instead of ':'); assumed assignment 'Fiordiligi'.
+High — OCR/legibility,performer,UDC20260028-30.pdf,10,Musashinto Academia Musicae,1969-71,Drabella  : Shinko  Date,name: Shinko  Date | part_or_instrument: Dorabella | associated_work: Cosi  fan  tutte,Role name appears as 'Drabella' in OCR; normalized to 'Dorabella' for role.
+High — OCR/legibility,performer,UDC20260028-30.pdf,10,Musashinto Academia Musicae,1969-71,Drabella  : Hiroko  Mogaki,name: Hiroko  Mogaki | part_or_instrument: Dorabella | associated_work: Cosi  fan  tutte,Role name appears as 'Drabella' in OCR; normalized to 'Dorabella' for role.
+Medium — inference,performer,UDC20260028-10.pdf,3,Melbourne Liedertafel,1893,"Hon. Gianist § Organist :
+Mr . AUGUST SIEDE.",name: Mr . AUGUST SIEDE. | part_or_instrument: Pianist and Organist,Instrumental roles inferred from caption
+Medium — inference,performer,UDC20260028-10.pdf,4,Melbourne Liedertafel,1893,"Violi —
+Mr. G. II. Schacht.",name: Mr. G. II. Schacht. | part_or_instrument: Viola,Header 'Violi —' assumed to indicate 'Viola'
+Medium — inference,performer,UDC20260028-10.pdf,4,Melbourne Liedertafel,1893,„A. Zeplin.,name: A. Zeplin. | part_or_instrument: Viola,Header 'Violi —' assumed to indicate 'Viola'
+Medium — inference,performer,UDC20260028-10.pdf,4,Melbourne Liedertafel,1893,",, H. Edwards.",name: H. Edwards. | part_or_instrument: Viola,Header 'Violi —' assumed to indicate 'Viola'
+Medium — inference,performer,UDC20260028-10.pdf,4,Melbourne Liedertafel,1893,",, T. Weidermann.",name: T. Weidermann. | part_or_instrument: Viola,Header 'Violi —' assumed to indicate 'Viola'
+Medium — inference,performer,UDC20260028-10.pdf,5,Melbourne Liedertafel,1893,"Robinson, Η. J. (on Ive.)","name: Robinson, Η. J. (on Ive.) | part_or_instrument: First Tenor",'on Ive.' likely 'on leave'
+Medium — inference,performer,UDC20260028-10.pdf,5,Melbourne Liedertafel,1893,Marshall. Capt. T. S. (on 1.,name: Marshall. Capt. T. S. (on 1. | part_or_instrument: First Tenor,'on 1.' likely 'on leave'
+Medium — inference,performer,UDC20260028-11.pdf,6,Melbourne Liedertafel,1893,"Miss Julief Flegellaub (of Ballarat) 
+(Her first appearance in Melbourne)",name: Miss Julief Flegellaub,Voice type not stated
+Medium — inference,performer,UDC20260028-11.pdf,6,Melbourne Liedertafel,1893,"Miss Fannie Gl^rlcswodli
+(Her first appearance in Melbourne)",name: Miss Fannie Gl^rlcswodli,Voice type not stated
+Medium — inference,performer,UDC20260028-11.pdf,6,Melbourne Liedertafel,1893,Mr. JH. J. Chamberlin,name: Mr. JH. J. Chamberlin,Voice type not stated
+Medium — inference,performer,UDC20260028-11.pdf,6,Melbourne Liedertafel,1893,Signor Jiffilio Buzzi,name: Signor Jiffilio Buzzi,Voice type not stated
+Medium — inference,performer,UDC20260028-11.pdf,7,Melbourne Liedertafel,1893,SOLO—MR. J. GLADSTONE WRIGHT,name: MR. J. GLADSTONE WRIGHT | part_or_instrument: soloist | associated_work: Consecration of Song,Voice type not stated
+Medium — inference,performer,UDC20260028-11.pdf,7,Melbourne Liedertafel,1893,Signor Attilio Buzzi,name: Signor Attilio Buzzi | associated_work: Si tu Savais,Voice type not stated
+Medium — inference,performer,UDC20260028-11.pdf,8,Melbourne Liedertafel,1893,Miss Juliet Flegeltaub,name: Miss Juliet Flegeltaub | associated_work: Convien partir,Voice type not stated
+Medium — inference,performer,UDC20260028-11.pdf,9,Melbourne Liedertafel,1893,Mr. A. J. Chamberlin,name: Mr. A. J. Chamberlin | associated_work: Ever Chine,Voice type not stated
+Medium — inference,performer,UDC20260028-11.pdf,9,Melbourne Liedertafel,1893,Miss Fannie Charlesworth,name: Miss Fannie Charlesworth | associated_work: I Move thee so,Voice type not stated
+Medium — inference,performer,UDC20260028-11.pdf,11,Melbourne Liedertafel,1893,"(With  CELLO OBBLIGATO BY HERR ThEO. LiEBE)
+Signor Buzzi",name: Signor Buzzi | associated_work: Hila Stella Confidente,Voice type not stated (singer)
+Medium — inference,performer,UDC20260028-11.pdf,11,Melbourne Liedertafel,1893,Miss Juliet Flegeltaub,name: Miss Juliet Flegeltaub | associated_work: The Three Wishes,Voice type not stated
+Medium — inference,organization,UDC20260028-13.pdf,4,Melbourne Liedertafel,1889,Yictoman Orchestra,name: Yictoman Orchestra | role: orchestra,Best-guess correction: 'Victorian Orchestra'
+Medium — inference,organization,UDC20260028-13.pdf,4,Melbourne Liedertafel,1889,0 Selected Choir of Boys Y,name: 0 Selected Choir of Boys Y | role: boys' choir,Best-guess normalization: 'A Selected Choir of Boys'
+Medium — inference,performer,UDC20260028-13.pdf,4,Melbourne Liedertafel,1889,Piss Θ Shannessy,name: Piss Θ Shannessy | part_or_instrument: vocalist,Best-guess: 'Miss O’Shannessy'
+Medium — inference,performer,UDC20260028-13.pdf,4,Melbourne Liedertafel,1889,FL 0. H. Gee,name: FL 0. H. Gee | part_or_instrument: vocalist,Best-guess: 'Mr. A. H. Gee'
+Medium — inference,performer,UDC20260028-13.pdf,4,Melbourne Liedertafel,1889,"PPbr. G. Θ. Fentum, Hon. Pianist",name: PPbr. G. Θ. Fentum | part_or_instrument: accompanist,Best-guess: 'Mr. G. B. Fentum'
+Medium — inference,organization,UDC20260028-13.pdf,5,Melbourne Liedertafel,1889,ïlùetropolitan OLieôertatel,name: ïlùetropolitan OLieôertatel | role: presenting organization,Best-guess correction: 'Metropolitan Liedertafel'
+Medium — inference,work,UDC20260028-13.pdf,7,Melbourne Liedertafel,1889,"Cantata “taralô’s œriôal Dopage”
+Feinrich Hofmann",title: Cantata “taralô’s œriôal Dopage” | composer: Feinrich Hofmann,Best-guess: 'Harald’s Bridal Voyage' by 'Heinrich Hofmann'
+Medium — inference,work,UDC20260028-13.pdf,11,Melbourne Liedertafel,1889,Pianoforte Solo : Concerto in E Flat Major Geethoven,title: Concerto in E Flat Major | composer: Geethoven,Best-guess: 'Beethoven' (probably Piano Concerto No. 5 in E-flat)
+Medium — inference,organization,UDC20260028-13.pdf,13,Melbourne Liedertafel,1889,Liedertatel,name: Liedertatel | role: choir,Best-guess correction: 'Liedertafel'
+Medium — inference,work,UDC20260028-13.pdf,13,Melbourne Liedertafel,1889,"Selections from “Xa Damnation de jfaust""
+Gerlioz","title: Selections from “Xa Damnation de jfaust"" | composer: Gerlioz",Best-guess: 'La Damnation de Faust' by 'Berlioz'
+Medium — inference,work,UDC20260028-13.pdf,14,Melbourne Liedertafel,1889,part Song “ Jfarewell” Binkti,title: part Song “ Jfarewell” | composer: Binkti,Best-guess: 'Pinsuti' (Part-song 'Farewell')
+Medium — inference,work,UDC20260028-13.pdf,15,Melbourne Liedertafel,1889,"Vocal Waits “ œiue Danube” (By request) 
+(ARRANGED BY ELSASSER) Str",title: Vocal Waits “ œiue Danube” | composer: Str | movement_or_selection: (ARRANGED BY ELSASSER),Best-guess: 'Blue Danube' by 'Strauss'; genre likely 'Vocal Waltz'
+Medium — inference,work,UDC20260028-15.pdf,12,Melbourne Liedertafel,1889,"Serenade ^^.^«λ
+(Tenor  Solo  Mr. W. Clarence Fraser)",title: Serenade,Composer not given on program page
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,"including:
+Mrs.  Belle  Meek",name: Mrs.  Belle  Meek | part_or_instrument: actor | associated_work: Only  An  Orphan  Girl,Role standardized to 'actor' from 'cast' wording.; Associated work title appears on page 6; cross-page inference.
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Mrs.  Lorraine  George,name: Mrs.  Lorraine  George | part_or_instrument: actor | associated_work: Only  An  Orphan  Girl,Role standardized to 'actor' from 'cast' wording.; Associated work title appears on page 6; cross-page inference.
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Mr. Gavin  Miller,name: Mr. Gavin  Miller | part_or_instrument: actor | associated_work: Only  An  Orphan  Girl,Role standardized to 'actor' from 'cast' wording.; Associated work title appears on page 6; cross-page inference.
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Mr. Noel  Henderson,name: Mr. Noel  Henderson | part_or_instrument: actor | associated_work: Only  An  Orphan  Girl,Role standardized to 'actor' from 'cast' wording.; Associated work title appears on page 6; cross-page inference.
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Mrs.  Shirley  Richardson,name: Mrs.  Shirley  Richardson | part_or_instrument: actor | associated_work: Only  An  Orphan  Girl,Role standardized to 'actor' from 'cast' wording.; Associated work title appears on page 6; cross-page inference.
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Mrs.  Caroline  Crisp,name: Mrs.  Caroline  Crisp | part_or_instrument: actor | associated_work: Only  An  Orphan  Girl,Role standardized to 'actor' from 'cast' wording.; Associated work title appears on page 6; cross-page inference.
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Mr. Ron  Gibbs  has  been  employed  to  devise  the  action  of  the  drama,name: Mr. Ron  Gibbs | part_or_instrument: choreographer | associated_work: Only  An  Orphan  Girl,Role 'choreographer' inferred from 'devise the action of the drama' phrasing.
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,"Incidental  solos  by  
+Mr. Vin  Smith",name: Mr. Vin  Smith | part_or_instrument: vocal soloist | associated_work: Only  An  Orphan  Girl,Associated to the drama as incidental music; work title identified on page 6 (cross-page).
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Mr. Laurie  Morgan,name: Mr. Laurie  Morgan | part_or_instrument: vocal soloist | associated_work: Only  An  Orphan  Girl,Associated to the drama as incidental music; work title identified on page 6 (cross-page).
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Mr. Ken  Collier,name: Mr. Ken  Collier | part_or_instrument: vocal soloist | associated_work: Only  An  Orphan  Girl,Associated to the drama as incidental music; work title identified on page 6 (cross-page).
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,Mr. Trevor  Parr,name: Mr. Trevor  Parr | part_or_instrument: vocal soloist | associated_work: Only  An  Orphan  Girl,Associated to the drama as incidental music; work title identified on page 6 (cross-page).
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,The  realistic  stage  presentation  here  tonight  is  due  to  the  indefatigable  efforts  of  Mr. Lloyd  George,name: Mr. Lloyd  George | part_or_instrument: stage manager | associated_work: Only  An  Orphan  Girl,Role inferred from phrasing; credited generally for 'stage presentation' rather than a standard title.
+Medium — inference,performer,UDC20260028-16.pdf,1,Madang Amateur Theatrical Society,Unknown,wonders  of  illumination  has  been  achieved  by  the  efforts  of  Mr. Len  Burley,name: Mr. Len  Burley | part_or_instrument: lighting | associated_work: Only  An  Orphan  Girl,'Lighting' role standardized from 'illumination' phrasing.
+Medium — inference,organization,UDC20260028-16.pdf,6,Madang Amateur Theatrical Society,Unknown,Hotel Madang,name: Hotel Madang | role: venue/host,Role inferred from letter-style note; not explicitly labeled as presenter/host.
+Medium — inference,patron,UDC20260028-16.pdf,6,Madang Amateur Theatrical Society,Unknown,"We are proud to be associated with the Madang Amateur Theatrical 
+Society",name: Hotel Madang | role: Sponsor,Sponsor/supporter role inferred from phrasing; not explicitly labeled as 'Sponsor'.
+Medium — inference,work,UDC20260028-16.pdf,6,Madang Amateur Theatrical Society,Unknown,"who have presented 
+""Only An Orphan Girl” tonight.",title: Only  An  Orphan  Girl | composer: Henning  Nelms,Composer attribution derived from page 1 text '... drama by Henning Nelms' (cross-page).; Henning Nelms is the playwright; treated here as 'composer' field per schema.
+Medium — inference,work,UDC20260028-17.pdf,2,Melbourne Liedertafel,1899,Song  .. .. “Softly Sighs” (Der Freischutz) ·. ·· Weber,title: Softly Sighs (Der Freischutz) | composer: Weber,Best guess: 'Der Freischütz' (umlaut omitted).
+Medium — inference,date,UDC20260028-17.pdf,20,Melbourne Liedertafel,1899,/Monday  Evening,date_text: Monday Evening,Partial date/time only; likely repeats full date on p.3.
+Medium — inference,performer,UDC20260028-18.pdf,9,Musashinto Academia Musicae,1973-74,"‘Ikuta-Ryu""..........Tadao  Sawai,  Kazue  Sawai",name: Tadao  Sawai | part_or_instrument: koto,Instrument (koto) inferred from program heading
+Medium — inference,performer,UDC20260028-18.pdf,9,Musashinto Academia Musicae,1973-74,"‘Ikuta-Ryu""..........Tadao  Sawai,  Kazue  Sawai",name: Kazue  Sawai | part_or_instrument: koto,Instrument (koto) inferred from program heading
+Medium — inference,performer,UDC20260028-18.pdf,9,Musashinto Academia Musicae,1973-74,"“  Yamada-Ryu  ”  ""”  ”  Matsuhiro  Ito",name: Matsuhiro  Ito | part_or_instrument: koto,Instrument (koto) inferred from program heading
+Medium — inference,performer,UDC20260028-18.pdf,19,Musashinto Academia Musicae,1973-74,Zorica   Filipovic  =  Voice  training  =,name: Zorica  Filipovic | part_or_instrument: voice,Role inferred as singer/voice coach
+Medium — inference,venue,UDC20260028-19.pdf,11,Musashinto Academia Musicae,1975-76,"Monday,  June  23, 1975, 7:00 p.m./lino  Hall",place: lino  Hall,'lino Hall' likely 'Iino Hall' in Tokyo; kept as printed.
+Medium — inference,work,UDC20260028-19.pdf,13,Musashinto Academia Musicae,1975-76,R.Schumann .................................................................Noveretten  Nr.8 fis  moll  Op.21,title: Noveretten  Nr.8  fis  moll  Op.21 | composer: R.Schumann,Likely 'Novelletten'; left as printed.
+Medium — inference,work,UDC20260028-2.pdf,5,Musashinto Academia Musicae,1968-69,R.R. Bennet .......................................................................Suite  of  Old  American  Dances,title: Suite  of  Old  American  Dances | composer: R.R.  Bennet,Composer likely 'R.R. Bennett' (spelling)
+Medium — inference,performer,UDC20260028-2.pdf,5,Musashinto Academia Musicae,1968-69,SOLOIST:  YOSHIKO  IKUTA  (Piano),name: YOSHIKO  IKUTA | part_or_instrument: piano | associated_work: Concerto  for  Piano  and  Orchestra  No.  1 Ε  flat  major,Associated work inferred: piano soloist likely for the Liszt Concerto
+Medium — inference,performer,UDC20260028-2.pdf,5,Musashinto Academia Musicae,1968-69,"PIANO:  HARUYO  OKADA,  MASAE  SUGA",name: HARUYO  OKADA | part_or_instrument: piano | associated_work: Sonata  for  Two  Pianos  and  Percussions,Associated work inferred from instrumentation
+Medium — inference,performer,UDC20260028-2.pdf,5,Musashinto Academia Musicae,1968-69,"PIANO:  HARUYO  OKADA,  MASAE  SUGA",name: MASAE  SUGA | part_or_instrument: piano | associated_work: Sonata  for  Two  Pianos  and  Percussions,Associated work inferred from instrumentation
+Medium — inference,performer,UDC20260028-2.pdf,5,Musashinto Academia Musicae,1968-69,"PERCUSSIONS:  YOSHITAKA  KOBAYASHI,  SHIRO  ICHIOKA",name: YOSHITAKA  KOBAYASHI | part_or_instrument: percussion | associated_work: Sonata  for  Two  Pianos  and  Percussions,Associated work inferred from instrumentation
+Medium — inference,performer,UDC20260028-2.pdf,5,Musashinto Academia Musicae,1968-69,"PERCUSSIONS:  YOSHITAKA  KOBAYASHI,  SHIRO  ICHIOKA",name: SHIRO  ICHIOKA | part_or_instrument: percussion | associated_work: Sonata  for  Two  Pianos  and  Percussions,Associated work inferred from instrumentation
+Medium — inference,performer,UDC20260028-2.pdf,5,Musashinto Academia Musicae,1968-69,PIANO:  KAZUO  KURITA,name: KAZUO  KURITA | part_or_instrument: piano | associated_work: Rhapsody  in  Blue,Associated work inferred: likely pianist in Gershwin 'Rhapsody in Blue'
+Medium — inference,work,UDC20260028-2.pdf,6,Musashinto Academia Musicae,1968-69,Μ.  Ravel ...........................................................................................................Sonatine,title: Sonatine | composer: Μ.  Ravel,Composer initial appears as Greek 'Μ' (likely 'M.')
+Medium — inference,work,UDC20260028-2.pdf,6,Musashinto Academia Musicae,1968-69,F. Chopin ....................................................................................................3 Mazurukas,title: 3  Mazurukas | composer: F.  Chopin,Likely '3 Mazurkas' (spelling)
+Medium — inference,work,UDC20260028-2.pdf,6,Musashinto Academia Musicae,1968-69,J. Brahms ................................................................Sonata  No.  2 F  major  Op.  88,title: Sonata  No.  2  F  major  Op.  88 | composer: J.  Brahms,Brahms Cello Sonata No. 2 is Op. 99; printed Op. 88 likely error
+Medium — inference,work,UDC20260028-2.pdf,9,Musashinto Academia Musicae,1968-69,Er  ist's ,title: Er  ist's | composer: H.   Wolf,Composer H. Wolf implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,9,Musashinto Academia Musicae,1968-69,Verborgenheit  ,title: Verborgenheit | composer: H.   Wolf,Composer H. Wolf implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,9,Musashinto Academia Musicae,1968-69,Mignon,title: Mignon | composer: H.   Wolf,Composer H. Wolf implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,9,Musashinto Academia Musicae,1968-69,• Ein  Schwan  ,title: Ein  Schwan | composer: IE.  Grieg,Composer E. Grieg implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,9,Musashinto Academia Musicae,1968-69,|Ein  Traum,title: Ein  Traum | composer: IE.  Grieg,Composer E. Grieg implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,10,Musashinto Academia Musicae,1968-69,G. Fauré ...............................................................................................Impromtu  Op.  31,title: Impromtu  Op.  31 | composer: G.  Fauré,Likely 'Impromptu' (spelling)
+Medium — inference,work,UDC20260028-2.pdf,10,Musashinto Academia Musicae,1968-69,W.A. Mozart ..........................................................................Fantasiy  d  minor  K. 397,title: Fantasiy  d  minor  K.  397 | composer: W.A.  Mozart,Likely 'Fantasy' (spelling)
+Medium — inference,work,UDC20260028-2.pdf,10,Musashinto Academia Musicae,1968-69,"""La  Traviata ”
+Addio  del  passato","title: ""La  Traviata ” | movement_or_selection: Addio  del  passato",Composer not repeated here; likely G. Verdi
+Medium — inference,work,UDC20260028-2.pdf,11,Musashinto Academia Musicae,1968-69,Mondnacht  Op.  39-5 ,title: Mondnacht  Op.  39-5 | composer: R.   Schumann,Composer R. Schumann implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,11,Musashinto Academia Musicae,1968-69,Schône  Fremde  Op.  39-6,title: Schône  Fremde  Op.  39-6 | composer: R.   Schumann,Composer R. Schumann implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,11,Musashinto Academia Musicae,1968-69,Ganymed  Op.  19-3,title: Ganymed  Op.  19-3 | composer: F.  Schubert,Composer F. Schubert implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,11,Musashinto Academia Musicae,1968-69,C.  M.  v. Weber  ....................Grand  duo  Concertanto  for  Clarinet  and  Piano  Op.  48,title: Grand  duo  Concertanto  for  Clarinet  and  Piano  Op.  48 | composer: C.   M.   v.  Weber,Likely 'Grand duo Concertant' (spelling)
+Medium — inference,work,UDC20260028-2.pdf,12,Musashinto Academia Musicae,1968-69,F. Schubert. “Die sohone Mullerin’’,title: “Die  sohone  Mullerin’’ | composer: F.  Schubert,Likely 'Die schöne Müllerin' (spelling)
+Medium — inference,work,UDC20260028-2.pdf,12,Musashinto Academia Musicae,1968-69,"R. Schumann................
+...........Das verlassene Magdelein",title: Das  verlassene  Magdelein | composer: R.  Schumann,Composer likely H. Wolf; printed under R. Schumann
+Medium — inference,work,UDC20260028-2.pdf,12,Musashinto Academia Musicae,1968-69,Der Knabe mit dem Wunderhorn,title: Der  Knabe  mit  dem  Wunderhorn,Composer not stated (various settings exist)
+Medium — inference,work,UDC20260028-2.pdf,12,Musashinto Academia Musicae,1968-69,Es liebt sich so lieblich in Lenze,title: Es  liebt  sich  so  lieblich  in  Lenze | composer: J.  Brahms,Composer J. Brahms implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,12,Musashinto Academia Musicae,1968-69,"Herr, nun sing ich dir ein neues Lied","title: Herr,  nun  sing  ich  dir  ein  neues  Lied | composer: Α.  Dvorak",Composer A. Dvorak implied by surrounding list
+Medium — inference,work,UDC20260028-2.pdf,13,Musashinto Academia Musicae,1968-69,Frühlingsstimme,title: Frühlingsstimme | composer: J.  Strauss,Composer J. Strauss implied by surrounding line
+Medium — inference,work,UDC20260028-2.pdf,13,Musashinto Academia Musicae,1968-69,"G.F.  Handel .............................................................................................................""Siroe""  
+Pietro  Metastasio","title: ""Siroe"" | composer: G.F.   Handel",Librettist printed; selection(s) not specified
+Medium — inference,work,UDC20260028-2.pdf,14,Musashinto Academia Musicae,1968-69,"..“La Boheme” 
+Addio  dolce  svegliare  alla  mattina!",title: “La  Boheme” | movement_or_selection: Addio  dolce  svegliare  alla  mattina!,Composer not printed; likely G. Puccini
+Medium — inference,work,UDC20260028-2.pdf,15,Musashinto Academia Musicae,1968-69,"Sat.  December  7,  1968  Sonetto ^ 104 del Petrarca",title: Sonetto  ^  104  del  Petrarca,Composer not printed; likely F. Liszt
+Medium — inference,work,UDC20260028-2.pdf,15,Musashinto Academia Musicae,1968-69,F. Liszt ............................................................................. Concerto  c  minor  Op.  37,title: Concerto  c  minor  Op.  37 | composer: F.  Liszt,Likely Beethoven Piano Concerto No. 3 (Op. 37)
+Medium — inference,work,UDC20260028-2.pdf,15,Musashinto Academia Musicae,1968-69,"String  Ensemble  
+.Holberg  Suite  Op.  40",title: Holberg  Suite  Op.  40,Composer not printed; likely E. Grieg
+Medium — inference,performer,UDC20260028-20.pdf,4,Melbourne Liedertafel,1899,MISS ADELAIDE BRUCE.,name: MISS ADELAIDE BRUCE. | part_or_instrument: vocal soloist | associated_work: ARIA—JAV Quesla Sonnba Obscura,Voice type not specified for this item; treated as generic vocal soloist
+Medium — inference,organization,UDC20260028-20.pdf,6,Melbourne Liedertafel,1899,(Composed specially for and dedicated to the Melbourne Liedertafel.),name: Melbourne Liedertafel. | role: choir,Role inferred from context; appears in dedication rather than a performer listing; likely same body as ‘THE LIEDERTAFEL’
+Medium — inference,performer,UDC20260028-20.pdf,9,Melbourne Liedertafel,1899,MISS MARGUERITE HENDERSON.,name: MISS MARGUERITE HENDERSON. | part_or_instrument: vocal soloist | associated_work: SoxG ®ie Sorefei,Voice type not specified; treated as generic vocal soloist
+Medium — inference,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Wcmbers of the Œ^sir :
+Dickins, J. J., Capt.","name: Dickins, J. J., Capt. | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings
+Medium — inference,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Dyer, J.","name: Dyer, J. | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings
+Medium — inference,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Hardy, J. W.","name: Hardy, J. W. | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings
+Medium — inference,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Robie, D. L","name: Robie, D. L | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings
+Medium — inference,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Robinson, Η. J","name: Robinson, Η. J | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings
+Medium — inference,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Sherlock, H. D.","name: Sherlock, H. D. | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings
+Medium — inference,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Pardy, A.","name: Pardy, A. | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings
+Medium — inference,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Jones, A. L.","name: Jones, A. L. | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings
+Medium — inference,performer,UDC20260028-21.pdf,5,Melbourne Liedertafel,1899,"Voight, Louis","name: Voight, Louis | part_or_instrument: chorus (unspecified part)",Voice part not specified in this line; appears before section headings
+Medium — inference,work,UDC20260028-21.pdf,6,Melbourne Liedertafel,1899,"loan 
+of Score, and Orchestral parts of “Ship O’ the Fiend.""",title: Ship O’ the Fiend | composer: Hamish MacCunn.,Composer inferred as Hamish MacCunn from page 7 heading; not named on this page
+Medium — inference,work,UDC20260028-21.pdf,14,Melbourne Liedertafel,1899,")rgan  Solo  —
+Bach.
+MR. AUGUST.SIEDE.
+In the Passacaglia we see,",title: Passacaglia | composer: Bach.,Specific title (Passacaglia) inferred from program note immediately following header
+Medium — inference,work,UDC20260028-21.pdf,14,Melbourne Liedertafel,1899,"Brahms.
+No. I—Allegro mollo.",title: No. I—Allegro mollo. | composer: Brahms.,Likely Hungarian Dances implied by program note; title not explicitly printed
+Medium — inference,work,UDC20260028-21.pdf,14,Melbourne Liedertafel,1899,"No. 2—Allegretto.
+U
+ORCHESTRA.",title: No. 2—Allegretto. | composer: Brahms.,Likely Hungarian Dances implied by program note; title not explicitly printed
+Medium — inference,performer,UDC20260028-30.pdf,10,Musashinto Academia Musicae,1969-71,Don  Alfonso  ; Takahisa  Nishikawa,name: Takahisa  Nishikawa | part_or_instrument: Don Alfonso | associated_work: Cosi  fan  tutte,Delimiter appears as ';' instead of ':'; assumed assignment 'Don  Alfonso'.
+Low — informational,patron,UDC20260028-10.pdf,19,Melbourne Liedertafel,1893,"The thanks of the Society are due to Messrs. PATON 
+& SONS (for the Plants)",name: PATON & SONS | role: Donor,In-kind sponsor/donor
+Low — informational,patron,UDC20260028-10.pdf,19,Melbourne Liedertafel,1893,WEBB & SON (for the Vases,name: WEBB & SON | role: Donor,In-kind sponsor/donor
+Low — informational,patron,UDC20260028-10.pdf,19,Melbourne Liedertafel,1893,"FOY & GIBSON (for the Draperies),",name: FOY & GIBSON | role: Donor,In-kind sponsor/donor
+Low — informational,work,UDC20260028-13.pdf,17,Melbourne Liedertafel,1889,GOD SAVE THE QUEEN.,title: GOD SAVE THE QUEEN.,Composer not printed
+Low — informational,work,UDC20260028-15.pdf,17,Melbourne Liedertafel,1889,GOD SAVE The  QUEEN.,title: GOD SAVE The  QUEEN.,Composer not credited (customary)
+Low — informational,work,UDC20260028-18.pdf,6,Musashinto Academia Musicae,1973-74,L. Kramer ..... ..........................................Improvisation  über  ein  gegebenes  Thema,title: Improvisation  über  ein  gegebenes  Thema | composer: L. Kramer,Assuming composer 'L. Kramer' is Leo Kramer
+Low — informational,work,UDC20260028-18.pdf,7,Musashinto Academia Musicae,1973-74,W.   A.   Mozart  .............................................Concerto  B-dur  K.  V.191 (Euphonium),title: Concerto | composer: W.   A.   Mozart | movement_or_selection: B-dur  K.  V.191 (Euphonium),Instrument credit '(Euphonium)' conflicts with known KV191 (Bassoon)
+Low — informational,work,UDC20260028-18.pdf,17,Musashinto Academia Musicae,1973-74,from   “  Die   Zauberflote   ”   0  zittre   nicht   Agnus   dei,title: from   “  Die   Zauberflote   ”   0  zittre   nicht;  Agnus   dei | composer: W.   A.  Mozart,Two items combined
+Low — informational,work,UDC20260028-19.pdf,7,Musashinto Academia Musicae,1975-76,"L.Cherubini  ...............................................................“ Demofonte  Ahi,  sola  quando  io","title: “ Demofonte  Ahi,  sola  quando  io | composer: L.Cherubini",Line break truncates aria title; left as printed.
+Low — informational,work,UDC20260028-19.pdf,7,Musashinto Academia Musicae,1975-76,G.Donizetti .........................................Linda  di  Chamounix ”  0 luce  di  questo  anima,title: Linda  di  Chamounix | composer: G.Donizetti | movement_or_selection: 0  luce  di  questo  anima,Leading quote appears mismatched; left as printed.
+Low — informational,date,UDC20260028-19.pdf,8,Musashinto Academia Musicae,1975-76,"Wednesday,  October  15, 1975, 4:10 p.m./M.H.V","date_text: Wednesday,  October  15, 1975, 4:10 p.m.",Venue abbreviation appears as 'M.H.V'; left as printed.
+Low — informational,work,UDC20260028-19.pdf,8,Musashinto Academia Musicae,1975-76,P.Mascagni .................................................................“ Lodoletta  Flammen  perdonami,title: “ Lodoletta  Flammen  perdonami | composer: P.Mascagni,Title appears to conflate work and aria; left as printed.
+Low — informational,work,UDC20260028-19.pdf,11,Musashinto Academia Musicae,1975-76,"NOH .....................................................................................................""Tenko""","title: ""Tenko""",Traditional Noh play; no individual composer credited.
+Low — informational,work,UDC20260028-19.pdf,12,Musashinto Academia Musicae,1975-76,J.S.Bach................................................................ . Das Wohltemperierter Klavier 1,title: Das  Wohltemperierter  Klavier  1 | composer: J.S.Bach,Spelling 'Wohltemperierter' appears without ending 'te'; left as printed.
+Low — informational,date,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,"at  4:10 p.m./Mozart  Hall
+1969
+Tuesday,  January  14","date_text: Tuesday,  January  14",Year 1969 indicated in header line
+Low — informational,date,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,"1969
+Wednesday,  January  15","date_text: Wednesday,  January  15",Year 1969 indicated in header line
+Low — informational,date,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,"1969
+Thursday,  January  16","date_text: Thursday,  January  16",Year 1969 indicated in header line
+Low — informational,date,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,"1969
+Friday,  January  17","date_text: Friday,  January  17",Year 1969 indicated in header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,"The  complete  Piano  works  for  2  hands  by  J. Brahms  
+Tuesday,  January  14...................................................Rhapsody  g  minor  Op.  79-2",title: Rhapsody  g  minor  Op.  79-2 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,"The  complete  Piano  works  for  2  hands  by  J. Brahms  
+Ballades  Op.  10",title: Ballades  Op.  10 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,"The  complete  Piano  works  for  2  hands  by  J. Brahms  
+Variations  and  Fugue  on  a  theme  by  Handel  Op.  24",title: Variations  and  Fugue  on  a  theme  by  Handel  Op.  24 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,"The  complete  Piano  works  for  2  hands  by  J. Brahms  
+8 Piano  pieces  Op.  76",title: 8  Piano  pieces  Op.  76 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,Variations  on  a  theme  by  Robert  Schumann  Op.  9,title: Variations  on  a  theme  by  Robert  Schumann  Op.  9 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,Sonata  C  major  Op.  1,title: Sonata  C  major  Op.  1 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,6 Piano  pieces  Op.  118,title: 6  Piano  pieces  Op.  118 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,Scherzo  e  flat  minor  Op.  4,title: Scherzo  e  flat  minor  Op.  4 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,Variations  on  an  own  theme  Op.  21-1,title: Variations  on  an  own  theme  Op.  21-1 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,Sonata  f minor  Op.  5,title: Sonata  f minor  Op.  5 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,Fantasies  Op.  116,title: Fantasies  Op.  116 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,Variations  on  a  Hungarian  song  Op.  21-2,title: Variations  on  a  Hungarian  song  Op.  21-2 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,Rhapsody  b  minor  Op.  79-1,title: Rhapsody  b  minor  Op.  79-1 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,Sonata  f sharp  minor  Op.  2,title: Sonata  f  sharp  minor  Op.  2 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,7,Musashinto Academia Musicae,1968-69,4 Piano  pieces  Op.  119,title: 4  Piano  pieces  Op.  119 | composer: J.  Brahms,Composer taken from section header line
+Low — informational,work,UDC20260028-2.pdf,10,Musashinto Academia Musicae,1968-69,C. Debussy .........................................Les  collines  d'Anacapri  General  Lavine  eccentric,title: Les  collines  d'Anacapri | composer: C.  Debussy,Two distinct preludes printed on one line; split as separate works
+Low — informational,work,UDC20260028-2.pdf,10,Musashinto Academia Musicae,1968-69,C. Debussy .........................................Les  collines  d'Anacapri  General  Lavine  eccentric,title: General  Lavine  eccentric | composer: C.  Debussy,Two distinct preludes printed on one line; split as separate works
+Low — informational,performer,UDC20260028-21.pdf,9,Melbourne Liedertafel,1899,"Mozart.
+MR. W. G. BARKER.",name: MR. W. G. BARKER | part_or_instrument: bass | associated_work: Qui 83^no non S’accende,Associated with preceding aria title
+Low — informational,patron,UDC20260028-21.pdf,18,Melbourne Liedertafel,1899,"His Excellency the Governor and Lady Brassey have kindly 
+granted their patronage",name: His Excellency the Governor | role: Patron,'His Excellency the Governor' refers contextually to Lord Brassey; extracted as printed without personal name
+Low — informational,performer,UDC20260028-30.pdf,3,Musashinto Academia Musicae,1969-71,"Musikalische  Leitung:  Rodolfo  Ricci  /
+Takao  Okamura",name: Rodolfo  Ricci | part_or_instrument: music director | associated_work: Cosi  fan  tutte,Shared credit; treated as two separate performers.
+Low — informational,performer,UDC20260028-30.pdf,3,Musashinto Academia Musicae,1969-71,"Musikalische  Leitung:  Rodolfo  Ricci  /
+Takao  Okamura",name: Takao  Okamura | part_or_instrument: music director | associated_work: Cosi  fan  tutte,Shared credit; treated as two separate performers.
+Low — informational,performer,UDC20260028-30.pdf,3,Musashinto Academia Musicae,1969-71,Probe  Begleiter:Nobue  KitaNatsuko  Togawa/ Seiya  Hirashima,name: Nobue  Kita | part_or_instrument: rehearsal accompanist | associated_work: Cosi  fan  tutte,"Names appear concatenated; split into 'Nobue  Kita', 'Natsuko  Togawa', and 'Seiya  Hirashima' by inference."
+Low — informational,performer,UDC20260028-30.pdf,3,Musashinto Academia Musicae,1969-71,Probe  Begleiter:Nobue  KitaNatsuko  Togawa/ Seiya  Hirashima,name: Natsuko  Togawa | part_or_instrument: rehearsal accompanist | associated_work: Cosi  fan  tutte,"Names appear concatenated; split into 'Nobue  Kita', 'Natsuko  Togawa', and 'Seiya  Hirashima' by inference."
+Low — informational,performer,UDC20260028-30.pdf,3,Musashinto Academia Musicae,1969-71,Probe  Begleiter:Nobue  KitaNatsuko  Togawa/ Seiya  Hirashima,name: Seiya  Hirashima | part_or_instrument: rehearsal accompanist | associated_work: Cosi  fan  tutte,"Names appear concatenated; split into 'Nobue  Kita', 'Natsuko  Togawa', and 'Seiya  Hirashima' by inference."
