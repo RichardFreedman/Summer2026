@@ -7,6 +7,7 @@ import pymupdf
 import os
 import shutil
 import gc
+import json
 
 #This function does the main extraction task. It will be fed an image of a single page of text, and run PaddleOCR on the image. It will then return the extracted text as a dictionary entry labelled by page.
 def extract_page(path):
@@ -28,6 +29,9 @@ def extract_page(path):
 
 #Main program
 if __name__ == "__main__":
+    #DPI for PDF page to image conversion. Higher values improve OCR accuracy at the cost
+    #of slower processing and more memory per page; 300 is the typical OCR sweet spot.
+    DPI = 200
     #Takes in filepath to PDF and opens file
     pdfpath=input("Path to PDF: ")
     document = pymupdf.open(pdfpath)
@@ -41,7 +45,7 @@ if __name__ == "__main__":
     os.makedirs(dump_dir, exist_ok=True)
     #Converts all pages to images, stored in above directory
     for i, page in enumerate(document):
-        img = page.get_pixmap(dpi=85) #Can increase/lower DPI value for better accuracy/speed respectively
+        img = page.get_pixmap(dpi=DPI)
         img.save(f"{dump_dir}/page{i}.png")
         
     document.close()
@@ -56,3 +60,25 @@ if __name__ == "__main__":
     #Sorts extracted texts by pagenumber
     output.sort(key=lambda x: x["pagenum"])
     print(output)
+
+    #Derives output basename from the input PDF path (strips directory and extension)
+    base = os.path.splitext(os.path.basename(pdfpath))[0]
+    out_dir = os.path.dirname(pdfpath) or "."
+
+    #Writes the structured output as JSON
+    json_path = os.path.join(out_dir, f"{base}.json")
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
+
+    #Writes the same output as a single TXT file, with a "===Page N===" header per page.
+    #Fragments are joined with spaces rather than newlines, since PaddleOCR's rec_texts
+    #are per detected text box, not per line, so newline-joining would introduce
+    #artificial line breaks that don't correspond to real sentence/line structure.
+    txt_path = os.path.join(out_dir, f"{base}.txt")
+    with open(txt_path, "w", encoding="utf-8") as f:
+        for entry in output:
+            f.write(f"===Page {entry['pagenum']}===\n")
+            f.write(" ".join(entry["text"]))
+            f.write("\n\n")
+
+    print(f"Wrote {json_path} and {txt_path}")
