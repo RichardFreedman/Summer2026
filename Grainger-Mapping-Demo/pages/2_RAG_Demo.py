@@ -9,6 +9,8 @@ from langchain_core.prompts import ChatPromptTemplate
 from langgraph.graph import START, StateGraph
 from pathlib import Path
 
+from openai_key import MISSING_KEY_MESSAGE, get_openai_key
+
 
 st.set_page_config(page_title='LLM RAG', page_icon='🔎')
 
@@ -16,11 +18,11 @@ st.sidebar.header('LLM RAG 🔎')
 st.title('🔎 LLM RAG Interface')
 
 
-openai_api_key = st.sidebar.text_input("OpenAI API Key", type="password")
+openai_api_key = get_openai_key()
 model = st.sidebar.selectbox("Model", ["gpt-5-mini", "gpt-4o-mini", "gpt-4o", "gpt-4.1", "gpt-4.1-mini"])
 
-if not openai_api_key.startswith("sk-"):
-    st.warning("Please enter your OpenAI API key **in the sidebar**.", icon="👈")
+if not openai_api_key:
+    st.error(MISSING_KEY_MESSAGE)
 else:
     os.environ["OPENAI_API_KEY"] = openai_api_key
     llm = init_chat_model(model, model_provider='openai')
@@ -31,7 +33,9 @@ else:
     vector_store = Chroma(
         collection_name='Etude_samples', # I forgot to change this name in chroma-db_creation so it has to stay now
         embedding_function=embeddings,
-        persist_directory=f'{Path.cwd()}/chroma-db'
+        # Relative to this file, not the working directory, so the app runs
+        # correctly whichever directory streamlit is started from.
+        persist_directory=str(Path(__file__).parent.parent / 'chroma-db')
     )
 
 

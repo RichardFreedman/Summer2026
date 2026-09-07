@@ -12,6 +12,7 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
 
 import postprocess
+from openai_key import MISSING_KEY_MESSAGE, get_openai_key
 from preprocess import preprocess, make_batches
 
 HERE = Path(__file__).parent
@@ -134,10 +135,10 @@ def _save_upload(upload, directory: Path) -> Path:
 st.title("Grainger catalogue → EMu structured metadata (demo)")
 st.caption("Tab 1: LLM; Parses entries into intermediate EMu-like JSON. Tab 2: Manual review + deterministic postprocessing of intermediate JSON to EMu import files")
 
+api_key = get_openai_key()
+
 with st.sidebar:
     st.header("Settings")
-    api_key = st.text_input("OpenAI API key", type="password",
-                            help="Only kept in this session's memory.")
     model = st.selectbox("Model", ["gpt-5-mini", "gpt-4o-mini", "gpt-4o", "gpt-4.1", "gpt-4.1-mini"])
     batch_size = st.slider("Entries per LLM call", 1, 10, 5,
                            help="Parent and '+' child entries always stay together regardless.")
@@ -170,10 +171,10 @@ with tab_parse:
     with tab_in:
         st.code(batch.text, language=None) 
 
-    # button is grayed out until you enter an api key in the sidebar
+    # button is greyed out unless the server has an api key configured
     run = st.button("Parse this batch", type="primary", disabled=not api_key)
     if not api_key:
-        st.info("Enter an OpenAI API key in the sidebar to run the parser.")
+        st.error(MISSING_KEY_MESSAGE)
 
     if run:
         llm = ChatOpenAI(model=model, temperature=0, api_key=api_key)

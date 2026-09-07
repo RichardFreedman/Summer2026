@@ -10,9 +10,13 @@ The streamlit is available at grainger-mapping-demo.streamlit.app.
 ## How to run
 
     pip install -r requirements.txt
+    export OPENAI_API_KEY=sk-...
     streamlit run Home_🏠.py
 
-To query the LLM, you must enter an OpenAI API key in the sidebar.
+The app reads `OPENAI_API_KEY` from the environment (or from
+`.streamlit/secrets.toml`); there is no key entry box. On the workshop server the
+key is supplied by `deploy/grainger/.env` and the app sits behind basic auth, so
+participants never handle a key. See `deploy/README.md`.
 
 ## Process
 
