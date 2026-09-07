@@ -1,0 +1,8 @@
+# Internal server for the static Liedertafel edition. The public prefix
+# /liedertafel is stripped by the shared Caddy (handle_path), so this serves
+# from the root.
+:80 {
+	root * /srv
+	encode gzip
+	file_server
+}
