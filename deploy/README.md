@@ -14,6 +14,9 @@ deploy/
   melbourne-moods/       the moodrec Streamlit app
     docker-compose.yml   app container only, joins the "web" network
     .env.example         API keys, GENRE_MODE
+  grainger/              the Grainger-Mapping-Demo Streamlit app
+  liedertafel/           the TEI edition, a static site plus its own small Caddy
+    site/                the built files; see that directory's README
 ```
 
 ## Apps
@@ -21,6 +24,8 @@ deploy/
 | Path | App | Source | Login |
 |---|---|---|---|
 | `/melbourne-moods/` | Melbourne Moods | `moodrec/` | shared user + password (`deploy/caddy/.env`) |
+| `/grainger/` | Grainger → EMu demo | `Grainger-Mapping-Demo/` | shared user + password (`deploy/caddy/.env`) |
+| `/liedertafel/` | Liedertafel TEI edition | `deploy/liedertafel/site/` | none, the edition is public |
 
 ## How deploys work
 
@@ -34,7 +39,7 @@ and untouched by pulls.
 ```
 ssh workshops
   sudo mkdir -p /volume/summer2026 && sudo chown $USER /volume/summer2026
-  git clone https://github.com/dan321/Summer2026.git /volume/summer2026
+  git clone https://github.com/RichardFreedman/Summer2026.git /volume/summer2026
   cd /volume/summer2026/deploy/caddy && cp .env.example .env
   docker run --rm caddy:2 caddy hash-password --plaintext 'the-password'
   nano .env                         # paste the hash in single quotes
@@ -74,4 +79,8 @@ deploy/melbourne-moods/deploy.sh
   too. Each app can have its own credentials.
 - Melbourne Moods bakes its `*_cache.json` files into the image; entries written
   at runtime live in the container and are lost on rebuild.
-- Useful: `docker compose logs -f` in either directory.
+- The Grainger app has no key entry box: it reads `OPENAI_API_KEY` from
+  `deploy/grainger/.env`, which is why it sits behind basic auth. Its Chroma
+  vector store is baked into the image, and post-processor output written at
+  runtime is likewise lost on rebuild.
+- Useful: `docker compose logs -f` in any of the app directories.

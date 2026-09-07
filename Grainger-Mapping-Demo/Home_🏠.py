@@ -10,9 +10,9 @@ st.markdown(
     This demo converts batches of OCR'd TXT catalogue entries into intermediate JSONs to be loaded into an EMu digital 
     collections management system after manual review. The OCR'd catalogue is cleaned into uniform entries, grouped 
     into batches of entries of adjustable size, parsed into EMu-like JSON, and validated against the desired JSON schema. 
-    Low-confidence and erroneous conversions are flagged for review and excluded from the output JSON. To use the demo, 
-    an openai API key must be entered into the sidebar. More information on the conversion process can be found in the 
-    GitHub's README.
+    Low-confidence and erroneous conversions are flagged for review and excluded from the output JSON. The OpenAI API
+    key the demo needs is supplied by the server, so there is nothing to enter. More information on the conversion
+    process can be found in the GitHub's README.
 
     A more complete deployment of this demo would be capable of running this process on any input PDF or TXT, and would
     also have to be customized per institution, since every EMu integration is heavily customized. A sample EMu export

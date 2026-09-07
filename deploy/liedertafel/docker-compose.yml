@@ -1,0 +1,20 @@
+# Liedertafel TEI edition: a static site (one self-contained HTML file plus the
+# TEI XML) served by its own small Caddy. No ports published; the shared Caddy
+# in deploy/caddy reaches it as "liedertafel:80" over the external "web" network.
+services:
+  liedertafel:
+    image: caddy:2
+    restart: unless-stopped
+    volumes:
+      # Directories, not files: git replaces files on pull and a single-file
+      # bind mount would keep pointing at the old inode.
+      - ./config:/etc/caddy:ro
+      - ./site:/srv:ro
+    expose:
+      - "80"
+    networks:
+      - web
+
+networks:
+  web:
+    external: true

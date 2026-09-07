@@ -1,0 +1,7 @@
+# Liedertafel TEI edition (static site), see deploy/liedertafel/.
+# The site is served from its root, so the prefix is stripped (handle_path).
+redir /liedertafel /liedertafel/ permanent
+
+handle_path /liedertafel/* {
+	reverse_proxy liedertafel:80
+}
