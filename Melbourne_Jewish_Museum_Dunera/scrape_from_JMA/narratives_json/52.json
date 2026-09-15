@@ -1,0 +1,1361 @@
+{
+  "rid": "enarratives.52",
+  "rownum": 6,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 8883,
+      "format": "jpeg"
+    }
+  ],
+  "index": 0,
+  "associations": [],
+  "parents": {
+    "title": "HMT Dunera and Internment Collection",
+    "image": {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8880
+    },
+    "irn": 28
+  },
+  "objects": [
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6493
+      },
+      "title": "Pauline Neufeld to Wilhelm Neufeld",
+      "irn": 5572
+    },
+    {
+      "irn": 7124,
+      "title": "Internment and release of Leopold Kohn",
+      "image": {
+        "format": "jpeg",
+        "irn": 1849,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 7128,
+      "title": "Record of Service Book",
+      "image": {
+        "format": "jpeg",
+        "irn": 1852,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 9584,
+      "image": {
+        "irn": 7994,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Recreation Department programme"
+    },
+    {
+      "irn": 9589,
+      "title": "Mr B Sherman to Ivan Majer Pietruschka (German text)",
+      "image": {
+        "irn": 8004,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "irn": 8009,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Letter addressed  to Ivan Majer Pietruschka",
+      "irn": 9590
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 8013,
+        "format": "jpeg"
+      },
+      "title": "No 7 Camp Eastern Command to Ivan Majer Pietruschka",
+      "irn": 9591
+    },
+    {
+      "image": {
+        "irn": 8016,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Certificate of Naturalization",
+      "irn": 9593
+    },
+    {
+      "title": "Certificate of Marriage",
+      "image": {
+        "format": "jpeg",
+        "irn": 8018,
+        "type": "image"
+      },
+      "irn": 9594
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 8568,
+        "type": "image"
+      },
+      "title": "We Travel Around the World",
+      "irn": 10421
+    },
+    {
+      "image": {
+        "irn": 9664,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Sergeant Snow White",
+      "irn": 5571
+    },
+    {
+      "title": "General J D Layton to W. D. Herr",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6385
+      },
+      "irn": 5991
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6874,
+        "type": "image"
+      },
+      "title": "'Dug Out' Club",
+      "irn": 5252
+    },
+    {
+      "irn": 4618,
+      "image": {
+        "type": "image",
+        "irn": 1419,
+        "format": "jpeg"
+      },
+      "title": "Snow White Joins Up"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6393
+      },
+      "title": "Receipt of goods received from AMF",
+      "irn": 5175
+    },
+    {
+      "irn": 4569,
+      "image": {
+        "type": "image",
+        "irn": 6396,
+        "format": "jpeg"
+      },
+      "title": "Leonhard Posner to his wife"
+    },
+    {
+      "title": "Reference for Wilhelm Herr from A.Eppenstein",
+      "image": {
+        "type": "image",
+        "irn": 6397,
+        "format": "jpeg"
+      },
+      "irn": 4570
+    },
+    {
+      "irn": 4571,
+      "title": "Mrs Lippmann to F G.Turkheim and Hans-Peter Haymann",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6398
+      }
+    },
+    {
+      "irn": 4572,
+      "image": {
+        "irn": 1425,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Leonhard Posner to Charlotte Posner and son George"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6407,
+        "type": "image"
+      },
+      "title": "Greetings to prisoners of war and internees",
+      "irn": 4573
+    },
+    {
+      "title": "Card - Farewell card for ErichTichauer, Tatura, 1942",
+      "image": {
+        "irn": 1427,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5849
+    },
+    {
+      "image": {
+        "irn": 5257,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Arsenal Football Championship Membership Card",
+      "irn": 4619
+    },
+    {
+      "title": "Klavier Abend",
+      "image": {
+        "irn": 5888,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5566
+    },
+    {
+      "irn": 6074,
+      "image": {
+        "format": "jpeg",
+        "irn": 1739,
+        "type": "image"
+      },
+      "title": "Best wishes from the Roebucks"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6443,
+        "type": "image"
+      },
+      "title": "Juventus Soccer Club membership card",
+      "irn": 5988
+    },
+    {
+      "title": "Rosa Kronheim to George Rosenthal",
+      "image": {
+        "type": "image",
+        "irn": 6456,
+        "format": "jpeg"
+      },
+      "irn": 5806
+    },
+    {
+      "irn": 5807,
+      "title": "George Rosenthal to Rosa Kronheim",
+      "image": {
+        "irn": 6452,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5808,
+      "title": "State Police of Berlin to George Rosenthal",
+      "image": {
+        "type": "image",
+        "irn": 6459,
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "V for Victory Variety Concert",
+      "image": {
+        "irn": 6483,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5446
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1744
+      },
+      "title": "We're In Love, A Rumbling Riot of Rollicking Revue",
+      "irn": 6218
+    },
+    {
+      "title": "Unterhaltungs Konzert",
+      "image": {
+        "format": "jpeg",
+        "irn": 6485,
+        "type": "image"
+      },
+      "irn": 5436
+    },
+    {
+      "title": "Joseph Ausbacher to his parents",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6487
+      },
+      "irn": 4638
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6488
+      },
+      "title": "Mr Ades to Paul Bartrop",
+      "irn": 5828
+    },
+    {
+      "irn": 5777,
+      "title": "Dr Max Gellis to Felix Solmitz",
+      "image": {
+        "irn": 6495,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5889,
+      "image": {
+        "format": "jpeg",
+        "irn": 6674,
+        "type": "image"
+      },
+      "title": "Demobilisation Procedure Book"
+    },
+    {
+      "irn": 5312,
+      "image": {
+        "irn": 6677,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Entitlement to War Gratuity Form"
+    },
+    {
+      "irn": 4652,
+      "image": {
+        "format": "jpeg",
+        "irn": 6680,
+        "type": "image"
+      },
+      "title": "Snow White New Year Revue"
+    },
+    {
+      "irn": 5265,
+      "image": {
+        "irn": 1444,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "New Year Postcard, 1941, Hay NSW"
+    },
+    {
+      "title": "Tatura Camp School to Harry Jeidels",
+      "image": {
+        "type": "image",
+        "irn": 6689,
+        "format": "jpeg"
+      },
+      "irn": 5892
+    },
+    {
+      "image": {
+        "irn": 6691,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Handball Association",
+      "irn": 6195
+    },
+    {
+      "irn": 5313,
+      "title": "Leave pass  for Private William Herr",
+      "image": {
+        "type": "image",
+        "irn": 6693,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5811,
+      "title": "M. Reiss  to Martin Reichwald",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6707
+      }
+    },
+    {
+      "irn": 6061,
+      "image": {
+        "irn": 6723,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Demobilisation Procedure Book"
+    },
+    {
+      "title": "diary - Alfred Lewinsky, 1940",
+      "image": {
+        "format": "jpeg",
+        "irn": 1452,
+        "type": "image"
+      },
+      "irn": 5877
+    },
+    {
+      "irn": 6079,
+      "title": "Mr Hans Greilsheimer to Martin Reichwald",
+      "image": {
+        "format": "jpeg",
+        "irn": 6726,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 4656,
+      "title": "Canteen Voucher",
+      "image": {
+        "type": "image",
+        "irn": 6728,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5316,
+      "title": "Special Clothing Ration Book",
+      "image": {
+        "type": "image",
+        "irn": 6735,
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "F.G.Turkheim to Kurt Lippmann",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6741
+      },
+      "irn": 4575
+    },
+    {
+      "irn": 4856,
+      "image": {
+        "format": "jpeg",
+        "irn": 6760,
+        "type": "image"
+      },
+      "title": "Handball Membership"
+    },
+    {
+      "title": "Spencer's Antrim",
+      "image": {
+        "type": "image",
+        "irn": 7980,
+        "format": "jpeg"
+      },
+      "irn": 7027
+    },
+    {
+      "image": {
+        "irn": 7076,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Man and woman in a studio",
+      "irn": 7024
+    },
+    {
+      "irn": 7036,
+      "image": {
+        "irn": 7074,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Margorethe Kohn's sister"
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 1654,
+        "format": "jpeg"
+      },
+      "title": "Concerts in Aid of Red Cross and Comforts Funds",
+      "irn": 7102
+    },
+    {
+      "title": "Programme",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1651
+      },
+      "irn": 7099
+    },
+    {
+      "title": "Free Concerts for Members of the Fighting Services",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1653
+      },
+      "irn": 7101
+    },
+    {
+      "irn": 7110,
+      "image": {
+        "type": "image",
+        "irn": 1835,
+        "format": "jpeg"
+      },
+      "title": "Worker's Card of Samuel Finkel"
+    },
+    {
+      "title": "Raucherkarte (Samuel Finkel)",
+      "image": {
+        "irn": 1836,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 7111
+    },
+    {
+      "irn": 7114,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1839
+      },
+      "title": "Raucherkarte (Samuel Finkel)"
+    },
+    {
+      "title": "W.S.Newsman to W. Neufeld",
+      "image": {
+        "irn": 7169,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5983
+    },
+    {
+      "irn": 1235,
+      "image": {
+        "type": "image",
+        "irn": 7397,
+        "format": "jpeg"
+      },
+      "title": "Naval Draft Boxing Competition"
+    },
+    {
+      "irn": 5866,
+      "title": "W.S.Newsman to W. Neufeld",
+      "image": {
+        "type": "image",
+        "irn": 7167,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5815,
+      "title": "George Rosenthal",
+      "image": {
+        "format": "jpeg",
+        "irn": 7006,
+        "type": "image"
+      }
+    },
+    {
+      "image": {
+        "irn": 7044,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Funeral notice of Rosa Rosenthal",
+      "irn": 1222
+    },
+    {
+      "title": "Christmas and New Year greetings",
+      "image": {
+        "irn": 7133,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 4562
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7511
+      },
+      "title": "Bank card of Fritz Hofbauer",
+      "irn": 4580
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7145,
+        "format": "jpeg"
+      },
+      "title": "Karl Frank to M. Reichwald",
+      "irn": 1138
+    },
+    {
+      "irn": 5928,
+      "title": "Mr A Bleichroder to Kurt Lippmann",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6913
+      }
+    },
+    {
+      "image": {
+        "irn": 6920,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Rabbi Joachim Prinz to Jsmar Elbogen",
+      "irn": 5242
+    },
+    {
+      "irn": 4780,
+      "title": "Rabbi Joachim Prinz to Rabbi E.Kronheim",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6922
+      }
+    },
+    {
+      "title": "Receipt",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7396
+      },
+      "irn": 1234
+    },
+    {
+      "irn": 1237,
+      "image": {
+        "type": "image",
+        "irn": 7399,
+        "format": "jpeg"
+      },
+      "title": "Voyage ticket"
+    },
+    {
+      "title": "I.O.U. for the amount of five shillings",
+      "image": {
+        "irn": 7510,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 4765
+    },
+    {
+      "irn": 4766,
+      "image": {
+        "irn": 7514,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Correspondence sent by Fritz Hofbauer"
+    },
+    {
+      "title": "J. S. Thompson to Miss E. Holtz",
+      "image": {
+        "type": "image",
+        "irn": 7523,
+        "format": "jpeg"
+      },
+      "irn": 4724
+    },
+    {
+      "irn": 4725,
+      "title": "Jewish Refugees Committee to Evi Holtz",
+      "image": {
+        "irn": 5288,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "8th Employment Company 1st Anniversay",
+      "image": {
+        "type": "image",
+        "irn": 7539,
+        "format": "jpeg"
+      },
+      "irn": 9428
+    },
+    {
+      "irn": 5862,
+      "title": "Unknown sender to Pte. Martin Reichwald",
+      "image": {
+        "irn": 7139,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5861,
+      "image": {
+        "type": "image",
+        "irn": 7134,
+        "format": "jpeg"
+      },
+      "title": "Unknown sender to Martin Reichwald"
+    },
+    {
+      "title": "L. Rosenrauchs to M. Reichwald",
+      "image": {
+        "irn": 7159,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5865
+    },
+    {
+      "image": {
+        "irn": 7120,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Birthday card for J. Ausbacher",
+      "irn": 5467
+    },
+    {
+      "title": "Correspondence to the American Consul",
+      "image": {
+        "type": "image",
+        "irn": 7104,
+        "format": "jpeg"
+      },
+      "irn": 5243
+    },
+    {
+      "irn": 5863,
+      "image": {
+        "format": "jpeg",
+        "irn": 7140,
+        "type": "image"
+      },
+      "title": "Karl Frank to Pte. M. Reichwald"
+    },
+    {
+      "irn": 4763,
+      "title": "Credit Statement",
+      "image": {
+        "irn": 7508,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 6080,
+      "image": {
+        "type": "image",
+        "irn": 7127,
+        "format": "jpeg"
+      },
+      "title": "Leo Reichwald to Martin Reichwald"
+    },
+    {
+      "image": {
+        "irn": 7129,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Unknown sender to Pte. M Reichwald",
+      "irn": 5860
+    },
+    {
+      "irn": 5982,
+      "title": "N. Reichwald to Martin Reichwald",
+      "image": {
+        "type": "image",
+        "irn": 7131,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5285
+      },
+      "title": "Berta Rosenranch to Martin Reichwald",
+      "irn": 5923
+    },
+    {
+      "irn": 5813,
+      "title": "Sigmund Rosenrauch to Martin Reichwald",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7163
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 7164,
+        "type": "image"
+      },
+      "title": "Sergeant Snow White Invitation",
+      "irn": 1141
+    },
+    {
+      "irn": 5319,
+      "title": "Victorian Echelon & Records to George Rosenthal",
+      "image": {
+        "format": "jpeg",
+        "irn": 7255,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 6011,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7303
+      },
+      "title": "We Travel Round the World"
+    },
+    {
+      "irn": 1212,
+      "title": "High Technical School of Textiles and Clothing admission cards",
+      "image": {
+        "irn": 7328,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Leonhard Posner to his wife",
+      "image": {
+        "format": "jpeg",
+        "irn": 1528,
+        "type": "image"
+      },
+      "irn": 4577
+    },
+    {
+      "image": {
+        "irn": 1530,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Wir Reisen um die Welt",
+      "irn": 4626
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7474
+      },
+      "title": "Record of Service Book",
+      "irn": 9372
+    },
+    {
+      "title": "Notification to Report for Medical Examination",
+      "image": {
+        "irn": 7540,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 9429
+    },
+    {
+      "irn": 4583,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5266
+      },
+      "title": "Birthday card"
+    },
+    {
+      "irn": 6022,
+      "image": {
+        "irn": 1799,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Snow White Joins Up"
+    },
+    {
+      "irn": 5188,
+      "image": {
+        "irn": 5290,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Card given to Dr. Alfred Wiener"
+    },
+    {
+      "irn": 4578,
+      "title": "Coffee voucher",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5268
+      }
+    },
+    {
+      "irn": 4770,
+      "title": "Student Union Membership Card",
+      "image": {
+        "format": "jpeg",
+        "irn": 5261,
+        "type": "image"
+      }
+    },
+    {
+      "title": "Stars of the Seven Seas",
+      "image": {
+        "irn": 7404,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 1252
+    },
+    {
+      "irn": 4624,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7406
+      },
+      "title": "Mr Brown to Leon Posner"
+    },
+    {
+      "title": "Kurt Ostberg to Mrs Gaby Eisen",
+      "image": {
+        "type": "image",
+        "irn": 7412,
+        "format": "jpeg"
+      },
+      "irn": 1261
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7425,
+        "format": "jpeg"
+      },
+      "title": "Reference for George Rosenthal",
+      "irn": 1267
+    },
+    {
+      "image": {
+        "irn": 7426,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Reference for George Rosenthal",
+      "irn": 1268
+    },
+    {
+      "irn": 1269,
+      "image": {
+        "type": "image",
+        "irn": 7430,
+        "format": "jpeg"
+      },
+      "title": "Reference for George Rosenthal"
+    },
+    {
+      "title": "Registration form of George Rosenthal (German text)",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7431
+      },
+      "irn": 1270
+    },
+    {
+      "irn": 1271,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7433
+      },
+      "title": "Birth certificate of Moss Kronkheim (German text)"
+    },
+    {
+      "irn": 9215,
+      "title": "Rosa Kronheim to Registry Office (German text)",
+      "image": {
+        "irn": 7435,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Correspondence concerning Rudolf Rosenthal (German text)",
+      "image": {
+        "irn": 7438,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 9218
+    },
+    {
+      "irn": 9219,
+      "image": {
+        "format": "jpeg",
+        "irn": 7439,
+        "type": "image"
+      },
+      "title": "Registration form of George Rosenthal (German text)"
+    },
+    {
+      "irn": 9221,
+      "title": "Marriage contract",
+      "image": {
+        "format": "jpeg",
+        "irn": 7443,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 4625,
+      "image": {
+        "irn": 7450,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "program - Hay Fever, 1941"
+    },
+    {
+      "title": "Kurt Lewinsky to Peter Sher",
+      "image": {
+        "irn": 7505,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 9422
+    },
+    {
+      "title": "I.O.U. for the amount of ten shillings",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7509
+      },
+      "irn": 4764
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 1793,
+        "format": "jpeg"
+      },
+      "title": "Farewell letter to Erich Tichauer",
+      "irn": 4760
+    },
+    {
+      "irn": 4761,
+      "title": "Heinrich Schwartz to Gustav Heiderfeld",
+      "image": {
+        "irn": 7499,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 1800,
+        "type": "image"
+      },
+      "title": "Piano loan contract",
+      "irn": 6013
+    },
+    {
+      "title": "Correspondence concerning Camp currency",
+      "image": {
+        "type": "image",
+        "irn": 7555,
+        "format": "jpeg"
+      },
+      "irn": 6014
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7682,
+        "format": "jpeg"
+      },
+      "title": "Football Team Membership Card",
+      "irn": 4772
+    },
+    {
+      "irn": 4773,
+      "image": {
+        "format": "jpeg",
+        "irn": 7684,
+        "type": "image"
+      },
+      "title": "Mr Jakob Bard to Alfred Broch"
+    },
+    {
+      "irn": 9446,
+      "image": {
+        "format": "jpeg",
+        "irn": 7946,
+        "type": "image"
+      },
+      "title": "Dr. Seefeld to the Lippmann family (German text)"
+    },
+    {
+      "irn": 6585,
+      "image": {
+        "format": "jpeg",
+        "irn": 7957,
+        "type": "image"
+      },
+      "title": "Record of currency"
+    },
+    {
+      "image": {
+        "irn": 7965,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Johann Patzer to Herr Schaul (German text)",
+      "irn": 7138
+    },
+    {
+      "irn": 6987,
+      "title": "Eva (surname unspecified) to Kurt Lewinski",
+      "image": {
+        "type": "image",
+        "irn": 1816,
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Service of Prisoners of War Post",
+      "image": {
+        "type": "image",
+        "irn": 7974,
+        "format": "jpeg"
+      },
+      "irn": 7010
+    },
+    {
+      "title": "Reference letter for Herbert Kann",
+      "image": {
+        "type": "image",
+        "irn": 6112,
+        "format": "jpeg"
+      },
+      "irn": 5145
+    },
+    {
+      "image": {
+        "irn": 6113,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Reference letter for Herbert Kann",
+      "irn": 5146
+    },
+    {
+      "title": "Reference letter for Herbert Kann",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6378
+      },
+      "irn": 5147
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6379,
+        "type": "image"
+      },
+      "title": "Reference letter for Herbert Kann",
+      "irn": 5148
+    },
+    {
+      "irn": 5149,
+      "title": "Reference letter for Herbert Kann",
+      "image": {
+        "format": "jpeg",
+        "irn": 6380,
+        "type": "image"
+      }
+    },
+    {
+      "title": "Scrapbook",
+      "image": {
+        "type": "image",
+        "irn": 1792,
+        "format": "jpeg"
+      },
+      "irn": 7147
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6053,
+        "type": "image"
+      },
+      "title": "Pauline Neufeld to Wilhelm Neufeld",
+      "irn": 962
+    },
+    {
+      "irn": 5950,
+      "title": "The Story of The Good Soldier Schwejk",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6454
+      }
+    },
+    {
+      "irn": 4802,
+      "image": {
+        "type": "image",
+        "irn": 7756,
+        "format": "jpeg"
+      },
+      "title": "Memorandum: Treatment of Internees on board HMT Dunera"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6060,
+        "type": "image"
+      },
+      "title": "Peter Haymann to Kurt Lippman",
+      "irn": 17008
+    },
+    {
+      "irn": 17009,
+      "title": "Department of Prisoners of War to Kurt Lippman",
+      "image": {
+        "format": "jpeg",
+        "irn": 6063,
+        "type": "image"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6065
+      },
+      "title": "F. G. Turkheim to Kurt Lippmann",
+      "irn": 17010
+    },
+    {
+      "irn": 6076,
+      "title": "Mrs F B Lippmann to Mr F A Turkheim",
+      "image": {
+        "type": "image",
+        "irn": 6066,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5196,
+      "title": "Dr M Gellis to Mr Oscar Hony",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6419
+      }
+    },
+    {
+      "irn": 6004,
+      "image": {
+        "irn": 8126,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "A. Eppenstein to Oscar Hony"
+    },
+    {
+      "irn": 4779,
+      "image": {
+        "format": "jpeg",
+        "irn": 6422,
+        "type": "image"
+      },
+      "title": "Mrs. L. Hahn-Warburg to Alfred Broch"
+    },
+    {
+      "irn": 5249,
+      "title": "Harry Jeidels lecture",
+      "image": {
+        "irn": 5596,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 9385,
+      "title": "Spotlight on Australian Ballet",
+      "image": {
+        "type": "image",
+        "irn": 9733,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5776,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5602
+      },
+      "title": "The Pacific Hairdresser Shop"
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 1742,
+        "format": "jpeg"
+      },
+      "title": "Die Wunder der Post",
+      "irn": 5935
+    },
+    {
+      "irn": 4615,
+      "title": "Peter Stadlen Piano Recital",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9646
+      }
+    }
+  ],
+  "children": [],
+  "irn": 52,
+  "title": "Documents and Letters - HMT Dunera and Internment Collection",
+  "source": "enarratives",
+  "description": ""
+}

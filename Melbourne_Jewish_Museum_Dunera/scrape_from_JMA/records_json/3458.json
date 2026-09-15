@@ -1,0 +1,80 @@
+{
+  "CreDateCreated": "05/1941",
+  "SummaryData": "\"program - Wir reisen um die Welt, 1941\" [3458], Schnitz, P E",
+  "TitObjectRating": "partial data with image",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "irn": 6017,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 6701,
+      "format": "jpeg"
+    },
+    {
+      "irn": 6702,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "PhyTechnique": "Handmade",
+  "rid": "ecatalogue.6017",
+  "CreLatestDate": "/05/1941",
+  "CreSubjectClassification_tab": [
+    "Theatre",
+    "songs",
+    "Dunera",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "accNo": "3458",
+  "TitNumberOfParts": 1,
+  "title": "program - Wir reisen um die Welt, 1941",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamFirst": "P",
+      "NamTitle": null,
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "BioDeathDate": null,
+      "NamLast": "Schnitz",
+      "SummaryData": "Schnitz, P E",
+      "NamSuffix": null,
+      "irn": 1811
+    }
+  ],
+  "CreEarliestDate": "/05/1941",
+  "PhyMedium": "Ink on paper",
+  "CreCreationNotes": "The title of this revue, Wir Reisen Um Die Welt, translates as, We Are Travelling Round The World. Belonged to Alfred Lewinsky.",
+  "TitObjectType": "OriginalRec",
+  "narratives": [
+    {
+      "image": null,
+      "title": "Alfred Lewinsky",
+      "irn": 114
+    }
+  ],
+  "index": 1,
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "measurements": [],
+  "CreRole_tab": [
+    "designer"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null
+}

@@ -1,0 +1,68 @@
+{
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7676
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyTechnique": "Typed",
+  "rid": "ecatalogue.4629",
+  "CreLatestDate": "1941",
+  "CreDateCreated": "1941",
+  "PhyMediaCategory": "programmes",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Pure Products\" [4131], The Pure Products Pty. Ltd.",
+  "source": "ecatalogue",
+  "irn": 4629,
+  "PhySupport": null,
+  "CreCreationNotes": "This is a theatre programme produced by the Pure Products Pty Ltd.",
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "index": 1,
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "rownum": 1,
+  "CreRole_tab": [
+    "Producer"
+  ],
+  "AssParentObjectRef": null,
+  "measurements": [],
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Theatre",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "TitNumberOfParts": 1,
+  "accNo": "4131",
+  "title": "Pure Products",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "NamSuffix": null,
+      "irn": 1955,
+      "NamLast": null,
+      "BioDeathDate": null,
+      "SummaryData": "The Pure Products Pty. Ltd.",
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": null,
+      "NamTitle": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "CreEarliestDate": "1941",
+  "PhyMedium": "Ink on paper"
+}

@@ -1,0 +1,73 @@
+{
+  "measurements": [],
+  "CreRole_tab": [
+    "Publisher"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "CreCreationNotes": "This is a programme for an exhibition of watercolours and drawings by Fred Lowen. The exhibition was held from July 20 to July 30, 1989, at the Victorian Artists' Society Galleries in Melbourne.",
+  "index": 1,
+  "PhySupport": null,
+  "CreEarliestDate": "20/07/1989",
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "irn": 1864,
+      "NamLast": null,
+      "BioDeathDate": null,
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": null,
+      "NamSuffix": null,
+      "SummaryData": "Victorian Artist Society Galleries",
+      "NamTitle": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitNumberOfParts": 1,
+  "accNo": "3744",
+  "title": "A Globetrotter's Diary",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Internment",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "rid": "ecatalogue.5819",
+  "CreLatestDate": "30/07/1989",
+  "PhyTechnique": "Manufactured",
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 7276,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7277,
+      "type": "image"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "irn": 5819,
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"A Globetrotter's Diary\" [3744], Victorian Artist Society Galleries",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "pamphlets",
+  "CreDateCreated": "20/07/1989 - 30/07/1989"
+}

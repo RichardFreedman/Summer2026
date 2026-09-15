@@ -1,0 +1,66 @@
+{
+  "rid": "ecatalogue.1235",
+  "CreLatestDate": "1941",
+  "PhyTechnique": "Printed with hand drawn illustrations and handwritten annotations",
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 7397,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7398,
+      "type": "image"
+    }
+  ],
+  "CreState_tab": [],
+  "irn": 1235,
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"Naval Draft Boxing Competition\" [3810]",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "1941",
+  "measurements": [],
+  "CreRole_tab": [],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "CreCity_tab": [],
+  "CreCountry_tab": [
+    "United Kingdom"
+  ],
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreCreationNotes": null,
+  "narratives": [
+    {
+      "irn": 52,
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "format": "jpeg",
+        "irn": 8883,
+        "type": "image"
+      }
+    }
+  ],
+  "TitObjectType": "OriginalRec",
+  "index": 1,
+  "PhySupport": null,
+  "CreEarliestDate": "1941",
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [],
+  "CreSecondaryInscriptions": null,
+  "accNo": "3810",
+  "TitNumberOfParts": 1,
+  "title": "Naval Draft Boxing Competition",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Internment",
+    "Being Australian",
+    "boxing"
+  ],
+  "CrePrimaryInscriptions": "The programme features several handwritten annotations and illustrations. They read, \"wait and see,\" \"got it,\" \"the lads are marvellous,\" and \"officers only.\""
+}

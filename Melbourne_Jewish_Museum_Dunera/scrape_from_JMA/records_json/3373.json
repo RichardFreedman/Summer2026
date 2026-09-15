@@ -1,0 +1,74 @@
+{
+  "irn": 6218,
+  "PhyMediaCategory": "card",
+  "source": "ecatalogue",
+  "SummaryData": "\"We're In Love, A Rumbling Riot of Rollicking Revue\" [3373]",
+  "TitObjectRating": "full data",
+  "CreDateCreated": "11/1941",
+  "CreLatestDate": null,
+  "rid": "ecatalogue.6218",
+  "PhyTechnique": "Printed and handwritten",
+  "CreState_tab": [],
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 1744,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 1745,
+      "type": "image"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyMedium": "Print, blue ink on paper",
+  "CreEarliestDate": null,
+  "CreSecondaryInscriptions": "Front page LC title: Union Castle Line Programme\nInner cover written in printed black ink: H.M.T. D 3 \nIn the First Class Lounge on Tuesday November 11th, 1941, at 2:30 and 8:15 p.m. The Stirling Crazy Gang Proudly Presents We're in Love!!!\nLC inner cover and second page: Programme details of the concerts.\n\nLast page upper part, hand written in blue ink: \nAUSTRALIA                     END 1941\nAUCKLAMD (N - 7)\nPANAMA - CANAL\nLIVERPOOL",
+  "CreCreatorRef_tab": [],
+  "TitPartNumber": 1,
+  "title": "We're In Love, A Rumbling Riot of Rollicking Revue",
+  "TitNumberOfParts": 1,
+  "accNo": "3373",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Theatre"
+  ],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [],
+  "rownum": 1,
+  "measurements": [
+    {
+      "diameter": null,
+      "depth": null,
+      "height": 168,
+      "weight": null,
+      "width": 215,
+      "unitWeight": null,
+      "unitLength": "mm",
+      "type": "open"
+    }
+  ],
+  "CreCity_tab": [],
+  "CreCountry_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "index": 1,
+  "TitObjectType": null,
+  "narratives": [
+    {
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "type": "image",
+        "irn": 8883,
+        "format": "jpeg"
+      },
+      "irn": 52
+    }
+  ],
+  "CreCreationNotes": "This program was made on board of the Dunera ship in its way from Australia back to Liverpool. The programme is printed, black text on a white card ground, with a coloured image printed on the front cover. Handwritten notes outlining the voyage and it's stops, are on the back cover, in blue ink. This is a program for a variety of shows and musicals titled \"We're in love!!!\" produced by Capt. O'Gorman, Peter Land and Ray Martin. On the voyage from Australia to Liverpool the entertainment committee presented a variety ship's concert in the first class lounge. The ship went from Australia, through Auckland, then through Panama Canal where some internees were released early, and then to Liverpool. This specific concert was held on November 11th 1941, at 2:30 and 8:15 p.m. The dance in the show was devised by Max Lewinsky, and the music written and arranged by Ray Martin. The stage manager for this show was Bernard Bell."
+}

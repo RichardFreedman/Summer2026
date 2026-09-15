@@ -1,0 +1,21 @@
+{
+  "web": null,
+  "source": "eparties",
+  "title": "Meier, Mr Bernhard",
+  "firstName": "Bernhard",
+  "partyType": "Person",
+  "deathDate": null,
+  "irn": 50,
+  "multimedia": [],
+  "index": 0,
+  "birthPlace": null,
+  "role": [
+    "Editor"
+  ],
+  "birthDate": null,
+  "lastName": "Meier",
+  "business": [],
+  "rid": "eparties.50",
+  "rownum": 1,
+  "organisation": null
+}

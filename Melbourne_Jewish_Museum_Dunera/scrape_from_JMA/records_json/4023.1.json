@@ -1,0 +1,93 @@
+{
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 5271,
+      "format": "jpeg"
+    }
+  ],
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "PhyTechnique": "Handwritten and illustrated",
+  "CreLatestDate": "1941",
+  "rid": "ecatalogue.16907",
+  "CreDateCreated": "1941",
+  "source": "ecatalogue",
+  "SummaryData": "\" A Variety Fare, Tripe and Onions/Wir Reisen Um Die Welt\" [4023.1], Recreation Department Hay",
+  "TitObjectRating": "partial data with image",
+  "PhyMediaCategory": "programmes",
+  "irn": 16907,
+  "index": 1,
+  "narratives": [
+    {
+      "irn": 22,
+      "image": {
+        "irn": 8754,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Being Australian"
+    }
+  ],
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "measurements": [
+    {
+      "width": 130,
+      "unitWeight": null,
+      "type": null,
+      "unitLength": "mm",
+      "diameter": null,
+      "depth": null,
+      "height": 90,
+      "weight": null
+    }
+  ],
+  "AssParentObjectRef": {
+    "SummaryData": "Wir Reisen um die Welt",
+    "irn": 4626
+  },
+  "CreRole_tab": [
+    "Producer"
+  ],
+  "rownum": 1,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "musicals",
+    "songs",
+    "Being Australian",
+    "Dunera"
+  ],
+  "title": " A Variety Fare, Tripe and Onions/Wir Reisen Um Die Welt",
+  "accNo": "4023.1",
+  "TitNumberOfParts": 2,
+  "CreCreatorRef_tab": [
+    {
+      "NamTitle": null,
+      "NamSuffix": null,
+      "SummaryData": "Recreation Department Hay",
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamFirst": null,
+      "irn": 1858,
+      "NamLast": null,
+      "BioDeathDate": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "PhyMedium": "Watercolour ink and ink on paper",
+  "CreEarliestDate": "1941"
+}

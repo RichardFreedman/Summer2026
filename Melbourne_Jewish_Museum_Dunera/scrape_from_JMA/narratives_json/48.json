@@ -1,0 +1,318 @@
+{
+  "irn": 48,
+  "children": [],
+  "title": "Documents",
+  "source": "enarratives",
+  "description": "",
+  "rownum": 3,
+  "rid": "enarratives.48",
+  "objects": [
+    {
+      "irn": 17021,
+      "title": "Certificate of Exemption from Service in Citizen Forces, issued to Phillip Lipshut",
+      "image": {
+        "format": "jpeg",
+        "irn": 7573,
+        "type": "image"
+      }
+    },
+    {
+      "title": "Document/certificate, Russian",
+      "image": {
+        "type": "image",
+        "irn": 7607,
+        "format": "jpeg"
+      },
+      "irn": 17053
+    },
+    {
+      "irn": 15585,
+      "title": "Illuminated address presented to Solomon Marks by Ballarat Hebrew Congregation 1915",
+      "image": {
+        "format": "jpeg",
+        "irn": 6161,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 15586,
+      "title": "Illuminated address presented to Solomon Marks by Ballarat Hebrew Congregation 1893",
+      "image": {
+        "format": "jpeg",
+        "irn": 6162,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 9593,
+      "title": "Certificate of Naturalization",
+      "image": {
+        "format": "jpeg",
+        "irn": 8016,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 17074,
+      "title": "Certificate awarded to Sydney Benjamin, Australian Boy Scouts Association",
+      "image": {
+        "type": "image",
+        "irn": 8767,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "irn": 8791,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Certificate awarded to Sydney Benjamin, Victorian Jewish Competitions Society - Team Debating",
+      "irn": 17091
+    },
+    {
+      "irn": 17095,
+      "title": "Certificate, The Jewish Orphan and Neglected Children's Aid Society",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8795
+      }
+    },
+    {
+      "irn": 15685,
+      "image": {
+        "type": "image",
+        "irn": 9884,
+        "format": "jpeg"
+      },
+      "title": "Death certificate for Debora Neumann"
+    },
+    {
+      "irn": 5311,
+      "title": "Oswald Stiwelband's certificate of discharge after serving 1,630 days in the AMF",
+      "image": {
+        "format": "jpeg",
+        "irn": 6675,
+        "type": "image"
+      }
+    },
+    {
+      "title": "Registration card for George Rosenthal",
+      "image": {
+        "type": "image",
+        "irn": 6699,
+        "format": "jpeg"
+      },
+      "irn": 5810
+    },
+    {
+      "irn": 5165,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5289
+      },
+      "title": "Certificate of Release from War Service"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7985
+      },
+      "title": "Amtsbescheinigung",
+      "irn": 7035
+    },
+    {
+      "irn": 1229,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7058
+      },
+      "title": "Personal effects of James Guy Heynemann"
+    },
+    {
+      "title": "Sports in Hay Camp",
+      "image": {
+        "type": "image",
+        "irn": 5294,
+        "format": "jpeg"
+      },
+      "irn": 16913
+    },
+    {
+      "title": "Travel Permit",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7423
+      },
+      "irn": 1266
+    },
+    {
+      "irn": 1272,
+      "image": {
+        "format": "jpeg",
+        "irn": 7434,
+        "type": "image"
+      },
+      "title": "Certificate of good conduct for Rosa Sara Rosenthal"
+    },
+    {
+      "irn": 9216,
+      "title": "Marriage Certificate (German text)",
+      "image": {
+        "type": "image",
+        "irn": 7436,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 17023,
+      "title": "Certificate, Melbourne Jewish Philanthropic Society and the Montefiore Homes for the Aged",
+      "image": {
+        "type": "image",
+        "irn": 7575,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 4190,
+      "title": "Illuminated address to Levi Isaacs, presented by Melbourne Hebrew Congregation 1912",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6121
+      }
+    },
+    null,
+    {
+      "irn": 5890,
+      "image": {
+        "type": "image",
+        "irn": 6048,
+        "format": "jpeg"
+      },
+      "title": "Certificate of Registration for (Aliens) Service"
+    },
+    {
+      "irn": 1320,
+      "image": {
+        "type": "image",
+        "irn": 5497,
+        "format": "jpeg"
+      },
+      "title": "Jewish National Fund Tree Fund certificate, 1948"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6037,
+        "type": "image"
+      },
+      "title": "Certificate of Good Conduct (German text)",
+      "irn": 17001
+    },
+    {
+      "title": "Certificate, Ballarat District Orphan Asylum 1877",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6129
+      },
+      "irn": 13579
+    },
+    {
+      "irn": 3625,
+      "image": {
+        "format": "jpeg",
+        "irn": 6009,
+        "type": "image"
+      },
+      "title": "Red Cross certificate - World War 1"
+    },
+    {
+      "title": "Ketubah, Purple Border, via Manfred Anson.",
+      "image": {
+        "format": "jpeg",
+        "irn": 5716,
+        "type": "image"
+      },
+      "irn": 226
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 4499,
+        "format": "jpeg"
+      },
+      "title": "Membership card, \"Australian Journalists' Association\"",
+      "irn": 16683
+    },
+    {
+      "irn": 16682,
+      "image": {
+        "type": "image",
+        "irn": 4498,
+        "format": "jpeg"
+      },
+      "title": "Membership card, \"Jewish Authors and Journalists' Circle\""
+    },
+    {
+      "irn": 16684,
+      "image": {
+        "irn": 4502,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Membership card, \"World Federation of Jewish Journalists\""
+    },
+    {
+      "irn": 16679,
+      "image": {
+        "format": "jpeg",
+        "irn": 4495,
+        "type": "image"
+      },
+      "title": "Journalist identity card, \"Unzer Bialystoker Express\""
+    },
+    {
+      "irn": 16680,
+      "title": "Journalist identity card, \"The Daily Jewish Courier Chicago\"",
+      "image": {
+        "type": "image",
+        "irn": 4496,
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Journalist identity card, \"Dos Naje Lebn\"",
+      "image": {
+        "type": "image",
+        "irn": 4497,
+        "format": "jpeg"
+      },
+      "irn": 16681
+    }
+  ],
+  "parents": {
+    "image": {
+      "irn": 8886,
+      "type": "image",
+      "format": "jpeg"
+    },
+    "title": "Collection Areas",
+    "irn": 38
+  },
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8878
+    }
+  ],
+  "index": 0,
+  "associations": []
+}

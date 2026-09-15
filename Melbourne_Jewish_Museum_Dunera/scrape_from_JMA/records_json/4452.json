@@ -1,0 +1,114 @@
+{
+  "PhyTechnique": "Printed",
+  "rid": "ecatalogue.7101",
+  "CreLatestDate": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 1653
+    }
+  ],
+  "InsInsuranceRef": null,
+  "irn": 7101,
+  "CreDateCreated": "1943",
+  "PhyMediaCategory": "programmes",
+  "SummaryData": "\"Free Concerts for Members of the Fighting Services\" [4452], Melbourne Philharmonic Orchestra, Melbourne Symphony Orchestra",
+  "TitObjectRating": "partial data with image",
+  "source": "ecatalogue",
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "rownum": 1,
+  "CreRole_tab": [
+    "Performer",
+    "Performer",
+    "Host"
+  ],
+  "AssParentObjectRef": null,
+  "measurements": [
+    {
+      "diameter": null,
+      "depth": null,
+      "height": 230,
+      "weight": null,
+      "width": 150,
+      "unitWeight": null,
+      "type": "Unframed",
+      "unitLength": "mm"
+    }
+  ],
+  "PhySupport": null,
+  "narratives": [
+    {
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "type": "image",
+        "irn": 8883,
+        "format": "jpeg"
+      },
+      "irn": 52
+    }
+  ],
+  "CreCreationNotes": "This concert was hosted by the Melbourne Philharmonic Orchestra and the Melbourne Symphony Orchestra in association with the Australian Broadcasting Commission",
+  "TitObjectType": "OriginalRec",
+  "index": 1,
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "NamFirst": null,
+      "NamTitle": null,
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "BioDeathDate": null,
+      "NamLast": null,
+      "SummaryData": "Melbourne Philharmonic Orchestra",
+      "NamSuffix": null,
+      "irn": 1987
+    },
+    {
+      "BioDeathDate": null,
+      "NamLast": null,
+      "SummaryData": "Melbourne Symphony Orchestra",
+      "NamSuffix": null,
+      "irn": 1988,
+      "NamFirst": null,
+      "NamTitle": null,
+      "BioNationality": null,
+      "BioBirthDate": null
+    },
+    {
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamTitle": null,
+      "NamFirst": null,
+      "irn": 1989,
+      "NamSuffix": null,
+      "SummaryData": "Australian Broadcasting Commission",
+      "BioDeathDate": null,
+      "NamLast": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "CreEarliestDate": null,
+  "PhyMedium": "Ink on paper",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "musicals",
+    "songs"
+  ],
+  "CrePrimaryInscriptions": null,
+  "TitNumberOfParts": 1,
+  "accNo": "4452",
+  "title": "Free Concerts for Members of the Fighting Services"
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Snow White Joins Up",
+  "accNo": "4117",
+  "TitNumberOfParts": 1,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "Dunera",
+    "Internment",
+    "Theatre"
+  ],
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "31/12/1941",
+  "CreCreatorRef_tab": [],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "index": 1,
+  "narratives": [
+    {
+      "irn": 52,
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "irn": 8883,
+        "type": "image",
+        "format": "jpeg"
+      }
+    }
+  ],
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": null,
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [],
+  "measurements": [],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "PhyMediaCategory": "programmes",
+  "source": "ecatalogue",
+  "SummaryData": "\"Snow White Joins Up\" [4117]",
+  "TitObjectRating": "partial data with image",
+  "CreDateCreated": "31/12/1941",
+  "irn": 6022,
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 1799,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreLatestDate": "31/12/1941",
+  "rid": "ecatalogue.6022",
+  "PhyTechnique": "Wood or lino cut print"
+}

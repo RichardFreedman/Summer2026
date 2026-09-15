@@ -1,0 +1,68 @@
+{
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": null,
+      "NamTitle": null,
+      "NamSuffix": null,
+      "irn": 2031,
+      "BioDeathDate": null,
+      "NamLast": null,
+      "SummaryData": "The Cermaic Repartee Club"
+    }
+  ],
+  "TitPartNumber": 1,
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "06/11/1941",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Theatre"
+  ],
+  "title": "A Fruity Melodrama/The Doings Up At The 'All/The Snake in the Snow",
+  "TitNumberOfParts": 1,
+  "accNo": "3670",
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "measurements": [],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Producer"
+  ],
+  "index": 1,
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "irn": 6223,
+  "CreDateCreated": "6/11/1941",
+  "source": "ecatalogue",
+  "SummaryData": "\"A Fruity Melodrama/The Doings Up At The 'All/The Snake in the Snow\" [3670], The Cermaic Repartee Club",
+  "TitObjectRating": "partial data",
+  "PhyMediaCategory": "programmes",
+  "PhyTechnique": "Typed",
+  "CreLatestDate": "06/11/1941",
+  "rid": "ecatalogue.6223",
+  "multimedia": [
+    {
+      "irn": 7177,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "New South Wales"
+  ]
+}

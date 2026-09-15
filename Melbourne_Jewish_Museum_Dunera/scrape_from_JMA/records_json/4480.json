@@ -1,0 +1,83 @@
+{
+  "irn": 9584,
+  "CreDateCreated": "12/12/1940",
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"Recreation Department programme\" [4480], Stampfl, Franz",
+  "PhyMediaCategory": "programmes",
+  "PhyTechnique": "Handwritten",
+  "CreLatestDate": null,
+  "rid": "ecatalogue.9584",
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 7994,
+      "type": "image"
+    },
+    {
+      "type": "image",
+      "irn": 7995,
+      "format": "jpeg"
+    }
+  ],
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "irn": 1975,
+      "NamSuffix": null,
+      "SummaryData": "Stampfl, Franz",
+      "BioDeathDate": null,
+      "NamLast": "Stampfl",
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamTitle": null,
+      "NamFirst": "Franz"
+    }
+  ],
+  "TitPartNumber": 1,
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": null,
+  "CrePrimaryInscriptions": "Handwritten on the front page of the programme is the following text, \"Recreation Department/Manager S. Hochberger/11th Concert on Thursday, the 12th of December 1940, 9pm.\" On the reverse side is the inscription, \"Programmed designed by Franz Stampfl.\"",
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "songs",
+    "Dunera"
+  ],
+  "title": "Recreation Department programme",
+  "TitNumberOfParts": 1,
+  "accNo": "4480",
+  "CreCity_tab": [
+    "Tatura"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "measurements": [],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "designer"
+  ],
+  "index": 1,
+  "narratives": [
+    {
+      "image": {
+        "irn": 8883,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "irn": 52
+    }
+  ],
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": "Russian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian.",
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": []
+}

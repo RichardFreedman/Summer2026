@@ -1,0 +1,21 @@
+{
+  "firstName": "Paul",
+  "partyType": "Person",
+  "web": null,
+  "source": "eparties",
+  "title": "Glass, Paul G",
+  "irn": 1921,
+  "deathDate": null,
+  "birthDate": null,
+  "role": [
+    "Owner of Chevron Private Hotel in St Kilda"
+  ],
+  "birthPlace": null,
+  "index": 0,
+  "multimedia": [],
+  "rid": "eparties.1921",
+  "organisation": null,
+  "rownum": 24,
+  "business": [],
+  "lastName": "Glass"
+}

@@ -1,0 +1,75 @@
+{
+  "AssParentObjectRef": null,
+  "CreRole_tab": [
+    "Collator"
+  ],
+  "rownum": 1,
+  "measurements": [
+    {
+      "height": 237,
+      "weight": null,
+      "depth": 28,
+      "diameter": null,
+      "type": "closed book",
+      "unitLength": "mm",
+      "unitWeight": null,
+      "width": 330
+    }
+  ],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "index": 1,
+  "CreCreationNotes": "This is a twenty page scrapbook containing mostly newspaper clippings as well as show programmes, poems, cards, tickets and forms. This scrapbook was kept by Harry Jeidels and was created between 1942 and 1945 while he was serving the 8th Employment Company.",
+  "narratives": [],
+  "TitObjectType": "OriginalRec",
+  "PhyMedium": "Ink on paper, with card and felt",
+  "CreEarliestDate": "1942",
+  "CreCreatorRef_tab": [
+    {
+      "BioBirthDate": "1905",
+      "BioNationality": "German",
+      "NamTitle": "Mr",
+      "NamFirst": "Harry",
+      "irn": 114,
+      "NamSuffix": null,
+      "SummaryData": "Jeidels, Mr Harry",
+      "BioDeathDate": "1987",
+      "NamLast": "Jeidels"
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "title": "Scrapbook",
+  "accNo": "3240",
+  "TitNumberOfParts": 1,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Writing",
+    "German",
+    "Being Australian",
+    "Victoria"
+  ],
+  "CreLatestDate": "1945",
+  "rid": "ecatalogue.5279",
+  "PhyTechnique": "Hand crafted collage of printed material and handwritten annotations",
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "multimedia": [],
+  "InsInsuranceRef": null,
+  "irn": 5279,
+  "PhyMediaCategory": "scrapbooks",
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"Scrapbook\" [3240], Jeidels, Mr Harry",
+  "CreDateCreated": "1942 - 1945"
+}

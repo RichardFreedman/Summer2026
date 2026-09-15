@@ -1,0 +1,55 @@
+{
+  "CreLatestDate": "15/07/1941",
+  "rid": "ecatalogue.9277",
+  "PhyTechnique": "Typed",
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 7455,
+      "format": "jpeg"
+    }
+  ],
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "irn": 9277,
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Correspondence to Rosenthal\" [3922]",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "15/7/1941",
+  "measurements": [],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [],
+  "rownum": 1,
+  "CreCity_tab": [
+    "Tatura"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "index": 1,
+  "narratives": [],
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "PhySupport": null,
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "15/07/1941",
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "TitPartNumber": 1,
+  "title": "Correspondence to Rosenthal",
+  "TitNumberOfParts": 1,
+  "accNo": "3922",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Internment",
+    "Dunera",
+    "Being Australian",
+    "Theatre"
+  ]
+}

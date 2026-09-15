@@ -1,0 +1,89 @@
+{
+  "AssParentObjectRef": null,
+  "CreRole_tab": [
+    "Programme designer"
+  ],
+  "rownum": 1,
+  "measurements": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "index": 1,
+  "TitObjectType": "OriginalRec",
+  "narratives": [
+    {
+      "irn": 114,
+      "title": "Alfred Lewinsky",
+      "image": null
+    },
+    {
+      "irn": 52,
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "format": "jpeg",
+        "irn": 8883,
+        "type": "image"
+      }
+    }
+  ],
+  "CreCreationNotes": "Hay Fever programme. Made from ink and watercolour on paper, with wool, Created by Paul G Glass in 1941 at Hay Camp, Australia. Belonged to Alfred Lewinsky.",
+  "PhyMedium": "Ink and watercolour on paper, with wool",
+  "CreEarliestDate": "1941",
+  "CreCreatorRef_tab": [
+    {
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamTitle": null,
+      "NamFirst": "Paul",
+      "irn": 1921,
+      "NamSuffix": null,
+      "SummaryData": "Glass, Paul G",
+      "NamLast": "Glass",
+      "BioDeathDate": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "title": "program - Hay Fever, 1941",
+  "accNo": "3896",
+  "TitNumberOfParts": 1,
+  "CrePrimaryInscriptions": "The programme is entirely handwritten and bears the following inscriptions. On the front page, the text reads \"Recreation Department/Manager: S. Hochberger/The Camp Theatre presents: HAY FEVER.\" On the reverse, an annotation reads,\"Programme designed by/ D. Paul G. Glass.\"",
+  "CreSubjectClassification_tab": [
+    "Internment",
+    "Dunera",
+    "Being Australian",
+    "Theatre"
+  ],
+  "CreLatestDate": "1941",
+  "rid": "ecatalogue.4625",
+  "PhyTechnique": "Ink line drawing with watercolour painting and handwritten text, bound with wool.",
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7450
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7451
+    }
+  ],
+  "InsInsuranceRef": null,
+  "irn": 4625,
+  "PhyMediaCategory": "programmes",
+  "source": "ecatalogue",
+  "SummaryData": "\"program - Hay Fever, 1941\" [3896], Glass, Paul G",
+  "TitObjectRating": "partial data",
+  "CreDateCreated": "1941"
+}

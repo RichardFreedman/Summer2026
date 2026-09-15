@@ -1,0 +1,81 @@
+{
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 6389
+    }
+  ],
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "CreLatestDate": "31/12/1941",
+  "rid": "ecatalogue.5444",
+  "PhyTechnique": "Painted with typed text",
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Snow White Joins Up\" [3257], Sternberg, Dr. K, Mr Bieber",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "31/12/1941",
+  "irn": 5444,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "index": 1,
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": null,
+  "narratives": [],
+  "PhySupport": null,
+  "measurements": [],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Director",
+    "Artist"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "title": "Snow White Joins Up",
+  "accNo": "3257",
+  "TitNumberOfParts": 1,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Theatre",
+    "musicals",
+    "Dunera",
+    "Being Australian"
+  ],
+  "PhyMedium": "Paint and ink on paper and cardboard",
+  "CreEarliestDate": "31/12/1941",
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamFirst": "K",
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamLast": "Sternberg",
+      "BioDeathDate": null,
+      "irn": 1763,
+      "NamTitle": "Dr.",
+      "SummaryData": "Sternberg, Dr. K",
+      "NamSuffix": null
+    },
+    {
+      "SummaryData": "Mr Bieber",
+      "NamSuffix": null,
+      "NamTitle": "Mr",
+      "BioDeathDate": null,
+      "NamLast": null,
+      "irn": 1764,
+      "NamFirst": "Bieber",
+      "BioNationality": null,
+      "BioBirthDate": null
+    }
+  ],
+  "TitPartNumber": 1
+}

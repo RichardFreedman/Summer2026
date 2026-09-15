@@ -1,0 +1,92 @@
+{
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 8004,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 8005,
+      "type": "image"
+    }
+  ],
+  "CreState_tab": [],
+  "rid": "ecatalogue.9589",
+  "CreLatestDate": null,
+  "PhyTechnique": "Handwritten",
+  "SummaryData": "\"Mr B Sherman to Ivan Majer Pietruschka (German text)\" [4485.1], Mr B Sherman",
+  "TitObjectRating": "full data",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "letter",
+  "CreDateCreated": "26/07/1939",
+  "irn": 9589,
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreCreationNotes": "This letter has not yet been translated, however, is believed to refer to a potential contact in England.\n\nRussian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian.",
+  "TitObjectType": "OriginalRec",
+  "narratives": [
+    {
+      "irn": 52,
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "format": "jpeg",
+        "irn": 8883,
+        "type": "image"
+      }
+    }
+  ],
+  "index": 1,
+  "PhySupport": null,
+  "measurements": [
+    {
+      "diameter": null,
+      "depth": null,
+      "weight": null,
+      "height": 250,
+      "width": 210,
+      "unitWeight": null,
+      "type": null,
+      "unitLength": "mm"
+    }
+  ],
+  "CreRole_tab": [
+    "Sender"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "CreCountry_tab": [
+    "Poland"
+  ],
+  "CreCity_tab": [
+    "Lodz"
+  ],
+  "accNo": "4485.1",
+  "TitNumberOfParts": 1,
+  "title": "Mr B Sherman to Ivan Majer Pietruschka (German text)",
+  "CreSubjectClassification_tab": [
+    "German",
+    "Dunera",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "CreEarliestDate": null,
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": "B",
+      "NamTitle": "Mr",
+      "NamSuffix": null,
+      "irn": 2011,
+      "BioDeathDate": null,
+      "NamLast": null,
+      "SummaryData": "Mr B Sherman"
+    }
+  ],
+  "CreSecondaryInscriptions": null
+}

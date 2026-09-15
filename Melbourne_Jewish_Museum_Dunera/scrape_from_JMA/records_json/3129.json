@@ -1,0 +1,85 @@
+{
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "index": 1,
+  "narratives": [],
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "PhySupport": null,
+  "measurements": [
+    {
+      "width": 130,
+      "unitWeight": null,
+      "unitLength": "mm",
+      "type": null,
+      "diameter": null,
+      "depth": null,
+      "weight": null,
+      "height": 205
+    }
+  ],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [
+    "Pianist"
+  ],
+  "rownum": 1,
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "title": "Piano Recital - Peter Stadlen",
+  "TitNumberOfParts": 1,
+  "accNo": "3129",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "Dunera",
+    "musicals",
+    "songs"
+  ],
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "1940",
+  "CreCreatorRef_tab": [
+    {
+      "NamLast": "Stadlen",
+      "BioDeathDate": null,
+      "irn": 1728,
+      "NamFirst": "Peter",
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "SummaryData": "Stadlen, Mr Peter",
+      "NamSuffix": null,
+      "NamTitle": "Mr"
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 8759,
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 8760,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "CreLatestDate": "1941",
+  "rid": "ecatalogue.6088",
+  "PhyTechnique": "Handwritten and typed",
+  "source": "ecatalogue",
+  "SummaryData": "\"Piano Recital - Peter Stadlen\" [3129], Stadlen, Mr Peter",
+  "TitObjectRating": "partial data",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": null,
+  "irn": 6088
+}

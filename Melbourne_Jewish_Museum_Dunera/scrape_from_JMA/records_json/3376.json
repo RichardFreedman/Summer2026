@@ -1,0 +1,73 @@
+{
+  "PhyTechnique": "Machine printed",
+  "rid": "ecatalogue.4558",
+  "CreLatestDate": "/04/1943",
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 9666
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 9667
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "irn": 4558,
+  "CreDateCreated": "04/1943",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Sergeant Snow White\" [3376], Sternberg, Dr. K",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "measurements": [],
+  "rownum": 1,
+  "CreRole_tab": [
+    "Director"
+  ],
+  "AssParentObjectRef": null,
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": null,
+  "narratives": [],
+  "index": 1,
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamTitle": "Dr.",
+      "NamFirst": "K",
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "SummaryData": "Sternberg, Dr. K",
+      "BioDeathDate": null,
+      "NamLast": "Sternberg",
+      "irn": 1763,
+      "NamSuffix": null
+    }
+  ],
+  "CreEarliestDate": "/04/1943",
+  "PhyMedium": "Ink on paper",
+  "CreSubjectClassification_tab": [
+    "Theatre",
+    "Dunera",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "accNo": "3376",
+  "TitNumberOfParts": 1,
+  "title": "Sergeant Snow White"
+}

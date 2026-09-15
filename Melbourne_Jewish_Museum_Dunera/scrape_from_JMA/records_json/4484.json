@@ -1,0 +1,87 @@
+{
+  "TitNumberOfParts": 1,
+  "accNo": "4484",
+  "title": "Orchestral Concert flyer",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "United Kingdom",
+    "musicals"
+  ],
+  "CrePrimaryInscriptions": null,
+  "CreEarliestDate": null,
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamFirst": null,
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "BioDeathDate": null,
+      "NamLast": null,
+      "irn": 2022,
+      "NamTitle": null,
+      "SummaryData": "Kitchener Camp Orchestra",
+      "NamSuffix": null
+    }
+  ],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "CreCreationNotes": "Russian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian.",
+  "narratives": [
+    {
+      "irn": 53,
+      "title": "Newspaper Articles - HMT Dunera and Internment Collection",
+      "image": {
+        "irn": 8884,
+        "type": "image",
+        "format": "jpeg"
+      }
+    }
+  ],
+  "TitObjectType": "OriginalRec",
+  "index": 1,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Distributor"
+  ],
+  "AssParentObjectRef": null,
+  "measurements": [
+    {
+      "unitWeight": null,
+      "width": 130,
+      "unitLength": "mm",
+      "type": null,
+      "depth": null,
+      "diameter": null,
+      "height": 200,
+      "weight": null
+    }
+  ],
+  "CreCountry_tab": [
+    "United Kingdom"
+  ],
+  "CreCity_tab": [
+    "Sandwich"
+  ],
+  "PhyMediaCategory": "pamphlets",
+  "SummaryData": "\"Orchestral Concert flyer\" [4484], Kitchener Camp Orchestra",
+  "TitObjectRating": "full data",
+  "source": "ecatalogue",
+  "CreDateCreated": "2/11/1939",
+  "irn": 9588,
+  "CreState_tab": [],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 8003,
+      "format": "jpeg"
+    }
+  ],
+  "rid": "ecatalogue.9588",
+  "CreLatestDate": null,
+  "PhyTechnique": "Machine printed"
+}

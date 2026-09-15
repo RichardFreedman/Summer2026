@@ -1,0 +1,128 @@
+{
+  "rid": "ecatalogue.6871",
+  "CreLatestDate": "1969",
+  "PhyTechnique": "Printed",
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 1609,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "irn": 8405,
+      "type": "image"
+    },
+    {
+      "type": "image",
+      "irn": 8406,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8407
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8408
+    },
+    {
+      "irn": 8409,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 8410,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 8411,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8412
+    },
+    {
+      "type": "image",
+      "irn": 8413,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8414
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "irn": 6871,
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"Jewish Society of Arts programmes and catalogues\" [4332], Jewish Society of Arts",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "1960's",
+  "measurements": [
+    {
+      "unitWeight": null,
+      "width": 206,
+      "unitLength": "mm",
+      "type": "unframed",
+      "depth": null,
+      "diameter": null,
+      "height": 335,
+      "weight": null
+    }
+  ],
+  "rownum": 1,
+  "CreRole_tab": [
+    "Publisher"
+  ],
+  "AssParentObjectRef": null,
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "narratives": [],
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": null,
+  "index": 1,
+  "PhySupport": null,
+  "CreEarliestDate": "1960",
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "NamTitle": null,
+      "NamFirst": null,
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "SummaryData": "Jewish Society of Arts",
+      "BioDeathDate": null,
+      "NamLast": null,
+      "irn": 280,
+      "NamSuffix": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "accNo": "4332",
+  "TitNumberOfParts": 1,
+  "title": "Jewish Society of Arts programmes and catalogues",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null
+}

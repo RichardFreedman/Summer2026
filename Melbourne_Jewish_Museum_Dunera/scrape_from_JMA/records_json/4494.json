@@ -1,0 +1,74 @@
+{
+  "measurements": [
+    {
+      "unitLength": "mm",
+      "type": null,
+      "width": 165,
+      "unitWeight": null,
+      "weight": null,
+      "height": 215,
+      "diameter": null,
+      "depth": null
+    }
+  ],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [],
+  "rownum": 1,
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "index": 1,
+  "narratives": [
+    {
+      "irn": 50,
+      "image": {
+        "format": "jpeg",
+        "irn": 8882,
+        "type": "image"
+      },
+      "title": "Photographs - HMT Dunera and Internment Collection"
+    }
+  ],
+  "CreCreationNotes": "Original photo relating to newspaper clipping. (See accession no. 4493) \n\nRussian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian. Ivan is pictured here alongside his wife Phyllis Batchelor and young daughter Tania.",
+  "TitObjectType": "OriginalRec",
+  "PhySupport": null,
+  "PhyMedium": "photographic print",
+  "CreEarliestDate": null,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "TitPartNumber": 1,
+  "title": "Ivan Pietruschka and family",
+  "accNo": "4494",
+  "TitNumberOfParts": 1,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian"
+  ],
+  "CreLatestDate": null,
+  "rid": "ecatalogue.9598",
+  "PhyTechnique": "Photography",
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "irn": 7092,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "irn": 9598,
+  "source": "ecatalogue",
+  "TitObjectRating": "full data",
+  "SummaryData": "\"Ivan Pietruschka and family\" [4494]",
+  "PhyMediaCategory": "black and white photograph",
+  "CreDateCreated": "1951"
+}

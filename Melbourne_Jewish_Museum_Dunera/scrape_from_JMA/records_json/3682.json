@@ -1,0 +1,64 @@
+{
+  "PhyTechnique": "Woodcut print with printed text",
+  "rid": "ecatalogue.5205",
+  "CreLatestDate": "13/05/1943",
+  "multimedia": [],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "irn": 5205,
+  "CreDateCreated": "11/05/1943 - 13/05/1943",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Sergeant Snow White\" [3682], Sternberg, Dr. K",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "measurements": [],
+  "CreRole_tab": [
+    "Writer and Director"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "CreCreationNotes": "This item is a programme for the \"Sergeant Snow White\" musical revue held at the Union Theatre in Melbourne on April 15, 17 and 19 in 1943. The musical was staged to celebrate the first anniversary of the 8th Employment Company and members of the Company appeared in the play. The play featured a portrayal of \"Hitler as the Big Bad Wolf and with other contemporary references\". It was written and directed by Sergeant Doc. K. Sternberg who was an internationally renowned film producer. Following the war, he worked in film production in Australia, including the story of the Borovansky Ballet. The programme's cover image was drawn by Erwin Fabian who was a graphic design artist during and after the war. He returned to England where he continued to work as a graphic and industrial artist but came back to Melbourne in 1960. He has since become a successful and respect sculptor whose work is represented in the National Gallery of Victoria, the High Court and Parliament House.\n\nKlaus Loewald, a performer in the play, recalled that \"members of the cast were continually recognised in the streets when on leave\".",
+  "index": 1,
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "NamTitle": "Dr.",
+      "NamFirst": "K",
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "SummaryData": "Sternberg, Dr. K",
+      "NamLast": "Sternberg",
+      "BioDeathDate": null,
+      "irn": 1763,
+      "NamSuffix": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "CreEarliestDate": "11/05/1943",
+  "PhyMedium": "Ink on paper",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Theatre",
+    "plays",
+    "dance"
+  ],
+  "CrePrimaryInscriptions": null,
+  "TitNumberOfParts": 1,
+  "accNo": "3682",
+  "title": "Sergeant Snow White"
+}

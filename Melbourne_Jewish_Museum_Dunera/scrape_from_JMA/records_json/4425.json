@@ -1,0 +1,78 @@
+{
+  "title": "The Jewish Festival of the Arts",
+  "accNo": "4425",
+  "TitNumberOfParts": 1,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Internment",
+    "Visual art"
+  ],
+  "PhyMedium": "Ink on paper and cardboard",
+  "CreEarliestDate": null,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamFirst": null,
+      "NamTitle": null,
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "BioDeathDate": null,
+      "NamLast": null,
+      "SummaryData": "Bezalel Fellowship of Arts",
+      "NamSuffix": null,
+      "irn": 318
+    }
+  ],
+  "TitPartNumber": 1,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "index": 1,
+  "CreCreationNotes": "This catalogue accompanied the Bezalel Arts Multimedia Exhibition held at the Caulfield Arts Complex between 14 and 28 March 1993. Artists whose work was on display at the exhibition included Martha Ash, Barry Bertov, Ruth Barton, Kuba Blacher, Vita Beder, Judith Ben-Meir, Bonney Bombach, Rita Brown, Sande Bruch, Lizza Bush, Joanne Davis, Dafna D'Vier, Joseph Edelman, Rodney Edelstein, Maadi Einfeld, Peter Eisler, Ria Eisler, Benjamin Elisha, Esther Erlich, Eva Ermer, Gayle Factor, Tom Fantl, Marilyn (Mas) Felder, Simcha Fetter, Rebecca Field, Sarah Friedman, Peter Gandrabur, Anne Graham, Carmella Grynberg, Boris Guyetsky, Elizabeth Herzog, Anita Hochman, John Howley, Fred Inlander, Mervyn Jacobson, Valerie Kabov, Jill Kahan, Rimona Kedem, Gabrielle Khazam, Danial Kogan, Guela Kohn, Peter Kolliner, Jack Koskie, Albert Kranz, Les Krum, Stella Lanner, Kurt Lewinski, Naomi Lewis, Fred Lowen, Angela Lynkushka, Shoshana Malloy, Lana Messer, Bill Meyer, Danuta Michalska, Ruvim Nemirovsky, Charlotte Newman, Sallie Portnoy, Arcadi Rakovski, Helen Rechter, Michael Rieder, Marianne Roth, Rachel Rovay, Sarah Saaroni, Judi Schiff, Mina Shafer, Helen Sharp, Robert Shlimak, Lisa Shulman, Judith Silman, Shirley Silverstein, Marilyn Solomon, Isabella Steiner, Maxim Svetlanov, Sandra Tobias, Aloma Treister, Devi Tuszynski, Felix Tuszynski, Amalia Weis, Anna White and Anna Zandberg.",
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "PhySupport": null,
+  "measurements": [
+    {
+      "unitLength": "mm",
+      "type": "Unframed",
+      "width": 210,
+      "unitWeight": null,
+      "weight": null,
+      "height": 300,
+      "diameter": null,
+      "depth": null
+    }
+  ],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [
+    "Producer"
+  ],
+  "rownum": 2,
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [],
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"The Jewish Festival of the Arts\" [4425], Bezalel Fellowship of Arts",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "1993",
+  "irn": 7020,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 7979,
+      "type": "image"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "CreLatestDate": null,
+  "rid": "ecatalogue.7020",
+  "PhyTechnique": "Printed"
+}

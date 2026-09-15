@@ -1,0 +1,85 @@
+{
+  "irn": 6310,
+  "PhyMediaCategory": "programmes",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Klavier Abend\" [3315.3], Fabian, Mr Erwin",
+  "source": "ecatalogue",
+  "CreDateCreated": "1941",
+  "rid": "ecatalogue.6310",
+  "CreLatestDate": null,
+  "PhyTechnique": "Handmade and typed",
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 5892,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 5893
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreEarliestDate": null,
+  "PhyMedium": "Pencil, ink and watercolour on paper",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "NamTitle": "Mr",
+      "SummaryData": "Fabian, Mr Erwin",
+      "NamSuffix": null,
+      "NamFirst": "Erwin",
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamLast": "Fabian",
+      "BioDeathDate": "19/01/2020",
+      "irn": 54
+    }
+  ],
+  "CreSecondaryInscriptions": "Inside writing: \"PROGRAMM / Peter Stadlen (Klavier) /\n1) L. van Beethoven: Sonate As-dur Op. 26\nAndante von Variazioni Scherzo (Allegro molto) (Sualla morte d'un Eroe) Allegro\n2) Frederick Chopin: 24 Preludes\n3) Igor Strawisky: Trois mouvements de Petrouchka\na)\tDance Russe\nb)\tChez Petrouchka\nc)\tLa semine grasse\"",
+  "accNo": "3315.3",
+  "TitNumberOfParts": 1,
+  "title": "Klavier Abend",
+  "CreSubjectClassification_tab": [
+    "Theatre",
+    "Dunera",
+    "Being Australian",
+    "songs"
+  ],
+  "CrePrimaryInscriptions": "Handwritten on the front cover are the words, \"Peter Stadlen Klavier Abend,\" translating to \"Peter Stadlen Piano Evening.\"",
+  "CreRole_tab": [
+    "Artist-Painter"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "measurements": [
+    {
+      "weight": null,
+      "height": 135,
+      "depth": null,
+      "diameter": null,
+      "type": "open",
+      "unitLength": "mm",
+      "unitWeight": null,
+      "width": 251
+    }
+  ],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "narratives": [],
+  "TitObjectType": null,
+  "CreCreationNotes": "This music programme was made by Fabian Erwin, for the concert of the pianist Peter Stadlen. Fabian was a graphic design artist during and after the war. He returned to England where he continued to work as a graphic and industrial artist but came back to Melbourne in 1960. He later became a successful and respect sculptor, whose work is represented in the National Gallery of Victoria, the High Court and Parliament House.",
+  "index": 1
+}

@@ -1,0 +1,83 @@
+{
+  "CreLatestDate": null,
+  "rid": "ecatalogue.9596",
+  "PhyTechnique": "Photography",
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "multimedia": [
+    {
+      "irn": 7091,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "irn": 9596,
+  "PhyMediaCategory": "black and white photograph",
+  "source": "ecatalogue",
+  "TitObjectRating": "full data",
+  "SummaryData": "\"Violin Section of the 3DB Orchestra\" [4492]",
+  "CreDateCreated": "1949",
+  "AssParentObjectRef": null,
+  "CreRole_tab": [],
+  "rownum": 1,
+  "measurements": [
+    {
+      "type": null,
+      "unitLength": "mm",
+      "unitWeight": null,
+      "width": 201,
+      "weight": null,
+      "height": 151,
+      "depth": null,
+      "diameter": null
+    }
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "index": 1,
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": "Russian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian.",
+  "narratives": [
+    {
+      "irn": 50,
+      "image": {
+        "type": "image",
+        "irn": 8882,
+        "format": "jpeg"
+      },
+      "title": "Photographs - HMT Dunera and Internment Collection"
+    },
+    {
+      "irn": 45,
+      "image": {
+        "type": "image",
+        "irn": 8875,
+        "format": "jpeg"
+      },
+      "title": "Documentary Photography"
+    }
+  ],
+  "PhyMedium": "silver gelatin print on paper",
+  "CreEarliestDate": null,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "TitPartNumber": 1,
+  "title": "Violin Section of the 3DB Orchestra",
+  "TitNumberOfParts": 1,
+  "accNo": "4492",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "musicals"
+  ]
+}

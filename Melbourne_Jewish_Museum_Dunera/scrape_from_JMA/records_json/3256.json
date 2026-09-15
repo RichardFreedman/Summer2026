@@ -1,0 +1,91 @@
+{
+  "PhySupport": null,
+  "index": 1,
+  "CreCreationNotes": null,
+  "narratives": [
+    {
+      "irn": 52,
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "format": "jpeg",
+        "irn": 8883,
+        "type": "image"
+      }
+    }
+  ],
+  "TitObjectType": "OriginalRec",
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "CreCity_tab": [
+    "Tatura"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Director",
+    "Artist"
+  ],
+  "measurements": [],
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Theatre",
+    "musicals",
+    "Dunera",
+    "Being Australian"
+  ],
+  "title": "Snow White Joins Up",
+  "accNo": "3256",
+  "TitNumberOfParts": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": "K",
+      "irn": 1763,
+      "BioDeathDate": null,
+      "NamLast": "Sternberg",
+      "NamTitle": "Dr.",
+      "NamSuffix": null,
+      "SummaryData": "Sternberg, Dr. K"
+    },
+    {
+      "SummaryData": "Mr Bieber",
+      "NamSuffix": null,
+      "NamTitle": "Mr",
+      "NamLast": null,
+      "BioDeathDate": null,
+      "irn": 1764,
+      "NamFirst": "Bieber",
+      "BioBirthDate": null,
+      "BioNationality": null
+    }
+  ],
+  "TitPartNumber": 1,
+  "PhyMedium": "Paint and ink on paper and cardboard",
+  "CreEarliestDate": "31/12/1941",
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "multimedia": [
+    {
+      "irn": 1419,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyTechnique": "Painted with typed text",
+  "CreLatestDate": "31/12/1941",
+  "rid": "ecatalogue.4618",
+  "CreDateCreated": "31/12/1941",
+  "PhyMediaCategory": "programmes",
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"Snow White Joins Up\" [3256], Sternberg, Dr. K, Mr Bieber",
+  "irn": 4618
+}

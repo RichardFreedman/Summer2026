@@ -1,0 +1,65 @@
+{
+  "CreState_tab": [],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 7404,
+      "type": "image"
+    },
+    {
+      "irn": 7407,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyTechnique": "Printed",
+  "rid": "ecatalogue.1252",
+  "CreLatestDate": "16/07/1941",
+  "CreDateCreated": "16/07/1941",
+  "PhyMediaCategory": "programmes",
+  "SummaryData": "\"Stars of the Seven Seas\" [3827]",
+  "TitObjectRating": "partial data",
+  "source": "ecatalogue",
+  "irn": 1252,
+  "PhySupport": null,
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [
+    {
+      "irn": 52,
+      "image": {
+        "format": "jpeg",
+        "irn": 8883,
+        "type": "image"
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection"
+    }
+  ],
+  "index": 1,
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "CreCity_tab": [],
+  "CreCountry_tab": [
+    "England"
+  ],
+  "rownum": 1,
+  "CreRole_tab": [],
+  "AssParentObjectRef": null,
+  "measurements": [],
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Immigrants",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "accNo": "3827",
+  "TitNumberOfParts": 1,
+  "title": "Stars of the Seven Seas",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [],
+  "CreSecondaryInscriptions": null,
+  "CreEarliestDate": "16/07/1941",
+  "PhyMedium": "Ink on paper"
+}

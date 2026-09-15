@@ -1,0 +1,106 @@
+{
+  "rid": "ecatalogue.5950",
+  "CreLatestDate": null,
+  "PhyTechnique": "Handmade and typed",
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "irn": 6454,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 6455,
+      "format": "jpeg"
+    }
+  ],
+  "irn": 5950,
+  "PhyMediaCategory": "programmes",
+  "SummaryData": "\"The Story of The Good Soldier Schwejk\" [3360], Schönbach, Mr Fritz",
+  "TitObjectRating": "partial data",
+  "source": "ecatalogue",
+  "CreDateCreated": "09/1941",
+  "CreRole_tab": [
+    "Artist-Painter"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "measurements": [
+    {
+      "height": 213,
+      "weight": null,
+      "depth": null,
+      "diameter": null,
+      "unitLength": "mm",
+      "type": "open",
+      "unitWeight": null,
+      "width": 403
+    },
+    {
+      "depth": null,
+      "diameter": null,
+      "weight": null,
+      "height": 126,
+      "unitWeight": null,
+      "width": 106,
+      "type": "closed",
+      "unitLength": "mm"
+    }
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Tatura"
+  ],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "TitObjectType": null,
+  "narratives": [
+    {
+      "irn": 52,
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "type": "image",
+        "irn": 8883,
+        "format": "jpeg"
+      }
+    }
+  ],
+  "CreCreationNotes": "This programme was handmade by Fritz Schönbach c. 1941, for a production staged by the Dunera Boys at the Tatura internment camp. The Story of the Good Soldier Schwejk was part of a wide cultural movement that flourished in the camp, in spite of its appalling conditions. Younger internees managed to continue their studies via correspondence, sporting teams were formed, and adult education and entertainment prospered. Men with special skills were also given restricted release into organizations and industry.",
+  "index": 1,
+  "CreEarliestDate": null,
+  "PhyMedium": "Watercolour and ink on card and paper",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": "p. 1, attached to the cover, typed: \"Die Geschichte vom Braven Soldaten Schwejk ... \"",
+  "CreCreatorRef_tab": [
+    {
+      "SummaryData": "Schönbach, Mr Fritz",
+      "BioDeathDate": null,
+      "NamLast": "Schönbach",
+      "irn": 75,
+      "NamSuffix": null,
+      "NamTitle": "Mr",
+      "NamFirst": "Fritz",
+      "BioBirthDate": "1920",
+      "BioNationality": null
+    }
+  ],
+  "accNo": "3360",
+  "TitNumberOfParts": 1,
+  "title": "The Story of The Good Soldier Schwejk",
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "Dunera",
+    "Theatre",
+    "songs",
+    "German"
+  ],
+  "CrePrimaryInscriptions": "Inscribed on the front page are the words, \"TATURA, VICTORIA, AUSTRALIA,\" and artist's signature \"F. Schönbach, SEPTEMBER 1941.\" The initials \"A.M.\" appear on the back cover and may refer to the programme's owner, Albert Meyer."
+}

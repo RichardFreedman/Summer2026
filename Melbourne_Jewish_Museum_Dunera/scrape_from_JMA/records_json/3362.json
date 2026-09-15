@@ -1,0 +1,84 @@
+{
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 9664,
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 9665,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "rid": "ecatalogue.5571",
+  "CreLatestDate": "11/05/1943",
+  "PhyTechnique": "Wood or lino print on paper",
+  "SummaryData": "\"Sergeant Snow White\" [3362], Fabian, Mr Erwin",
+  "TitObjectRating": "partial data",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "11/05/1943",
+  "irn": 5571,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": null,
+  "narratives": [
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8883
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "irn": 52
+    }
+  ],
+  "index": 1,
+  "PhySupport": null,
+  "measurements": [],
+  "rownum": 1,
+  "CreRole_tab": [
+    "Artist"
+  ],
+  "AssParentObjectRef": null,
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "TitNumberOfParts": 1,
+  "accNo": "3362",
+  "title": "Sergeant Snow White",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Theatre",
+    "songs",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "CreEarliestDate": "11/05/1943",
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "NamSuffix": null,
+      "SummaryData": "Fabian, Mr Erwin",
+      "NamTitle": "Mr",
+      "irn": 54,
+      "BioDeathDate": "19/01/2020",
+      "NamLast": "Fabian",
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": "Erwin"
+    }
+  ],
+  "CreSecondaryInscriptions": null
+}

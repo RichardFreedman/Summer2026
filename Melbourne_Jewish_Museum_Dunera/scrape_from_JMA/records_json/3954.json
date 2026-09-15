@@ -1,0 +1,88 @@
+{
+  "CreSubjectClassification_tab": [
+    "Journalism",
+    "songs",
+    "Dunera"
+  ],
+  "CrePrimaryInscriptions": null,
+  "accNo": "3954",
+  "TitNumberOfParts": 1,
+  "title": "Newspaper clipping - Music round the world via S.S. Dunera, The Australian Jewish News, 9 August 1968",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "SummaryData": "Gepner, Gary",
+      "NamLast": "Gepner",
+      "BioDeathDate": null,
+      "irn": 1929,
+      "NamSuffix": null,
+      "NamTitle": null,
+      "NamFirst": "Gary",
+      "BioBirthDate": null,
+      "BioNationality": null
+    },
+    {
+      "NamSuffix": null,
+      "irn": 2021,
+      "BioDeathDate": null,
+      "NamLast": null,
+      "SummaryData": "The Australian Jewish News",
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": null,
+      "NamTitle": null
+    }
+  ],
+  "CreEarliestDate": "1968",
+  "PhyMedium": "Ink on paper",
+  "PhySupport": null,
+  "narratives": [
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8884
+      },
+      "title": "Newspaper Articles - HMT Dunera and Internment Collection",
+      "irn": 53
+    }
+  ],
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "index": 1,
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "rownum": 1,
+  "CreRole_tab": [
+    "Author",
+    "Publisher"
+  ],
+  "AssParentObjectRef": null,
+  "measurements": [],
+  "CreDateCreated": "1968",
+  "PhyMediaCategory": "article",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Newspaper clipping - Music round the world via S.S. Dunera, The Australian Jewish News, 9 August 1968\" [3954], Gepner, Gary, The Australian Jewish News",
+  "source": "ecatalogue",
+  "irn": 9305,
+  "CreState_tab": [],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 8133,
+      "type": "image"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyTechnique": "Machine printed",
+  "rid": "ecatalogue.9305",
+  "CreLatestDate": "1968"
+}

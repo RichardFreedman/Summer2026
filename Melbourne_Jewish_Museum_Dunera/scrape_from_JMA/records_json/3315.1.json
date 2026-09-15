@@ -1,0 +1,95 @@
+{
+  "measurements": [
+    {
+      "depth": null,
+      "diameter": null,
+      "weight": null,
+      "height": 135,
+      "unitWeight": null,
+      "width": 130,
+      "type": "open",
+      "unitLength": "mm"
+    }
+  ],
+  "CreRole_tab": [
+    "Artist-Painter"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "TitObjectType": null,
+  "narratives": [
+    {
+      "image": {
+        "type": "image",
+        "irn": 8883,
+        "format": "jpeg"
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "irn": 52
+    }
+  ],
+  "CreCreationNotes": "This music programme was made by Fabian Erwin, for the concert of the pianist Peter Stadlen. Fabian was a graphic design artist during and after the war. He returned to England where he continued to work as a graphic and industrial artist but came back to Melbourne in 1960. He later became a successful and respect sculptor, whose work is represented in the National Gallery of Victoria, the High Court and Parliament House.",
+  "index": 1,
+  "PhySupport": null,
+  "CreEarliestDate": null,
+  "PhyMedium": "Pencil, ink and watercolour on paper",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": "PROGRAMM\nPeter Stadlen (Klavier)\n1) L. van Beethoven: Sonate As-dur Op. 26\nAndante von Variazioni Scherzo (Allegro molto) (Sualla morte d'un Eroe) Allegro\n2) Frederick Chopin: 24 Preludes\n3) Igor Strawisky: Trois mouvements de Petrouchka\na)\tDance Russe\nb)\tChez Petrouchka\nc)\tLa semine grasse",
+  "CreCreatorRef_tab": [
+    {
+      "irn": 54,
+      "NamLast": "Fabian",
+      "BioDeathDate": "19/01/2020",
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamFirst": "Erwin",
+      "NamSuffix": null,
+      "SummaryData": "Fabian, Mr Erwin",
+      "NamTitle": "Mr"
+    }
+  ],
+  "accNo": "3315.1",
+  "TitNumberOfParts": 1,
+  "title": "Klavier Abend",
+  "CreSubjectClassification_tab": [
+    "Theatre",
+    "Dunera",
+    "Being Australian",
+    "songs"
+  ],
+  "CrePrimaryInscriptions": "Handwritten on the front cover are the words, \"Peter Stadlen Klavier Abend,\" translating to \"Peter Stadlen Piano Evening.\"",
+  "rid": "ecatalogue.5566",
+  "CreLatestDate": null,
+  "PhyTechnique": "Handmade and typed",
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 5888,
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 5889,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "irn": 5566,
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Klavier Abend\" [3315.1], Fabian, Mr Erwin",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "1941"
+}
