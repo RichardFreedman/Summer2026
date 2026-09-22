@@ -5,7 +5,7 @@ redir /melbourne-moods /melbourne-moods/ permanent
 
 handle /melbourne-moods/* {
 	basic_auth {
-		{$MELBOURNE_MOODS_USER} {$MELBOURNE_MOODS_PASSWORD_HASH}
+		{$WORKSHOP_USER} {$WORKSHOP_PASSWORD_HASH}
 	}
 	reverse_proxy melbourne-moods:8501
 }

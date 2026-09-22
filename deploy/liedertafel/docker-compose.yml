@@ -9,7 +9,7 @@ services:
       # Directories, not files: git replaces files on pull and a single-file
       # bind mount would keep pointing at the old inode.
       - ./config:/etc/caddy:ro
-      - ./site:/srv:ro
+      - ../../Melbourne_Rare_Concert/liedertafel/site:/srv:ro
     expose:
       - "80"
     networks:

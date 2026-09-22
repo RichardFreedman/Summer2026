@@ -1,0 +1,10 @@
+# Scratch renders and previews
+work/
+# Print PDFs built by prep_print.py, label_pages.py and transcription/render.py
+output/
+# Built viewer; the committed copy is site/index.html
+tei/viewer.html
+
+__pycache__/
+*.py[oc]
+.venv/

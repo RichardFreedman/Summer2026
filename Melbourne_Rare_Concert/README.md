@@ -54,3 +54,11 @@ Install with `pip install -r requirements.txt`.
 - `Structured Data/` — all JSON/CSV inputs and outputs shared across the three notebooks.
 - `code/Langchain_for_Rare_Books_draft_only.ipynb` — an earlier, separate extraction pass over a different (non-concert-program) source; its flag log (`langchain_flags.csv`) isn't used by the current review-queue or pattern-analysis notebooks since it doesn't carry the same fields, but is available for reference.
 - `slide_tiles/` — figures used in presentations about this workflow.
+
+## Liedertafel print preparation and TEI edition
+
+`liedertafel/` holds the scripts that prepared the UDC20260028-21 and -69 scans
+for black-and-white printing, the re-set transcription of a five-page
+selection, and the TEI edition of the 1899 programme with its self-contained
+web viewer (published at `/liedertafel/` on the workshops server). See
+`liedertafel/README.md` and `liedertafel/docs/METHOD.md`.

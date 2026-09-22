@@ -10,24 +10,28 @@ deploy/
   caddy/                 shared reverse proxy: TLS, auth, path routing
     config/Caddyfile     domain block; imports sites/*.caddy
     config/sites/<app>.caddy   one routing snippet per app
-    .env.example         one USER / PASSWORD_HASH pair per protected app
+    .env.example         the shared WORKSHOP_USER / WORKSHOP_PASSWORD_HASH login
   melbourne-moods/       the moodrec Streamlit app
     docker-compose.yml   app container only, joins the "web" network
     .env.example         API keys, GENRE_MODE
   grainger/              the Grainger-Mapping-Demo Streamlit app
   paradisec-audio-analysis/  the PARADISEC/audio-analysis Streamlit app
-  liedertafel/           the TEI edition, a static site plus its own small Caddy
-    site/                the built files; see that directory's README
+  liedertafel/           the TEI edition, a small Caddy serving the static site in
+                         Melbourne_Rare_Concert/liedertafel/site/
 ```
 
 ## Apps
 
 | Path | App | Source | Login |
 |---|---|---|---|
-| `/melbourne-moods/` | Melbourne Moods | `moodrec/` | shared user + password (`deploy/caddy/.env`) |
-| `/grainger/` | Grainger → EMu demo | `Grainger-Mapping-Demo/` | shared user + password (`deploy/caddy/.env`) |
-| `/liedertafel/` | Liedertafel TEI edition | `deploy/liedertafel/site/` | none, the edition is public |
-| `/paradisec-audio-analysis/` | PARADISEC audio analysis | `PARADISEC/audio-analysis/` | shared user + password (`deploy/caddy/.env`) |
+| `/melbourne-moods/` | Melbourne Moods | `moodrec/` | shared workshop login |
+| `/grainger/` | Grainger → EMu demo | `Grainger-Mapping-Demo/` | shared workshop login |
+| `/liedertafel/` | Liedertafel TEI edition | `Melbourne_Rare_Concert/liedertafel/site/` | none, the edition is public |
+| `/paradisec-audio-analysis/` | PARADISEC audio analysis | `PARADISEC/audio-analysis/` | shared workshop login |
+
+The shared workshop login is one user/password pair, `WORKSHOP_USER` and
+`WORKSHOP_PASSWORD_HASH` in `deploy/caddy/.env` on the server; every protected
+snippet in `deploy/caddy/config/sites/` references those two variables.
 
 ## How deploys work
 
@@ -61,7 +65,9 @@ deploy/melbourne-moods/deploy.sh
 
 - App code changed: commit, push, `deploy/<app>/deploy.sh` (pull + rebuild that app only).
 - Routing changed: commit, push, `deploy/caddy/deploy.sh` (pull + reload).
-- Passwords changed (`deploy/caddy/.env` on the server): `docker compose up -d --force-recreate caddy`.
+- Password changed (`deploy/caddy/.env` on the server): `docker compose up -d --force-recreate caddy`.
+  Recreating Caddy takes every site offline for a few seconds; a plain
+  `deploy/caddy/deploy.sh` reload does not.
 - `.env` changed on the server: `docker compose up -d --force-recreate <service>`
   in that directory. `docker compose restart` does not reload `.env`.
 
@@ -71,14 +77,15 @@ deploy/melbourne-moods/deploy.sh
    otherwise use `handle_path` in the snippet to strip it).
 2. Add `deploy/<app>/docker-compose.yml` with no published ports and
    `networks: [web]` (copy `deploy/melbourne-moods/`).
-3. Add `deploy/caddy/config/sites/<app>.caddy` (copy `melbourne-moods.caddy`). For a
-   password, add a `<APP>_USER` / `<APP>_PASSWORD_HASH` pair to `deploy/caddy/.env`.
+3. Add `deploy/caddy/config/sites/<app>.caddy` (copy `melbourne-moods.caddy`). For the
+   shared password, keep its `basic_auth` block; for a public app, drop it.
 4. `deploy/caddy/deploy.sh`, then `deploy/<app>/deploy.sh`.
 
 ## Notes
 
 - Basic auth at the Caddy layer covers Streamlit's websocket and static assets
-  too. Each app can have its own credentials.
+  too. All protected apps share one login on purpose, so there is a single
+  password to hand out in a workshop.
 - Melbourne Moods bakes its `*_cache.json` files into the image; entries written
   at runtime live in the container and are lost on rebuild.
 - The Grainger app has no key entry box: it reads `OPENAI_API_KEY` from

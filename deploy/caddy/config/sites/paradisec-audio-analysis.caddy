@@ -5,7 +5,7 @@ redir /paradisec-audio-analysis /paradisec-audio-analysis/ permanent
 
 handle /paradisec-audio-analysis/* {
 	basic_auth {
-		{$PARADISEC_AUDIO_USER} {$PARADISEC_AUDIO_PASSWORD_HASH}
+		{$WORKSHOP_USER} {$WORKSHOP_PASSWORD_HASH}
 	}
 	reverse_proxy paradisec-audio-analysis:8501
 }
