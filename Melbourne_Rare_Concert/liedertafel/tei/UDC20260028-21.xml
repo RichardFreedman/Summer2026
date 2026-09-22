@@ -1,0 +1,1577 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Melbourne Liedertafel, 263rd Concert</title>
+        <title type="sub">Programme, Town Hall, Melbourne, Monday 23 October 1899: a digital edition</title>
+        <respStmt>
+          <resp>Transcription from the digitised copy and TEI encoding</resp>
+          <name>Claude Code (Anthropic)</name>
+        </respStmt>
+        <respStmt>
+          <resp>Direction and review</resp>
+          <name>Daniel Russo-Batterham</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First draft edition, <date when="2026-09-02">2 September 2026</date></edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Rare Music workshop, University of Melbourne</publisher>
+        <date when="2026">2026</date>
+        <idno type="digitisation">UDC20260028-21</idno>
+        <availability status="unknown">
+          <p>Working edition prepared for teaching. Rights in the digitised images rest with the holding institution.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Melbourne Liedertafel</author>
+          <title level="m">263rd Concert. Town Hall, Monday, October 23, '99.</title>
+          <pubPlace>Melbourne</pubPlace>
+          <publisher>Ewins &amp; Wilke, 383-7 Little Collins Street</publisher>
+          <date when="1899-10-23">1899</date>
+          <extent>20 pages including cover and blanks, about 13.4 by 19.4 cm; printed folios (1) to (16) on pages 3 to 18</extent>
+          <note>Letterpress programme for the Melbourne Liedertafel's 263rd concert under the conductor Professor G. W. L. Marshall-Hall, with the Liedertafel Ladies' Choir and an orchestra drawn partly from the Conservatorium of Music, Melbourne University. Transcribed from the digitised copy UDC20260028-21, a 200 dpi colour scan with a machine OCR layer that was not used.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Prepared as a teaching example of a TEI page-by-page edition with linked facsimiles, for a workshop on rare music materials.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>The text is transcribed as printed. Spelling, capitalisation and punctuation follow the source, including period forms such as <mentioned>Honorable</mentioned>, <mentioned>plebian</mentioned>, <mentioned>Clarionets</mentioned> and <mentioned>Maygars</mentioned>, and the Scots dialect of the ballads. Words wholly in capitals or small capitals in the source are transcribed in the case printed. Small capitals, italics, blackletter, script and letter-spaced faces are recorded with <att>rendition</att> pointers to the definitions in <gi>tagsDecl</gi>.</p>
+        <p>Ditto marks (<mentioned>,,</mentioned>) in the orchestra list are kept and expanded with <gi>choice</gi>. The dagger sigil (<mentioned>†</mentioned>) marking Conservatorium players is kept as printed. Long rules, dotted separators and printer's ornaments are recorded as <gi>milestone</gi> or <gi>figure</gi> elements. Printed page numbers are recorded as <gi>fw</gi>. Line breaks within prose are not recorded; verse lines are.</p>
+        <p>Page breaks carry the sequence number of the page in the digitised copy (1 to 20) in <att>n</att> and point to the matching <gi>surface</gi> in the <gi>facsimile</gi>.</p>
+      </editorialDecl>
+      <tagsDecl>
+        <rendition xml:id="blackletter" scheme="css">font-family: UnifrakturMaguntia, "Old English Text MT", serif;</rendition>
+        <rendition xml:id="script" scheme="css">font-family: "Snell Roundhand", "Pinyon Script", cursive;</rendition>
+        <rendition xml:id="it" scheme="css">font-style: italic;</rendition>
+        <rendition xml:id="sc" scheme="css">font-variant: small-caps;</rendition>
+        <rendition xml:id="spaced" scheme="css">letter-spacing: 0.15em; font-family: sans-serif;</rendition>
+        <rendition xml:id="sans" scheme="css">font-family: sans-serif;</rendition>
+        <rendition xml:id="b" scheme="css">font-weight: bold;</rendition>
+        <rendition xml:id="ul" scheme="css">text-decoration: underline;</rendition>
+        <rendition xml:id="center" scheme="css">text-align: center;</rendition>
+        <rendition xml:id="right" scheme="css">text-align: right;</rendition>
+        <rendition xml:id="indent" scheme="css">padding-left: 1.5em;</rendition>
+        <rendition xml:id="small" scheme="css">font-size: 0.85em;</rendition>
+        <rendition xml:id="dropcap" scheme="css">font-size: 1.8em; font-weight: bold;</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English</language>
+        <language ident="sco">Scots (ballad texts)</language>
+        <language ident="de">German (Goethe, Weber)</language>
+        <language ident="it">Italian (titles and tempo markings)</language>
+      </langUsage>
+      <creation>
+        <date when="1899-10">October 1899</date>, <placeName>Melbourne</placeName>
+      </creation>
+      <textClass>
+        <keywords scheme="local">
+          <term>concert programme</term>
+          <term>Liedertafel</term>
+          <term>Marshall-Hall, G. W. L.</term>
+          <term>choral music</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2026-09-02">Transcription of all twenty pages and first encoding. Validated against tei_all.</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <facsimile>
+    <surface xml:id="f01" n="1" ulx="0" uly="0" lrx="583" lry="840">
+    <graphic n="print" url="facs/p01.jpg"/><graphic n="original" url="facs/p01_orig.jpg"/><zone xml:id="z01-001" ulx="81" uly="84" lrx="491" lry="229" type="figure"/>
+    <zone xml:id="z01-002" ulx="81" uly="706" lrx="491" lry="752" type="figure"/>
+    <zone xml:id="z01-003" ulx="127" uly="313" lrx="477" lry="512" type="manual"/>
+    <zone xml:id="z01-004" ulx="252" uly="141" lrx="333" lry="160" type="line"/>
+    <zone xml:id="z01-005" ulx="172" uly="194" lrx="416" lry="221" type="line"/>
+  </surface>
+    <surface xml:id="f02" n="2" ulx="0" uly="0" lrx="583" lry="840">
+    <graphic n="print" url="facs/p02.jpg"/><graphic n="original" url="facs/p02_orig.jpg"/>
+  </surface>
+    <surface xml:id="f03" n="3" ulx="0" uly="0" lrx="581" lry="841">
+    <graphic n="print" url="facs/p03.jpg"/><graphic n="original" url="facs/p03_orig.jpg"/><zone xml:id="z03-001" ulx="110" uly="90" lrx="482" lry="140" type="line"/>
+    <zone xml:id="z03-002" ulx="166" uly="133" lrx="428" lry="157" type="block"/>
+    <zone xml:id="z03-003" ulx="263" uly="179" lrx="328" lry="201" type="line"/>
+    <zone xml:id="z03-004" ulx="169" uly="194" lrx="422" lry="220" type="block"/>
+    <zone xml:id="z03-005" ulx="125" uly="208" lrx="451" lry="234" type="block"/>
+    <zone xml:id="z03-006" ulx="256" uly="232" lrx="335" lry="254" type="line"/>
+    <zone xml:id="z03-007" ulx="217" uly="246" lrx="371" lry="272" type="line"/>
+    <zone xml:id="z03-008" ulx="260" uly="270" lrx="335" lry="291" type="line"/>
+    <zone xml:id="z03-009" ulx="222" uly="284" lrx="367" lry="310" type="line"/>
+    <zone xml:id="z03-010" ulx="240" uly="308" lrx="352" lry="329" type="line"/>
+    <zone xml:id="z03-011" ulx="188" uly="322" lrx="403" lry="345" type="line"/>
+    <zone xml:id="z03-012" ulx="150" uly="336" lrx="441" lry="359" type="line"/>
+    <zone xml:id="z03-013" ulx="195" uly="350" lrx="393" lry="373" type="line"/>
+    <zone xml:id="z03-014" ulx="168" uly="363" lrx="422" lry="399" type="block"/>
+    <zone xml:id="z03-015" ulx="137" uly="391" lrx="289" lry="418" type="line"/>
+    <zone xml:id="z03-016" ulx="133" uly="412" lrx="270" lry="432" type="line"/>
+    <zone xml:id="z03-017" ulx="336" uly="391" lrx="452" lry="418" type="line"/>
+    <zone xml:id="z03-018" ulx="339" uly="410" lrx="467" lry="432" type="line"/>
+    <zone xml:id="z03-019" ulx="264" uly="430" lrx="325" lry="451" type="line"/>
+    <zone xml:id="z03-020" ulx="118" uly="444" lrx="281" lry="464" type="line"/>
+    <zone xml:id="z03-021" ulx="133" uly="454" lrx="232" lry="479" type="line"/>
+    <zone xml:id="z03-022" ulx="133" uly="467" lrx="263" lry="493" type="line"/>
+    <zone xml:id="z03-023" ulx="133" uly="483" lrx="267" lry="508" type="line"/>
+    <zone xml:id="z03-024" ulx="319" uly="444" lrx="478" lry="464" type="line"/>
+    <zone xml:id="z03-025" ulx="311" uly="453" lrx="476" lry="479" type="block"/>
+    <zone xml:id="z03-026" ulx="311" uly="468" lrx="446" lry="493" type="line"/>
+    <zone xml:id="z03-027" ulx="311" uly="482" lrx="417" lry="508" type="line"/>
+    <zone xml:id="z03-028" ulx="311" uly="497" lrx="438" lry="522" type="line"/>
+    <zone xml:id="z03-029" ulx="311" uly="511" lrx="417" lry="536" type="line"/>
+    <zone xml:id="z03-030" ulx="201" uly="530" lrx="390" lry="555" type="line"/>
+    <zone xml:id="z03-031" ulx="228" uly="545" lrx="362" lry="570" type="line"/>
+    <zone xml:id="z03-032" ulx="130" uly="564" lrx="281" lry="588" type="line"/>
+    <zone xml:id="z03-033" ulx="143" uly="578" lrx="263" lry="604" type="line"/>
+    <zone xml:id="z03-034" ulx="331" uly="563" lrx="447" lry="589" type="line"/>
+    <zone xml:id="z03-035" ulx="293" uly="571" lrx="479" lry="607" type="line"/>
+    <zone xml:id="z03-036" ulx="146" uly="596" lrx="260" lry="621" type="line"/>
+    <zone xml:id="z03-037" ulx="141" uly="611" lrx="261" lry="637" type="line"/>
+    <zone xml:id="z03-038" ulx="314" uly="598" lrx="467" lry="623" type="line"/>
+    <zone xml:id="z03-039" ulx="293" uly="595" lrx="451" lry="644" type="line"/>
+    <zone xml:id="z03-040" ulx="243" uly="631" lrx="349" lry="655" type="line"/>
+    <zone xml:id="z03-041" ulx="145" uly="645" lrx="270" lry="671" type="line"/>
+    <zone xml:id="z03-042" ulx="325" uly="651" lrx="446" lry="671" type="line"/>
+    <zone xml:id="z03-043" ulx="284" uly="665" lrx="393" lry="691" type="line"/>
+    <zone xml:id="z03-044" ulx="354" uly="682" lrx="458" lry="707" type="line"/>
+  </surface>
+    <surface xml:id="f04" n="4" ulx="0" uly="0" lrx="582" lry="841">
+    <graphic n="print" url="facs/p04.jpg"/><graphic n="original" url="facs/p04_orig.jpg"/><zone xml:id="z04-001" ulx="232" uly="119" lrx="342" lry="142" type="figure"/>
+    <zone xml:id="z04-002" ulx="203" uly="84" lrx="368" lry="119" type="manual"/>
+    <zone xml:id="z04-003" ulx="101" uly="159" lrx="156" lry="174" type="manual"/>
+    <zone xml:id="z04-004" ulx="101" uly="393" lrx="144" lry="407" type="manual"/>
+    <zone xml:id="z04-005" ulx="99" uly="486" lrx="145" lry="500" type="manual"/>
+    <zone xml:id="z04-006" ulx="101" uly="555" lrx="148" lry="569" type="manual"/>
+    <zone xml:id="z04-007" ulx="101" uly="622" lrx="148" lry="636" type="manual"/>
+    <zone xml:id="z04-008" ulx="287" uly="159" lrx="347" lry="174" type="manual"/>
+    <zone xml:id="z04-009" ulx="287" uly="200" lrx="335" lry="214" type="manual"/>
+    <zone xml:id="z04-010" ulx="287" uly="243" lrx="368" lry="257" type="manual"/>
+    <zone xml:id="z04-011" ulx="287" uly="292" lrx="356" lry="306" type="manual"/>
+    <zone xml:id="z04-012" ulx="287" uly="335" lrx="335" lry="348" type="manual"/>
+    <zone xml:id="z04-013" ulx="287" uly="411" lrx="356" lry="425" type="manual"/>
+    <zone xml:id="z04-014" ulx="287" uly="452" lrx="373" lry="468" type="manual"/>
+    <zone xml:id="z04-015" ulx="287" uly="517" lrx="321" lry="530" type="manual"/>
+    <zone xml:id="z04-016" ulx="287" uly="550" lrx="342" lry="564" type="manual"/>
+    <zone xml:id="z04-017" ulx="287" uly="582" lrx="466" lry="596" type="manual"/>
+    <zone xml:id="z04-018" ulx="287" uly="622" lrx="356" lry="636" type="manual"/>
+    <zone xml:id="z04-019" ulx="121" uly="167" lrx="234" lry="190" type="line"/>
+    <zone xml:id="z04-020" ulx="128" uly="175" lrx="206" lry="203" type="line"/>
+    <zone xml:id="z04-021" ulx="128" uly="185" lrx="173" lry="217" type="line"/>
+    <zone xml:id="z04-022" ulx="128" uly="199" lrx="189" lry="228" type="line"/>
+    <zone xml:id="z04-023" ulx="128" uly="211" lrx="177" lry="240" type="line"/>
+    <zone xml:id="z04-024" ulx="129" uly="223" lrx="194" lry="252" type="line"/>
+    <zone xml:id="z04-025" ulx="129" uly="235" lrx="188" lry="264" type="line"/>
+    <zone xml:id="z04-026" ulx="129" uly="247" lrx="208" lry="276" type="line"/>
+    <zone xml:id="z04-027" ulx="129" uly="259" lrx="217" lry="288" type="line"/>
+    <zone xml:id="z04-028" ulx="129" uly="271" lrx="193" lry="300" type="line"/>
+    <zone xml:id="z04-029" ulx="129" uly="282" lrx="235" lry="311" type="line"/>
+    <zone xml:id="z04-030" ulx="130" uly="292" lrx="212" lry="324" type="line"/>
+    <zone xml:id="z04-031" ulx="118" uly="313" lrx="198" lry="333" type="line"/>
+    <zone xml:id="z04-032" ulx="130" uly="326" lrx="196" lry="345" type="line"/>
+    <zone xml:id="z04-033" ulx="131" uly="338" lrx="206" lry="357" type="line"/>
+    <zone xml:id="z04-034" ulx="131" uly="350" lrx="200" lry="369" type="line"/>
+    <zone xml:id="z04-035" ulx="131" uly="362" lrx="197" lry="381" type="line"/>
+    <zone xml:id="z04-036" ulx="132" uly="366" lrx="198" lry="395" type="line"/>
+    <zone xml:id="z04-037" ulx="127" uly="402" lrx="199" lry="425" type="line"/>
+    <zone xml:id="z04-038" ulx="132" uly="410" lrx="195" lry="438" type="line"/>
+    <zone xml:id="z04-039" ulx="132" uly="421" lrx="260" lry="451" type="line"/>
+    <zone xml:id="z04-040" ulx="132" uly="431" lrx="215" lry="463" type="line"/>
+    <zone xml:id="z04-041" ulx="132" uly="453" lrx="184" lry="473" type="line"/>
+    <zone xml:id="z04-042" ulx="120" uly="461" lrx="204" lry="486" type="line"/>
+    <zone xml:id="z04-043" ulx="128" uly="494" lrx="205" lry="517" type="line"/>
+    <zone xml:id="z04-044" ulx="133" uly="508" lrx="178" lry="529" type="line"/>
+    <zone xml:id="z04-045" ulx="134" uly="514" lrx="229" lry="543" type="line"/>
+    <zone xml:id="z04-046" ulx="122" uly="523" lrx="221" lry="556" type="line"/>
+    <zone xml:id="z04-047" ulx="128" uly="563" lrx="194" lry="585" type="line"/>
+    <zone xml:id="z04-048" ulx="134" uly="576" lrx="206" lry="597" type="line"/>
+    <zone xml:id="z04-049" ulx="135" uly="579" lrx="203" lry="612" type="line"/>
+    <zone xml:id="z04-050" ulx="135" uly="594" lrx="190" lry="623" type="line"/>
+    <zone xml:id="z04-051" ulx="129" uly="630" lrx="232" lry="653" type="line"/>
+    <zone xml:id="z04-052" ulx="136" uly="634" lrx="184" lry="667" type="line"/>
+    <zone xml:id="z04-053" ulx="312" uly="172" lrx="384" lry="191" type="line"/>
+    <zone xml:id="z04-054" ulx="307" uly="206" lrx="381" lry="228" type="line"/>
+    <zone xml:id="z04-055" ulx="301" uly="217" lrx="369" lry="240" type="line"/>
+    <zone xml:id="z04-056" ulx="308" uly="255" lrx="371" lry="277" type="line"/>
+    <zone xml:id="z04-057" ulx="315" uly="261" lrx="386" lry="290" type="line"/>
+    <zone xml:id="z04-058" ulx="313" uly="303" lrx="376" lry="322" type="line"/>
+    <zone xml:id="z04-059" ulx="316" uly="307" lrx="381" lry="336" type="line"/>
+    <zone xml:id="z04-060" ulx="311" uly="347" lrx="368" lry="370" type="line"/>
+    <zone xml:id="z04-061" ulx="317" uly="355" lrx="390" lry="384" type="line"/>
+    <zone xml:id="z04-062" ulx="317" uly="364" lrx="386" lry="396" type="line"/>
+    <zone xml:id="z04-063" ulx="317" uly="378" lrx="374" lry="407" type="line"/>
+    <zone xml:id="z04-064" ulx="312" uly="418" lrx="379" lry="440" type="line"/>
+    <zone xml:id="z04-065" ulx="317" uly="423" lrx="374" lry="455" type="line"/>
+    <zone xml:id="z04-066" ulx="313" uly="465" lrx="417" lry="487" type="line"/>
+    <zone xml:id="z04-067" ulx="319" uly="472" lrx="402" lry="501" type="line"/>
+    <zone xml:id="z04-068" ulx="319" uly="483" lrx="371" lry="513" type="line"/>
+    <zone xml:id="z04-069" ulx="314" uly="524" lrx="381" lry="545" type="line"/>
+    <zone xml:id="z04-070" ulx="315" uly="557" lrx="392" lry="579" type="line"/>
+    <zone xml:id="z04-071" ulx="315" uly="591" lrx="368" lry="614" type="line"/>
+    <zone xml:id="z04-072" ulx="316" uly="629" lrx="372" lry="650" type="line"/>
+    <zone xml:id="z04-073" ulx="136" uly="659" lrx="456" lry="701" type="block"/>
+  </surface>
+    <surface xml:id="f05" n="5" ulx="0" uly="0" lrx="583" lry="842">
+    <graphic n="print" url="facs/p05.jpg"/><graphic n="original" url="facs/p05_orig.jpg"/><zone xml:id="z05-001" ulx="207" uly="94" lrx="408" lry="125" type="line"/>
+    <zone xml:id="z05-002" ulx="226" uly="146" lrx="343" lry="173" type="line"/>
+    <zone xml:id="z05-003" ulx="97" uly="172" lrx="186" lry="191" type="line"/>
+    <zone xml:id="z05-004" ulx="97" uly="175" lrx="158" lry="204" type="line"/>
+    <zone xml:id="z05-005" ulx="97" uly="190" lrx="162" lry="210" type="line"/>
+    <zone xml:id="z05-006" ulx="97" uly="201" lrx="157" lry="220" type="line"/>
+    <zone xml:id="z05-007" ulx="97" uly="209" lrx="171" lry="229" type="line"/>
+    <zone xml:id="z05-008" ulx="97" uly="217" lrx="175" lry="238" type="line"/>
+    <zone xml:id="z05-009" ulx="96" uly="228" lrx="181" lry="247" type="line"/>
+    <zone xml:id="z05-010" ulx="96" uly="234" lrx="149" lry="257" type="line"/>
+    <zone xml:id="z05-011" ulx="97" uly="247" lrx="158" lry="265" type="line"/>
+    <zone xml:id="z05-012" ulx="97" uly="256" lrx="161" lry="275" type="line"/>
+    <zone xml:id="z05-013" ulx="230" uly="172" lrx="300" lry="191" type="line"/>
+    <zone xml:id="z05-014" ulx="230" uly="183" lrx="292" lry="200" type="line"/>
+    <zone xml:id="z05-015" ulx="231" uly="192" lrx="296" lry="209" type="line"/>
+    <zone xml:id="z05-016" ulx="231" uly="200" lrx="300" lry="219" type="line"/>
+    <zone xml:id="z05-017" ulx="231" uly="206" lrx="287" lry="229" type="line"/>
+    <zone xml:id="z05-018" ulx="231" uly="219" lrx="299" lry="237" type="line"/>
+    <zone xml:id="z05-019" ulx="231" uly="229" lrx="285" lry="246" type="line"/>
+    <zone xml:id="z05-020" ulx="232" uly="235" lrx="341" lry="256" type="line"/>
+    <zone xml:id="z05-021" ulx="231" uly="245" lrx="305" lry="265" type="line"/>
+    <zone xml:id="z05-022" ulx="362" uly="171" lrx="438" lry="190" type="line"/>
+    <zone xml:id="z05-023" ulx="363" uly="177" lrx="432" lry="200" type="line"/>
+    <zone xml:id="z05-024" ulx="362" uly="191" lrx="421" lry="208" type="line"/>
+    <zone xml:id="z05-025" ulx="362" uly="199" lrx="412" lry="217" type="line"/>
+    <zone xml:id="z05-026" ulx="362" uly="207" lrx="417" lry="227" type="line"/>
+    <zone xml:id="z05-027" ulx="363" uly="214" lrx="473" lry="236" type="line"/>
+    <zone xml:id="z05-028" ulx="362" uly="226" lrx="433" lry="245" type="line"/>
+    <zone xml:id="z05-029" ulx="362" uly="234" lrx="418" lry="254" type="line"/>
+    <zone xml:id="z05-030" ulx="362" uly="244" lrx="441" lry="263" type="line"/>
+    <zone xml:id="z05-031" ulx="221" uly="278" lrx="354" lry="304" type="line"/>
+    <zone xml:id="z05-032" ulx="97" uly="304" lrx="180" lry="323" type="line"/>
+    <zone xml:id="z05-033" ulx="97" uly="313" lrx="155" lry="332" type="line"/>
+    <zone xml:id="z05-034" ulx="97" uly="323" lrx="168" lry="341" type="line"/>
+    <zone xml:id="z05-035" ulx="96" uly="330" lrx="213" lry="351" type="line"/>
+    <zone xml:id="z05-036" ulx="97" uly="341" lrx="154" lry="360" type="line"/>
+    <zone xml:id="z05-037" ulx="96" uly="350" lrx="180" lry="369" type="line"/>
+    <zone xml:id="z05-038" ulx="229" uly="304" lrx="302" lry="322" type="line"/>
+    <zone xml:id="z05-039" ulx="229" uly="313" lrx="305" lry="331" type="line"/>
+    <zone xml:id="z05-040" ulx="228" uly="319" lrx="347" lry="341" type="line"/>
+    <zone xml:id="z05-041" ulx="229" uly="328" lrx="347" lry="351" type="line"/>
+    <zone xml:id="z05-042" ulx="229" uly="340" lrx="298" lry="359" type="line"/>
+    <zone xml:id="z05-043" ulx="229" uly="349" lrx="305" lry="369" type="line"/>
+    <zone xml:id="z05-044" ulx="361" uly="304" lrx="403" lry="320" type="line"/>
+    <zone xml:id="z05-045" ulx="361" uly="309" lrx="428" lry="331" type="line"/>
+    <zone xml:id="z05-046" ulx="360" uly="320" lrx="439" lry="339" type="line"/>
+    <zone xml:id="z05-047" ulx="360" uly="329" lrx="428" lry="349" type="line"/>
+    <zone xml:id="z05-048" ulx="360" uly="339" lrx="421" lry="358" type="line"/>
+    <zone xml:id="z05-049" ulx="360" uly="349" lrx="423" lry="366" type="line"/>
+    <zone xml:id="z05-050" ulx="233" uly="371" lrx="334" lry="398" type="line"/>
+    <zone xml:id="z05-051" ulx="96" uly="400" lrx="172" lry="418" type="line"/>
+    <zone xml:id="z05-052" ulx="96" uly="408" lrx="212" lry="427" type="line"/>
+    <zone xml:id="z05-053" ulx="96" uly="418" lrx="197" lry="437" type="line"/>
+    <zone xml:id="z05-054" ulx="96" uly="423" lrx="147" lry="447" type="line"/>
+    <zone xml:id="z05-055" ulx="96" uly="438" lrx="152" lry="455" type="line"/>
+    <zone xml:id="z05-056" ulx="96" uly="447" lrx="146" lry="464" type="line"/>
+    <zone xml:id="z05-057" ulx="96" uly="451" lrx="204" lry="474" type="line"/>
+    <zone xml:id="z05-058" ulx="96" uly="464" lrx="184" lry="483" type="line"/>
+    <zone xml:id="z05-059" ulx="96" uly="470" lrx="179" lry="493" type="line"/>
+    <zone xml:id="z05-060" ulx="95" uly="482" lrx="175" lry="501" type="line"/>
+    <zone xml:id="z05-061" ulx="96" uly="493" lrx="145" lry="510" type="line"/>
+    <zone xml:id="z05-062" ulx="95" uly="502" lrx="167" lry="520" type="line"/>
+    <zone xml:id="z05-063" ulx="229" uly="400" lrx="301" lry="417" type="line"/>
+    <zone xml:id="z05-064" ulx="228" uly="408" lrx="283" lry="426" type="line"/>
+    <zone xml:id="z05-065" ulx="228" uly="417" lrx="293" lry="436" type="line"/>
+    <zone xml:id="z05-066" ulx="228" uly="425" lrx="293" lry="445" type="line"/>
+    <zone xml:id="z05-067" ulx="229" uly="436" lrx="294" lry="454" type="line"/>
+    <zone xml:id="z05-068" ulx="228" uly="444" lrx="282" lry="463" type="line"/>
+    <zone xml:id="z05-069" ulx="227" uly="454" lrx="277" lry="472" type="line"/>
+    <zone xml:id="z05-070" ulx="228" uly="461" lrx="348" lry="482" type="line"/>
+    <zone xml:id="z05-071" ulx="228" uly="473" lrx="278" lry="491" type="line"/>
+    <zone xml:id="z05-072" ulx="228" uly="482" lrx="282" lry="500" type="line"/>
+    <zone xml:id="z05-073" ulx="227" uly="491" lrx="293" lry="509" type="line"/>
+    <zone xml:id="z05-074" ulx="227" uly="500" lrx="299" lry="519" type="line"/>
+    <zone xml:id="z05-075" ulx="360" uly="398" lrx="427" lry="415" type="line"/>
+    <zone xml:id="z05-076" ulx="360" uly="406" lrx="424" lry="425" type="line"/>
+    <zone xml:id="z05-077" ulx="360" uly="414" lrx="415" lry="435" type="line"/>
+    <zone xml:id="z05-078" ulx="360" uly="426" lrx="413" lry="444" type="line"/>
+    <zone xml:id="z05-079" ulx="360" uly="434" lrx="402" lry="453" type="line"/>
+    <zone xml:id="z05-080" ulx="360" uly="440" lrx="464" lry="463" type="line"/>
+    <zone xml:id="z05-081" ulx="359" uly="453" lrx="433" lry="471" type="line"/>
+    <zone xml:id="z05-082" ulx="359" uly="462" lrx="438" lry="481" type="line"/>
+    <zone xml:id="z05-083" ulx="359" uly="472" lrx="413" lry="490" type="line"/>
+    <zone xml:id="z05-084" ulx="359" uly="480" lrx="425" lry="500" type="line"/>
+    <zone xml:id="z05-085" ulx="359" uly="489" lrx="426" lry="509" type="line"/>
+    <zone xml:id="z05-086" ulx="359" uly="500" lrx="434" lry="518" type="line"/>
+    <zone xml:id="z05-087" ulx="223" uly="522" lrx="340" lry="548" type="line"/>
+    <zone xml:id="z05-088" ulx="95" uly="554" lrx="170" lry="573" type="line"/>
+    <zone xml:id="z05-089" ulx="96" uly="560" lrx="209" lry="583" type="line"/>
+    <zone xml:id="z05-090" ulx="96" uly="574" lrx="146" lry="591" type="line"/>
+    <zone xml:id="z05-091" ulx="95" uly="582" lrx="149" lry="601" type="line"/>
+    <zone xml:id="z05-092" ulx="95" uly="589" lrx="164" lry="610" type="line"/>
+    <zone xml:id="z05-093" ulx="96" uly="597" lrx="169" lry="620" type="line"/>
+    <zone xml:id="z05-094" ulx="95" uly="604" lrx="166" lry="629" type="line"/>
+    <zone xml:id="z05-095" ulx="95" uly="618" lrx="171" lry="637" type="line"/>
+    <zone xml:id="z05-096" ulx="95" uly="628" lrx="146" lry="646" type="line"/>
+    <zone xml:id="z05-097" ulx="94" uly="636" lrx="170" lry="656" type="line"/>
+    <zone xml:id="z05-098" ulx="227" uly="554" lrx="292" lry="572" type="line"/>
+    <zone xml:id="z05-099" ulx="227" uly="563" lrx="291" lry="581" type="line"/>
+    <zone xml:id="z05-100" ulx="227" uly="570" lrx="324" lry="591" type="line"/>
+    <zone xml:id="z05-101" ulx="226" uly="579" lrx="305" lry="600" type="line"/>
+    <zone xml:id="z05-102" ulx="226" uly="587" lrx="336" lry="610" type="line"/>
+    <zone xml:id="z05-103" ulx="228" uly="598" lrx="324" lry="619" type="line"/>
+    <zone xml:id="z05-104" ulx="227" uly="608" lrx="281" lry="627" type="line"/>
+    <zone xml:id="z05-105" ulx="228" uly="617" lrx="307" lry="637" type="line"/>
+    <zone xml:id="z05-106" ulx="226" uly="624" lrx="327" lry="647" type="line"/>
+    <zone xml:id="z05-107" ulx="227" uly="636" lrx="314" lry="655" type="line"/>
+    <zone xml:id="z05-108" ulx="359" uly="553" lrx="400" lry="572" type="line"/>
+    <zone xml:id="z05-109" ulx="360" uly="563" lrx="432" lry="581" type="line"/>
+    <zone xml:id="z05-110" ulx="359" uly="568" lrx="440" lry="592" type="line"/>
+    <zone xml:id="z05-111" ulx="359" uly="581" lrx="453" lry="600" type="line"/>
+    <zone xml:id="z05-112" ulx="360" uly="591" lrx="428" lry="609" type="line"/>
+    <zone xml:id="z05-113" ulx="359" uly="599" lrx="464" lry="619" type="line"/>
+    <zone xml:id="z05-114" ulx="359" uly="609" lrx="424" lry="628" type="line"/>
+    <zone xml:id="z05-115" ulx="358" uly="616" lrx="425" lry="638" type="line"/>
+    <zone xml:id="z05-116" ulx="358" uly="630" lrx="416" lry="643" type="line"/>
+    <zone xml:id="z05-117" ulx="358" uly="637" lrx="419" lry="656" type="line"/>
+    <zone xml:id="z05-118" ulx="201" uly="649" lrx="354" lry="676" type="line"/>
+    <zone xml:id="z05-119" ulx="161" uly="670" lrx="409" lry="696" type="line"/>
+  </surface>
+    <surface xml:id="f06" n="6" ulx="0" uly="0" lrx="578" lry="842">
+    <graphic n="print" url="facs/p06.jpg"/><graphic n="original" url="facs/p06_orig.jpg"/><zone xml:id="z06-001" ulx="110" uly="107" lrx="474" lry="199" type="manual"/>
+    <zone xml:id="z06-002" ulx="114" uly="259" lrx="334" lry="306" type="block"/>
+    <zone xml:id="z06-003" ulx="299" uly="352" lrx="490" lry="382" type="line"/>
+    <zone xml:id="z06-004" ulx="115" uly="447" lrx="273" lry="494" type="block"/>
+    <zone xml:id="z06-005" ulx="328" uly="536" lrx="491" lry="582" type="block"/>
+    <zone xml:id="z06-006" ulx="115" uly="621" lrx="255" lry="640" type="line"/>
+    <zone xml:id="z06-007" ulx="114" uly="644" lrx="494" lry="722" type="block"/>
+  </surface>
+    <surface xml:id="f07" n="7" ulx="0" uly="0" lrx="585" lry="843">
+    <graphic n="print" url="facs/p07.jpg"/><graphic n="original" url="facs/p07_orig.jpg"/><zone xml:id="z07-001" ulx="46" uly="70" lrx="507" lry="284" type="figure"/>
+    <zone xml:id="z07-002" ulx="46" uly="284" lrx="170" lry="752" type="figure"/>
+    <zone xml:id="z07-003" ulx="229" uly="409" lrx="431" lry="454" type="figure"/>
+    <zone xml:id="z07-004" ulx="220" uly="300" lrx="347" lry="322" type="line"/>
+    <zone xml:id="z07-005" ulx="300" uly="321" lrx="470" lry="366" type="line"/>
+    <zone xml:id="z07-006" ulx="229" uly="369" lrx="437" lry="406" type="block"/>
+    <zone xml:id="z07-007" ulx="199" uly="474" lrx="238" lry="497" type="line"/>
+    <zone xml:id="z07-008" ulx="177" uly="511" lrx="265" lry="530" type="line"/>
+    <zone xml:id="z07-009" ulx="362" uly="569" lrx="483" lry="589" type="line"/>
+    <zone xml:id="z07-010" ulx="190" uly="599" lrx="471" lry="620" type="line"/>
+    <zone xml:id="z07-011" ulx="275" uly="629" lrx="379" lry="649" type="line"/>
+    <zone xml:id="z07-012" ulx="198" uly="647" lrx="470" lry="683" type="line"/>
+    <zone xml:id="z07-013" ulx="238" uly="673" lrx="420" lry="694" type="line"/>
+    <zone xml:id="z07-014" ulx="208" uly="684" lrx="423" lry="707" type="line"/>
+    <zone xml:id="z07-015" ulx="220" uly="697" lrx="402" lry="719" type="line"/>
+  </surface>
+    <surface xml:id="f08" n="8" ulx="0" uly="0" lrx="581" lry="841">
+    <graphic n="print" url="facs/p08.jpg"/><graphic n="original" url="facs/p08_orig.jpg"/><zone xml:id="z08-001" ulx="159" uly="124" lrx="424" lry="146" type="line"/>
+    <zone xml:id="z08-002" ulx="172" uly="137" lrx="341" lry="158" type="line"/>
+    <zone xml:id="z08-003" ulx="160" uly="149" lrx="404" lry="171" type="line"/>
+    <zone xml:id="z08-004" ulx="172" uly="160" lrx="340" lry="183" type="line"/>
+    <zone xml:id="z08-005" ulx="160" uly="185" lrx="375" lry="207" type="line"/>
+    <zone xml:id="z08-006" ulx="172" uly="197" lrx="333" lry="219" type="line"/>
+    <zone xml:id="z08-007" ulx="160" uly="208" lrx="397" lry="231" type="line"/>
+    <zone xml:id="z08-008" ulx="173" uly="221" lrx="353" lry="243" type="line"/>
+    <zone xml:id="z08-009" ulx="161" uly="245" lrx="390" lry="267" type="line"/>
+    <zone xml:id="z08-010" ulx="172" uly="258" lrx="308" lry="279" type="line"/>
+    <zone xml:id="z08-011" ulx="161" uly="269" lrx="337" lry="291" type="line"/>
+    <zone xml:id="z08-012" ulx="173" uly="281" lrx="341" lry="303" type="line"/>
+    <zone xml:id="z08-013" ulx="162" uly="305" lrx="340" lry="327" type="line"/>
+    <zone xml:id="z08-014" ulx="174" uly="317" lrx="354" lry="338" type="line"/>
+    <zone xml:id="z08-015" ulx="163" uly="328" lrx="351" lry="351" type="line"/>
+    <zone xml:id="z08-016" ulx="173" uly="340" lrx="333" lry="363" type="line"/>
+    <zone xml:id="z08-017" ulx="161" uly="365" lrx="399" lry="387" type="line"/>
+    <zone xml:id="z08-018" ulx="174" uly="376" lrx="321" lry="399" type="line"/>
+    <zone xml:id="z08-019" ulx="163" uly="389" lrx="354" lry="411" type="line"/>
+    <zone xml:id="z08-020" ulx="174" uly="401" lrx="347" lry="423" type="line"/>
+    <zone xml:id="z08-021" ulx="162" uly="425" lrx="388" lry="447" type="line"/>
+    <zone xml:id="z08-022" ulx="175" uly="437" lrx="346" lry="459" type="line"/>
+    <zone xml:id="z08-023" ulx="162" uly="450" lrx="386" lry="472" type="line"/>
+    <zone xml:id="z08-024" ulx="174" uly="462" lrx="350" lry="484" type="line"/>
+    <zone xml:id="z08-025" ulx="162" uly="485" lrx="356" lry="508" type="line"/>
+    <zone xml:id="z08-026" ulx="175" uly="497" lrx="322" lry="521" type="line"/>
+    <zone xml:id="z08-027" ulx="163" uly="510" lrx="349" lry="532" type="line"/>
+    <zone xml:id="z08-028" ulx="177" uly="522" lrx="338" lry="545" type="line"/>
+    <zone xml:id="z08-029" ulx="163" uly="546" lrx="373" lry="568" type="line"/>
+    <zone xml:id="z08-030" ulx="175" uly="558" lrx="326" lry="580" type="line"/>
+    <zone xml:id="z08-031" ulx="164" uly="570" lrx="347" lry="593" type="line"/>
+    <zone xml:id="z08-032" ulx="175" uly="582" lrx="314" lry="605" type="line"/>
+    <zone xml:id="z08-033" ulx="164" uly="606" lrx="371" lry="629" type="line"/>
+    <zone xml:id="z08-034" ulx="177" uly="617" lrx="328" lry="641" type="line"/>
+    <zone xml:id="z08-035" ulx="164" uly="629" lrx="357" lry="652" type="line"/>
+    <zone xml:id="z08-036" ulx="177" uly="642" lrx="314" lry="665" type="line"/>
+    <zone xml:id="z08-037" ulx="164" uly="665" lrx="375" lry="689" type="line"/>
+    <zone xml:id="z08-038" ulx="176" uly="679" lrx="364" lry="700" type="line"/>
+    <zone xml:id="z08-039" ulx="165" uly="690" lrx="391" lry="713" type="line"/>
+    <zone xml:id="z08-040" ulx="177" uly="702" lrx="345" lry="724" type="line"/>
+  </surface>
+    <surface xml:id="f09" n="9" ulx="0" uly="0" lrx="584" lry="843">
+    <graphic n="print" url="facs/p09.jpg"/><graphic n="original" url="facs/p09_orig.jpg"/><zone xml:id="z09-001" ulx="160" uly="127" lrx="381" lry="149" type="line"/>
+    <zone xml:id="z09-002" ulx="171" uly="139" lrx="367" lry="161" type="line"/>
+    <zone xml:id="z09-003" ulx="159" uly="150" lrx="396" lry="173" type="line"/>
+    <zone xml:id="z09-004" ulx="171" uly="163" lrx="339" lry="185" type="line"/>
+    <zone xml:id="z09-005" ulx="158" uly="190" lrx="432" lry="212" type="line"/>
+    <zone xml:id="z09-006" ulx="170" uly="202" lrx="330" lry="224" type="line"/>
+    <zone xml:id="z09-007" ulx="158" uly="214" lrx="413" lry="236" type="line"/>
+    <zone xml:id="z09-008" ulx="170" uly="226" lrx="309" lry="248" type="line"/>
+    <zone xml:id="z09-009" ulx="158" uly="250" lrx="368" lry="272" type="line"/>
+    <zone xml:id="z09-010" ulx="169" uly="261" lrx="327" lry="283" type="line"/>
+    <zone xml:id="z09-011" ulx="158" uly="273" lrx="350" lry="295" type="line"/>
+    <zone xml:id="z09-012" ulx="169" uly="285" lrx="307" lry="307" type="line"/>
+    <zone xml:id="z09-013" ulx="165" uly="389" lrx="426" lry="422" type="line"/>
+    <zone xml:id="z09-014" ulx="415" uly="443" lrx="468" lry="465" type="line"/>
+    <zone xml:id="z09-015" ulx="216" uly="469" lrx="379" lry="496" type="line"/>
+    <zone xml:id="z09-016" ulx="121" uly="552" lrx="175" lry="573" type="line"/>
+    <zone xml:id="z09-017" ulx="255" uly="617" lrx="467" lry="643" type="line"/>
+    <zone xml:id="z09-018" ulx="103" uly="654" lrx="486" lry="694" type="block"/>
+    <zone xml:id="z09-019" ulx="219" uly="706" lrx="365" lry="733" type="line"/>
+  </surface>
+    <surface xml:id="f10" n="10" ulx="0" uly="0" lrx="585" lry="843">
+    <graphic n="print" url="facs/p10.jpg"/><graphic n="original" url="facs/p10_orig.jpg"/><zone xml:id="z10-001" ulx="172" uly="135" lrx="411" lry="166" type="line"/>
+    <zone xml:id="z10-002" ulx="301" uly="197" lrx="462" lry="224" type="line"/>
+    <zone xml:id="z10-003" ulx="114" uly="225" lrx="465" lry="248" type="line"/>
+    <zone xml:id="z10-004" ulx="147" uly="254" lrx="433" lry="303" type="block"/>
+    <zone xml:id="z10-005" ulx="203" uly="304" lrx="376" lry="329" type="line"/>
+    <zone xml:id="z10-006" ulx="101" uly="335" lrx="482" lry="424" type="block"/>
+    <zone xml:id="z10-007" ulx="174" uly="452" lrx="398" lry="474" type="line"/>
+    <zone xml:id="z10-008" ulx="177" uly="465" lrx="389" lry="486" type="line"/>
+    <zone xml:id="z10-009" ulx="174" uly="477" lrx="409" lry="498" type="line"/>
+    <zone xml:id="z10-010" ulx="175" uly="489" lrx="316" lry="510" type="line"/>
+    <zone xml:id="z10-011" ulx="101" uly="502" lrx="482" lry="570" type="block"/>
+    <zone xml:id="z10-012" ulx="160" uly="590" lrx="425" lry="613" type="line"/>
+    <zone xml:id="z10-013" ulx="223" uly="619" lrx="362" lry="639" type="line"/>
+    <zone xml:id="z10-014" ulx="237" uly="646" lrx="301" lry="663" type="line"/>
+    <zone xml:id="z10-015" ulx="199" uly="664" lrx="335" lry="685" type="line"/>
+    <zone xml:id="z10-016" ulx="198" uly="676" lrx="318" lry="698" type="line"/>
+    <zone xml:id="z10-017" ulx="198" uly="690" lrx="305" lry="708" type="line"/>
+    <zone xml:id="z10-018" ulx="198" uly="700" lrx="332" lry="721" type="line"/>
+  </surface>
+    <surface xml:id="f11" n="11" ulx="0" uly="0" lrx="581" lry="845">
+    <graphic n="print" url="facs/p11.jpg"/><graphic n="original" url="facs/p11_orig.jpg"/><zone xml:id="z11-001" ulx="185" uly="113" lrx="325" lry="137" type="line"/>
+    <zone xml:id="z11-002" ulx="186" uly="127" lrx="352" lry="149" type="line"/>
+    <zone xml:id="z11-003" ulx="185" uly="140" lrx="315" lry="161" type="line"/>
+    <zone xml:id="z11-004" ulx="186" uly="151" lrx="331" lry="174" type="line"/>
+    <zone xml:id="z11-005" ulx="186" uly="165" lrx="312" lry="185" type="line"/>
+    <zone xml:id="z11-006" ulx="187" uly="175" lrx="318" lry="198" type="line"/>
+    <zone xml:id="z11-007" ulx="189" uly="186" lrx="340" lry="210" type="line"/>
+    <zone xml:id="z11-008" ulx="187" uly="200" lrx="377" lry="221" type="line"/>
+    <zone xml:id="z11-009" ulx="186" uly="212" lrx="354" lry="233" type="line"/>
+    <zone xml:id="z11-010" ulx="186" uly="224" lrx="370" lry="245" type="line"/>
+    <zone xml:id="z11-011" ulx="186" uly="237" lrx="306" lry="257" type="line"/>
+    <zone xml:id="z11-012" ulx="187" uly="248" lrx="357" lry="270" type="line"/>
+    <zone xml:id="z11-013" ulx="186" uly="261" lrx="317" lry="281" type="line"/>
+    <zone xml:id="z11-014" ulx="186" uly="272" lrx="338" lry="294" type="line"/>
+    <zone xml:id="z11-015" ulx="186" uly="403" lrx="284" lry="423" type="line"/>
+    <zone xml:id="z11-016" ulx="186" uly="309" lrx="302" lry="330" type="line"/>
+    <zone xml:id="z11-017" ulx="187" uly="426" lrx="305" lry="448" type="line"/>
+    <zone xml:id="z11-018" ulx="187" uly="333" lrx="319" lry="355" type="line"/>
+    <zone xml:id="z11-019" ulx="188" uly="344" lrx="332" lry="366" type="line"/>
+    <zone xml:id="z11-020" ulx="188" uly="356" lrx="403" lry="378" type="line"/>
+    <zone xml:id="z11-021" ulx="227" uly="385" lrx="277" lry="406" type="line"/>
+    <zone xml:id="z11-022" ulx="186" uly="298" lrx="285" lry="318" type="line"/>
+    <zone xml:id="z11-023" ulx="187" uly="414" lrx="303" lry="436" type="line"/>
+    <zone xml:id="z11-024" ulx="186" uly="320" lrx="305" lry="342" type="line"/>
+    <zone xml:id="z11-025" ulx="187" uly="438" lrx="322" lry="460" type="line"/>
+    <zone xml:id="z11-026" ulx="188" uly="451" lrx="333" lry="472" type="line"/>
+    <zone xml:id="z11-027" ulx="187" uly="461" lrx="400" lry="484" type="line"/>
+    <zone xml:id="z11-028" ulx="224" uly="486" lrx="306" lry="514" type="line"/>
+    <zone xml:id="z11-029" ulx="186" uly="510" lrx="311" lry="531" type="line"/>
+    <zone xml:id="z11-030" ulx="188" uly="521" lrx="326" lry="543" type="line"/>
+    <zone xml:id="z11-031" ulx="186" uly="532" lrx="300" lry="555" type="line"/>
+    <zone xml:id="z11-032" ulx="186" uly="546" lrx="301" lry="567" type="line"/>
+    <zone xml:id="z11-033" ulx="187" uly="557" lrx="286" lry="579" type="line"/>
+    <zone xml:id="z11-034" ulx="187" uly="569" lrx="316" lry="591" type="line"/>
+    <zone xml:id="z11-035" ulx="224" uly="598" lrx="269" lry="620" type="line"/>
+    <zone xml:id="z11-036" ulx="235" uly="615" lrx="311" lry="636" type="line"/>
+    <zone xml:id="z11-037" ulx="234" uly="627" lrx="314" lry="649" type="line"/>
+    <zone xml:id="z11-038" ulx="186" uly="640" lrx="340" lry="661" type="line"/>
+    <zone xml:id="z11-039" ulx="185" uly="651" lrx="400" lry="674" type="line"/>
+    <zone xml:id="z11-040" ulx="186" uly="664" lrx="350" lry="685" type="line"/>
+    <zone xml:id="z11-041" ulx="187" uly="676" lrx="388" lry="698" type="line"/>
+    <zone xml:id="z11-042" ulx="185" uly="688" lrx="339" lry="709" type="line"/>
+    <zone xml:id="z11-043" ulx="185" uly="700" lrx="351" lry="722" type="line"/>
+  </surface>
+    <surface xml:id="f12" n="12" ulx="0" uly="0" lrx="582" lry="844">
+    <graphic n="print" url="facs/p12.jpg"/><graphic n="original" url="facs/p12_orig.jpg"/><zone xml:id="z12-001" ulx="225" uly="124" lrx="347" lry="149" type="line"/>
+    <zone xml:id="z12-002" ulx="216" uly="153" lrx="340" lry="175" type="line"/>
+    <zone xml:id="z12-003" ulx="216" uly="165" lrx="383" lry="188" type="line"/>
+    <zone xml:id="z12-004" ulx="215" uly="178" lrx="295" lry="198" type="line"/>
+    <zone xml:id="z12-005" ulx="219" uly="189" lrx="318" lry="212" type="line"/>
+    <zone xml:id="z12-006" ulx="217" uly="202" lrx="326" lry="223" type="line"/>
+    <zone xml:id="z12-007" ulx="218" uly="212" lrx="350" lry="236" type="line"/>
+    <zone xml:id="z12-008" ulx="215" uly="226" lrx="354" lry="247" type="line"/>
+    <zone xml:id="z12-009" ulx="216" uly="238" lrx="384" lry="259" type="line"/>
+    <zone xml:id="z12-010" ulx="253" uly="275" lrx="323" lry="298" type="line"/>
+    <zone xml:id="z12-011" ulx="213" uly="302" lrx="377" lry="324" type="line"/>
+    <zone xml:id="z12-012" ulx="213" uly="315" lrx="403" lry="337" type="line"/>
+    <zone xml:id="z12-013" ulx="215" uly="328" lrx="272" lry="347" type="line"/>
+    <zone xml:id="z12-014" ulx="213" uly="338" lrx="306" lry="359" type="line"/>
+    <zone xml:id="z12-015" ulx="213" uly="350" lrx="305" lry="371" type="line"/>
+    <zone xml:id="z12-016" ulx="213" uly="362" lrx="317" lry="384" type="line"/>
+    <zone xml:id="z12-017" ulx="213" uly="375" lrx="321" lry="395" type="line"/>
+    <zone xml:id="z12-018" ulx="213" uly="387" lrx="341" lry="408" type="line"/>
+    <zone xml:id="z12-019" ulx="212" uly="399" lrx="308" lry="419" type="line"/>
+    <zone xml:id="z12-020" ulx="212" uly="411" lrx="363" lry="432" type="line"/>
+    <zone xml:id="z12-021" ulx="212" uly="423" lrx="340" lry="444" type="line"/>
+    <zone xml:id="z12-022" ulx="212" uly="435" lrx="357" lry="457" type="line"/>
+    <zone xml:id="z12-023" ulx="251" uly="473" lrx="315" lry="493" type="line"/>
+    <zone xml:id="z12-024" ulx="211" uly="497" lrx="310" lry="518" type="line"/>
+    <zone xml:id="z12-025" ulx="212" uly="509" lrx="330" lry="531" type="line"/>
+    <zone xml:id="z12-026" ulx="211" uly="522" lrx="328" lry="543" type="line"/>
+    <zone xml:id="z12-027" ulx="212" uly="534" lrx="343" lry="555" type="line"/>
+    <zone xml:id="z12-028" ulx="212" uly="546" lrx="350" lry="567" type="line"/>
+    <zone xml:id="z12-029" ulx="212" uly="557" lrx="426" lry="580" type="line"/>
+    <zone xml:id="z12-030" ulx="213" uly="587" lrx="345" lry="610" type="line"/>
+    <zone xml:id="z12-031" ulx="210" uly="600" lrx="330" lry="622" type="line"/>
+    <zone xml:id="z12-032" ulx="211" uly="614" lrx="314" lry="633" type="line"/>
+    <zone xml:id="z12-033" ulx="211" uly="625" lrx="344" lry="646" type="line"/>
+    <zone xml:id="z12-034" ulx="210" uly="633" lrx="348" lry="659" type="line"/>
+    <zone xml:id="z12-035" ulx="212" uly="648" lrx="376" lry="671" type="line"/>
+    <zone xml:id="z12-036" ulx="210" uly="660" lrx="342" lry="682" type="line"/>
+    <zone xml:id="z12-037" ulx="210" uly="671" lrx="355" lry="694" type="line"/>
+    <zone xml:id="z12-038" ulx="210" uly="684" lrx="336" lry="705" type="line"/>
+    <zone xml:id="z12-039" ulx="210" uly="695" lrx="339" lry="718" type="line"/>
+    <zone xml:id="z12-040" ulx="211" uly="705" lrx="360" lry="729" type="line"/>
+    <zone xml:id="z12-041" ulx="286" uly="740" lrx="314" lry="759" type="line"/>
+  </surface>
+    <surface xml:id="f13" n="13" ulx="0" uly="0" lrx="583" lry="845">
+    <graphic n="print" url="facs/p13.jpg"/><graphic n="original" url="facs/p13_orig.jpg"/><zone xml:id="z13-001" ulx="203" uly="119" lrx="396" lry="140" type="line"/>
+    <zone xml:id="z13-002" ulx="202" uly="131" lrx="375" lry="152" type="line"/>
+    <zone xml:id="z13-003" ulx="203" uly="143" lrx="387" lry="165" type="line"/>
+    <zone xml:id="z13-004" ulx="202" uly="157" lrx="321" lry="177" type="line"/>
+    <zone xml:id="z13-005" ulx="202" uly="167" lrx="370" lry="189" type="line"/>
+    <zone xml:id="z13-006" ulx="51" uly="181" lrx="333" lry="201" type="block"/>
+    <zone xml:id="z13-007" ulx="202" uly="192" lrx="357" lry="213" type="line"/>
+    <zone xml:id="z13-008" ulx="22" uly="182" lrx="33" lry="201" type="line"/>
+    <zone xml:id="z13-009" ulx="197" uly="368" lrx="366" lry="605" type="figure"/>
+  </surface>
+    <surface xml:id="f14" n="14" ulx="0" uly="0" lrx="581" lry="842">
+    <graphic n="print" url="facs/p14.jpg"/><graphic n="original" url="facs/p14_orig.jpg"/><zone xml:id="z14-001" ulx="177" uly="112" lrx="216" lry="137" type="line"/>
+    <zone xml:id="z14-002" ulx="138" uly="155" lrx="214" lry="184" type="line"/>
+    <zone xml:id="z14-003" ulx="138" uly="182" lrx="372" lry="231" type="estimated"/>
+    <zone xml:id="z14-004" ulx="207" uly="229" lrx="372" lry="256" type="line"/>
+    <zone xml:id="z14-005" ulx="101" uly="263" lrx="480" lry="304" type="block"/>
+    <zone xml:id="z14-006" ulx="101" uly="292" lrx="480" lry="335" type="block"/>
+    <zone xml:id="z14-007" ulx="117" uly="377" lrx="317" lry="451" type="block"/>
+    <zone xml:id="z14-008" ulx="409" uly="442" lrx="464" lry="463" type="line"/>
+    <zone xml:id="z14-009" ulx="210" uly="460" lrx="371" lry="488" type="line"/>
+    <zone xml:id="z14-010" ulx="210" uly="486" lrx="465" lry="563" type="estimated"/>
+    <zone xml:id="z14-011" ulx="408" uly="562" lrx="465" lry="583" type="line"/>
+    <zone xml:id="z14-012" ulx="223" uly="584" lrx="367" lry="611" type="line"/>
+    <zone xml:id="z14-013" ulx="223" uly="607" lrx="340" lry="632" type="line"/>
+    <zone xml:id="z14-014" ulx="241" uly="640" lrx="346" lry="660" type="line"/>
+    <zone xml:id="z14-015" ulx="104" uly="668" lrx="483" lry="751" type="block"/>
+    <zone xml:id="z14-016" ulx="104" uly="749" lrx="483" lry="780" type="estimated"/>
+  </surface>
+    <surface xml:id="f15" n="15" ulx="0" uly="0" lrx="582" lry="846">
+    <graphic n="print" url="facs/p15.jpg"/><graphic n="original" url="facs/p15_orig.jpg"/><zone xml:id="z15-001" ulx="104" uly="87" lrx="483" lry="183" type="block"/>
+    <zone xml:id="z15-002" ulx="105" uly="151" lrx="483" lry="202" type="block"/>
+    <zone xml:id="z15-003" ulx="139" uly="258" lrx="449" lry="290" type="line"/>
+    <zone xml:id="z15-004" ulx="418" uly="316" lrx="465" lry="336" type="line"/>
+    <zone xml:id="z15-005" ulx="181" uly="340" lrx="407" lry="370" type="line"/>
+    <zone xml:id="z15-006" ulx="182" uly="375" lrx="373" lry="400" type="line"/>
+    <zone xml:id="z15-007" ulx="182" uly="381" lrx="381" lry="414" type="line"/>
+    <zone xml:id="z15-008" ulx="180" uly="401" lrx="376" lry="423" type="line"/>
+    <zone xml:id="z15-009" ulx="190" uly="413" lrx="367" lry="435" type="line"/>
+    <zone xml:id="z15-010" ulx="178" uly="429" lrx="373" lry="452" type="line"/>
+    <zone xml:id="z15-011" ulx="190" uly="442" lrx="359" lry="464" type="line"/>
+    <zone xml:id="z15-012" ulx="179" uly="454" lrx="384" lry="475" type="line"/>
+    <zone xml:id="z15-013" ulx="190" uly="466" lrx="359" lry="488" type="line"/>
+    <zone xml:id="z15-014" ulx="179" uly="483" lrx="402" lry="504" type="line"/>
+    <zone xml:id="z15-015" ulx="191" uly="493" lrx="346" lry="517" type="line"/>
+    <zone xml:id="z15-016" ulx="179" uly="506" lrx="374" lry="528" type="line"/>
+    <zone xml:id="z15-017" ulx="190" uly="518" lrx="363" lry="541" type="line"/>
+    <zone xml:id="z15-018" ulx="179" uly="535" lrx="358" lry="557" type="line"/>
+    <zone xml:id="z15-019" ulx="190" uly="547" lrx="387" lry="569" type="line"/>
+    <zone xml:id="z15-020" ulx="179" uly="559" lrx="378" lry="581" type="line"/>
+    <zone xml:id="z15-021" ulx="190" uly="571" lrx="354" lry="593" type="line"/>
+    <zone xml:id="z15-022" ulx="178" uly="588" lrx="382" lry="610" type="line"/>
+    <zone xml:id="z15-023" ulx="189" uly="597" lrx="377" lry="622" type="line"/>
+    <zone xml:id="z15-024" ulx="178" uly="611" lrx="328" lry="634" type="line"/>
+    <zone xml:id="z15-025" ulx="189" uly="624" lrx="355" lry="646" type="line"/>
+    <zone xml:id="z15-026" ulx="103" uly="667" lrx="484" lry="716" type="block"/>
+    <zone xml:id="z15-027" ulx="278" uly="726" lrx="307" lry="746" type="line"/>
+  </surface>
+    <surface xml:id="f16" n="16" ulx="0" uly="0" lrx="581" lry="844">
+    <graphic n="print" url="facs/p16.jpg"/><graphic n="original" url="facs/p16_orig.jpg"/><zone xml:id="z16-001" ulx="122" uly="101" lrx="412" lry="155" type="block"/>
+    <zone xml:id="z16-002" ulx="343" uly="152" lrx="465" lry="176" type="line"/>
+    <zone xml:id="z16-003" ulx="148" uly="181" lrx="439" lry="235" type="block"/>
+    <zone xml:id="z16-004" ulx="166" uly="238" lrx="402" lry="280" type="line"/>
+    <zone xml:id="z16-005" ulx="195" uly="255" lrx="367" lry="276" type="line"/>
+    <zone xml:id="z16-006" ulx="165" uly="266" lrx="346" lry="288" type="line"/>
+    <zone xml:id="z16-007" ulx="177" uly="278" lrx="323" lry="300" type="line"/>
+    <zone xml:id="z16-008" ulx="165" uly="299" lrx="389" lry="321" type="line"/>
+    <zone xml:id="z16-009" ulx="176" uly="311" lrx="348" lry="333" type="line"/>
+    <zone xml:id="z16-010" ulx="165" uly="322" lrx="354" lry="345" type="line"/>
+    <zone xml:id="z16-011" ulx="177" uly="335" lrx="362" lry="357" type="line"/>
+    <zone xml:id="z16-012" ulx="164" uly="356" lrx="348" lry="378" type="line"/>
+    <zone xml:id="z16-013" ulx="177" uly="368" lrx="354" lry="390" type="line"/>
+    <zone xml:id="z16-014" ulx="164" uly="380" lrx="357" lry="402" type="line"/>
+    <zone xml:id="z16-015" ulx="176" uly="392" lrx="368" lry="414" type="line"/>
+    <zone xml:id="z16-016" ulx="165" uly="414" lrx="364" lry="435" type="line"/>
+    <zone xml:id="z16-017" ulx="176" uly="426" lrx="351" lry="447" type="line"/>
+    <zone xml:id="z16-018" ulx="165" uly="438" lrx="382" lry="460" type="line"/>
+    <zone xml:id="z16-019" ulx="176" uly="450" lrx="363" lry="472" type="line"/>
+    <zone xml:id="z16-020" ulx="164" uly="472" lrx="373" lry="493" type="line"/>
+    <zone xml:id="z16-021" ulx="176" uly="483" lrx="345" lry="506" type="line"/>
+    <zone xml:id="z16-022" ulx="164" uly="496" lrx="334" lry="518" type="line"/>
+    <zone xml:id="z16-023" ulx="177" uly="508" lrx="333" lry="529" type="line"/>
+    <zone xml:id="z16-024" ulx="164" uly="530" lrx="350" lry="551" type="line"/>
+    <zone xml:id="z16-025" ulx="177" uly="541" lrx="321" lry="563" type="line"/>
+    <zone xml:id="z16-026" ulx="165" uly="553" lrx="382" lry="575" type="line"/>
+    <zone xml:id="z16-027" ulx="177" uly="565" lrx="332" lry="587" type="line"/>
+    <zone xml:id="z16-028" ulx="165" uly="586" lrx="362" lry="608" type="line"/>
+    <zone xml:id="z16-029" ulx="176" uly="598" lrx="361" lry="620" type="line"/>
+    <zone xml:id="z16-030" ulx="163" uly="611" lrx="376" lry="632" type="line"/>
+    <zone xml:id="z16-031" ulx="177" uly="623" lrx="369" lry="644" type="line"/>
+    <zone xml:id="z16-032" ulx="164" uly="644" lrx="352" lry="665" type="line"/>
+    <zone xml:id="z16-033" ulx="176" uly="656" lrx="352" lry="678" type="line"/>
+    <zone xml:id="z16-034" ulx="164" uly="668" lrx="357" lry="690" type="line"/>
+    <zone xml:id="z16-035" ulx="175" uly="680" lrx="356" lry="702" type="line"/>
+    <zone xml:id="z16-036" ulx="278" uly="711" lrx="308" lry="731" type="line"/>
+  </surface>
+    <surface xml:id="f17" n="17" ulx="0" uly="0" lrx="583" lry="846">
+    <graphic n="print" url="facs/p17.jpg"/><graphic n="original" url="facs/p17_orig.jpg"/><zone xml:id="z17-001" ulx="152" uly="94" lrx="370" lry="116" type="line"/>
+    <zone xml:id="z17-002" ulx="164" uly="107" lrx="358" lry="128" type="line"/>
+    <zone xml:id="z17-003" ulx="153" uly="118" lrx="331" lry="140" type="line"/>
+    <zone xml:id="z17-004" ulx="164" uly="131" lrx="307" lry="152" type="line"/>
+    <zone xml:id="z17-005" ulx="152" uly="152" lrx="341" lry="174" type="line"/>
+    <zone xml:id="z17-006" ulx="163" uly="164" lrx="302" lry="186" type="line"/>
+    <zone xml:id="z17-007" ulx="152" uly="176" lrx="370" lry="198" type="line"/>
+    <zone xml:id="z17-008" ulx="163" uly="189" lrx="333" lry="210" type="line"/>
+    <zone xml:id="z17-009" ulx="151" uly="210" lrx="353" lry="231" type="line"/>
+    <zone xml:id="z17-010" ulx="163" uly="223" lrx="311" lry="243" type="line"/>
+    <zone xml:id="z17-011" ulx="151" uly="233" lrx="344" lry="255" type="line"/>
+    <zone xml:id="z17-012" ulx="164" uly="246" lrx="359" lry="268" type="line"/>
+    <zone xml:id="z17-013" ulx="151" uly="267" lrx="385" lry="289" type="line"/>
+    <zone xml:id="z17-014" ulx="163" uly="279" lrx="311" lry="301" type="line"/>
+    <zone xml:id="z17-015" ulx="151" uly="291" lrx="360" lry="313" type="line"/>
+    <zone xml:id="z17-016" ulx="162" uly="302" lrx="329" lry="325" type="line"/>
+    <zone xml:id="z17-017" ulx="150" uly="323" lrx="394" lry="345" type="line"/>
+    <zone xml:id="z17-018" ulx="162" uly="336" lrx="303" lry="357" type="line"/>
+    <zone xml:id="z17-019" ulx="150" uly="347" lrx="360" lry="369" type="line"/>
+    <zone xml:id="z17-020" ulx="162" uly="357" lrx="353" lry="382" type="line"/>
+    <zone xml:id="z17-021" ulx="150" uly="380" lrx="401" lry="402" type="line"/>
+    <zone xml:id="z17-022" ulx="162" uly="392" lrx="305" lry="414" type="line"/>
+    <zone xml:id="z17-023" ulx="149" uly="404" lrx="355" lry="426" type="line"/>
+    <zone xml:id="z17-024" ulx="162" uly="416" lrx="314" lry="438" type="line"/>
+    <zone xml:id="z17-025" ulx="105" uly="567" lrx="445" lry="657" type="block"/>
+    <zone xml:id="z17-026" ulx="105" uly="655" lrx="445" lry="686" type="estimated"/>
+  </surface>
+    <surface xml:id="f18" n="18" ulx="0" uly="0" lrx="581" lry="842">
+    <graphic n="print" url="facs/p18.jpg"/><graphic n="original" url="facs/p18_orig.jpg"/><zone xml:id="z18-001" ulx="275" uly="447" lrx="337" lry="477" type="figure"/>
+    <zone xml:id="z18-002" ulx="272" uly="618" lrx="346" lry="644" type="figure"/>
+    <zone xml:id="z18-003" ulx="117" uly="104" lrx="369" lry="130" type="line"/>
+    <zone xml:id="z18-004" ulx="173" uly="145" lrx="454" lry="192" type="block"/>
+    <zone xml:id="z18-005" ulx="202" uly="204" lrx="492" lry="238" type="line"/>
+    <zone xml:id="z18-006" ulx="145" uly="256" lrx="420" lry="300" type="line"/>
+    <zone xml:id="z18-007" ulx="144" uly="306" lrx="338" lry="331" type="line"/>
+    <zone xml:id="z18-008" ulx="145" uly="331" lrx="438" lry="374" type="line"/>
+    <zone xml:id="z18-009" ulx="145" uly="371" lrx="241" lry="406" type="line"/>
+    <zone xml:id="z18-010" ulx="118" uly="396" lrx="493" lry="439" type="line"/>
+    <zone xml:id="z18-011" ulx="162" uly="443" lrx="453" lry="517" type="block"/>
+    <zone xml:id="z18-012" ulx="118" uly="524" lrx="496" lry="547" type="line"/>
+    <zone xml:id="z18-013" ulx="237" uly="553" lrx="376" lry="586" type="line"/>
+    <zone xml:id="z18-014" ulx="118" uly="586" lrx="495" lry="613" type="line"/>
+    <zone xml:id="z18-015" ulx="126" uly="621" lrx="568" lry="713" type="block"/>
+    <zone xml:id="z18-016" ulx="294" uly="722" lrx="323" lry="740" type="line"/>
+  </surface>
+    <surface xml:id="f19" n="19" ulx="0" uly="0" lrx="582" lry="842">
+    <graphic n="print" url="facs/p19.jpg"/><graphic n="original" url="facs/p19_orig.jpg"/>
+  </surface>
+    <surface xml:id="f20" n="20" ulx="0" uly="0" lrx="586" lry="840">
+    <graphic n="print" url="facs/p20.jpg"/><graphic n="original" url="facs/p20_orig.jpg"/><zone xml:id="z20-001" ulx="206" uly="386" lrx="443" lry="449" type="block"/>
+  </surface>
+  </facsimile>
+
+  <text>
+    <front>
+      <pb n="1" facs="#f01"/>
+      <titlePage rendition="#center">
+        <figure facs="#z01-001"><figDesc>Double wavy-rule border enclosing the cover; the upper panel holds two sunburst ornaments flanking the concert details.</figDesc></figure>
+        <titlePart type="desc" rendition="#spaced" facs="#z01-004">263<hi rend="superscript">RD</hi> CONCERT.</titlePart>
+        <docDate rendition="#spaced" facs="#z01-005">TOWN HALL, MONDAY, OCTOBER 23, '99.</docDate>
+        <milestone unit="rule" rend="wavy"/>
+        <docTitle>
+          <titlePart type="main" rendition="#script" facs="#z01-003">Melbourne Liedertafel.</titlePart>
+        </docTitle>
+        <milestone unit="rule" rend="wavy"/>
+        <figure facs="#z01-002"><figDesc>Four small cross-shaped ornaments of dots along the foot of the cover.</figDesc></figure>
+      </titlePage>
+      <pb n="2" facs="#f02"/>
+      <!-- page 2 is blank -->
+    </front>
+
+    <body>
+      <pb n="3" facs="#f03"/>
+      <div type="officers" rendition="#center">
+        <head rendition="#spaced" facs="#z03-001">MELBOURNE ◎ LIEDERTAFEL.</head>
+        <head type="sub" rendition="#sc" facs="#z03-002">Instituted 1868. Re-constituted 1879.</head>
+        <milestone unit="rule" rend="hatched"/>
+        <list type="officers">
+          <label rendition="#it" facs="#z03-003">Patrons:</label>
+          <item>
+            <list>
+              <item facs="#z03-004"><persName><hi rendition="#sc">His Excellency</hi> LORD BRASSEY, K.C.B.</persName></item>
+              <item facs="#z03-005"><persName><hi rendition="#sc">The Honorable Sir</hi> JOHN MADDEN, <hi rendition="#sc">Kt., Chief Justice</hi></persName></item>
+            </list>
+          </item>
+          <label rendition="#it" facs="#z03-006">Patroness:</label>
+          <item facs="#z03-007"><persName>JANET, LADY CLARKE.</persName></item>
+          <label rendition="#it" facs="#z03-008">President:</label>
+          <item facs="#z03-009"><persName>J. M. BRUCE, <hi rendition="#sc">Esq.</hi>, J.P.</persName></item>
+          <label rendition="#it" facs="#z03-010">Vice-Presidents:</label>
+          <item>
+            <list>
+              <item facs="#z03-011"><persName><hi rendition="#sc">The Hon.</hi> F. S. GRIMWADE, M.L.C.</persName></item>
+              <item facs="#z03-012"><persName><hi rendition="#sc">The Hon. Sir</hi> ARTHUR SNOWDEN, K.B., M.L.C.</persName></item>
+              <item facs="#z03-013"><persName>E. G. FITZGIBBON, <hi rendition="#sc">Esq.</hi>, C.M.G.</persName></item>
+              <item facs="#z03-014"><persName><hi rendition="#sc">Councillor</hi> MALCOLM D. McEACHARN,</persName> <hi rendition="#small">The Right Worshipful the Mayor of Melbourne.</hi></item>
+            </list>
+          </item>
+        </list>
+        <list type="officers" rend="columns-2">
+          <label rendition="#it" facs="#z03-015">Hon. Life Conductor:</label>
+          <item facs="#z03-016"><persName><hi rendition="#sc">Herr</hi> JULIUS SIEDE.</persName></item>
+          <label rendition="#it" facs="#z03-017">Hon. Conductor:</label>
+          <item facs="#z03-018"><persName><hi rendition="#sc">Prof.</hi> MARSHALL-HALL.</persName></item>
+        </list>
+        <list type="officers">
+          <label rendition="#it" facs="#z03-019">Council:</label>
+          <item rend="columns-2">
+            <list>
+              <head rendition="#small" facs="#z03-020">Representing Subscribing Members.</head>
+              <item facs="#z03-021"><persName><hi rendition="#sc">Mr.</hi> J. D. LAW.</persName></item>
+              <item facs="#z03-022"><persName><hi rendition="#sc">Mr.</hi> R. H. McNICOL.</persName></item>
+              <item facs="#z03-023"><persName><hi rendition="#sc">Mr.</hi> A. E. TANKARD.</persName></item>
+            </list>
+            <list>
+              <head rendition="#small" facs="#z03-024">Representing Performing Members.</head>
+              <item facs="#z03-025"><persName><hi rendition="#sc">Capt.</hi> T. H. TEMPLETON.</persName></item>
+              <item facs="#z03-026"><persName><hi rendition="#sc">Mr.</hi> F. A. NEWMAN.</persName></item>
+              <item facs="#z03-027"><persName><hi rendition="#sc">Mr.</hi> F. PEPPER.</persName></item>
+              <item facs="#z03-028"><persName><hi rendition="#sc">Dr.</hi> H. L. MURRAY.</persName></item>
+              <item facs="#z03-029"><persName><hi rendition="#sc">Mr.</hi> A. SUTTON.</persName></item>
+            </list>
+          </item>
+        </list>
+        <list type="officers">
+          <label rendition="#it" facs="#z03-030">Hon. Pianist and Organist:</label>
+          <item facs="#z03-031"><persName><hi rendition="#sc">Mr.</hi> AUGUST SIEDE.</persName></item>
+        </list>
+        <list type="officers" rend="columns-2">
+          <label rendition="#it" facs="#z03-032">Deputy Hon. Pianist:</label>
+          <item facs="#z03-033"><persName><hi rendition="#sc">Mr.</hi> H. S. ELVINS.</persName></item>
+          <label rendition="#it" facs="#z03-034">Hon. Treasurer:</label>
+          <item facs="#z03-035"><persName><hi rendition="#sc">Mr. Herbert</hi> E. MORGAN.</persName></item>
+        </list>
+        <list type="officers" rend="columns-2">
+          <label rendition="#it" facs="#z03-036">Hon. Librarian:</label>
+          <item facs="#z03-037"><persName><hi rendition="#sc">Mr.</hi> A. A. BISHOP.</persName></item>
+          <label rendition="#it" facs="#z03-038">Asst. Hon. Librarian:</label>
+          <item facs="#z03-039"><persName><hi rendition="#sc">Mr.</hi> J. STATTERS.</persName></item>
+        </list>
+        <list type="officers">
+          <label rendition="#it" facs="#z03-040">Hon. Auditors:</label>
+          <item>
+            <list rend="columns-2">
+              <item facs="#z03-041"><persName><hi rendition="#sc">Mr.</hi> E. L. WILSON.</persName></item>
+              <item facs="#z03-042"><persName><hi rendition="#sc">Mr.</hi> J. P. TURNER.</persName></item>
+            </list>
+          </item>
+        </list>
+        <list type="officers" rendition="#right">
+          <label rendition="#it" facs="#z03-043">Hon. Secretary:</label>
+          <item facs="#z03-044"><persName>JOHN ADCOCK.</persName></item>
+        </list>
+        <fw type="pageNum" place="bottom">(1)</fw>
+      </div>
+
+      <pb n="4" facs="#f04"/>
+      <div type="orchestra">
+        <head rendition="#blackletter #center" facs="#z04-002">The Orchestra</head>
+        <figure facs="#z04-001"><figDesc>Small horizontal flourish beneath the heading.</figDesc></figure>
+        <list type="orchestra" rend="columns-2">
+          <label rendition="#blackletter" facs="#z04-003">Violins—</label>
+          <item>
+            <list>
+              <item facs="#z04-019"><persName>Mr. Dierich</persName> (leader)</item>
+              <item facs="#z04-020"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Brennecke</persName></item>
+              <item facs="#z04-021"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Coy</persName></item>
+              <item facs="#z04-022"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Hunter</persName></item>
+              <item facs="#z04-023"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Hess</persName></item>
+              <item facs="#z04-024"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Massart</persName></item>
+              <item facs="#z04-025"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Parkes</persName></item>
+              <item facs="#z04-026"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Schieblich</persName></item>
+              <item facs="#z04-027"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Wallenstein</persName></item>
+              <item facs="#z04-028"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Wright</persName></item>
+              <item facs="#z04-029"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Weinberg, sen.</persName></item>
+              <item facs="#z04-030"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Zelman, A.</persName></item>
+              <item facs="#z04-031">† <persName>Miss Archibald</persName></item>
+              <item facs="#z04-032">† <choice><abbr>,,</abbr><expan>Miss</expan></choice> <persName>Cuddon</persName></item>
+              <item facs="#z04-033">† <choice><abbr>,,</abbr><expan>Miss</expan></choice> <persName>Nankivell</persName></item>
+              <item facs="#z04-034">† <choice><abbr>,,</abbr><expan>Miss</expan></choice> <persName>Stanford</persName></item>
+              <item facs="#z04-035">† <choice><abbr>,,</abbr><expan>Miss</expan></choice> <persName>Stuckey</persName></item>
+              <item facs="#z04-036">† <choice><abbr>,,</abbr><expan>Miss</expan></choice> <persName>Whitley</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-004">Violas—</label>
+          <item>
+            <list>
+              <item facs="#z04-037"><persName>Mr. Dawson</persName></item>
+              <item facs="#z04-038"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Josephi</persName></item>
+              <item facs="#z04-039"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Wiedermann, junr.</persName></item>
+              <item facs="#z04-040"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Zelman, V.</persName></item>
+              <item facs="#z04-041">† <choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>West</persName></item>
+              <item facs="#z04-042">† <persName>Miss Charge</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-005">'Cellos—</label>
+          <item>
+            <list>
+              <item facs="#z04-043"><persName>Mr. Harrison</persName></item>
+              <item facs="#z04-044"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Fox</persName></item>
+              <item facs="#z04-045"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Montague, A.</persName></item>
+              <item facs="#z04-046">† <choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Hore, E. A.</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-006">Basses—</label>
+          <item>
+            <list>
+              <item facs="#z04-047"><persName>Mr. Brown</persName></item>
+              <item facs="#z04-048"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Ceschina</persName></item>
+              <item facs="#z04-049"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Hore, S.</persName></item>
+              <item facs="#z04-050"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Rowe</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-007">Flutes—</label>
+          <item>
+            <list>
+              <item facs="#z04-051"><persName>Mr. Stoneham, H.</persName></item>
+              <item facs="#z04-052"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Kerr</persName></item>
+            </list>
+          </item>
+          <cb n="2"/>
+          <label rendition="#blackletter" facs="#z04-008">Piccolo—</label>
+          <item facs="#z04-053">† <persName>Mr. Zelman, E.</persName></item>
+          <label rendition="#blackletter" facs="#z04-009">Oboes—</label>
+          <item>
+            <list>
+              <item facs="#z04-054"><persName>Mr. Taylor</persName></item>
+              <item facs="#z04-055">† <persName>Dr Rudall</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-010">Clarionets—</label>
+          <item>
+            <list>
+              <item facs="#z04-056"><persName>Mr. Lyons</persName></item>
+              <item facs="#z04-057"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Carolane</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-011">Bassoons—</label>
+          <item>
+            <list>
+              <item facs="#z04-058">† <persName>Mr. Rudall</persName></item>
+              <item facs="#z04-059">† <choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Destreé</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-012">Horns—</label>
+          <item>
+            <list>
+              <item facs="#z04-060"><persName>Mr. Kühr</persName></item>
+              <item facs="#z04-061"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Barwood</persName></item>
+              <item facs="#z04-062"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Hingott</persName></item>
+              <item facs="#z04-063"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Levey</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-013">Trumpets—</label>
+          <item>
+            <list>
+              <item facs="#z04-064"><persName>Mr. Wilson</persName></item>
+              <item facs="#z04-065"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Wood</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-014">Trombones—</label>
+          <item>
+            <list>
+              <item facs="#z04-066"><persName>Mr. Lawson, junr.</persName></item>
+              <item facs="#z04-067"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Hore, junr.</persName></item>
+              <item facs="#z04-068"><choice><abbr>,,</abbr><expan>Mr.</expan></choice> <persName>Fries</persName></item>
+            </list>
+          </item>
+          <label rendition="#blackletter" facs="#z04-015">Tuba—</label>
+          <item facs="#z04-069"><persName>Mr. Lüttich</persName></item>
+          <label rendition="#blackletter" facs="#z04-016">Tympani—</label>
+          <item facs="#z04-070"><persName>Mr. Munyard</persName></item>
+          <label rendition="#blackletter" facs="#z04-017">Cymbals &amp; Triangles—</label>
+          <item facs="#z04-071"><persName>Mr. Clay</persName></item>
+          <label rendition="#blackletter" facs="#z04-018">Librarian—</label>
+          <item facs="#z04-072"><persName>Mr. West</persName></item>
+        </list>
+        <note type="footnote" place="bottom" rendition="#it #center" facs="#z04-073">† Members Amateur Orchestra Conservatorium of Music, Melbourne University.</note>
+        <fw type="pageNum" place="bottom">(2)</fw>
+      </div>
+
+      <pb n="5" facs="#f05"/>
+      <div type="choir">
+        <head rendition="#blackletter #center" facs="#z05-001">Members of the Choir :</head>
+        <milestone unit="rule" rend="double"/>
+        <div type="voice">
+          <head rendition="#spaced #center" facs="#z05-002">FIRST TENOR.</head>
+          <list rend="columns-3">
+            <item facs="#z05-003"><persName>Dickins, J. J., Capt.</persName></item>
+            <item facs="#z05-004"><persName>Dyer, J.</persName></item>
+            <item facs="#z05-005"><persName>Hardy, J. W.</persName></item>
+            <item facs="#z05-006"><persName>Robie, D. L.</persName></item>
+            <item facs="#z05-007"><persName>Robinson, H. J.</persName></item>
+            <item facs="#z05-008"><persName>Sherlock, H. D.</persName></item>
+            <item facs="#z05-009"><persName>Templeton, H. O.</persName></item>
+            <item facs="#z05-010"><persName>Pardy, A.</persName></item>
+            <item facs="#z05-011"><persName>Jones, A. L.</persName></item>
+            <item facs="#z05-012"><persName>Voight, Louis</persName></item>
+            <cb n="2"/>
+            <item facs="#z05-013"><persName>Newman, F. A.</persName></item>
+            <item facs="#z05-014"><persName>Thackeray, J.</persName></item>
+            <item facs="#z05-015"><persName>McCullagh, J.</persName></item>
+            <item facs="#z05-016"><persName>Fullager, A. G.</persName></item>
+            <item facs="#z05-017"><persName>Ginn, A. T.</persName></item>
+            <item facs="#z05-018"><persName>Richardson, G.</persName></item>
+            <item facs="#z05-019"><persName>Jackson, G.</persName></item>
+            <item facs="#z05-020"><persName>Brook, T. W.</persName> (on leave)</item>
+            <item facs="#z05-021"><persName>Marsden, G. H.</persName></item>
+            <cb n="3"/>
+            <item facs="#z05-022"><persName>Donaldson, J. P.</persName></item>
+            <item facs="#z05-023"><persName>Harvey, H. J.</persName></item>
+            <item facs="#z05-024"><persName>Ferguson, J.</persName></item>
+            <item facs="#z05-025"><persName>Dodds, C.</persName></item>
+            <item facs="#z05-026"><persName>Wade, Jas.</persName></item>
+            <item facs="#z05-027"><persName>Burton, J. W.</persName> (on leave)</item>
+            <item facs="#z05-028"><persName>Mitchell, T. S.</persName></item>
+            <item facs="#z05-029"><persName>Allan, J. C.</persName></item>
+            <item facs="#z05-030"><persName>McCubbin, T. R.</persName></item>
+          </list>
+        </div>
+        <div type="voice">
+          <head rendition="#spaced #center" facs="#z05-031">SECOND TENOR.</head>
+          <list rend="columns-3">
+            <item facs="#z05-032"><persName>Hall, A. G., Capt.</persName></item>
+            <item facs="#z05-033"><persName>Rayment, E.</persName></item>
+            <item facs="#z05-034"><persName>Rundell, W. R.</persName></item>
+            <item facs="#z05-035"><persName>Blundell, R. S. P.</persName> (on l've)</item>
+            <item facs="#z05-036"><persName>Gray, Thos.</persName></item>
+            <item facs="#z05-037"><persName>Tisdall, H. W. L.</persName></item>
+            <cb n="2"/>
+            <item facs="#z05-038"><persName>Pleasants, E. A.</persName></item>
+            <item facs="#z05-039"><persName>Nicholson, G. C.</persName></item>
+            <item facs="#z05-040"><persName>James, W. H.</persName> (on leave)</item>
+            <item facs="#z05-041"><persName>Murray, B. L.</persName> (on leave)</item>
+            <item facs="#z05-042"><persName>Ramsay, T. G.</persName></item>
+            <item facs="#z05-043"><persName>Sprod, W. G. R.</persName></item>
+            <cb n="3"/>
+            <item facs="#z05-044"><persName>Lang, J.</persName></item>
+            <item facs="#z05-045"><persName>Humphrey, G.</persName></item>
+            <item facs="#z05-046"><persName>McMillan, A. L.</persName></item>
+            <item facs="#z05-047"><persName>Flood, W. H.</persName></item>
+            <item facs="#z05-048"><persName>Locke, W. F.</persName></item>
+            <item facs="#z05-049"><persName>Robertson, P.</persName></item>
+          </list>
+        </div>
+        <div type="voice">
+          <head rendition="#spaced #center" facs="#z05-050">FIRST BASS.</head>
+          <list rend="columns-3">
+            <item facs="#z05-051"><persName>Rendle, S., Capt.</persName></item>
+            <item facs="#z05-052"><persName>Muirhead, G. H.</persName> (on l've)</item>
+            <item facs="#z05-053"><persName>Day, G. A.</persName> (on leave)</item>
+            <item facs="#z05-054"><persName>Sutton, A.</persName></item>
+            <item facs="#z05-055"><persName>Garrett, H.</persName></item>
+            <item facs="#z05-056"><persName>Gerson, J.</persName></item>
+            <item facs="#z05-057"><persName>Templeton, Capt. T. H.</persName></item>
+            <item facs="#z05-058"><persName>Sinclair, Dr. T. W.</persName></item>
+            <item facs="#z05-059"><persName>Macartney, F. H.</persName></item>
+            <item facs="#z05-060"><persName>Whitehead, F. S.</persName></item>
+            <item facs="#z05-061"><persName>Bird, Jno.</persName></item>
+            <item facs="#z05-062"><persName>Nicolson, R. G.</persName></item>
+            <cb n="2"/>
+            <item facs="#z05-063"><persName>Brodribb, H. B.</persName></item>
+            <item facs="#z05-064"><persName>Farr, Leigh</persName></item>
+            <item facs="#z05-065"><persName>Bishop, A. A.</persName></item>
+            <item facs="#z05-066"><persName>Brown, E. H.</persName></item>
+            <item facs="#z05-067"><persName>Hedding, Jas.</persName></item>
+            <item facs="#z05-068"><persName>Sayer, J. F.</persName></item>
+            <item facs="#z05-069"><persName>Pincus, S.</persName></item>
+            <item facs="#z05-070"><persName>Heathershaw, S. A.</persName> (on l've)</item>
+            <item facs="#z05-071"><persName>Hickey, J.</persName></item>
+            <item facs="#z05-072"><persName>Hall, F. F.</persName></item>
+            <item facs="#z05-073"><persName>Wilson, E. L.</persName></item>
+            <item facs="#z05-074"><persName>Quinton, E. W.</persName></item>
+            <cb n="3"/>
+            <item facs="#z05-075"><persName>Stevens, G. H.</persName></item>
+            <item facs="#z05-076"><persName>Phelan, C. H.</persName></item>
+            <item facs="#z05-077"><persName>Whiter, H.</persName></item>
+            <item facs="#z05-078"><persName>Hanify, F.</persName></item>
+            <item facs="#z05-079"><persName>Wild, C.</persName></item>
+            <item facs="#z05-080"><persName>Lewes, H. M.</persName> (on l've)</item>
+            <item facs="#z05-081"><persName>Willmott, H. C.</persName></item>
+            <item facs="#z05-082"><persName>Whitehead, A. E.</persName></item>
+            <item facs="#z05-083"><persName>Lang, E. J.</persName></item>
+            <item facs="#z05-084"><persName>Thomas, F. H.</persName></item>
+            <item facs="#z05-085"><persName>Murray, N. L.</persName></item>
+            <item facs="#z05-086"><persName>Shannon, W. M.</persName></item>
+          </list>
+        </div>
+        <div type="voice">
+          <head rendition="#spaced #center" facs="#z05-087">SECOND BASS.</head>
+          <list rend="columns-3">
+            <item facs="#z05-088"><persName>Casper, E., Capt.</persName></item>
+            <item facs="#z05-089"><persName>Hasell, A. H.</persName> (on leave)</item>
+            <item facs="#z05-090"><persName>Statters, J.</persName></item>
+            <item facs="#z05-091"><persName>Morgan, H.</persName></item>
+            <item facs="#z05-092"><persName>Wilmot, H. G.</persName></item>
+            <item facs="#z05-093"><persName>Brown, Geo. A.</persName></item>
+            <item facs="#z05-094"><persName>Samuels, J. W.</persName></item>
+            <item facs="#z05-095"><persName>Lightfoot, T. H.</persName></item>
+            <item facs="#z05-096"><persName>Pepper, F.</persName></item>
+            <item facs="#z05-097"><persName>Jones, Walter C.</persName></item>
+            <cb n="2"/>
+            <item facs="#z05-098"><persName>Adcock, John</persName></item>
+            <item facs="#z05-099"><persName>Mattingly, A.</persName></item>
+            <item facs="#z05-100"><persName>Murray, Dr. Hugh L.</persName></item>
+            <item facs="#z05-101"><persName>White, Thos. E.</persName></item>
+            <item facs="#z05-102"><persName>Turner, J. P.</persName> (on leave)</item>
+            <item facs="#z05-103"><persName>Perry, S. J.</persName> (on l've)</item>
+            <item facs="#z05-104"><persName>Wilkes, K.</persName></item>
+            <item facs="#z05-105"><persName>Hodgetts, W. D.</persName></item>
+            <item facs="#z05-106"><persName>Williamson, W. T. R.</persName></item>
+            <item facs="#z05-107"><persName>Heathershaw, J. T.</persName></item>
+            <cb n="3"/>
+            <item facs="#z05-108"><persName>Bona, E.</persName></item>
+            <item facs="#z05-109"><persName>Heath, C. S. R.</persName></item>
+            <item facs="#z05-110"><persName>Denneston, H. B.</persName></item>
+            <item facs="#z05-111"><persName>Watson, J.</persName> (on leave)</item>
+            <item facs="#z05-112"><persName>McWhirter, T.</persName></item>
+            <item facs="#z05-113"><persName>Burke, R. H.</persName> (on l've)</item>
+            <item facs="#z05-114"><persName>Hynes, H. C.</persName></item>
+            <item facs="#z05-115"><persName>Watkin, E. J.</persName></item>
+            <item facs="#z05-116"><persName>Watsford, S.</persName></item>
+            <item facs="#z05-117"><persName>Lewis, W. E.</persName></item>
+          </list>
+        </div>
+        <trailer rendition="#center" facs="#z05-118">Roll Secretary: <persName>H. W. SMITH.</persName></trailer>
+        <trailer rendition="#center #sans #b" facs="#z05-119">Associated Ladies' Choir, 160 Voices.</trailer>
+        <fw type="pageNum" place="bottom">(3)</fw>
+      </div>
+
+      <pb n="6" facs="#f06"/>
+      <div type="artists">
+        <head rendition="#script #center" facs="#z06-001">The Liedertafel will be assisted by the following Artists:</head>
+        <list type="artists">
+          <item facs="#z06-002"><persName>MISS ADELAIDE DONOVAN</persName> <roleName rendition="#sc">(Soprano)</roleName></item>
+          <item rendition="#right" facs="#z06-003"><persName>MISS MARY H. SPENCE</persName> <roleName rendition="#sc">(Contralto)</roleName></item>
+          <item facs="#z06-004"><persName>MR. W. G. BARKER</persName> <roleName rendition="#sc">(Bass)</roleName></item>
+          <item rendition="#right" facs="#z06-005"><persName>MR. AUGUST SIEDE</persName> <roleName rendition="#sc">(Organist)</roleName></item>
+        </list>
+        <div type="acknowledgment">
+          <head rendition="#spaced #ul" facs="#z06-006">ACKNOWLEDGMENT.</head>
+          <p rendition="#small" facs="#z06-007">The thanks of the Society are due to the Members of the Orchestral Class of the Conservatorium of Music, Melbourne University, who are assisting this evening; also to Messrs. Glen &amp; Co. for Box Office arrangements, and to Mr. Chas. Levy for loan of Score, and Orchestral parts of “Ship O' the Fiend.”</p>
+        </div>
+        <fw type="pageNum" place="bottom">(4)</fw>
+      </div>
+
+      <pb n="7" facs="#f07"/>
+      <div type="programme">
+        <figure facs="#z07-001 #z07-002">
+          <figDesc>Line engraving framing the top and left of the page: a young woman in classical dress seated on a stone ledge playing a pear-shaped, bowl-backed plucked instrument, probably a mandolin (the pegbox is cut off by the frame, so a lute cannot be ruled out), beside a column with sprays of flowers; a border of leaves and blossoms runs down the left margin, signed "S &amp; G" at the foot.</figDesc>
+        </figure>
+        <head type="kicker" rendition="#spaced" facs="#z07-004">THE FOLLOWING IS</head>
+        <head rendition="#sans #b" facs="#z07-005">The Scheme.</head>
+        <byline rendition="#it" facs="#z07-006">Under the bâton of the Hon. Conductor <persName>PROFESSOR MARSHALL-HALL.</persName></byline>
+        <figure facs="#z07-003"><figDesc>Plume-shaped flourish beneath the byline.</figDesc></figure>
+
+        <div type="part" n="1">
+          <head facs="#z07-007">Part I.❧❧❧❧</head>
+
+          <div type="item" n="1">
+            <head facs="#z07-008"><label rendition="#sc">Overture—</label> <title rendition="#script">The Ship o' the Fiend</title></head>
+            <byline rendition="#it #right" facs="#z07-009"><persName>Hamish MacCunn.</persName></byline>
+            <note rendition="#it #center #small" facs="#z07-010">(The Score and Parts kindly lent by Mr. Charles Levy.)</note>
+            <p rendition="#spaced #center" facs="#z07-011">ORCHESTRA.</p>
+            <lg type="poem" xml:lang="sco">
+              <lg type="stanza">
+                <l facs="#z07-012">“<hi rendition="#dropcap">O</hi> WHERE hae ye been, my long lost lover,</l>
+                <l rendition="#indent" facs="#z07-013">This seven lang years and mair?”</l>
+                <l facs="#z07-014">“ O I'm come again to seek your love,</l>
+                <l rendition="#indent" facs="#z07-015">An' the vows that ye did swear.”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <fw type="pageNum" place="bottom">(5)</fw>
+              <pb n="8" facs="#f08"/>
+              <lg type="stanza">
+                <l facs="#z08-001">“ Now haud your tongue o' my love and vows,</l>
+                <l rendition="#indent" facs="#z08-002">For they can breed but strife;</l>
+                <l facs="#z08-003">Now haud your tongue o' my former vows,</l>
+                <l rendition="#indent" facs="#z08-004">For I am anither man's wife.”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z08-005">“ O fause are the vows o' womankind,</l>
+                <l rendition="#indent" facs="#z08-006">But fair is their fause bodie;</l>
+                <l facs="#z08-007">I wad never hae trodden on Irish ground,</l>
+                <l rendition="#indent" facs="#z08-008">Were it no for the love o' thee.”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z08-009">“ Ye may leave your husband to himsel',</l>
+                <l rendition="#indent" facs="#z08-010">And your little son also,</l>
+                <l facs="#z08-011">And sail wi' me across the sea,</l>
+                <l rendition="#indent" facs="#z08-012">Sae fair the wind doth blow.”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z08-013">“ See ye not seven pretty ships,</l>
+                <l rendition="#indent" facs="#z08-014">The eighth brought me to land,</l>
+                <l facs="#z08-015">With merchandise and mariners,</l>
+                <l rendition="#indent" facs="#z08-016">And music on every hand?”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z08-017">“ There's mantles warm to wrap my love,</l>
+                <l rendition="#indent" facs="#z08-018">O' the silk and soft velvet,</l>
+                <l facs="#z08-019">And rich attires to deck her head,</l>
+                <l rendition="#indent" facs="#z08-020">And costly shoon for her feet.”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z08-021">“ O how do you like the ship?” he said,</l>
+                <l rendition="#indent" facs="#z08-022">“ Or how do you like the sea?</l>
+                <l facs="#z08-023">And how do you like the bold mariners</l>
+                <l rendition="#indent" facs="#z08-024">That wait upon thee and me?”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z08-025">“ O weel I like the ship,” she said,</l>
+                <l rendition="#indent" facs="#z08-026">“ And weel I like the sea,</l>
+                <l facs="#z08-027">But where are a' your mariners?</l>
+                <l rendition="#indent" facs="#z08-028">I see nane but thee and me.”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z08-029">They hadna sailed a league, a league,</l>
+                <l rendition="#indent" facs="#z08-030">A league, but barely three,</l>
+                <l facs="#z08-031">When eerie grew the lift above,</l>
+                <l rendition="#indent" facs="#z08-032">And gurly grew the sea.</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z08-033">She hadna sailed a league, a league,</l>
+                <l rendition="#indent" facs="#z08-034">A league, but barely three,</l>
+                <l facs="#z08-035">When she espied the cloven hoof,</l>
+                <l rendition="#indent" facs="#z08-036">And wept right bitterlie.</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z08-037">“ O what are yon, yon pleasant hills,</l>
+                <l rendition="#indent" facs="#z08-038">That the sun shines sweetly on?”</l>
+                <l facs="#z08-039">“ O yon are the hills of heaven,” he said</l>
+                <l rendition="#indent" facs="#z08-040">“ Where you will never win.”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <fw type="pageNum" place="bottom">(6)</fw>
+              <pb n="9" facs="#f09"/>
+              <lg type="stanza">
+                <l facs="#z09-001">“ O whatna mountain is yon,” she said,</l>
+                <l rendition="#indent" facs="#z09-002">“ Sae dreary wi' frost and snow?”</l>
+                <l facs="#z09-003">“ O yon is the mountain o' hell,” he cried,</l>
+                <l rendition="#indent" facs="#z09-004">“ Where you and I maun go.”</l>
+              </lg>
+              <milestone unit="separator" rend="dots"/>
+              <lg type="stanza">
+                <l facs="#z09-005">The clouds grew black, and the wind grew loud,</l>
+                <l rendition="#indent" facs="#z09-006">And the levin filled her e'e;</l>
+                <l facs="#z09-007">And waesome wailed the snow-white sprites,</l>
+                <l rendition="#indent" facs="#z09-008">Out o'er the roaring sea.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z09-009">He struck the mainmast wi' his hand,</l>
+                <l rendition="#indent" facs="#z09-010">The foremast wi' his knee;</l>
+                <l facs="#z09-011">He split the gallant ship in twain,</l>
+                <l rendition="#indent" facs="#z09-012">And sank her in the sea.</l>
+              </lg>
+            </lg>
+          </div>
+
+          <div type="item" n="2">
+            <head facs="#z09-013"><label rendition="#sc">Aria—</label> <title rendition="#script" xml:lang="it">Qui Sdegno non S'accende</title> <title type="source" rendition="#blackletter" xml:lang="it">(Il Flauto Magico)</title></head>
+            <byline rendition="#it #right" facs="#z09-014"><persName>Mozart.</persName></byline>
+            <p rendition="#spaced #center" facs="#z09-015"><persName>MR. W. G. BARKER.</persName></p>
+          </div>
+
+          <div type="item" n="3">
+            <head facs="#z09-016"><label rendition="#sc">Nocturne</label> <title rendition="#script">Midsummer Night's Dream</title></head>
+            <byline rendition="#it #right" facs="#z09-017"><persName>Felix Mendelssohn, Bartholdy.</persName></byline>
+            <note rendition="#small" facs="#z09-018">This occurs in Act III, Scene 2, where the disconcerted pair of lovers, weary with their vain flight, sink to the ground, and by the chorus of Puck, are lulled into an enchanted sleep.</note>
+            <p rendition="#spaced #center" facs="#z09-019">THE ORCHESTRA.</p>
+            <fw type="pageNum" place="bottom">(7)</fw>
+          </div>
+
+          <pb n="10" facs="#f10"/>
+          <div type="item" n="4">
+            <head facs="#z10-001"><label rendition="#sc">Choral Ode—</label> <title rendition="#script">From Goethe's “Helena”</title> <title type="source" rendition="#blackletter">(Faust, Part 2, Act 3.)</title></head>
+            <byline rendition="#it #right" facs="#z10-002"><persName>G. W. L. Marshall-Hall.</persName></byline>
+            <note rendition="#it #center #small" facs="#z10-003">(Composed specially for and dedicated to the Melbourne Liedertafel.)</note>
+            <p rendition="#spaced #center" facs="#z10-004">THE LIEDERTAFEL, LADIES' CHOIR AND ORCHESTRA.</p>
+            <p rendition="#center" facs="#z10-005"><hi rendition="#sc">Alto Solo</hi>—<persName>MISS SPENCE.</persName></p>
+            <note type="programme-note">
+              <p rendition="#small" facs="#z10-006">Life presented itself to the Greek mind as a series of manifestations of Power Omnipotent, irresistible, irrevocable, first in the order of forces, loomed Fate, then the gods, the ancestral heroes, and the pre-eminent men of the times. Each State, surrounded by enemies, depended for its safety on the courage and power of its citizens, whom a reverse of war would convert into slaves with their wives and children. The actual experience of the Power and Tragedy of human existence, which to our modern comfortable plebian semi-vegetable life are almost unintelligible, lent an intensity to the moment which we can but faintly imagine. Power and its limitation were equally displayed in the sudden plunge from the height of prosperity to the depth of woe, and found expression in the never equalled strength and restraint of Greek art, imparting a reverential solemnity even to its most joyous utterances. This is the key note of their art, energetic power, and fate:</p>
+              <quote>
+                <lg rendition="#it #b">
+                  <l facs="#z10-007">Fate, whose horizons, narrowing from afar</l>
+                  <l facs="#z10-008">Within their blind abysmal night immerse</l>
+                  <l facs="#z10-009">Both gods and men, and all things else that be</l>
+                  <l facs="#z10-010">In irremediable catastrophe.</l>
+                </lg>
+              </quote>
+              <p rendition="#small" facs="#z10-011">In the following ode from Goethe's masterpiece, these qualities are passionately felt by one who was himself a Greek at heart though born in a barbarian age. The music is an endeavour to complete and enforce the poet's intention. The serenity, not untinged with a certain noble sadness, of the first stanza, is contrasted with those following, in which the power and majesty and terrible presence of the gods is imaged, to which succeeds the picture of limited fettered humanity.</p>
+            </note>
+            <p rendition="#it #center" n="scene" facs="#z10-012">SCENE: Before the Palace of Menelaus at Sparta.</p>
+            <p rendition="#it #center" n="scene" facs="#z10-013">Chorus of Captive Trojans.</p>
+            <lg type="poem">
+              <lg type="section">
+                <head rendition="#it" facs="#z10-014">Andante.</head>
+                <l xml:lang="de" rendition="#it" facs="#z10-015">Werfet, O Schwestern, ihr</l>
+                <l facs="#z10-016">Banish, O sisters, ye</l>
+                <l xml:lang="de" rendition="#it" facs="#z10-017">Traurig gefangenen,</l>
+                <l facs="#z10-018">Sorrowful captive ones,</l>
+                <fw type="pageNum" place="bottom">(8)</fw>
+                <pb n="11" facs="#f11"/>
+                <l xml:lang="de" rendition="#it" facs="#z11-001">Alle Schmerzen ins Weite;</l>
+                <l facs="#z11-002">All your sadness and trouble;</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-003">Theilet der Herrin Glück</l>
+                <l facs="#z11-004">Share in your lady's hap,</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-005">Theilet Helenen's glück,</l>
+                <l facs="#z11-006">Share in Helena's hap,</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-007">Welche zu Vaterhauses Herd,</l>
+                <l facs="#z11-008">Who the ancestral threshold now</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-009">Zwar mit spät zurückkehrendem</l>
+                <l facs="#z11-010">Though with overlong loitering,</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-011">Aber mit desto festerem</l>
+                <l facs="#z11-012">Yet with so much the eagerer</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-013">Fusse freudig herannaht!</l>
+                <l facs="#z11-014">Footsteps joyfully neareth.</l>
+              </lg>
+              <lg type="section">
+                <l xml:lang="de" rendition="#it" facs="#z11-015">Preiset die heiligen</l>
+                <l facs="#z11-016">Honour the glorious</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-017">Glücklich herstellenden</l>
+                <l facs="#z11-018">Household Custodians,</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-019">Und heimführenden Götter!</l>
+                <l facs="#z11-020">Praise the homebringing Lares (Gods).</l>
+              </lg>
+              <lg type="section">
+                <head rendition="#it" facs="#z11-021">Vivace.</head>
+                <l xml:lang="de" rendition="#it" facs="#z11-022">Preiset die heiligen</l>
+                <l facs="#z11-023">Honour the glorious</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-024">Glücklich herstellenden</l>
+                <l facs="#z11-025">Household Custodians,</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-026">Und heimführenden Götter!</l>
+                <l facs="#z11-027">Praise the homebringing Lares (Gods)</l>
+              </lg>
+              <lg type="section">
+                <head rendition="#it" facs="#z11-028">Piu Vivace.</head>
+                <l xml:lang="de" rendition="#it" facs="#z11-029">Schwebt der Entbundene</l>
+                <l facs="#z11-030">High as an eagle's flight</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-031">Doch wie auf Fittigen</l>
+                <l facs="#z11-032">O'er the impassable</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-033">Ueber das Rauhste.</l>
+                <l facs="#z11-034">Soareth the freedman!</l>
+              </lg>
+              <lg type="section">
+                <head rendition="#it" facs="#z11-035">Lento.</head>
+                <l xml:lang="de" rendition="#it #indent" facs="#z11-036">Wenn umsonst</l>
+                <l rendition="#indent" facs="#z11-037">While in vain</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-038">Der Gefangene, sehnsuchtsvoll</l>
+                <l facs="#z11-039">The imprisoned one, worn with grief,</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-040">Ueber die Zinne des Kerkers hin</l>
+                <l facs="#z11-041">Over his dungeon's tall battlements</l>
+                <l xml:lang="de" rendition="#it" facs="#z11-042">Armausbreitend sich abhärmt.</l>
+                <l facs="#z11-043">Vainly yearning, pines away.</l>
+                <fw type="pageNum" place="bottom">(9)</fw>
+              </lg>
+              <pb n="12" facs="#f12"/>
+              <lg type="section">
+                <head rendition="#it" facs="#z12-001">Allegro Moderato</head>
+                <l xml:lang="de" rendition="#it" facs="#z12-002">Aber sie ergriff ein Gott</l>
+                <l facs="#z12-003">Yea, but her compelled a god</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-004">Die Entfernte;</l>
+                <l facs="#z12-005">The far-rapt one;</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-006">Und aus Ilios Schutt</l>
+                <l facs="#z12-007">And from Ilium's ward</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-008">Trug er hierher sie zurück</l>
+                <l facs="#z12-009">Hither he bare her once more</l>
+              </lg>
+              <lg type="section">
+                <head rendition="#it" facs="#z12-010">Con Moto.</head>
+                <l xml:lang="de" rendition="#it" facs="#z12-011">In das alte, das neugeschmückte</l>
+                <l facs="#z12-012">To the ancient, the new adorned,</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-013">Vaterhaus,</l>
+                <l facs="#z12-014">Ancestral home.</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-015">Nach unsäglichen</l>
+                <l facs="#z12-016">After unspeakable</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-017">Freuden und Qualen,</l>
+                <l facs="#z12-018">Gladness and anguish,</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-019">Früher Jugendzeit</l>
+                <l facs="#z12-020">Youth's first blossom-time</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-021">Angefrischt zu gedenken.</l>
+                <l facs="#z12-022">Once again to remember.</l>
+              </lg>
+              <lg type="section">
+                <head rendition="#it" facs="#z12-023">Andante.</head>
+                <l xml:lang="de" rendition="#it" facs="#z12-024">Preiset die heiligen</l>
+                <l facs="#z12-025">Honour the glorious</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-026">Glücklich herstellenden</l>
+                <l facs="#z12-027">Household Custodians,</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-028">Und heimführenden Götter.</l>
+                <l facs="#z12-029">Praise the homebringing Lares (Gods)</l>
+              </lg>
+              <lg type="section">
+                <l xml:lang="de" rendition="#it" facs="#z12-030">Werfet, O Schwestern, ihr</l>
+                <l facs="#z12-031">Banish, O sisters, ye</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-032">Traurig gefangenen,</l>
+                <l facs="#z12-033">Sorrowful captive ones,</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-034">Alle Schmerzen ins Weite;</l>
+                <l facs="#z12-035">All your sadness and trouble,</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-036">Theilet der Herrin Glück,</l>
+                <l facs="#z12-037">Share in your lady's hap,</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-038">Theilet Helenen's Glück,</l>
+                <l facs="#z12-039">Share in Helena's hap,</l>
+                <l xml:lang="de" rendition="#it" facs="#z12-040">Welche zu Vaterhauses Herd</l>
+                <fw type="pageNum" place="bottom" facs="#z12-041">(10)</fw>
+                <pb n="13" facs="#f13"/>
+                <l facs="#z13-001">Who the ancestral threshold now,</l>
+                <l xml:lang="de" rendition="#it" facs="#z13-002">Zwar mit spät zurück kehrendem</l>
+                <l facs="#z13-003">Though with overlong loitering,</l>
+                <l xml:lang="de" rendition="#it" facs="#z13-004">Aber mit desto festerem</l>
+                <l facs="#z13-005">Yet with so much the eagerer</l>
+                <l xml:lang="de" rendition="#it" facs="#z13-006">Fusse freudig herannaht!</l>
+                <l facs="#z13-007">Footsteps joyfully neareth!</l>
+              </lg>
+            </lg>
+            <figure facs="#z13-009">
+              <figDesc>Engraving in a rectangular frame flanked by scrolling foliate ornaments: a child in a short tunic seated on a tree trunk, playing a fiddle beneath overhanging blossom.</figDesc>
+            </figure>
+            <fw type="pageNum" place="bottom" facs="#z13-008">(11)</fw>
+          </div>
+        </div>
+
+        <pb n="14" facs="#f14"/>
+        <div type="part" n="2">
+          <head facs="#z14-001">Part II.❧❧❧❧</head>
+
+          <div type="item" n="5">
+            <head facs="#z14-002"><label rendition="#sc">Organ Solo—</label> <title rendition="#script" xml:lang="it">Passacaglia</title></head>
+            <byline rendition="#it #right" facs="#z14-003"><persName>J. S Bach.</persName></byline>
+            <p rendition="#spaced #center" facs="#z14-004"><persName>MR. AUGUST SIEDE.</persName></p>
+            <note type="programme-note">
+              <p rendition="#small" facs="#z14-005">In the Passacaglia we see, from a single idea by a development gradual, but resistless as fate, the growth of a huge superstructure almost overpowering in its nobility and grandeur, suggesting the unfolding of some mighty work of nature herself</p>
+              <p rendition="#small" facs="#z14-006">When the watery ear-tickling organ music of the present age will have vanished into oblivion, such works as this will stand as the eternal monument to the imperishable glory of Bach.</p>
+            </note>
+          </div>
+
+          <div type="item" n="6">
+            <head facs="#z14-007"><label rendition="#sc">Aria</label> <title rendition="#script">Honor and Arms</title> <title type="source" rendition="#blackletter">(Sampson)</title></head>
+            <byline rendition="#it #right" facs="#z14-008"><persName>Handel.</persName></byline>
+            <p rendition="#spaced #center" facs="#z14-009"><persName>MR. W. G. BARKER.</persName></p>
+          </div>
+
+          <div type="item" n="7">
+            <head facs="#z14-010"><title rendition="#script">Hungarian Dances</title></head>
+            <byline rendition="#it #right" facs="#z14-011"><persName>J. Brahms.</persName></byline>
+            <list rendition="#it #center">
+              <item facs="#z14-012">No. 1—Allegro molto.</item>
+              <item facs="#z14-013">No. 2—Allegretto.</item>
+            </list>
+            <p rendition="#spaced #center" facs="#z14-014">ORCHESTRA.</p>
+            <note type="programme-note">
+              <p rendition="#small" facs="#z14-015 #z15-001">In the wonderfully expressive and characteristic music of the Hungarians we find preserved the nobler and more significant phases of the Dance, before it had been corrupted by civilised larrikinism, and whilst it still remained among the people at large the one means through which their natural feelings and instincts found expression.
+                <fw type="pageNum" place="bottom" facs="#z14-016">(12)</fw>
+                <pb n="15" facs="#f15"/>
+                Not only at one time was the Dance a religious rite, but also it fulfilled the present office of the drama, and became an artistic representation of human passion and action. In the course of the various figures through which the dancers went, the joy and woe, love and hate, hope and despair, of mankind were represented. Youths would woo and maidens would play the coquette.</p>
+              <p rendition="#small" facs="#z15-002">In Brahms' music we find not only those poetical moods which it once was the object of the dance to portray, but a delightful suggestion of the picturesque character of the people, and the free, wild naïve aspect of Nature, which nowhere assumes a more beautiful or striking aspect than in the country of the Maygars.</p>
+            </note>
+          </div>
+
+          <div type="item" n="8">
+            <head facs="#z15-003"><label rendition="#sc">Aria—</label> <title rendition="#script" xml:lang="de">Kommt ein Schlanker Bursch</title> <title type="source" rendition="#blackletter" xml:lang="de">(Der Freischutz)</title></head>
+            <byline rendition="#it #right" facs="#z15-004"><persName>Weber.</persName></byline>
+            <p rendition="#spaced #center" facs="#z15-005"><persName>MISS ADELAIDE DONOVAN.</persName></p>
+            <lg type="poem">
+              <lg type="stanza">
+                <l facs="#z15-006"><hi rendition="#dropcap">I</hi>F a youth should meet a maiden,</l>
+                <l rendition="#indent" facs="#z15-007">Need she run away with fright;</l>
+                <l facs="#z15-008">If his looks should win her favour,</l>
+                <l rendition="#indent" facs="#z15-009">Sure the girl may use her sight.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z15-010">Tho' she must, in maiden manner,</l>
+                <l rendition="#indent" facs="#z15-011">Seem her glances to conceal;</l>
+                <l facs="#z15-012">Where's the harm, if she, unnoticed,</l>
+                <l rendition="#indent" facs="#z15-013">Strive a sidelong look to steal.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z15-014">Should perchance their eyes encounter,</l>
+                <l rendition="#indent" facs="#z15-015">I no guilt therein can find;</l>
+                <l facs="#z15-016">Tho' her cheeks may blush a little,</l>
+                <l rendition="#indent" facs="#z15-017">Yet it will not strike her blind.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z15-018">Looking hither, looking thither,</l>
+                <l rendition="#indent" facs="#z15-019">Looks are followed soon by sighs;</l>
+                <l facs="#z15-020">He sighs fairest, she smiles dearest,</l>
+                <l rendition="#indent" facs="#z15-021">Soon a marriage we will see.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z15-022">Come around me, dear companions,</l>
+                <l rendition="#indent" facs="#z15-023">Would you like to see me bride?</l>
+                <l facs="#z15-024">Am I not a pretty maiden,</l>
+                <l rendition="#indent" facs="#z15-025">And he is a smart young boy.</l>
+              </lg>
+            </lg>
+            <note type="audience" rendition="#it" facs="#z15-026"><hi rendition="#sc">Note</hi>—Those wishing to leave the hall before the conclusion of the performance, will please avail themselves of this opportunity, as the doors will not be re-opened until the “ Scheme ” is completed.</note>
+            <fw type="pageNum" place="bottom" facs="#z15-027">(13)</fw>
+          </div>
+
+          <pb n="16" facs="#f16"/>
+          <div type="item" n="9">
+            <head facs="#z16-001"><label rendition="#sc">Ballad—</label> <title rendition="#script">Lord Ullin's Daughter</title></head>
+            <byline rendition="#it #right" facs="#z16-002"><persName>Hamish MacCunn.</persName></byline>
+            <p rendition="#spaced #center" facs="#z16-003">THE LIEDERTAFEL, LADIES CHOIR AND ORCHESTRA.</p>
+            <lg type="poem">
+              <lg type="stanza">
+                <l facs="#z16-004"><hi rendition="#dropcap">A</hi> CHIEFTAIN to the highlands bound</l>
+                <l rendition="#indent" facs="#z16-005">Cries “ Boatman, do not tarry!</l>
+                <l facs="#z16-006">And I'll give thee a silver pound</l>
+                <l rendition="#indent" facs="#z16-007">To row us o'er the ferry.”</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z16-008">“ Now who be ye would cross Lochgyle</l>
+                <l rendition="#indent" facs="#z16-009">This dark and stormy water?”</l>
+                <l facs="#z16-010">“ Oh, I'm the chief of Ulvas' Isle,</l>
+                <l rendition="#indent" facs="#z16-011">And this, Lord Ullin's daughter.”</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z16-012">And fast before her father's men,</l>
+                <l rendition="#indent" facs="#z16-013">Three days we've fled together,</l>
+                <l facs="#z16-014">And should he find us in the glen,</l>
+                <l rendition="#indent" facs="#z16-015">My blood would stain the heather.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z16-016">His horsemen hard behind us ride;</l>
+                <l rendition="#indent" facs="#z16-017">Should they our steps discover,</l>
+                <l facs="#z16-018">Then who will cheer my bonny bride,</l>
+                <l rendition="#indent" facs="#z16-019">When they have slain her lover?</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z16-020">Out spake the hardy highland wight,</l>
+                <l rendition="#indent" facs="#z16-021">“ I'll go, my chief, I'm ready!</l>
+                <l facs="#z16-022">It is not for your silver bright,</l>
+                <l rendition="#indent" facs="#z16-023">But for your winsome lady.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z16-024">And by my word, the bonny bird</l>
+                <l rendition="#indent" facs="#z16-025">In danger shall not tarry,</l>
+                <l facs="#z16-026">So though the waves are raging white,</l>
+                <l rendition="#indent" facs="#z16-027">I'll row you o'er the ferry.”</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z16-028">By this the storm grew loud apace,</l>
+                <l rendition="#indent" facs="#z16-029">The water wraith was shrieking,</l>
+                <l facs="#z16-030">And in the scowl of heaven each face</l>
+                <l rendition="#indent" facs="#z16-031">Grew dark as they were speaking.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z16-032">But still as wilder blew the wind,</l>
+                <l rendition="#indent" facs="#z16-033">And as the night grew drearer,</l>
+                <l facs="#z16-034">Adown the glen rode armed men,</l>
+                <l rendition="#indent" facs="#z16-035">Their tramping sounded nearer.</l>
+              </lg>
+              <fw type="pageNum" place="bottom" facs="#z16-036">(14)</fw>
+              <pb n="17" facs="#f17"/>
+              <lg type="stanza">
+                <l facs="#z17-001">“ Oh haste thee, haste!” the lady cries,</l>
+                <l rendition="#indent" facs="#z17-002">“ Though storms around us gather,</l>
+                <l facs="#z17-003">I'll meet the raging of the skies,</l>
+                <l rendition="#indent" facs="#z17-004">But not an angry father.”</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z17-005">The boat has left the stormy land,</l>
+                <l rendition="#indent" facs="#z17-006">A stormy sea before her,</l>
+                <l facs="#z17-007">When, oh, too strong for human hand,</l>
+                <l rendition="#indent" facs="#z17-008">The tempest gather'd o'er her.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z17-009">And still they rowed amidst the roar</l>
+                <l rendition="#indent" facs="#z17-010">Of waters fast prevailing:</l>
+                <l facs="#z17-011">Lord Ullin reached the fatal shore,</l>
+                <l rendition="#indent" facs="#z17-012">His wrath was changed to wailing.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z17-013">For sore dismayed, thro' storm and shade,</l>
+                <l rendition="#indent" facs="#z17-014">He did his child discover:</l>
+                <l facs="#z17-015">One lovely arm she stretched for aid,</l>
+                <l rendition="#indent" facs="#z17-016">And one was round her lover.</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z17-017">“ Come back, come back!” he cried in grief</l>
+                <l rendition="#indent" facs="#z17-018">Across the stormy water,</l>
+                <l facs="#z17-019">And I'll forgive your Highland chief,</l>
+                <l rendition="#indent" facs="#z17-020">My daughter! oh, my daughter!”</l>
+              </lg>
+              <lg type="stanza">
+                <l facs="#z17-021">'Twas vain: the loud waves lashed the shore,</l>
+                <l rendition="#indent" facs="#z17-022">Return or aid preventing,</l>
+                <l facs="#z17-023">The waters wild went o'er his child,</l>
+                <l rendition="#indent" facs="#z17-024">And he was left lamenting.</l>
+              </lg>
+            </lg>
+          </div>
+        </div>
+
+        <milestone unit="rule" rend="double"/>
+        <div type="notice">
+          <p rendition="#it" facs="#z17-025">Ladies and Gentlemen wishing to join the Society will please communicate with the Hon. Sec., 272 Collins Street</p>
+        </div>
+        <fw type="pageNum" place="bottom" facs="#z17-026">(15)</fw>
+      </div>
+
+      <pb n="18" facs="#f18"/>
+      <div type="announcement">
+        <head facs="#z18-003">The Council of the Liedertafel ❧ ❧</head>
+        <p rendition="#spaced #small" facs="#z18-004">HAVING CONSENTED TO GIVE A CONCERT IN AID OF THE FUNDS OF THE</p>
+        <p rendition="#sans #ul #center" facs="#z18-005"><orgName>HOMŒOPATHIC HOSPITAL,</orgName></p>
+        <p facs="#z18-006">TO-NIGHT'S PROGRAMME</p>
+        <p rendition="#spaced #small" facs="#z18-007">WILL BE REPEATED IN THE</p>
+        <p facs="#z18-008"><placeName>TOWN HALL, MELBOURNE,</placeName></p>
+        <p rendition="#spaced #small" facs="#z18-009">ON <milestone unit="rule" rend="swash"/></p>
+        <p rendition="#sans #b" facs="#z18-010"><date when="1899-11-06">MONDAY, NOVEMBER 6, at 8 p.m.</date></p>
+        <figure facs="#z18-001"><figDesc>Two star-shaped ornaments.</figDesc></figure>
+        <p rendition="#it #center" facs="#z18-011">Tickets 5s., 3s., 2s., and 1s.,</p>
+        <p rendition="#sans #small #center" facs="#z18-012">Obtainable at GLEN &amp; CO.'S or from Members of the Liedertafel</p>
+        <p rendition="#sans #b #center" facs="#z18-013">. . BOX PLAN . .</p>
+        <p rendition="#sans #b #center" facs="#z18-014">Opens on Thursday Morning next, <date when="1899-10-26">Oct. 26</date>, at 9 o'clock.</p>
+        <figure facs="#z18-002"><figDesc>Three small circles.</figDesc></figure>
+        <p rendition="#small" facs="#z18-015">His Excellency the Governor and Lady Brassey have kindly granted their patronage, and it is expected they will attend the Concert with a large party of Vice-regal guests who will be here for the Cup Festivities.</p>
+        <fw type="pageNum" place="bottom" facs="#z18-016">(16)</fw>
+      </div>
+    </body>
+
+    <back>
+      <pb n="19" facs="#f19"/>
+      <!-- page 19 is blank -->
+      <pb n="20" facs="#f20"/>
+      <div type="imprint">
+        <p rendition="#spaced" facs="#z20-001"><orgName rendition="#ul">EWINS &amp; WILKE</orgName><lb/><address><addrLine>383-7 LITTLE COLLINS STREET,</addrLine><addrLine>MELBOURNE.</addrLine></address></p>
+      </div>
+    </back>
+  </text>
+</TEI>

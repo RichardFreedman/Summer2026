@@ -5,7 +5,7 @@ redir /grainger /grainger/ permanent
 
 handle /grainger/* {
 	basic_auth {
-		{$GRAINGER_USER} {$GRAINGER_PASSWORD_HASH}
+		{$WORKSHOP_USER} {$WORKSHOP_PASSWORD_HASH}
 	}
 	reverse_proxy grainger:8501
 }
