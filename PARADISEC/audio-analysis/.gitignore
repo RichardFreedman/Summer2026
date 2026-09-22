@@ -1,0 +1,4 @@
+# Audio and metadata pulled by fetch_data.sh (about 60 MB); never committed.
+soundscape/
+__pycache__/
+.venv/

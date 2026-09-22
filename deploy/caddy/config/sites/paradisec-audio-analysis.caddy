@@ -1,0 +1,11 @@
+# PARADISEC audio analysis (Streamlit), see deploy/paradisec-audio-analysis/.
+# Streamlit runs with --server.baseUrlPath=paradisec-audio-analysis, so the
+# prefix is passed through unchanged (handle, not handle_path).
+redir /paradisec-audio-analysis /paradisec-audio-analysis/ permanent
+
+handle /paradisec-audio-analysis/* {
+	basic_auth {
+		{$PARADISEC_AUDIO_USER} {$PARADISEC_AUDIO_PASSWORD_HASH}
+	}
+	reverse_proxy paradisec-audio-analysis:8501
+}

@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.claude/
+.venv/
+# The image fetches its own copy during the build.
+soundscape/
