@@ -15,6 +15,7 @@ deploy/
     docker-compose.yml   app container only, joins the "web" network
     .env.example         API keys, GENRE_MODE
   grainger/              the Grainger-Mapping-Demo Streamlit app
+  paradisec-audio-analysis/  the PARADISEC/audio-analysis Streamlit app
   liedertafel/           the TEI edition, a static site plus its own small Caddy
     site/                the built files; see that directory's README
 ```
@@ -26,6 +27,7 @@ deploy/
 | `/melbourne-moods/` | Melbourne Moods | `moodrec/` | shared user + password (`deploy/caddy/.env`) |
 | `/grainger/` | Grainger → EMu demo | `Grainger-Mapping-Demo/` | shared user + password (`deploy/caddy/.env`) |
 | `/liedertafel/` | Liedertafel TEI edition | `deploy/liedertafel/site/` | none, the edition is public |
+| `/paradisec-audio-analysis/` | PARADISEC audio analysis | `PARADISEC/audio-analysis/` | shared user + password (`deploy/caddy/.env`) |
 
 ## How deploys work
 
@@ -83,4 +85,8 @@ deploy/melbourne-moods/deploy.sh
   `deploy/grainger/.env`, which is why it sits behind basic auth. Its Chroma
   vector store is baked into the image, and post-processor output written at
   runtime is likewise lost on rebuild.
+- The PARADISEC audio-analysis image downloads its 190 audio excerpts from the
+  `dan321/soundscape` GitHub repository while building (pinned to a commit in
+  its Dockerfile), so a build needs GitHub reachable. Nothing is written at
+  runtime; rebuilds lose nothing.
 - Useful: `docker compose logs -f` in any of the app directories.

@@ -1,0 +1,9 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+# Caddy terminates TLS and proxies the websocket; keep Streamlit's own
+# CORS / XSRF checks on but tell it not to mind the proxied Origin.
+enableCORS = false
+enableXsrfProtection = true
