@@ -1,0 +1,5 @@
+# Transcripts are access-conditioned PARADISEC material and are never committed.
+data/
+store/
+__pycache__/
+.venv/

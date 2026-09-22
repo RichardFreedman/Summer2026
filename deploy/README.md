@@ -16,6 +16,8 @@ deploy/
     .env.example         API keys, GENRE_MODE
   grainger/              the Grainger-Mapping-Demo Streamlit app
   paradisec-audio-analysis/  the PARADISEC/audio-analysis Streamlit app
+  paradisec-transcripts/ the PARADISEC/transcript-search Streamlit app
+    data/                the transcript manifests, copied by hand, never committed
   liedertafel/           the TEI edition, a small Caddy serving the static site in
                          Melbourne_Rare_Concert/liedertafel/site/
 ```
@@ -28,6 +30,7 @@ deploy/
 | `/grainger/` | Grainger → EMu demo | `Grainger-Mapping-Demo/` | shared workshop login |
 | `/liedertafel/` | Liedertafel TEI edition | `Melbourne_Rare_Concert/liedertafel/site/` | none, the edition is public |
 | `/paradisec-audio-analysis/` | PARADISEC audio analysis | `PARADISEC/audio-analysis/` | shared workshop login |
+| `/paradisec-transcripts/` | Ask the transcripts (NT1 RAG) | `PARADISEC/transcript-search/` | shared workshop login |
 
 The shared workshop login is one user/password pair, `WORKSHOP_USER` and
 `WORKSHOP_PASSWORD_HASH` in `deploy/caddy/.env` on the server; every protected
@@ -96,4 +99,8 @@ deploy/melbourne-moods/deploy.sh
   `dan321/soundscape` GitHub repository while building (pinned to a commit in
   its Dockerfile), so a build needs GitHub reachable. Nothing is written at
   runtime; rebuilds lose nothing.
+- "Ask the transcripts" reads access-conditioned PARADISEC transcripts from
+  `deploy/paradisec-transcripts/data/` on the server (gitignored, copied by hand)
+  and embeds them into a named volume on first start using `OPENAI_API_KEY`
+  from its `.env`. Nothing sensitive is in the image or the repo.
 - Useful: `docker compose logs -f` in any of the app directories.

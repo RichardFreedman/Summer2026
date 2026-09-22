@@ -1,0 +1,11 @@
+# Ask the transcripts (Streamlit), see deploy/paradisec-transcripts/.
+# Streamlit runs with --server.baseUrlPath=paradisec-transcripts, so the
+# prefix is passed through unchanged (handle, not handle_path).
+redir /paradisec-transcripts /paradisec-transcripts/ permanent
+
+handle /paradisec-transcripts/* {
+	basic_auth {
+		{$WORKSHOP_USER} {$WORKSHOP_PASSWORD_HASH}
+	}
+	reverse_proxy paradisec-transcripts:8501
+}

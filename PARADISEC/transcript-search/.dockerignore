@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
+.claude/
+.vscode/
+# Never bake transcripts or the store into the image.
+data/
+store/

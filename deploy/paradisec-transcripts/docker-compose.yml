@@ -1,0 +1,25 @@
+# "Ask the transcripts" (PARADISEC/transcript-search). No ports published; the
+# shared Caddy in deploy/caddy reaches it as "paradisec-transcripts:8501" over
+# the external "web" network.
+#
+# The transcripts live in ./data on the server (gitignored, copied there by
+# hand: see README) and the vector store in a named volume, built on first run.
+services:
+  paradisec-transcripts:
+    build: ../../PARADISEC/transcript-search
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - ./data:/data:ro
+      - transcripts_store:/store
+    expose:
+      - "8501"
+    networks:
+      - web
+
+networks:
+  web:
+    external: true
+
+volumes:
+  transcripts_store:
