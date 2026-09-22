@@ -1,0 +1,69 @@
+{
+  "CreState_tab": [],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 7089,
+      "type": "image"
+    }
+  ],
+  "CreLatestDate": null,
+  "rid": "ecatalogue.9585",
+  "PhyTechnique": "Photography",
+  "PhyMediaCategory": "colour photograph",
+  "source": "ecatalogue",
+  "SummaryData": "\"Musical Circle\" [4481]",
+  "TitObjectRating": "full data",
+  "CreDateCreated": "c. 1950s",
+  "irn": 9585,
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "index": 1,
+  "CreCreationNotes": "Pictured in the photograph are Jiri Tanabudeh; Mischa Kogan; Majer Ivan Pietruschka; Felix Werder.\n\nRussian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian.",
+  "narratives": [
+    {
+      "image": {
+        "irn": 8882,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Photographs - HMT Dunera and Internment Collection",
+      "irn": 50
+    }
+  ],
+  "TitObjectType": "OriginalRec",
+  "AssParentObjectRef": null,
+  "CreRole_tab": [],
+  "rownum": 1,
+  "measurements": [
+    {
+      "type": null,
+      "unitLength": "mm",
+      "width": 123,
+      "unitWeight": null,
+      "height": 86,
+      "weight": null,
+      "diameter": null,
+      "depth": null
+    }
+  ],
+  "CreCountry_tab": [],
+  "CreCity_tab": [],
+  "title": "Musical Circle",
+  "accNo": "4481",
+  "TitNumberOfParts": 1,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "Dunera",
+    "Immigrants"
+  ],
+  "PhyMedium": "photographic print",
+  "CreEarliestDate": null,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "TitPartNumber": 1
+}

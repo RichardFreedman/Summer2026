@@ -1,0 +1,66 @@
+{
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Tatura"
+  ],
+  "measurements": [
+    {
+      "unitLength": "mm",
+      "type": null,
+      "width": 210,
+      "unitWeight": null,
+      "weight": null,
+      "height": 325,
+      "diameter": null,
+      "depth": null
+    }
+  ],
+  "rownum": 1,
+  "CreRole_tab": [],
+  "AssParentObjectRef": null,
+  "narratives": [],
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": null,
+  "index": 1,
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "CreEarliestDate": "20/01/1942",
+  "PhyMedium": "Ink on paper",
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "Dunera",
+    "musicals",
+    "songs"
+  ],
+  "CrePrimaryInscriptions": null,
+  "TitNumberOfParts": 1,
+  "accNo": "3095",
+  "title": "Grosses Unterhaltund Skon Zert",
+  "PhyTechnique": "Typed",
+  "rid": "ecatalogue.6062",
+  "CreLatestDate": "20/01/1942",
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 8125,
+      "type": "image"
+    }
+  ],
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "irn": 6062,
+  "CreDateCreated": "20/01/1942",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Grosses Unterhaltund Skon Zert\" [3095]",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes"
+}

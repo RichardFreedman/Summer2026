@@ -1,0 +1,82 @@
+{
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "CreEarliestDate": "1940",
+  "PhyMedium": "Ink and watercolour on paper",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Theatre",
+    "musicals",
+    "songs",
+    "Internment",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "accNo": "3777.2",
+  "TitNumberOfParts": 1,
+  "title": "We Travel Round the World",
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreRole_tab": [],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "measurements": [],
+  "PhySupport": null,
+  "narratives": [
+    {
+      "irn": 52,
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "irn": 8883,
+        "type": "image",
+        "format": "jpeg"
+      }
+    }
+  ],
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": "Concert program for revue produced by Hay Camp internees.",
+  "index": 1,
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "irn": 6011,
+  "CreDateCreated": "1940 - 1941",
+  "PhyMediaCategory": "programmes",
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"We Travel Round the World\" [3777.2]",
+  "source": "ecatalogue",
+  "PhyTechnique": "Hand painted and lettered",
+  "rid": "ecatalogue.6011",
+  "CreLatestDate": "1941",
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 7303,
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 7304,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7301
+    },
+    {
+      "type": "image",
+      "irn": 7302,
+      "format": "jpeg"
+    }
+  ]
+}

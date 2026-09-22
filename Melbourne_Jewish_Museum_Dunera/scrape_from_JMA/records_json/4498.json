@@ -1,0 +1,89 @@
+{
+  "CreCreationNotes": "Russian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian.",
+  "TitObjectType": "OriginalRec",
+  "narratives": [
+    {
+      "title": "Newspaper Articles - HMT Dunera and Internment Collection",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8884
+      },
+      "irn": 53
+    }
+  ],
+  "index": 1,
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "measurements": [
+    {
+      "unitWeight": null,
+      "width": 280,
+      "type": null,
+      "unitLength": "mm",
+      "depth": null,
+      "diameter": null,
+      "weight": null,
+      "height": 420
+    }
+  ],
+  "rownum": 1,
+  "CreRole_tab": [
+    "Publisher"
+  ],
+  "AssParentObjectRef": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Journalism"
+  ],
+  "CrePrimaryInscriptions": null,
+  "TitNumberOfParts": 1,
+  "accNo": "4498",
+  "title": "Band of the Month, Tempo",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "irn": 2023,
+      "NamSuffix": null,
+      "SummaryData": "Tempo",
+      "BioDeathDate": null,
+      "NamLast": null,
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamTitle": null,
+      "NamFirst": null
+    }
+  ],
+  "CreEarliestDate": "/09/1949",
+  "PhyMedium": "Ink on paper",
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 9775
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "PhyTechnique": "Machine printed",
+  "rid": "ecatalogue.9602",
+  "CreLatestDate": "/09/1949",
+  "CreDateCreated": "09/1949",
+  "SummaryData": "\"Band of the Month, Tempo\" [4498], Tempo",
+  "TitObjectRating": "full data",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "article",
+  "irn": 9602
+}

@@ -1,0 +1,78 @@
+{
+  "CreRole_tab": [
+    "Producer"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "measurements": [],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "narratives": [
+    {
+      "irn": 52,
+      "image": {
+        "type": "image",
+        "irn": 8883,
+        "format": "jpeg"
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection"
+    }
+  ],
+  "CreCreationNotes": "The revue title translates as \"We Travel Around the World\" and was held at Hay Camp in 1941.",
+  "TitObjectType": "OriginalRec",
+  "index": 1,
+  "CreEarliestDate": "1941",
+  "PhyMedium": "Ink and watercolour on paper",
+  "TitPartNumber": 2,
+  "CreCreatorRef_tab": [
+    {
+      "irn": 50,
+      "NamLast": "Meier",
+      "BioDeathDate": null,
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": "Bernhard",
+      "NamSuffix": null,
+      "SummaryData": "Meier, Mr Bernhard",
+      "NamTitle": "Mr"
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "accNo": "4023.2",
+  "TitNumberOfParts": 2,
+  "title": "Wir Reisen um die Welt",
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "musicals",
+    "Dunera"
+  ],
+  "CrePrimaryInscriptions": null,
+  "rid": "ecatalogue.4626",
+  "CreLatestDate": "1941",
+  "PhyTechnique": "Ink illustration and text with watercolour wash",
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "irn": 1530,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "irn": 4626,
+  "PhyMediaCategory": "programmes",
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"Wir Reisen um die Welt\" [4023.2], Meier, Mr Bernhard",
+  "source": "ecatalogue",
+  "CreDateCreated": "1941"
+}

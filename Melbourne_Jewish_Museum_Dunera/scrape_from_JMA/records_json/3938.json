@@ -1,0 +1,70 @@
+{
+  "irn": 9289,
+  "CreDateCreated": null,
+  "PhyMediaCategory": "colour photograph",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Frank Firestone\" [3938]",
+  "source": "ecatalogue",
+  "PhyTechnique": "Photography",
+  "rid": "ecatalogue.9289",
+  "CreLatestDate": null,
+  "CreState_tab": [],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 7065,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7066,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7067,
+      "type": "image"
+    }
+  ],
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [],
+  "CreSecondaryInscriptions": null,
+  "CreEarliestDate": null,
+  "PhyMedium": "photographic print",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Immigrants",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": "Inscribed on each photograph is the name, \"Frank Firestone.\"",
+  "accNo": "3938",
+  "TitNumberOfParts": 1,
+  "title": "Frank Firestone",
+  "CreCity_tab": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "rownum": 1,
+  "CreRole_tab": [],
+  "AssParentObjectRef": null,
+  "measurements": [],
+  "PhySupport": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8882
+      },
+      "title": "Photographs - HMT Dunera and Internment Collection",
+      "irn": 50
+    }
+  ],
+  "CreCreationNotes": "Frank Firestone was born July 9th 1909 in Dresden. He worked in the family business of paper embossing both before and after the war. He was an amateur musician who participated in concerts and musical societies.",
+  "index": 1,
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": []
+}

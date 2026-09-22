@@ -1,0 +1,791 @@
+{
+  "children": [],
+  "irn": 53,
+  "description": "",
+  "title": "Newspaper Articles - HMT Dunera and Internment Collection",
+  "source": "enarratives",
+  "rid": "enarratives.53",
+  "rownum": 7,
+  "parents": {
+    "image": {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8880
+    },
+    "title": "HMT Dunera and Internment Collection",
+    "irn": 28
+  },
+  "associations": [],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8884
+    }
+  ],
+  "index": 0,
+  "objects": [
+    {
+      "title": "Ohne Frankfurter Offizielle (German text)",
+      "image": {
+        "type": "image",
+        "irn": 6413,
+        "format": "jpeg"
+      },
+      "irn": 1001
+    },
+    {
+      "irn": 9304,
+      "image": {
+        "format": "jpeg",
+        "irn": 8127,
+        "type": "image"
+      },
+      "title": "The Immigrants"
+    },
+    {
+      "title": "Newspaper clipping - Music round the world via S.S. Dunera, The Australian Jewish News, 9 August 1968",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8133
+      },
+      "irn": 9305
+    },
+    {
+      "irn": 9347,
+      "title": "Friends behind our barbed wire",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8134
+      }
+    },
+    {
+      "title": "Orchestral Concert flyer",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8003
+      },
+      "irn": 9588
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 6382,
+        "format": "jpeg"
+      },
+      "title": "Stag at Bay!",
+      "irn": 4790
+    },
+    {
+      "irn": 7098,
+      "image": {
+        "type": "image",
+        "irn": 9773,
+        "format": "jpeg"
+      },
+      "title": "Pix Magazine"
+    },
+    {
+      "irn": 4814,
+      "title": "Student War Victims",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6405
+      }
+    },
+    null,
+    {
+      "irn": 4828,
+      "image": {
+        "type": "image",
+        "irn": 6417,
+        "format": "jpeg"
+      },
+      "title": "Roebuck News"
+    },
+    {
+      "title": "Friendly Aliens Work Hard, The Herald",
+      "image": {
+        "irn": 6430,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5355
+    },
+    {
+      "title": "Internees' Property Found on Ship Guards, The Argus",
+      "image": {
+        "type": "image",
+        "irn": 6431,
+        "format": "jpeg"
+      },
+      "irn": 5886
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 6432,
+        "format": "jpeg"
+      },
+      "title": "The 8th Gazette",
+      "irn": 4650
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 11086,
+        "format": "jpeg"
+      },
+      "title": "The Boomerang",
+      "irn": 6006
+    },
+    {
+      "irn": 6374,
+      "title": "The Boomerang",
+      "image": {
+        "irn": 5895,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 6375,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5896
+      },
+      "title": "The Boomerang"
+    },
+    {
+      "title": "Andorra Star Sunk by U-Boat, Sunday Times",
+      "image": {
+        "irn": 6434,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5078
+    },
+    {
+      "title": "Love, war and the spy who never was, London Sunday Times",
+      "image": null,
+      "irn": 4803
+    },
+    {
+      "title": "Als Internierter in Australien (German text), AUFBAU",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6436
+      },
+      "irn": 4630
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6057
+      },
+      "title": "The Boomerang",
+      "irn": 5565
+    },
+    {
+      "title": "They Brought Joy to The Hospitals, The Good Neighbour",
+      "image": {
+        "format": "jpeg",
+        "irn": 6441,
+        "type": "image"
+      },
+      "irn": 4791
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6450,
+        "type": "image"
+      },
+      "title": "Release of Friendly Internees, The Argus",
+      "irn": 6020
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 6486,
+        "format": "jpeg"
+      },
+      "title": "The Boomerang",
+      "irn": 6007
+    },
+    {
+      "image": {
+        "irn": 6497,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "The Boomerang",
+      "irn": 5421
+    },
+    {
+      "title": "Some Victims of the Nazi Terror",
+      "image": {
+        "irn": 6678,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5816
+    },
+    {
+      "irn": 4654,
+      "title": "The 8th Gazette",
+      "image": {
+        "irn": 5298,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5927,
+      "image": {
+        "irn": 6738,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Der Krieg Gegen Die Verkehrten Leute (German text), Camp News"
+    },
+    {
+      "title": "Salt",
+      "image": {
+        "irn": 6742,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5366
+    },
+    {
+      "irn": 1056,
+      "title": "Behind the Fence",
+      "image": {
+        "irn": 5255,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6758,
+        "type": "image"
+      },
+      "title": "The Boomerang",
+      "irn": 5774
+    },
+    {
+      "image": {
+        "irn": 1655,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Aliens to be Used by Army: Refugees for Labour Units, The Argus",
+      "irn": 7103
+    },
+    {
+      "title": "Alien Doctors' Registration, The Argus",
+      "image": {
+        "format": "jpeg",
+        "irn": 7345,
+        "type": "image"
+      },
+      "irn": 1215
+    },
+    {
+      "title": "A 'Radical' on the Bench, The Canberra Times",
+      "image": {
+        "type": "image",
+        "irn": 7374,
+        "format": "jpeg"
+      },
+      "irn": 1227
+    },
+    {
+      "irn": 1231,
+      "image": {
+        "type": "image",
+        "irn": 7388,
+        "format": "jpeg"
+      },
+      "title": "The Dunera Scandal, Manchester Guardian"
+    },
+    {
+      "irn": 9425,
+      "title": "Mechanised Army in City, The Argus",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7524
+      }
+    },
+    {
+      "irn": 9426,
+      "title": "Älien Refugees: Efforts to Secure Release, The Argus",
+      "image": {
+        "format": "jpeg",
+        "irn": 7529,
+        "type": "image"
+      }
+    },
+    {
+      "title": "No Strangers Here: An Australian Film with A Story and A Message",
+      "image": {
+        "irn": 9687,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5790
+    },
+    {
+      "title": "Migrants Starred in a Good Neighbour Film, The Good Neighbour",
+      "image": {
+        "format": "jpeg",
+        "irn": 9689,
+        "type": "image"
+      },
+      "irn": 5791
+    },
+    {
+      "irn": 4658,
+      "title": "The 8th Gazette",
+      "image": {
+        "type": "image",
+        "irn": 5253,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 4792,
+      "image": {
+        "type": "image",
+        "irn": 7178,
+        "format": "jpeg"
+      },
+      "title": "No title"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 7275,
+        "type": "image"
+      },
+      "title": "Night to Remember, The Age",
+      "irn": 5925
+    },
+    {
+      "irn": 5783,
+      "image": {
+        "format": "jpeg",
+        "irn": 7287,
+        "type": "image"
+      },
+      "title": "Contact"
+    },
+    {
+      "irn": 5787,
+      "image": {
+        "irn": 7293,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Shadowed Eyes, Kinematograph Weekly"
+    },
+    {
+      "irn": 5792,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7296
+      },
+      "title": "Film man's big week, Sydney Daily Telegraph"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 22054
+      },
+      "title": "Spotlight on Australian Ballet Commentary",
+      "irn": 5795
+    },
+    {
+      "title": "No Strangers Here",
+      "image": {
+        "format": "jpeg",
+        "irn": 7299,
+        "type": "image"
+      },
+      "irn": 5796
+    },
+    {
+      "irn": 1203,
+      "title": "Cruelty Not Ours Says Calwell, The Herald",
+      "image": {
+        "format": "jpeg",
+        "irn": 7305,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 1206,
+      "image": {
+        "type": "image",
+        "irn": 7306,
+        "format": "jpeg"
+      },
+      "title": "Why Refugees Are Returning To Britain/Interned Aliens, The Argus"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7309
+      },
+      "title": "By Dunera: A Cargo of Talent, Reader's Digest",
+      "irn": 1207
+    },
+    {
+      "title": "Society of Christian & Jewish Co-Operation Bulletin (German text)",
+      "image": {
+        "format": "jpeg",
+        "irn": 7344,
+        "type": "image"
+      },
+      "irn": 1214
+    },
+    {
+      "irn": 1216,
+      "title": "Ein tragisches Schicksal, Aufbau (German text)",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7346
+      }
+    },
+    {
+      "irn": 1219,
+      "image": {
+        "format": "jpeg",
+        "irn": 7357,
+        "type": "image"
+      },
+      "title": "Eine folgenschwere Verwechslung, Aufbau (German text)"
+    },
+    {
+      "image": {
+        "irn": 7358,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "The Sun News Pictorial",
+      "irn": 1221
+    },
+    {
+      "irn": 9369,
+      "image": {
+        "irn": 7464,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Camp News (German text)"
+    },
+    {
+      "irn": 9222,
+      "title": "Dunera refugee became a top academic, The Age",
+      "image": {
+        "format": "jpeg",
+        "irn": 7444,
+        "type": "image"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7447
+      },
+      "title": "Some Victims of the Nazi Terror, Kitchener Camp Committee",
+      "irn": 7130
+    },
+    {
+      "irn": 9270,
+      "title": "Artist mourned, The Jewish News",
+      "image": {
+        "type": "image",
+        "irn": 7454,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 1282,
+      "title": "Treatment of German Nationals in Germany, His Majesty's Stationery Office",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7489
+      }
+    },
+    {
+      "irn": 9383,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7498
+      },
+      "title": "Camp News (German text)"
+    },
+    {
+      "title": "Aliens Register, Last-Minute Rush to Comply",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7948
+      },
+      "irn": 9448
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7956
+      },
+      "title": "The Boomerang",
+      "irn": 6830
+    },
+    {
+      "title": "Ehrentafel de Geffalenen",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7959
+      },
+      "irn": 7135
+    },
+    {
+      "image": {
+        "irn": 7964,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Judische Mitburger in Marienwerder",
+      "irn": 7136
+    },
+    {
+      "irn": 6872,
+      "title": "Ben Uri Bulletin",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1610
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7978
+      },
+      "title": "The Boomerang",
+      "irn": 7012
+    },
+    {
+      "irn": 5150,
+      "image": {
+        "type": "image",
+        "irn": 6381,
+        "format": "jpeg"
+      },
+      "title": "Scopus"
+    },
+    {
+      "title": "Hay P.O.W. and Internment Camp, 1940-1947",
+      "image": {
+        "format": "jpeg",
+        "irn": 1613,
+        "type": "image"
+      },
+      "irn": 6942
+    },
+    {
+      "irn": 6662,
+      "image": {
+        "format": "jpeg",
+        "irn": 8296,
+        "type": "image"
+      },
+      "title": "The Boomerang"
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 8284,
+        "format": "jpeg"
+      },
+      "title": "The Boomerang",
+      "irn": 6831
+    },
+    {
+      "title": "Newsletters - Bound issues of \"The Boomerang\", Hay, 1941",
+      "image": {
+        "type": "image",
+        "irn": 8274,
+        "format": "jpeg"
+      },
+      "irn": 6832
+    },
+    {
+      "irn": 6836,
+      "title": "The Boomerang",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1543
+      }
+    },
+    {
+      "title": "Band of the Month, Tempo",
+      "image": {
+        "format": "jpeg",
+        "irn": 9775,
+        "type": "image"
+      },
+      "irn": 9602
+    },
+    {
+      "image": {
+        "irn": 9691,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "New Film to Help Migrants, Digest: Immigration in Action",
+      "irn": 5793
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9694
+      },
+      "title": "Juden Lachen in Berlin (German text)",
+      "irn": 5109
+    },
+    {
+      "irn": 1204,
+      "title": "How the Dunera Helped Australia, The Age",
+      "image": {
+        "format": "jpeg",
+        "irn": 9861,
+        "type": "image"
+      }
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 6047,
+        "format": "jpeg"
+      },
+      "title": "A Woman's Letter, The Bulletin",
+      "irn": 951
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7795
+      },
+      "title": "Town Talk, Daily Telegraph",
+      "irn": 9443
+    },
+    {
+      "title": "Cordial Reception Given Refugees",
+      "image": {
+        "type": "image",
+        "irn": 6019,
+        "format": "jpeg"
+      },
+      "irn": 6305
+    },
+    {
+      "irn": 6306,
+      "title": "The Sunday News",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6021
+      }
+    },
+    {
+      "irn": 9597,
+      "image": {
+        "type": "image",
+        "irn": 8019,
+        "format": "jpeg"
+      },
+      "title": "Newspaper cutting, The Herald"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9661
+      },
+      "title": "RAF Breaches 2 Big Dams in Germany, The Argus",
+      "irn": 6238
+    },
+    {
+      "title": "Geography Instruction On The Spot, The Bulletin",
+      "image": {
+        "type": "image",
+        "irn": 9662,
+        "format": "jpeg"
+      },
+      "irn": 4787
+    },
+    {
+      "image": {
+        "irn": 9695,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Some Victims of Nazi Terror, Kitchener Camp Committee",
+      "irn": 1277
+    },
+    {
+      "title": "Brothers Reunited, Australian Jewish News",
+      "image": {
+        "irn": 9706,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 9362
+    },
+    {
+      "irn": 9271,
+      "title": "Reliving the balance payment crisis of the 50s, Financial Review",
+      "image": {
+        "format": "jpeg",
+        "irn": 9700,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 5934,
+      "title": "Diary of a sailor on an internee ship, The Sunday Telelgraph",
+      "image": {
+        "format": "jpeg",
+        "irn": 1418,
+        "type": "image"
+      }
+    }
+  ]
+}

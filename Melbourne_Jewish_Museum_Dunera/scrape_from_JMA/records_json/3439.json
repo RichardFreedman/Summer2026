@@ -1,0 +1,89 @@
+{
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 6680,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 6681
+    },
+    {
+      "type": "image",
+      "irn": 6682,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "rid": "ecatalogue.4652",
+  "CreLatestDate": "1942",
+  "PhyTechnique": "Machine typed",
+  "PhyMediaCategory": "programmes",
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"Snow White New Year Revue\" [3439], Sternberg, Dr. K",
+  "source": "ecatalogue",
+  "CreDateCreated": "1941 - 1942",
+  "irn": 4652,
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8883
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "irn": 52
+    }
+  ],
+  "CreCreationNotes": null,
+  "index": 1,
+  "CreRole_tab": [
+    "Director"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "measurements": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Tatura"
+  ],
+  "TitNumberOfParts": 1,
+  "accNo": "3439",
+  "title": "Snow White New Year Revue",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Theatre",
+    "New Year"
+  ],
+  "CrePrimaryInscriptions": null,
+  "CreEarliestDate": "1941",
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "irn": 1763,
+      "NamSuffix": null,
+      "SummaryData": "Sternberg, Dr. K",
+      "NamLast": "Sternberg",
+      "BioDeathDate": null,
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamTitle": "Dr.",
+      "NamFirst": "K"
+    }
+  ],
+  "CreSecondaryInscriptions": null
+}

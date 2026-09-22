@@ -1,0 +1,114 @@
+{
+  "rownum": 8,
+  "rid": "enarratives.114",
+  "objects": [
+    {
+      "irn": 4574,
+      "title": "book - Bound volume with dedications to Alfred Lewinsky, 1941",
+      "image": {
+        "irn": 6709,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 4855,
+      "title": "invitation - Prose and Poetry Reading 1941",
+      "image": {
+        "type": "image",
+        "irn": 6683,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5827,
+      "title": "membership card - Debating Society, Alfred Lewinsky, 1941",
+      "image": {
+        "irn": 6705,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5445,
+      "title": "diary -  Journey on HMT Dunera, A Lewinsky, 1940",
+      "image": {
+        "format": "jpeg",
+        "irn": 1738,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 5877,
+      "image": {
+        "format": "jpeg",
+        "irn": 1452,
+        "type": "image"
+      },
+      "title": "diary - Alfred Lewinsky, 1940"
+    },
+    {
+      "title": "notice - Dunera Debating Society, Alfred Lewinsky, 1941",
+      "image": null,
+      "irn": 6227
+    },
+    {
+      "irn": 5826,
+      "image": {
+        "format": "jpeg",
+        "irn": 5296,
+        "type": "image"
+      },
+      "title": "ticket - Camp Theatre, Alfred Lewinsky, 1940"
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 6701,
+        "format": "jpeg"
+      },
+      "title": "program - Wir reisen um die Welt, 1941",
+      "irn": 6017
+    },
+    {
+      "irn": 5817,
+      "image": {
+        "format": "jpeg",
+        "irn": 6737,
+        "type": "image"
+      },
+      "title": "program - Murder Case on Trial, 1941"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1440
+      },
+      "title": "invitation - poetry reading by Alfred Lewinsky, 1941",
+      "irn": 5879
+    },
+    {
+      "irn": 4625,
+      "image": {
+        "irn": 7450,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "program - Hay Fever, 1941"
+    }
+  ],
+  "associations": [],
+  "index": 0,
+  "multimedia": [],
+  "parents": {
+    "irn": 75,
+    "title": "Internee Stories - HMT Dunera and Internment Collection",
+    "image": null
+  },
+  "irn": 114,
+  "children": [],
+  "description": "",
+  "title": "Alfred Lewinsky",
+  "source": "enarratives"
+}

@@ -1,0 +1,69 @@
+{
+  "PhyTechnique": "Printed, with handwritten additions",
+  "CreLatestDate": null,
+  "rid": "ecatalogue.5859",
+  "CreState_tab": [],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 5278
+    },
+    {
+      "format": "jpeg",
+      "irn": 5279,
+      "type": "image"
+    }
+  ],
+  "irn": 5859,
+  "CreDateCreated": "1940s",
+  "PhyMediaCategory": "programmes",
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Tempo di Slow Fox\" [3619], Reichwald, Mr. M.",
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [
+    "Composer"
+  ],
+  "rownum": 1,
+  "measurements": [],
+  "PhySupport": null,
+  "index": 1,
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "CreCreationNotes": null,
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamLast": "Reichwald",
+      "BioDeathDate": null,
+      "irn": 1702,
+      "NamFirst": "M.",
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "SummaryData": "Reichwald, Mr. M.",
+      "NamSuffix": null,
+      "NamTitle": "Mr."
+    }
+  ],
+  "TitPartNumber": 1,
+  "PhyMedium": "Pen and pencil on paper",
+  "CreEarliestDate": null,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "songs",
+    "Being Australian"
+  ],
+  "title": "Tempo di Slow Fox",
+  "TitNumberOfParts": 1,
+  "accNo": "3619"
+}

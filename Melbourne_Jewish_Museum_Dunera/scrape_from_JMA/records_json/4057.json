@@ -1,0 +1,88 @@
+{
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 7501,
+      "type": "image"
+    },
+    {
+      "type": "image",
+      "irn": 7502,
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 7503,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7504
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyTechnique": "Typed and hand drawn",
+  "CreLatestDate": "1941",
+  "rid": "ecatalogue.1285",
+  "CreDateCreated": "1941",
+  "PhyMediaCategory": "pamphlets",
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Booklet - Booklet of songs for Oneg Shabbat, Tatura, Victoria, 1941\" [4057]",
+  "irn": 1285,
+  "PhySupport": null,
+  "index": 1,
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "CreCreationNotes": "This 8-page typed booklet contains songs traditionally sung during Oneg Shabbat, the joyous and entertaining celebration held on Friday evenings to express happiness for Shabbat. Groups and families gather in houses or synagogues to enjoy music, drama, community discussions, lectures, or the singing of religious melodies. The songs typed in black ink in this booklet are in Hebrew and translated in German. The front cover reveals the date (1941) and the content of the booklet: Hebrew songs to be sung during Shabbat in Tatura. The front cover is also decorated with a Star of David and an altar with two candlesticks and a Kiddush cup. \nIt is likely that this booklet was created at Tatura Internment Camp by Jewish internees in order to be able to sing jointly during the Shabbat celebration.",
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "CreCity_tab": [
+    "Tatura"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [],
+  "rownum": 1,
+  "measurements": [
+    {
+      "weight": null,
+      "height": 170,
+      "depth": null,
+      "diameter": null,
+      "unitLength": "mm",
+      "type": null,
+      "unitWeight": null,
+      "width": 105
+    }
+  ],
+  "CrePrimaryInscriptions": "Hebraische Lieder / gesungen beim / ONEG / SCHABBAT / Tatura / 1941",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "songs",
+    "Being Australian",
+    "Shabbat",
+    "Belief & Ritual",
+    "bilingual",
+    "Internment",
+    "Jewish symbols",
+    "Language",
+    "Tatura",
+    "Sabbath"
+  ],
+  "title": "Booklet - Booklet of songs for Oneg Shabbat, Tatura, Victoria, 1941",
+  "TitNumberOfParts": 1,
+  "accNo": "4057",
+  "CreCreatorRef_tab": [],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "1941"
+}

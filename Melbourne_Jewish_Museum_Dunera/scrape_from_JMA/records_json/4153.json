@@ -1,0 +1,55 @@
+{
+  "CreState_tab": [],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 7793,
+      "format": "jpeg"
+    },
+    {
+      "irn": 7794,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "CreLatestDate": "/09/1941",
+  "rid": "ecatalogue.9442",
+  "PhyTechnique": "Typewritten",
+  "PhyMediaCategory": "programmes",
+  "source": "ecatalogue",
+  "SummaryData": "\"Die Geschichte Voh Braven Soldaten Schwejk (German text)\" [4153]",
+  "TitObjectRating": "partial data",
+  "CreDateCreated": "09/1941",
+  "irn": 9442,
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "index": 1,
+  "CreCreationNotes": "This concert programme concerns the telling of \"The Good Soldier Schwejk\"",
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [],
+  "measurements": [],
+  "CreCity_tab": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "title": "Die Geschichte Voh Braven Soldaten Schwejk (German text)",
+  "TitNumberOfParts": 1,
+  "accNo": "4153",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Theatre",
+    "Dunera",
+    "Being Australian"
+  ],
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "/09/1941",
+  "CreCreatorRef_tab": [],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1
+}

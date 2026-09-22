@@ -1,0 +1,126 @@
+{
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 7192,
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 7188,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7190,
+      "type": "image"
+    },
+    {
+      "type": "image",
+      "irn": 7189,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7191,
+      "type": "image"
+    },
+    {
+      "irn": 7193,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7194,
+      "type": "image"
+    },
+    {
+      "irn": 7195,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7196,
+      "type": "image"
+    },
+    {
+      "type": "image",
+      "irn": 7197,
+      "format": "jpeg"
+    }
+  ],
+  "CreLatestDate": "19/04/1943",
+  "rid": "ecatalogue.4660",
+  "PhyTechnique": "Woodcut print with printed text",
+  "PhyMediaCategory": "programmes",
+  "source": "ecatalogue",
+  "SummaryData": "\"Sergeant Snow White Anniversay Performance\" [3683.5], Sternberg, Dr. K",
+  "TitObjectRating": "partial data",
+  "CreDateCreated": "19/04/1943",
+  "irn": 4660,
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "index": 1,
+  "CreCreationNotes": null,
+  "narratives": [],
+  "TitObjectType": "OriginalRec",
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Writer and Director"
+  ],
+  "measurements": [
+    {
+      "unitWeight": null,
+      "width": 290,
+      "unitLength": "mm",
+      "type": null,
+      "depth": null,
+      "diameter": null,
+      "height": 195,
+      "weight": null
+    }
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "title": "Sergeant Snow White Anniversay Performance",
+  "TitNumberOfParts": 1,
+  "accNo": "3683.5",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Theatre",
+    "plays",
+    "dance"
+  ],
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "19/04/1943",
+  "CreCreatorRef_tab": [
+    {
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": "K",
+      "NamTitle": "Dr.",
+      "NamSuffix": null,
+      "irn": 1763,
+      "BioDeathDate": null,
+      "NamLast": "Sternberg",
+      "SummaryData": "Sternberg, Dr. K"
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1
+}

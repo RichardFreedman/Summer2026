@@ -1,0 +1,74 @@
+{
+  "TitNumberOfParts": 1,
+  "accNo": "3372",
+  "title": "V for Victory Variety Concert",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Theatre"
+  ],
+  "CrePrimaryInscriptions": null,
+  "CreEarliestDate": "01/11/1941",
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": "Front cover, center: Union Castle Line Programme\nFront cover, lower, right, beneath image: PADDEN\nInner cover, upper: H.M.T. D 3\nInner cover, center: The Entertainment Committee Presents V for Victoria - Variety, SHIP'S CONCERT \nat 8:15 p.m. on November 1st. 1941. In the First Class Lounge.\nInner cover, center: Programme details.\np. 1, center: \"The Man in the Bowler Hat\" production details.",
+  "CreCreatorRef_tab": [],
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreCreationNotes": "This programme was crafted on board the Dunera passenger ship, as it made its way from Liverpool to Sydney, c. 1941. The show, entitled \"The Man in the Bowler Hat\" was produced by Peter Land and was presented by the Entertainment Committee in the first class lounge on November 1st 1941 at 8:15pm. \n\nThe program includes two pages of printed text, each which impart information about the show's production. Max Lewinsky was the choreographer in charge, Ray Martin was responsible for musical arrangements, and Bernard Bell was the stage manager.",
+  "narratives": [
+    {
+      "irn": 52,
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "image": {
+        "format": "jpeg",
+        "irn": 8883,
+        "type": "image"
+      }
+    }
+  ],
+  "TitObjectType": null,
+  "index": 1,
+  "PhySupport": null,
+  "measurements": [
+    {
+      "weight": null,
+      "height": 168,
+      "depth": null,
+      "diameter": null,
+      "type": "open",
+      "unitLength": "mm",
+      "unitWeight": null,
+      "width": 215
+    }
+  ],
+  "CreRole_tab": [],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "CreCountry_tab": [],
+  "CreCity_tab": [],
+  "SummaryData": "\"V for Victory Variety Concert\" [3372]",
+  "TitObjectRating": "partial data",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "card",
+  "CreDateCreated": "1/11/1941",
+  "irn": 5446,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 6483,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 6484
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [],
+  "rid": "ecatalogue.5446",
+  "CreLatestDate": "01/11/1941",
+  "PhyTechnique": "Printed"
+}

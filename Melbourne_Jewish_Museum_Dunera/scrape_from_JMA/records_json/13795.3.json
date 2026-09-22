@@ -1,0 +1,81 @@
+{
+  "CreCreatorRef_tab": [
+    {
+      "NamLast": "Zentner",
+      "BioDeathDate": null,
+      "SummaryData": "Zentner, Hermann",
+      "NamSuffix": null,
+      "irn": 1555,
+      "NamFirst": "Hermann",
+      "NamTitle": null,
+      "BioNationality": null,
+      "BioBirthDate": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "PhyMedium": "photographic print",
+  "CreEarliestDate": "1941",
+  "CrePrimaryInscriptions": "An ink inscription, on a card mount, underneath the photograph reads \"Zentner\".",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Internment"
+  ],
+  "title": "Photograph - Hermann Zentner picking pears, Shepparton, Victoria, 1941-1942",
+  "accNo": "13795.3",
+  "TitNumberOfParts": 1,
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Shepparton"
+  ],
+  "measurements": [
+    {
+      "unitLength": "mm",
+      "type": null,
+      "width": 161,
+      "unitWeight": null,
+      "weight": null,
+      "height": 240,
+      "diameter": null,
+      "depth": null
+    }
+  ],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Subject"
+  ],
+  "index": 1,
+  "narratives": [],
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": "Black and white photograph depicting Dunera internee Hermann Zentner picking pears in the JGB & R McDonald orchard, located in Central Avenue, Shepparton East. Hermann Zentner later remained in Australia and received his naturalisation on 7 August 1946.\nThe orchard belonged to Sir John Gladstone Black McDonald (6 December 1898 – 23 April 1977) who was Deputy Premier of Victoria from November 1947 to December 1948 and later served as the 37th Premier of Victoria (leading the Country Party) from 27 June 1950 to 17 December 1952.\nMcDonald was born in Scotland and emigrated to Australia with his family in 1912, settling in Shepparton and establishing a dairy farm with orchards. During World War II, farmers were short of fruit pickers, so some Tatura internees were sent to help. \nAccording to Mary Allison’s (McDonald’s daughter), recollections: “The Dunera internees must have been on the orchard in late November 1941 and into the New Year of 1942. Whilst on the orchard, these men lived in the loft of the large corrugated ‘shed’ – as it was called by everyone. The Dunera men were not permitted to leave the property. When they were staying at the shed, they compiled food lists and the women bought food for them in the town. As there were Jewish families on orchards in the district, there was a small synagogue and a place for the correct preparation of Kosher meat, so it was possible for the men to have meat. […] My most wonderful memory of the Dunera Boys was their Sunday nights in our home. We were fortunate enough to have a piano in Dad’s office. When the Dunera Boys were with us, they were invited to the house for musical evenings. Unfortunately I do not know which ones treated us to such marvellous concerts, however there were times when they sang as they picked fruit”.",
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": {
+    "creditLine": "Donated by Mary Allinson",
+    "irn": 1896
+  },
+  "irn": 16706,
+  "CreDateCreated": "1941-1942",
+  "source": "ecatalogue",
+  "TitObjectRating": "full data",
+  "SummaryData": "\"Photograph - Hermann Zentner picking pears, Shepparton, Victoria, 1941-1942\" [13795.3], Zentner, Hermann",
+  "PhyMediaCategory": "black and white photograph",
+  "PhyTechnique": "Photography",
+  "CreLatestDate": "1942",
+  "rid": "ecatalogue.16706",
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "irn": 22632,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "CreState_tab": [
+    "Victoria"
+  ]
+}

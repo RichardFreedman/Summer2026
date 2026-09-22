@@ -1,0 +1,1004 @@
+{
+  "description": "",
+  "source": "enarratives",
+  "title": "Photographs - HMT Dunera and Internment Collection",
+  "children": [],
+  "irn": 50,
+  "associations": [],
+  "index": 0,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 8882,
+      "format": "jpeg"
+    }
+  ],
+  "parents": {
+    "irn": 28,
+    "title": "HMT Dunera and Internment Collection",
+    "image": {
+      "irn": 8880,
+      "type": "image",
+      "format": "jpeg"
+    }
+  },
+  "objects": [
+    {
+      "irn": 9386,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8136
+      },
+      "title": "No Strangers Here"
+    },
+    {
+      "irn": 9595,
+      "title": "Ivan & Phyllis Pietruschka on their wedding day",
+      "image": {
+        "irn": 7090,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Violin Section of the 3DB Orchestra",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7091
+      },
+      "irn": 9596
+    },
+    {
+      "title": "Ivan Pietruschka and family",
+      "image": {
+        "type": "image",
+        "irn": 7092,
+        "format": "jpeg"
+      },
+      "irn": 9598
+    },
+    {
+      "title": "Guards from Hay Internment Camp No. 7",
+      "image": {
+        "format": "jpeg",
+        "irn": 5292,
+        "type": "image"
+      },
+      "irn": 4713
+    },
+    {
+      "title": "Card distributed to members of the 8th Employment Company featuring Captain E. R. Broughton photographed by Harry Jay’s (Jeidels)",
+      "image": {
+        "irn": 6392,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5280
+    },
+    {
+      "irn": 5122,
+      "title": "Bust of Captain E. R. Broughton",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6875
+      }
+    },
+    {
+      "title": "Performers in \"Sergeant Snow White\"",
+      "image": {
+        "type": "image",
+        "irn": 6980,
+        "format": "jpeg"
+      },
+      "irn": 4653
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6981,
+        "type": "image"
+      },
+      "title": "Performers in \"Sergeant Snow White\"",
+      "irn": 4559
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6982
+      },
+      "title": "Performers in \"Sergeant Snow White\"",
+      "irn": 4560
+    },
+    {
+      "irn": 5771,
+      "image": {
+        "irn": 6983,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Doc. K Sternberg"
+    },
+    {
+      "irn": 5281,
+      "image": {
+        "format": "jpeg",
+        "irn": 6984,
+        "type": "image"
+      },
+      "title": "Captain E. R. Broughton"
+    },
+    {
+      "irn": 7028,
+      "title": "Soccer team",
+      "image": {
+        "irn": 1632,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Uniformed men",
+      "image": {
+        "irn": 1633,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 7029
+    },
+    {
+      "image": {
+        "irn": 1634,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Two men and one woman saluting",
+      "irn": 7030
+    },
+    {
+      "irn": 7031,
+      "image": {
+        "irn": 1635,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Five men at Tocumwal"
+    },
+    {
+      "irn": 7032,
+      "image": {
+        "format": "jpeg",
+        "irn": 1636,
+        "type": "image"
+      },
+      "title": "Members of the 8th Employment Company"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 1637,
+        "type": "image"
+      },
+      "title": "Members of the 8th Employment Company",
+      "irn": 9582
+    },
+    {
+      "image": {
+        "irn": 6936,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Photographic collection of Oswald Stiwelband",
+      "irn": 6016
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 5256,
+        "format": "jpeg"
+      },
+      "title": "Sports team in Albury",
+      "irn": 7049
+    },
+    {
+      "title": "Dunera reunion",
+      "image": {
+        "format": "jpeg",
+        "irn": 5287,
+        "type": "image"
+      },
+      "irn": 7052
+    },
+    {
+      "title": "Dunera reunion",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1644
+      },
+      "irn": 7053
+    },
+    {
+      "title": "Horst Jacobs",
+      "image": {
+        "irn": 6997,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5278
+    },
+    {
+      "irn": 5199,
+      "title": "Private W. Herr",
+      "image": {
+        "type": "image",
+        "irn": 6998,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 7184,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7000
+      },
+      "title": "Harry Jeidels"
+    },
+    {
+      "irn": 7185,
+      "image": {
+        "type": "image",
+        "irn": 7001,
+        "format": "jpeg"
+      },
+      "title": "Unknown soldier"
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7002,
+        "format": "jpeg"
+      },
+      "title": "Man Sitting",
+      "irn": 7186
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 7003,
+        "type": "image"
+      },
+      "title": "Tree",
+      "irn": 5274
+    },
+    {
+      "title": "Doc. K Sternberg",
+      "image": {
+        "type": "image",
+        "irn": 7004,
+        "format": "jpeg"
+      },
+      "irn": 5767
+    },
+    {
+      "image": {
+        "irn": 7005,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Doc. K Sternberg",
+      "irn": 7187
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 19316,
+        "format": "jpeg"
+      },
+      "title": "Photograph - 'Members of the 8th Employment Company', Albury, Australia, 1942",
+      "irn": 9438
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7100
+      },
+      "title": "Woman in front of a hospital",
+      "irn": 6833
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7101,
+        "format": "jpeg"
+      },
+      "title": "Seated man",
+      "irn": 6834
+    },
+    null,
+    null,
+    {
+      "irn": 7004,
+      "title": "Music class",
+      "image": {
+        "format": "jpeg",
+        "irn": 1615,
+        "type": "image"
+      }
+    },
+    {
+      "title": "\"SIIT\" Reunion",
+      "image": {
+        "format": "jpeg",
+        "irn": 6878,
+        "type": "image"
+      },
+      "irn": 5142
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 1323,
+        "format": "jpeg"
+      },
+      "title": "Huppert Family",
+      "irn": 6401
+    },
+    {
+      "title": "\"SIIT\" Reunion",
+      "image": {
+        "type": "image",
+        "irn": 6879,
+        "format": "jpeg"
+      },
+      "irn": 6399
+    },
+    {
+      "title": "Harwich Naval and Military Home",
+      "image": {
+        "irn": 7739,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 1293
+    },
+    {
+      "irn": 9434,
+      "title": "Scenes of Hay",
+      "image": {
+        "type": "image",
+        "irn": 7740,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7102
+      },
+      "title": "B. Patkins' Book Launch",
+      "irn": 7131
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 1854,
+        "format": "jpeg"
+      },
+      "title": "B. Patkins' Book Launch",
+      "irn": 7132
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6863,
+        "type": "image"
+      },
+      "title": "8th Employment Company members",
+      "irn": 7178
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 6864,
+        "format": "jpeg"
+      },
+      "title": "Nicholas Mayer and a young woman",
+      "irn": 4789
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 1006,
+        "format": "jpeg"
+      },
+      "title": "Photograph - Hay Internment Camp, c.1940",
+      "irn": 8938
+    },
+    {
+      "image": {
+        "irn": 6869,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Hay Railway Station",
+      "irn": 7179
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7089
+      },
+      "title": "Musical Circle",
+      "irn": 9585
+    },
+    null,
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6885,
+        "type": "image"
+      },
+      "title": "Photograph -  Frederick Robinson, 1991",
+      "irn": 6405
+    },
+    {
+      "irn": 7018,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1626
+      },
+      "title": "Kurt (Kurwin) Winkler"
+    },
+    {
+      "title": "[COPY] Be a Refugee from Nazi Oppression and see the World Behind Barbed Wire",
+      "image": {
+        "type": "image",
+        "irn": 1628,
+        "format": "jpeg"
+      },
+      "irn": 7022
+    },
+    {
+      "image": {
+        "irn": 7077,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Horst Jacobs and Jimmy King",
+      "irn": 7037
+    },
+    {
+      "irn": 7038,
+      "image": {
+        "format": "jpeg",
+        "irn": 7078,
+        "type": "image"
+      },
+      "title": "1990 Dunera Reunion"
+    },
+    {
+      "irn": 7039,
+      "title": "1990 Dunera Reunion",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7079
+      }
+    },
+    {
+      "image": {
+        "irn": 1641,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Jimmy King",
+      "irn": 7040
+    },
+    {
+      "title": "Jimmy King",
+      "image": {
+        "type": "image",
+        "irn": 7080,
+        "format": "jpeg"
+      },
+      "irn": 7041
+    },
+    {
+      "title": "Jimmy King",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7081
+      },
+      "irn": 7042
+    },
+    {
+      "title": "Jimmy King with two men",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7082
+      },
+      "irn": 7043
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7083,
+        "format": "jpeg"
+      },
+      "title": "Jimmy King with two men",
+      "irn": 7044
+    },
+    {
+      "irn": 7045,
+      "title": "Jimmy King",
+      "image": {
+        "format": "jpeg",
+        "irn": 7084,
+        "type": "image"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7085
+      },
+      "title": "Jimmy King",
+      "irn": 7046
+    },
+    {
+      "irn": 7054,
+      "title": "Stephen Strauss, W. Pollack, Harry Ungar, Paul Hofman and H. Hirsch",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7086
+      }
+    },
+    {
+      "title": "Nassau, Jason, Haase, Lewinski, Albert Meyer and P. Hofman",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7087
+      },
+      "irn": 7055
+    },
+    {
+      "title": "Sondheim, Weil, Sanders, Pollock, Hirsch and Loewe",
+      "image": {
+        "format": "jpeg",
+        "irn": 7088,
+        "type": "image"
+      },
+      "irn": 7057
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 1645,
+        "format": "jpeg"
+      },
+      "title": "Edelhofer, Fred Reich, Ralph Boehm, H. Herzog, W. Pollock, R. Kahn and M. Deutsch",
+      "irn": 7056
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 1646,
+        "format": "jpeg"
+      },
+      "title": "Wharf 21 Pyrmont",
+      "irn": 7059
+    },
+    {
+      "title": "Wharf 21 Pyrmont",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1647
+      },
+      "irn": 7060
+    },
+    {
+      "title": "Henry Lippman with wife Julia, Ernie Green, Charly Nerichow, Mawny Klein, Henry Volstr, Theo Berger, Alf Arnott and Henry James",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1648
+      },
+      "irn": 7063
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 8538,
+        "type": "image"
+      },
+      "title": "Wharf 21 Pyrmont",
+      "irn": 7061
+    },
+    {
+      "irn": 7062,
+      "image": {
+        "type": "image",
+        "irn": 8539,
+        "format": "jpeg"
+      },
+      "title": "Fred and Adele Hoehberger"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8540
+      },
+      "title": "Henry Lippmann and two men",
+      "irn": 7065
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6985,
+        "type": "image"
+      },
+      "title": "Tatura cemetery",
+      "irn": 5972
+    },
+    {
+      "irn": 7181,
+      "image": {
+        "irn": 6986,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Graves at Tatura Cemetery"
+    },
+    {
+      "irn": 7183,
+      "title": "Olga McNab's property",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6988
+      }
+    },
+    {
+      "image": {
+        "irn": 6989,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Olga McNab's orchard",
+      "irn": 5174
+    },
+    {
+      "image": {
+        "irn": 6987,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Olga McNab",
+      "irn": 7182
+    },
+    {
+      "title": "Aerial view of Tatura",
+      "image": {
+        "format": "jpeg",
+        "irn": 6990,
+        "type": "image"
+      },
+      "irn": 5425
+    },
+    {
+      "irn": 5824,
+      "title": "Ernie Green at the Jewish Museum of Australia",
+      "image": {
+        "type": "image",
+        "irn": 7008,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "irn": 7009,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Henry Teltscher",
+      "irn": 5797
+    },
+    {
+      "irn": 5924,
+      "title": "Otto Marx",
+      "image": {
+        "type": "image",
+        "irn": 7010,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 7011,
+        "type": "image"
+      },
+      "title": "Mike Sondheim",
+      "irn": 5779
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7012
+      },
+      "title": "'Good Morning Australia' interviewing Dunera boys",
+      "irn": 5143
+    },
+    {
+      "image": {
+        "irn": 7014,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Leonard Posner",
+      "irn": 6224
+    },
+    {
+      "irn": 5818,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7015
+      },
+      "title": "Klaus Loewald"
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7016,
+        "format": "jpeg"
+      },
+      "title": "Oscar and Bella Hony",
+      "irn": 5200
+    },
+    {
+      "image": {
+        "irn": 7017,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Arthur Weisinger",
+      "irn": 4812
+    },
+    {
+      "title": "Robert Hofmann",
+      "image": {
+        "irn": 7018,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5201
+    },
+    {
+      "image": {
+        "irn": 7019,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Max Arnott and Kurt Leiser",
+      "irn": 5144
+    },
+    {
+      "irn": 6225,
+      "image": {
+        "format": "jpeg",
+        "irn": 7020,
+        "type": "image"
+      },
+      "title": "Paul Piski"
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7021,
+        "format": "jpeg"
+      },
+      "title": "Fred Schonbach at the Jewish Museum of Australia",
+      "irn": 5780
+    },
+    {
+      "irn": 5202,
+      "title": "George Lederer, Klaus Loewald, Heins Kuehlenthal and Margaret Holmes",
+      "image": {
+        "type": "image",
+        "irn": 7023,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5973,
+      "image": {
+        "type": "image",
+        "irn": 7024,
+        "format": "jpeg"
+      },
+      "title": "Jerry Dunn, Henry Felder and Ernie Katz"
+    },
+    {
+      "irn": 5203,
+      "image": {
+        "irn": 7034,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "James and Ellen Heynemann"
+    },
+    {
+      "irn": 9289,
+      "image": {
+        "irn": 7065,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Frank Firestone"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7069
+      },
+      "title": "Henry Felder",
+      "irn": 9291
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7093,
+        "format": "jpeg"
+      },
+      "title": "Bern Brent",
+      "irn": 9292
+    },
+    {
+      "irn": 9330,
+      "image": {
+        "type": "image",
+        "irn": 7071,
+        "format": "jpeg"
+      },
+      "title": "Man reading from a book"
+    },
+    {
+      "irn": 6943,
+      "image": {
+        "irn": 1614,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Wooden trunk; belonging to Dunera boy and Tatura Camp internee Herman Ehrenwerth"
+    },
+    {
+      "irn": 1258,
+      "image": {
+        "type": "image",
+        "irn": 9221,
+        "format": "jpeg"
+      },
+      "title": "Margaret Holmes and Steven Wynne"
+    },
+    {
+      "image": {
+        "irn": 1432,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Joseph Rodgers (aka. Josef Roth)",
+      "irn": 5803
+    },
+    {
+      "title": "Hay Railway Station",
+      "image": {
+        "format": "jpeg",
+        "irn": 8761,
+        "type": "image"
+      },
+      "irn": 4614
+    },
+    {
+      "title": "Heinz Kuehlenthal on his Graduation Day",
+      "image": {
+        "type": "image",
+        "irn": 5270,
+        "format": "jpeg"
+      },
+      "irn": 5197
+    },
+    {
+      "title": "\"SIIT\" Reunion",
+      "image": {
+        "type": "image",
+        "irn": 6879,
+        "format": "jpeg"
+      },
+      "irn": 6399
+    },
+    {
+      "irn": 6400,
+      "title": "50th Anniversary Reunion",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6880
+      }
+    },
+    {
+      "title": "Kurt Friedmann, Arnold Friedmann and Walter Friedmann",
+      "image": {
+        "type": "image",
+        "irn": 6881,
+        "format": "jpeg"
+      },
+      "irn": 7180
+    },
+    {
+      "title": "Passport photograph of Frederick Robinson",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6884
+      },
+      "irn": 6404
+    },
+    {
+      "title": "Members of the 8th Employment Company, Sgt Snow White",
+      "image": {
+        "type": "image",
+        "irn": 6886,
+        "format": "jpeg"
+      },
+      "irn": 4651
+    },
+    {
+      "title": "Jimmy King",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7026
+      },
+      "irn": 4794
+    },
+    {
+      "irn": 5781,
+      "image": {
+        "type": "image",
+        "irn": 7030,
+        "format": "jpeg"
+      },
+      "title": "Eric Reiman on the set of 'No Strangers Here'"
+    },
+    {
+      "image": {
+        "irn": 6936,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Photographic collection of Oswald Stiwelband",
+      "irn": 6016
+    }
+  ],
+  "rownum": 5,
+  "rid": "enarratives.50"
+}

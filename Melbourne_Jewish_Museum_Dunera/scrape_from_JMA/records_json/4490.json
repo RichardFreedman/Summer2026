@@ -1,0 +1,89 @@
+{
+  "TitObjectRating": "full data",
+  "SummaryData": "\"Certificate of Marriage\" [4490], Church of England",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "marriage certificates",
+  "CreDateCreated": "16/02/1946",
+  "irn": 9594,
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "irn": 8018,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "rid": "ecatalogue.9594",
+  "CreLatestDate": null,
+  "PhyTechnique": "Printed and handwritten",
+  "TitNumberOfParts": 1,
+  "accNo": "4490",
+  "title": "Certificate of Marriage",
+  "CreSubjectClassification_tab": [
+    "Marriage",
+    "Being Australian",
+    "Dunera"
+  ],
+  "CrePrimaryInscriptions": "The certificate is annotated with the names and addresses of the couple, \"Majer Pietruschka/Phyllis Eileen Batchelor/Heidelberg/Heidelberg,\" and the date of their marriage, \"16th February 1945.\"",
+  "CreEarliestDate": null,
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamTitle": null,
+      "NamFirst": null,
+      "irn": 1994,
+      "NamSuffix": null,
+      "SummaryData": "Church of England",
+      "NamLast": null,
+      "BioDeathDate": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [
+    {
+      "image": {
+        "irn": 8883,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "irn": 52
+    }
+  ],
+  "CreCreationNotes": "This certificate was issued to Phyllis Batchelor and Majer Ivan Pietruschka on their wedding day.\n\nRussian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian.",
+  "index": 1,
+  "PhySupport": null,
+  "measurements": [
+    {
+      "diameter": null,
+      "depth": null,
+      "height": 211,
+      "weight": null,
+      "width": 220,
+      "unitWeight": null,
+      "type": null,
+      "unitLength": "mm"
+    }
+  ],
+  "CreRole_tab": [
+    "Issuer"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "source": "ecatalogue",
+  "TitObjectRating": "full data",
+  "SummaryData": "\"Concert band\" [13810.12]",
+  "PhyMediaCategory": "black and white photograph",
+  "CreDateCreated": "1940's",
+  "irn": 16851,
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 4959,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [],
+  "CreLatestDate": "1949",
+  "rid": "ecatalogue.16851",
+  "PhyTechnique": "Black and white photography",
+  "title": "Concert band",
+  "TitNumberOfParts": 1,
+  "accNo": "13810.12",
+  "CrePrimaryInscriptions": "Inscribed on verso in blue ink, \"Meinem lieben Eltern und Tante Clare von Ihren Hans\". Translation, \"To my dear parents and Aunt Clara from your Hans\".",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Internment"
+  ],
+  "PhyMedium": "photographic print",
+  "CreEarliestDate": "1940",
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "TitPartNumber": 1,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "index": 1,
+  "CreCreationNotes": "In this photograph, ex-Dunera internee Hans Loewe is playing the piano accordion.",
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "PhySupport": null,
+  "measurements": [
+    {
+      "unitLength": "mm",
+      "type": null,
+      "width": 90,
+      "unitWeight": null,
+      "weight": null,
+      "height": 60,
+      "diameter": null,
+      "depth": null
+    }
+  ],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [
+    "associated person"
+  ],
+  "rownum": 1,
+  "CreCity_tab": [],
+  "CreCountry_tab": []
+}

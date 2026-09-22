@@ -1,0 +1,90 @@
+{
+  "PhySupport": null,
+  "index": 1,
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": "A single sheet of red paper with information relating to the concerts printed in black on both sides. One side of the paper details information about previous concerts held in aid of Red Cross and Comforts Funds and the concerto festival to be held in September 1943. The other side of the paper details the names of students and teaching staff involved in the performances.",
+  "narratives": [
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 8883,
+        "type": "image"
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "irn": 52
+    }
+  ],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Host"
+  ],
+  "measurements": [
+    {
+      "unitWeight": null,
+      "width": 125,
+      "unitLength": "mm",
+      "type": "Unframed",
+      "depth": null,
+      "diameter": null,
+      "height": 230,
+      "weight": null
+    }
+  ],
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "musicals",
+    "songs"
+  ],
+  "title": "Concerts in Aid of Red Cross and Comforts Funds",
+  "TitNumberOfParts": 1,
+  "accNo": "4453",
+  "CreCreatorRef_tab": [
+    {
+      "NamTitle": null,
+      "NamSuffix": null,
+      "SummaryData": "University Conservatorium of Music",
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": null,
+      "irn": 353,
+      "BioDeathDate": null,
+      "NamLast": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "irn": 1654,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "PhyTechnique": "Printed",
+  "CreLatestDate": null,
+  "rid": "ecatalogue.7102",
+  "CreDateCreated": "1943",
+  "PhyMediaCategory": "programmes",
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"Concerts in Aid of Red Cross and Comforts Funds\" [4453], University Conservatorium of Music",
+  "irn": 7102
+}

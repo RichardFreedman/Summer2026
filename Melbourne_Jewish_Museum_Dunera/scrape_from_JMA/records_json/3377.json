@@ -1,0 +1,90 @@
+{
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 6485,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "PhyTechnique": "Handmade",
+  "rid": "ecatalogue.5436",
+  "CreLatestDate": null,
+  "CreDateCreated": "1941",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Unterhaltungs Konzert\" [3377], Recreation Department Hay",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "irn": 5436,
+  "TitObjectType": null,
+  "CreCreationNotes": "This programme was created for one of the many concerts put on by the Hay Recreation Department. The design was used for a number of concerts held at Hay.",
+  "narratives": [
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8883
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "irn": 52
+    }
+  ],
+  "index": 1,
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "measurements": [
+    {
+      "unitWeight": null,
+      "width": 260,
+      "type": null,
+      "unitLength": "mm",
+      "depth": null,
+      "diameter": null,
+      "weight": null,
+      "height": 91
+    }
+  ],
+  "CreRole_tab": [
+    "Maker"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "CreSubjectClassification_tab": [
+    "Theatre",
+    "Dunera",
+    "Being Australian",
+    "songs"
+  ],
+  "CrePrimaryInscriptions": "Handwritten inscriptions are present on the programme, \"RECREATION DEPARTMENT\" and in German text, \"UNTERHALTUNGS KONZERT,\" meaning 'entertainment concert.'",
+  "TitNumberOfParts": 1,
+  "accNo": "3377",
+  "title": "Unterhaltungs Konzert",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [
+    {
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "NamTitle": null,
+      "NamFirst": null,
+      "irn": 1858,
+      "NamSuffix": null,
+      "SummaryData": "Recreation Department Hay",
+      "BioDeathDate": null,
+      "NamLast": null
+    }
+  ],
+  "CreSecondaryInscriptions": "Inner green paper with machine typed writing which includes the 12 pieces played in the concert.",
+  "CreEarliestDate": null,
+  "PhyMedium": "Pencil and ink on paper"
+}

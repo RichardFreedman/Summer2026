@@ -1,0 +1,2122 @@
+id@unknown: 023.001
+id@unknown: 023.002
+id@unknown: 023.003
+id@unknown: 023.004
+id@unknown: 023.005
+id@unknown: 023.006
+id@unknown: 023.007
+id@unknown: 023.009
+id@unknown: 023.011
+id@unknown: 023.012
+id@unknown: 023.013
+id@unknown: 023.014
+id@unknown: 023.015
+id@unknown: 023.016
+id@unknown: 023.017
+id@unknown: 023.018
+id@unknown: 023.019
+id@unknown: 023.020
+id@unknown: 023.021
+id@unknown: 023.022
+id@unknown: 023.023
+id@unknown: 024.001
+id@unknown: 024.003
+id@unknown: 024.004
+id@unknown: 024.005
+id@unknown: 024.006
+id@unknown: 024.007
+id@unknown: 024.008
+id@unknown: 024.009
+id@unknown: 024.010
+id@unknown: 024.011
+id@unknown: 024.012
+id@unknown: 024.013
+nt@unknown: check en?
+tx@unknown: Selwan
+tx@unknown: tupaakor
+tx@unknown: nametp̃ag
+tx@unknown: ntau,
+tx@unknown: rato
+tx@unknown: tu
+tx@unknown: teesa
+tx@unknown: tete
+tx@unknown: nanromien
+tx@unknown: ruto
+tx@unknown: nig
+tx@unknown: Apu
+tx@unknown: go
+tx@unknown: Ati
+tx@unknown: negar
+tx@unknown: wes
+tx@unknown: nanromien
+tx@unknown: sees
+tx@unknown: pan
+tx@unknown: tuer
+tx@unknown: kin
+tx@unknown: Ertap.
+tx@unknown: Ntau
+tx@unknown: 1956,
+tx@unknown: komam
+tx@unknown: ramer
+tx@unknown: tuer
+tx@unknown: tete
+tx@unknown: nanromien
+tx@unknown: sees
+tx@unknown: rumer
+tx@unknown: negar
+tx@unknown: wesi
+tx@unknown: pan
+tx@unknown: tuer
+tx@unknown: kin.
+tx@unknown: Apu
+tx@unknown: ni
+tx@unknown: Elaknar,
+tx@unknown: go
+tx@unknown: Apu
+tx@unknown: nig
+tx@unknown: Elaau
+tx@unknown: rupan
+tx@unknown: tuer
+tx@unknown: kin
+tx@unknown: kailer
+tx@unknown: mai
+tx@unknown: utu.
+tx@unknown: Me
+tx@unknown: utol
+tx@unknown: Janweri
+tx@unknown: go
+tx@unknown: komam
+tx@unknown: Limaas
+tx@unknown: ramer
+tx@unknown: nag
+tx@unknown: rakfan
+tx@unknown: saofir.
+tx@unknown: Pastor
+tx@unknown: Kalagis,
+tx@unknown: imurin
+tx@unknown: na
+tx@unknown: komam
+tx@unknown: komau
+tx@unknown: pak
+tx@unknown: Ertap.
+tx@unknown: Upan
+tx@unknown: paakor
+tx@unknown: Elaknar
+tx@unknown: go
+tx@unknown: Tata
+tx@unknown: Sailas
+tx@unknown: ito
+tx@unknown: esum̃
+tx@unknown: nega
+tx@unknown: to.
+tx@unknown: Selwan
+tx@unknown: ilek
+tx@unknown: mam
+tx@unknown: go
+tx@unknown: ina,
+tx@unknown: "Webe
+tx@unknown: naik
+tx@unknown: seserik
+tx@unknown: rumai
+tx@unknown: kaifam
+tx@unknown: lu
+tx@unknown: nafnag
+tx@unknown: wi
+tx@unknown: pan.
+tx@unknown: Tafra
+tx@unknown: rukfam
+tx@unknown: faat
+tx@unknown: nen
+tx@unknown: ruto
+tx@unknown: me
+tx@unknown: rukmer
+tx@unknown: ler
+tx@unknown: pan."
+tx@unknown: Atae
+tx@unknown: nag
+tx@unknown: kefo
+tx@unknown: nrik
+tx@unknown: mam
+tx@unknown: ki
+tx@unknown: nap̃et
+tx@unknown: nafsan
+tx@unknown: nag
+tx@unknown: itili.
+tx@unknown: Go
+tx@unknown: ipo
+tx@unknown: nrik
+tx@unknown: mam
+tx@unknown: kin.
+tx@unknown: Itili
+tx@unknown: nag
+tx@unknown: naliati
+tx@unknown: iskei
+tx@unknown: naik
+tx@unknown: seserik
+tx@unknown: ruto
+tx@unknown: fam,
+tx@unknown: me
+tx@unknown: tafra
+tx@unknown: ito
+tx@unknown: wat
+tx@unknown: ur
+tx@unknown: elau.
+tx@unknown: Me
+tx@unknown: naik
+tx@unknown: seserik
+tx@unknown: runag
+tx@unknown: malfanen
+tx@unknown: elau
+tx@unknown: imu,
+tx@unknown: tete
+tx@unknown: rukfan
+tx@unknown: tili
+tx@unknown: nag
+tx@unknown: kemai,
+tx@unknown: "Tukmaui
+tx@unknown: en
+tx@unknown: nasusu
+tx@unknown: fam."
+tx@unknown: Selwan
+tx@unknown: elau
+tx@unknown: kemat
+tx@unknown: go
+tx@unknown: kefo
+tx@unknown: mer
+tx@unknown: ler
+tx@unknown: go
+tx@unknown: tafra
+tx@unknown: inag,
+tx@unknown: "Iwi
+tx@unknown: akam
+tx@unknown: koen
+tx@unknown: nasusu
+tx@unknown: fam.
+tx@unknown: Me
+tx@unknown: kineu
+tx@unknown: kafo
+tx@unknown: mailum
+tx@unknown: net."
+tx@unknown: Naik
+tx@unknown: seserik
+tx@unknown: ruen
+tx@unknown: fam
+tx@unknown: panpan
+tx@unknown: go
+tx@unknown: elau
+tx@unknown: kimat
+tx@unknown: rukoiler.
+tx@unknown: Tafra
+tx@unknown: ipato
+tx@unknown: elau
+tx@unknown: to
+tx@unknown: pulki
+tx@unknown: nam̃elen
+tx@unknown: me
+tx@unknown: isok
+tx@unknown: ipturki
+tx@unknown: ntas
+tx@unknown: panpan
+tx@unknown: kaiptol.
+tx@unknown: Go
+tx@unknown: kimro
+tx@unknown: kin
+tx@unknown: nag
+tx@unknown: kefo
+tx@unknown: mer
+tx@unknown: mai
+tx@unknown: fam.
+tx@unknown: Selwan
+tx@unknown: imai
+tx@unknown: me
+tx@unknown: elau
+tx@unknown: kipe
+tx@unknown: mat
+tx@unknown: ikon
+tx@unknown: kailer.
+tx@unknown: Or
+tx@unknown: selwan
+tx@unknown: kulefeki
+tx@unknown: Efat
+tx@unknown: negakit,
+tx@unknown: p̃afo
+tx@unknown: lek
+tx@unknown: nasi
+tx@unknown: tafra
+tx@unknown: iuserek
+tx@unknown: ki
+tx@unknown: nagis
+tx@unknown: negakit
+tx@unknown: nig
+tx@unknown: Efat.
+tx@unknown: Go
+tx@unknown: akit
+tx@unknown: tusoso
+tx@unknown: ki
+tx@unknown: nasi
+tx@unknown: tafra.
+tx@unknown: Natrauswen
+tx@unknown: nig
+tx@unknown: tiawi
+tx@unknown: negakit
+tx@unknown: nig
+tx@unknown: teetwei.
+tx@unknown: Naliati
+tx@unknown: iskei
+tx@unknown: maal
+tx@unknown: ruto
+tx@unknown: ruto
+tx@unknown: puserek.
+tx@unknown: Go
+tx@unknown: sokfal
+tx@unknown: inrik
+tx@unknown: maal
+tx@unknown: kin
+tx@unknown: nag,
+tx@unknown: "P̃afo
+tx@unknown: neu
+tx@unknown: preg
+tx@unknown: nalkis."
+tx@unknown: Go
+tx@unknown: ruinpa
+tx@unknown: ki
+tx@unknown: natut.
+tx@unknown: Maal
+tx@unknown: teflan
+tx@unknown: p̃afo
+tx@unknown: mai.
+tx@unknown: Kafo
+tx@unknown: tuok
+tx@unknown: nalkis
+tx@unknown: p̃afo
+tx@unknown: mingi."
+tx@unknown: Ruto
+tx@unknown: panpanpan
+tx@unknown: mal
+tx@unknown: natut
+tx@unknown: ipaakor,
+tx@unknown: go
+tx@unknown: maal
+tx@unknown: kiwes
+tx@unknown: nalkis
+tx@unknown: mai.
+tx@unknown: Sokfal
+tx@unknown: me
+tx@unknown: kimai,
+tx@unknown: me
+tx@unknown: inrik
+tx@unknown: maal
+tx@unknown: ki
+tx@unknown: na,
+tx@unknown: mlapuas
+tx@unknown: ki
+tx@unknown: na,
+tx@unknown: "Ag
+tx@unknown: kin
+tx@unknown: p̃afo
+tx@unknown: na-
+tx@unknown: p̃afo
+tx@unknown: ga
+tx@unknown: wis
+tx@unknown: nalkis
+tx@unknown: tua
+tx@unknown: kin
+tx@unknown: kemingi."
+tx@unknown: Me
+tx@unknown: mlapuas
+tx@unknown: ina
+tx@unknown: ito
+tx@unknown: kaimin
+tx@unknown: nalkis
+tx@unknown: ni
+tx@unknown: sokfal,
+tx@unknown: me
+tx@unknown: kini
+tx@unknown: sokfal
+tx@unknown: uut
+tx@unknown: nai.
+tx@unknown: Ipan
+tx@unknown: min
+tx@unknown: nalkis,
+tx@unknown: nen
+tx@unknown: kin
+tx@unknown: runi
+tx@unknown: sokfal
+tx@unknown: pregi
+tx@unknown: pan.
+tx@unknown: Imin
+tx@unknown: silua
+tx@unknown: me
+tx@unknown: kiga
+tx@unknown: uut
+tx@unknown: nai
+tx@unknown: pan
+tx@unknown: tua
+tx@unknown: kin
+tx@unknown: imingi.
+tx@unknown: Selwan
+tx@unknown: imin
+tx@unknown: silua
+tx@unknown: go,
+tx@unknown: rupan
+tx@unknown: saisei
+tx@unknown: go
+tx@unknown: rutli,
+tx@unknown: "Malfanen
+tx@unknown: mal
+tx@unknown: natut
+tx@unknown: kemai
+tx@unknown: go
+tx@unknown: tukfo
+tx@unknown: pregnrogo
+tx@unknown: nrir."
+tx@unknown: Panpan
+tx@unknown: mal
+tx@unknown: natut
+tx@unknown: imai
+tx@unknown: go
+tx@unknown: ruipan
+tx@unknown: saisei.
+tx@unknown: "Malfanen
+tx@unknown: tufo
+tx@unknown: nrir."
+tx@unknown: Malnen
+tx@unknown: runrir,
+tx@unknown: sokfal
+tx@unknown: kin
+tx@unknown: inrir
+tx@unknown: ur
+tx@unknown: etan.
+tx@unknown: Ito
+tx@unknown: ur
+tx@unknown: etan
+tx@unknown: m̃as,
+tx@unknown: me
+tx@unknown: maal
+tx@unknown: go
+tx@unknown: mlapuas
+tx@unknown: ranrik,
+tx@unknown: panpanpan
+tx@unknown: maal
+tx@unknown: mlapuas
+tx@unknown: itol
+tx@unknown: maal
+tx@unknown: pak
+tx@unknown: elag.
+tx@unknown: Ipi
+tx@unknown: stori
+tx@unknown: m̃it
+tx@unknown: m̃as.
+tx@unknown: Sokfal
+tx@unknown: ikano
+tx@unknown: nrir
+tx@unknown: nlaken
+tx@unknown: itap
+tx@unknown: min
+tx@unknown: nalkis
+tx@unknown: mau,
+tx@unknown: me
+tx@unknown: mlapuas
+tx@unknown: kin
+tx@unknown: imin
+tx@unknown: nalkis
+tx@unknown: ni
+tx@unknown: sokfal.
+tx@unknown: Nlaken
+tx@unknown: sokfal
+tx@unknown: ikano
+tx@unknown: nrir
+tx@unknown: pak
+tx@unknown: elag,
+tx@unknown: nlaken
+tx@unknown: itap
+tx@unknown: min
+tx@unknown: nalkis,
+tx@unknown: ga
+tx@unknown: iur
+tx@unknown: etan
+tx@unknown: me
+tx@unknown: mlapuas
+tx@unknown: itol
+tx@unknown: maal
+tx@unknown: pak
+tx@unknown: elag.
+tx@unknown: Ipi
+tx@unknown: stori
+tx@unknown: m̃it
+tx@unknown: m̃as.
+fg@unknown: When we got to the end of the year we would give the children a present for them to take to their Apu and Ati, a small present they could give to them at Eratap.
+fg@unknown: The year 1956, we gave them the small present again for them to give to them.
+fg@unknown: Apu from Elaknar and Apu from Elaau they went to give it, then came back.
+fg@unknown: After
+fg@unknown: Pastor Kalagis wanted us to go to Eratap.
+fg@unknown: We went to Elaknar and Tata Sailas was at his house. When he saw us
+fg@unknown: and he said, "Webe, small fish they come and eat all the good food.
+fg@unknown: The whales eat stones then they return."
+fg@unknown: I already knew that he would tell us the meaning of this story that Sailas told us. And then he told us.
+fg@unknown: He said one day small fish came would come out to eat
+fg@unknown: but the whale was hitting the water (with its tail).
+fg@unknown: But the small fish said now the tide is high
+fg@unknown: some would go and say he should come." "We will all come and eat at the turn of the tide.
+fg@unknown: When the tide was out and he returned
+fg@unknown: and the whale said, "Okay, you eat on the incoming tide.
+fg@unknown: I will come later." The small fish lay down and ate and the tide went out and they went back.
+fg@unknown: The whale stayed at sea thrashing its tail
+fg@unknown: and spurted water until it became hungry. And he thought he would go and eat.
+fg@unknown: When he came and the tide had gone out, he got stuck and went back.
+fg@unknown: Okay, when you look around our Efate, you will see whale shit rings the points around Efate.
+fg@unknown: And we call it whale shit. A story from the old people.
+fg@unknown: One day the hawks were telling stories.
+fg@unknown: And the owl said to the hawk, "You go and get the herbs." And they promised to meet back again. "That is the time you will come."
+fg@unknown: I will give you herbs, you drink it." They stayed until the time to meet back again, and the hawk brought the herbs.
+fg@unknown: The owl came, then he told the hawk and mlapuas, "You will get the herbs for him and give it to him to drink it."
+fg@unknown: Then mlapuas drank the owl's herbs, and he poured water for the owl.
+fg@unknown: He went and drank the herbs that they got for the owl. He drank it all, but he poured water for the owl and took it to give him to drink.
+fg@unknown: When he drank it all they met together again, and they said, "Now is the time for us to meet again and we will try to fly."
+fg@unknown: Until it was the time of the meeting and they met. "Now we will fly."
+fg@unknown: Then they flew, the owl flew below. He only flew below, but the hawk and mlapuas, mlapuas beat the hawk up high. It is just a short story.
+fg@unknown: The owl can't fly high because it did not drink the herbs but mlapuas drank the owl's herbs.
+fg@unknown: Because the owl can't fly high, because it didn't drink the herbs, he flies below, but
+fg@unknown: mlapuas beats the hawk up high. It is just a short story.
+mr@unknown: selwan
+mr@unknown: tu=
+mr@unknown: paakor
+mr@unknown: nametp̃ag
+mr@unknown: ntau
+mr@unknown: ra=
+mr@unknown: to
+mr@unknown: tu
+mr@unknown: teesa
+mr@unknown: tete
+mr@unknown: nanromien
+mr@unknown: ru=
+mr@unknown: to
+mr@unknown: ni
+mr@unknown: apu
+mr@unknown: go
+mr@unknown: atien
+mr@unknown: negar
+mr@unknown: wes
+mr@unknown: nanromien
+mr@unknown: sees
+mr@unknown: pan
+mr@unknown: tu
+mr@unknown: -e
+mr@unknown: -r
+mr@unknown: ki
+mr@unknown: -n
+mr@unknown: Ertap
+mr@unknown: ntau
+mr@unknown: 1956
+mr@unknown: komam
+mr@unknown: ra=
+mr@unknown: mer
+mr@unknown: tu
+mr@unknown: -e
+mr@unknown: -r
+mr@unknown: tete
+mr@unknown: nanromien
+mr@unknown: sees
+mr@unknown: ru=
+mr@unknown: mer
+mr@unknown: negar
+mr@unknown: wes
+mr@unknown: -i
+mr@unknown: -ø
+mr@unknown: pan
+mr@unknown: tu
+mr@unknown: -e
+mr@unknown: -r
+mr@unknown: ki
+mr@unknown: -n
+mr@unknown: apu
+mr@unknown: ni
+mr@unknown: Elaknar
+mr@unknown: go
+mr@unknown: apu
+mr@unknown: nig
+mr@unknown: Elaau
+mr@unknown: ru=
+mr@unknown: pan
+mr@unknown: tu
+mr@unknown: -e
+mr@unknown: -r
+mr@unknown: ki
+mr@unknown: -n
+mr@unknown: kai=
+mr@unknown: ler
+mr@unknown: mai
+mr@unknown: u=
+mr@unknown: tu
+mr@unknown: me
+mr@unknown: u=
+mr@unknown: tol
+mr@unknown: Janweri
+mr@unknown: go
+mr@unknown: komam
+mr@unknown: Limaas
+mr@unknown: ra=
+mr@unknown: mer
+mr@unknown: na
+mr@unknown: rak=
+mr@unknown: fan
+mr@unknown: saof
+mr@unknown: -i
+mr@unknown: -r
+mr@unknown: Pastor
+mr@unknown: Kalagis
+mr@unknown: i=
+mr@unknown: mur
+mr@unknown: -i
+mr@unknown: -n
+mr@unknown: na
+mr@unknown: komam
+mr@unknown: ko=
+mr@unknown: mau
+mr@unknown: pak
+mr@unknown: Ertap
+mr@unknown: u=
+mr@unknown: pan
+mr@unknown: paakor
+mr@unknown: Elaknar
+mr@unknown: go
+mr@unknown: tata
+mr@unknown: Sailas
+mr@unknown: i=
+mr@unknown: to
+mr@unknown: e-
+mr@unknown: sum̃
+mr@unknown: nega
+mr@unknown: to
+mr@unknown: selwan
+mr@unknown: i=
+mr@unknown: lek
+mr@unknown: mam
+mr@unknown: go
+mr@unknown: i=
+mr@unknown: na
+mr@unknown: Webe
+mr@unknown: naik
+mr@unknown: seserik
+mr@unknown: ru=
+mr@unknown: mai
+mr@unknown: kai=
+mr@unknown: fam
+mr@unknown: lu
+mr@unknown: nafnag
+mr@unknown: wi
+mr@unknown: pan
+mr@unknown: tafra
+mr@unknown: ruk=
+mr@unknown: fam
+mr@unknown: faat
+mr@unknown: nen
+mr@unknown: ru=
+mr@unknown: to
+mr@unknown: me
+mr@unknown: ruk=
+mr@unknown: mer
+mr@unknown: ler
+mr@unknown: pan
+mr@unknown: a=
+mr@unknown: tae
+mr@unknown: nag
+mr@unknown: ke=
+mr@unknown: fo
+mr@unknown: nrik
+mr@unknown: mam
+mr@unknown: ki
+mr@unknown: nap̃et
+mr@unknown: nafsan
+mr@unknown: nag
+mr@unknown: i=
+mr@unknown: til
+mr@unknown: -i
+mr@unknown: -ø
+mr@unknown: go
+mr@unknown: i=
+mr@unknown: po
+mr@unknown: nrik
+mr@unknown: mam
+mr@unknown: ki
+mr@unknown: -n
+mr@unknown: i=
+mr@unknown: til
+mr@unknown: -i
+mr@unknown: nag
+mr@unknown: naliati
+mr@unknown: i=
+mr@unknown: skei
+mr@unknown: naik
+mr@unknown: seserik
+mr@unknown: ru=
+mr@unknown: to
+mr@unknown: fam
+mr@unknown: me
+mr@unknown: tafra
+mr@unknown: i=
+mr@unknown: to
+mr@unknown: wat
+mr@unknown: ur
+mr@unknown: elau
+mr@unknown: me
+mr@unknown: naik
+mr@unknown: seserik
+mr@unknown: ru=
+mr@unknown: nag
+mr@unknown: malfane
+mr@unknown: elau
+mr@unknown: i=
+mr@unknown: mu
+mr@unknown: tete
+mr@unknown: ruk=
+mr@unknown: fan
+mr@unknown: til
+mr@unknown: -i
+mr@unknown: nag
+mr@unknown: ke=
+mr@unknown: mai
+mr@unknown: tuk=
+mr@unknown: mau
+mr@unknown: en
+mr@unknown: nasusu
+mr@unknown: fam
+mr@unknown: selwan
+mr@unknown: elau
+mr@unknown: ke=
+mr@unknown: mat
+mr@unknown: go
+mr@unknown: ke=
+mr@unknown: fo
+mr@unknown: mer
+mr@unknown: ler
+mr@unknown: go
+mr@unknown: tafra
+mr@unknown: i=
+mr@unknown: nag
+mr@unknown: i=
+mr@unknown: wi
+mr@unknown: akam
+mr@unknown: ko=
+mr@unknown: en
+mr@unknown: nasusu
+mr@unknown: fam
+mr@unknown: me
+mr@unknown: kineu
+mr@unknown: ka=
+mr@unknown: fo
+mr@unknown: mailum
+mr@unknown: net
+mr@unknown: naik
+mr@unknown: seserik
+mr@unknown: ru=
+mr@unknown: en
+mr@unknown: fam
+mr@unknown: panpan
+mr@unknown: go
+mr@unknown: elau
+mr@unknown: ki=
+mr@unknown: mat
+mr@unknown: rukoi=
+mr@unknown: ler
+mr@unknown: tafra
+mr@unknown: i=
+mr@unknown: pato
+mr@unknown: elau
+mr@unknown: to
+mr@unknown: pul
+mr@unknown: -ki
+mr@unknown: nam̃el
+mr@unknown: -e
+mr@unknown: -n
+mr@unknown: me
+mr@unknown: i=
+mr@unknown: sok
+mr@unknown: i=
+mr@unknown: ptur
+mr@unknown: -ki
+mr@unknown: ntas
+mr@unknown: panpan
+mr@unknown: kai=
+mr@unknown: ptol
+mr@unknown: go
+mr@unknown: ki=
+mr@unknown: mro
+mr@unknown: kin
+mr@unknown: nag
+mr@unknown: ke=
+mr@unknown: fo
+mr@unknown: mer
+mr@unknown: mai
+mr@unknown: fam
+mr@unknown: selwan
+mr@unknown: i=
+mr@unknown: mai
+mr@unknown: me
+mr@unknown: elau
+mr@unknown: ki=
+mr@unknown: pe
+mr@unknown: mat
+mr@unknown: i=
+mr@unknown: kon
+mr@unknown: kai=
+mr@unknown: ler
+mr@unknown: ore
+mr@unknown: selwan
+mr@unknown: ku=
+mr@unknown: lefek
+mr@unknown: -ki
+mr@unknown: Efat
+mr@unknown: negakit
+mr@unknown: p̃a=
+mr@unknown: fo
+mr@unknown: lek
+mr@unknown: nasi
+mr@unknown: tafra
+mr@unknown: i=
+mr@unknown: userek
+mr@unknown: ki
+mr@unknown: nagis
+mr@unknown: negakit
+mr@unknown: nig
+mr@unknown: Efat
+mr@unknown: go
+mr@unknown: akit
+mr@unknown: tu=
+mr@unknown: sos
+mr@unknown: -o
+mr@unknown: -ø
+mr@unknown: ki
+mr@unknown: nasin
+mr@unknown: tafra
+mr@unknown: natrauswen
+mr@unknown: ni
+mr@unknown: tiawi
+mr@unknown: negakit
+mr@unknown: ni
+mr@unknown: teetwei
+mr@unknown: naliati
+mr@unknown: i=
+mr@unknown: skei
+mr@unknown: maal
+mr@unknown: ru=
+mr@unknown: to
+mr@unknown: ru=
+mr@unknown: to
+mr@unknown: puserek
+mr@unknown: go
+mr@unknown: sokfal
+mr@unknown: i=
+mr@unknown: nrik
+mr@unknown: maal
+mr@unknown: ki
+mr@unknown: -n
+mr@unknown: na
+mr@unknown: p̃a=
+mr@unknown: fo
+mr@unknown: neu
+mr@unknown: preg
+mr@unknown: nalkis
+mr@unknown: go
+mr@unknown: rui=
+mr@unknown: nep
+mr@unknown: -a
+mr@unknown: -ø
+mr@unknown: ki
+mr@unknown: natut
+mr@unknown: maal
+mr@unknown: tefla
+mr@unknown: -n
+mr@unknown: p̃a=
+mr@unknown: fo
+mr@unknown: mai
+mr@unknown: ka=
+mr@unknown: fo
+mr@unknown: tu
+mr@unknown: -o
+mr@unknown: -k
+mr@unknown: nalkis
+mr@unknown: p̃a=
+mr@unknown: fo
+mr@unknown: min
+mr@unknown: -gi
+mr@unknown: -ø
+mr@unknown: ru=
+mr@unknown: to
+mr@unknown: panpan
+mr@unknown: mal
+mr@unknown: natut
+mr@unknown: i=
+mr@unknown: paakor
+mr@unknown: go
+mr@unknown: maal
+mr@unknown: ki=
+mr@unknown: wes
+mr@unknown: nalkis
+mr@unknown: mai
+mr@unknown: sokfal
+mr@unknown: me
+mr@unknown: ki=
+mr@unknown: mai
+mr@unknown: me
+mr@unknown: i=
+mr@unknown: nrik
+mr@unknown: maal
+mr@unknown: ki
+mr@unknown: -ø
+mr@unknown: na
+mr@unknown: mlapuas
+mr@unknown: ki
+mr@unknown: -ø
+mr@unknown: na
+mr@unknown: ag
+mr@unknown: kin
+mr@unknown: p̃a=
+mr@unknown: fo
+mr@unknown: na
+mr@unknown: p̃a=
+mr@unknown: fo
+mr@unknown: ga
+mr@unknown: wis
+mr@unknown: nalkis
+mr@unknown: tu
+mr@unknown: -a
+mr@unknown: -ø
+mr@unknown: ki
+mr@unknown: -n
+mr@unknown: ke=
+mr@unknown: min
+mr@unknown: -gi
+mr@unknown: -ø
+mr@unknown: me
+mr@unknown: mlapuas
+mr@unknown: i=
+mr@unknown: na
+mr@unknown: i=
+mr@unknown: to
+mr@unknown: kai=
+mr@unknown: min
+mr@unknown: nalkis
+mr@unknown: ni
+mr@unknown: sokfal
+mr@unknown: me
+mr@unknown: ki=
+mr@unknown: ni
+mr@unknown: sokfal
+mr@unknown: uut
+mr@unknown: nai
+mr@unknown: i=
+mr@unknown: pan
+mr@unknown: min
+mr@unknown: nalkis
+mr@unknown: nen
+mr@unknown: kin
+mr@unknown: ru=
+mr@unknown: ni
+mr@unknown: sokfal
+mr@unknown: preg
+mr@unknown: -i
+mr@unknown: -ø
+mr@unknown: pan
+mr@unknown: i=
+mr@unknown: min
+mr@unknown: silua
+mr@unknown: me
+mr@unknown: ki=
+mr@unknown: ga
+mr@unknown: uut
+mr@unknown: nai
+mr@unknown: pan
+mr@unknown: tu
+mr@unknown: -a
+mr@unknown: -ø
+mr@unknown: kin
+mr@unknown: i=
+mr@unknown: min
+mr@unknown: -gi
+mr@unknown: -ø
+mr@unknown: selwan
+mr@unknown: i=
+mr@unknown: min
+mr@unknown: silu
+mr@unknown: go
+mr@unknown: ru=
+mr@unknown: pan
+mr@unknown: saisei
+mr@unknown: go
+mr@unknown: ru=
+mr@unknown: til
+mr@unknown: -i
+mr@unknown: malfane
+mr@unknown: mal
+mr@unknown: natut
+mr@unknown: ke=
+mr@unknown: mai
+mr@unknown: go
+mr@unknown: tuk=
+mr@unknown: fo
+mr@unknown: pregnrog
+mr@unknown: -o
+mr@unknown: -ø
+mr@unknown: nrir
+mr@unknown: panpan
+mr@unknown: mal
+mr@unknown: natut
+mr@unknown: i=
+mr@unknown: mai
+mr@unknown: go
+mr@unknown: rui=
+mr@unknown: pan
+mr@unknown: saisei
+mr@unknown: malfane
+mr@unknown: tu=
+mr@unknown: fo
+mr@unknown: nrir
+mr@unknown: malnen
+mr@unknown: ru=
+mr@unknown: nrir
+mr@unknown: sokfal
+mr@unknown: kin
+mr@unknown: i=
+mr@unknown: nrir
+mr@unknown: ur
+mr@unknown: etan
+mr@unknown: i=
+mr@unknown: to
+mr@unknown: ur
+mr@unknown: etan
+mr@unknown: m̃as
+mr@unknown: me
+mr@unknown: maal
+mr@unknown: go
+mr@unknown: mlapuas
+mr@unknown: ra=
+mr@unknown: nrik
+mr@unknown: panpan
+mr@unknown: maal
+mr@unknown: mlapuas
+mr@unknown: i=
+mr@unknown: tol
+mr@unknown: maal
+mr@unknown: pak
+mr@unknown: elag
+mr@unknown: i=
+mr@unknown: pi
+mr@unknown: stori
+mr@unknown: m̃it
+mr@unknown: m̃as
+mr@unknown: sokfal
+mr@unknown: i=
+mr@unknown: kano
+mr@unknown: nrir
+mr@unknown: nlaken
+mr@unknown: i=
+mr@unknown: tap
+mr@unknown: min
+mr@unknown: nalkis
+mr@unknown: mau
+mr@unknown: me
+mr@unknown: mlapuas
+mr@unknown: kin
+mr@unknown: i=
+mr@unknown: min
+mr@unknown: nalkis
+mr@unknown: ni
+mr@unknown: sokfal
+mr@unknown: nlaken
+mr@unknown: sokfal
+mr@unknown: i=
+mr@unknown: kano
+mr@unknown: nrir
+mr@unknown: pak
+mr@unknown: elag
+mr@unknown: nlaken
+mr@unknown: i=
+mr@unknown: ta
+mr@unknown: min
+mr@unknown: nalkis
+mr@unknown: ga
+mr@unknown: i=
+mr@unknown: ur
+mr@unknown: etan
+mr@unknown: me
+mr@unknown: mlapuas
+mr@unknown: i=
+mr@unknown: tol
+mr@unknown: maal
+mr@unknown: pak
+mr@unknown: elag
+mr@unknown: i=
+mr@unknown: pi
+mr@unknown: stori
+mr@unknown: m̃it
+mr@unknown: m̃as
+gd: day
+gd: 3S.RS=
+gd: one
+gd: hawk
+gd: 3P.RS=
+gd: PROG
+gd: 3P.RS=
+gd: PROG
+gd: talk
+gd: and
+gd: owl
+gd: 3S.RS=
+gd: tell
+gd: hawk
+gd: PREP
+gd: -3S.O
+gd: REL
+gd: 2S.IRS=
+gd: PSP:IR
+gd: 1S.BEN
+gd: make
+gd: herbs
+gd: and
+gd: 3P.PS=
+gd: throw
+gd: -TS
+gd: -3S.O
+gd: PREP
+gd: appointment
+gd: hawk
+gd: similar
+gd: =DST
+gd: 2S.IRS=
+gd: PSP:IR
+gd: come
+gd: 1S.IRS=
+gd: PSP:IR
+gd: give
+gd: -TS
+gd: -2S.O
+gd: herbs
+gd: 2S.IRS=
+gd: PSP:IR
+gd: drink
+gd: -TR
+gd: -3S.O
+gd: 3P.RS=
+gd: stay
+gd: until
+gd: time
+gd: date
+gd: 3S.RS=
+gd: arrive
+gd: and
+gd: hawk
+gd: 3S.PS=
+gd: take
+gd: herbs
+gd: come
+gd: owl
+gd: and
+gd: 3S.PS=
+gd: come
+gd: and
+gd: 3S.RS=
+gd: tell
+gd: hawk
+gd: PREP
+gd: -3S.O
+gd: REL
+gd: owl
+gd: PREP
+gd: -3S.O
+gd: REL
+gd: 2S.
+gd: REL
+gd: 2S.IRS=
+gd: PSP:IR
+gd: PURP
+gd: 2S.IRS=
+gd: PSP:IR
+gd: 3S.BEN
+gd: take
+gd: herbs
+gd: give
+gd: -TS
+gd: -3S.O
+gd: PREP
+gd: -3S.O
+gd: 3S.IRS=
+gd: drink
+gd: -TR
+gd: -3S.O
+gd: and
+gd: owl
+gd: 3S.RS=
+gd: INCH
+gd: 3S.RS=
+gd: stay
+gd: ES=
+gd: drink
+gd: herbs
+gd: of
+gd: owl
+gd: and
+gd: 3S.PS=
+gd: of
+gd: owl
+gd: pour
+gd: water
+gd: 3S.RS=
+gd: go
+gd: drink
+gd: herbs
+gd: that
+gd: REL
+gd: 3P.RS=
+gd: of
+gd: owl
+gd: make
+gd: -TS
+gd: -3S.O
+gd: until
+gd: 3S.RS=
+gd: drink
+gd: every
+gd: and
+gd: 3S.PS=
+gd: 3S.BEN
+gd: pour
+gd: water
+gd: go
+gd: give
+gd: -TS
+gd: -3S.O
+gd: REL
+gd: 3S.RS=
+gd: drink
+gd: -TR
+gd: -3S.O
+gd: while
+gd: 3S.RS=
+gd: drink
+gd: every
+gd: and
+gd: 3P.RS=
+gd: go
+gd: meet
+gd: and
+gd: 3P.RS=
+gd: say
+gd: -TS
+gd: now
+gd: time
+gd: appointment
+gd: 3S.IRS=
+gd: come
+gd: and
+gd: 1P.incIRS=
+gd: PSP:IR
+gd: try
+gd: -TS
+gd: -3S.O
+gd: fly
+gd: until
+gd: time
+gd: appointment
+gd: 3S.RS=
+gd: come
+gd: and
+gd: 3P.PS=
+gd: go
+gd: meet
+gd: now
+gd: 1P.inRS=
+gd: PSP:IR
+gd: fly
+gd: as
+gd: 3P.RS=
+gd: fly
+gd: owl
+gd: REL
+gd: 3S.RS=
+gd: fly
+gd: along
+gd: down
+gd: 3S.RS=
+gd: PROG
+gd: go_along
+gd: down
+gd: only
+gd: but
+gd: hawk
+gd: and
+gd: owl
+gd: 3D.RS=
+gd: tell
+gd: until
+gd: hawk
+gd: owl
+gd: 3S.RS=
+gd: pass
+gd: hawk
+gd: to
+gd: high
+gd: 3S.RS=
+gd: be
+gd: story
+gd: short
+gd: only
+gd: owl
+gd: 3S.RS=
+gd: unable
+gd: fly
+gd: because
+gd: 3S.RS=
+gd: not
+gd: drink
+gd: herbs
+gd: NEG2
+gd: but
+gd: owl
+gd: REL
+gd: 3S.RS=
+gd: drink
+gd: herbs
+gd: of
+gd: owl
+gd: because
+gd: owl
+gd: 3S.RS=
+gd: unable
+gd: fly
+gd: to
+gd: high
+gd: because
+gd: 3S.RS=
+gd: not
+gd: drink
+gd: herbs
+gd: 3S.
+gd: 3S.RS=
+gd: go_along
+gd: down
+gd: but
+gd: owl
+gd: 3S.RS=
+gd: pass
+gd: hawk
+gd: to
+gd: high
+gd: 3S.RS=
+gd: be
+gd: story
+gd: short
+gd: only
+mg@unknown: while
+mg@unknown: 1P.inRS=
+mg@unknown: arrive
+mg@unknown: end
+mg@unknown: year
+mg@unknown: 1D.exRS=
+mg@unknown: HABIT
+mg@unknown: give
+mg@unknown: child
+mg@unknown: some
+mg@unknown: present
+mg@unknown: 3P.RS=
+mg@unknown: stay
+mg@unknown: of
+mg@unknown: grandfather
+mg@unknown: and
+mg@unknown: grandmother
+mg@unknown: 3P.POS
+mg@unknown: 3S.OBL
+mg@unknown: present
+mg@unknown: small
+mg@unknown: go
+mg@unknown: give
+mg@unknown: -TS
+mg@unknown: -3P.O
+mg@unknown: PREP
+mg@unknown: -3S.O
+mg@unknown: Eratap
+mg@unknown: year
+mg@unknown: 1956
+mg@unknown: 1P.ex
+mg@unknown: 1D.RS=
+mg@unknown: again
+mg@unknown: give
+mg@unknown: -TR
+mg@unknown: -3P.O
+mg@unknown: some
+mg@unknown: present
+mg@unknown: small
+mg@unknown: 3P.RS=
+mg@unknown: again
+mg@unknown: 3P.BEN
+mg@unknown: take
+mg@unknown: -TS
+mg@unknown: -3S
+mg@unknown: go
+mg@unknown: give
+mg@unknown: -TS
+mg@unknown: -3p.O
+mg@unknown: PREP
+mg@unknown: -3S.O
+mg@unknown: grandfather
+mg@unknown: of
+mg@unknown: p.name
+mg@unknown: and
+mg@unknown: grandfather
+mg@unknown: of
+mg@unknown: p.name
+mg@unknown: 3P.RS=
+mg@unknown: go
+mg@unknown: give
+mg@unknown: -TS
+mg@unknown: -3P.O
+mg@unknown: PREP
+mg@unknown: -3S.O
+mg@unknown: ES=
+mg@unknown: return
+mg@unknown: come
+mg@unknown: 2P.RS=
+mg@unknown: stay
+mg@unknown: and
+mg@unknown: 2P.RS=
+mg@unknown: pass
+mg@unknown: 1D.IRS=
+mg@unknown: go:IR
+mg@unknown: visit
+mg@unknown: -TS
+mg@unknown: -3P.O
+mg@unknown: pastor
+mg@unknown: p.name
+mg@unknown: 3S.RS=
+mg@unknown: want
+mg@unknown: -TS
+mg@unknown: -3S.O
+mg@unknown: COMP
+mg@unknown: 1P.ex
+mg@unknown: 1P.exIRS=
+mg@unknown: all
+mg@unknown: go_to
+mg@unknown: Eratap
+mg@unknown: 1P.exRS=
+mg@unknown: go
+mg@unknown: arrive
+mg@unknown: p.name
+mg@unknown: and
+mg@unknown: father
+mg@unknown: Sailas
+mg@unknown: 3S.RS=
+mg@unknown: stay
+mg@unknown: LOC-
+mg@unknown: house
+mg@unknown: 3S.
+mg@unknown: at
+mg@unknown: while
+mg@unknown: 3S.RS=
+mg@unknown: look
+mg@unknown: 1pl
+mg@unknown: and
+mg@unknown: 3S.RS=
+mg@unknown: say
+mg@unknown: p.name
+mg@unknown: fish
+mg@unknown: small
+mg@unknown: 3P.RS=
+mg@unknown: come
+mg@unknown: ES=
+mg@unknown: eat
+mg@unknown: completely
+mg@unknown: food
+mg@unknown: good
+mg@unknown: go
+mg@unknown: whale
+mg@unknown: 3P.IRS=
+mg@unknown: eat:IR
+mg@unknown: stone
+mg@unknown: that
+mg@unknown: 3P.RS=
+mg@unknown: stay
+mg@unknown: and
+mg@unknown: 3P.IRS=
+mg@unknown: again
+mg@unknown: return
+mg@unknown: go
+mg@unknown: 1S.RS=
+mg@unknown: know
+mg@unknown: say
+mg@unknown: 3S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: tell
+mg@unknown: 1P.
+mg@unknown: PREP
+mg@unknown: meaning
+mg@unknown: story
+mg@unknown: REL
+mg@unknown: 3sRS=
+mg@unknown: say
+mg@unknown: -TS
+mg@unknown: -3S.O
+mg@unknown: and
+mg@unknown: 3S.RS=
+mg@unknown: PSP
+mg@unknown: tell
+mg@unknown: 1P.
+mg@unknown: PREP
+mg@unknown: -3S.O
+mg@unknown: 3S.RS=
+mg@unknown: say
+mg@unknown: -TS
+mg@unknown: say
+mg@unknown: day
+mg@unknown: 3S.RS=
+mg@unknown: one
+mg@unknown: fish
+mg@unknown: small
+mg@unknown: 3P.RS=
+mg@unknown: HABIT
+mg@unknown: eat:IR
+mg@unknown: but
+mg@unknown: whale
+mg@unknown: 3S.RS=
+mg@unknown: PROG
+mg@unknown: hit
+mg@unknown: along
+mg@unknown: sea
+mg@unknown: but
+mg@unknown: fish
+mg@unknown: small
+mg@unknown: 3P.RS=
+mg@unknown: say
+mg@unknown: now
+mg@unknown: sea
+mg@unknown: 3S.RS=
+mg@unknown: high_tide
+mg@unknown: some
+mg@unknown: 3P.IRS=
+mg@unknown: go:IR
+mg@unknown: say
+mg@unknown: -TS
+mg@unknown: say
+mg@unknown: 3S.IRS=
+mg@unknown: come
+mg@unknown: 1P.incRS=
+mg@unknown: all
+mg@unknown: keep_on
+mg@unknown: rising_tide
+mg@unknown: eat:IR
+mg@unknown: while
+mg@unknown: sea
+mg@unknown: 3S.IRS=
+mg@unknown: low_tide
+mg@unknown: and
+mg@unknown: 3S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: again
+mg@unknown: return
+mg@unknown: and
+mg@unknown: whale
+mg@unknown: 3S.RS=
+mg@unknown: say
+mg@unknown: 3S.RS=
+mg@unknown: good
+mg@unknown: 2P.
+mg@unknown: 1P.exIRS=
+mg@unknown: keep_on
+mg@unknown: rising_tide
+mg@unknown: eat
+mg@unknown: but
+mg@unknown: 1S.
+mg@unknown: 1S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: slow
+mg@unknown: meet
+mg@unknown: fish
+mg@unknown: small
+mg@unknown: 3P.RS=
+mg@unknown: keep_on
+mg@unknown: eat:IR
+mg@unknown: until
+mg@unknown: and
+mg@unknown: sea
+mg@unknown: 3S.PS=
+mg@unknown: low_tide
+mg@unknown: 3P.PS=
+mg@unknown: return
+mg@unknown: whale
+mg@unknown: 3S.RS=
+mg@unknown: be_at
+mg@unknown: sea
+mg@unknown: at
+mg@unknown: twirl
+mg@unknown: -TR
+mg@unknown: tail_(of_fish)
+mg@unknown: -V
+mg@unknown: -3S.DP
+mg@unknown: and
+mg@unknown: 3S.RS=
+mg@unknown: jump
+mg@unknown: 3S.RS=
+mg@unknown: squirt
+mg@unknown: -TR
+mg@unknown: saltwater
+mg@unknown: until
+mg@unknown: ES=
+mg@unknown: hungry
+mg@unknown: and
+mg@unknown: 3S.PS=
+mg@unknown: think
+mg@unknown: COMP
+mg@unknown: say
+mg@unknown: 3S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: again
+mg@unknown: come
+mg@unknown: eat:IR
+mg@unknown: while
+mg@unknown: 3S.RS=
+mg@unknown: come
+mg@unknown: and
+mg@unknown: sea
+mg@unknown: 3S.PS=
+mg@unknown: PF
+mg@unknown: low_tide
+mg@unknown: 3S.RS=
+mg@unknown: stuck
+mg@unknown: ES=
+mg@unknown: return
+mg@unknown: yes
+mg@unknown: while
+mg@unknown: 2S.RS=
+mg@unknown: around
+mg@unknown: -TR
+mg@unknown: Efate
+mg@unknown: 1P.inPOS
+mg@unknown: 2S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: look
+mg@unknown: shit
+mg@unknown: whale
+mg@unknown: 3S.RS=
+mg@unknown: go_around
+mg@unknown: TR
+mg@unknown: point
+mg@unknown: 1P.inPOS
+mg@unknown: of
+mg@unknown: p.name
+mg@unknown: and
+mg@unknown: 1P.incS
+mg@unknown: 1P.inRS=
+mg@unknown: call
+mg@unknown: -V
+mg@unknown: -3S.O
+mg@unknown: PREP
+mg@unknown: shit
+mg@unknown: whale
+mg@unknown: story
+mg@unknown: of
+mg@unknown: ancestors
+mg@unknown: 1P.inPOS
+mg@unknown: of
+mg@unknown: before
+mg@unknown: day
+mg@unknown: 3S.RS=
+mg@unknown: one
+mg@unknown: hawk
+mg@unknown: 3P.RS=
+mg@unknown: PROG
+mg@unknown: 3P.RS=
+mg@unknown: PROG
+mg@unknown: talk
+mg@unknown: and
+mg@unknown: owl
+mg@unknown: 3S.RS=
+mg@unknown: tell
+mg@unknown: hawk
+mg@unknown: PREP
+mg@unknown: -3S.O
+mg@unknown: REL
+mg@unknown: 2S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: 1S.BEN
+mg@unknown: make
+mg@unknown: herbs
+mg@unknown: and
+mg@unknown: 3P.PS=
+mg@unknown: throw
+mg@unknown: -TS
+mg@unknown: -3S.O
+mg@unknown: PREP
+mg@unknown: appointment
+mg@unknown: hawk
+mg@unknown: similar
+mg@unknown: =DST
+mg@unknown: 2S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: come
+mg@unknown: 1S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: give
+mg@unknown: -TS
+mg@unknown: -2S.O
+mg@unknown: herbs
+mg@unknown: 2S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: drink
+mg@unknown: -TR
+mg@unknown: -3S.O
+mg@unknown: 3P.RS=
+mg@unknown: stay
+mg@unknown: until
+mg@unknown: time
+mg@unknown: date
+mg@unknown: 3S.RS=
+mg@unknown: arrive
+mg@unknown: and
+mg@unknown: hawk
+mg@unknown: 3S.PS=
+mg@unknown: take
+mg@unknown: herbs
+mg@unknown: come
+mg@unknown: owl
+mg@unknown: and
+mg@unknown: 3S.PS=
+mg@unknown: come
+mg@unknown: and
+mg@unknown: 3S.RS=
+mg@unknown: tell
+mg@unknown: hawk
+mg@unknown: PREP
+mg@unknown: -3S.O
+mg@unknown: REL
+mg@unknown: owl
+mg@unknown: PREP
+mg@unknown: -3S.O
+mg@unknown: REL
+mg@unknown: 2S.
+mg@unknown: REL
+mg@unknown: 2S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: PURP
+mg@unknown: 2S.IRS=
+mg@unknown: PSP:IR
+mg@unknown: 3S.BEN
+mg@unknown: take
+mg@unknown: herbs
+mg@unknown: give
+mg@unknown: -TS
+mg@unknown: -3S.O
+mg@unknown: PREP
+mg@unknown: -3S.O
+mg@unknown: 3S.IRS=
+mg@unknown: drink
+mg@unknown: -TR
+mg@unknown: -3S.O
+mg@unknown: and
+mg@unknown: owl
+mg@unknown: 3S.RS=
+mg@unknown: INCH
+mg@unknown: 3S.RS=
+mg@unknown: stay
+mg@unknown: ES=
+mg@unknown: drink
+mg@unknown: herbs
+mg@unknown: of
+mg@unknown: owl
+mg@unknown: and
+mg@unknown: 3S.PS=
+mg@unknown: of
+mg@unknown: owl
+mg@unknown: pour
+mg@unknown: water
+mg@unknown: 3S.RS=
+mg@unknown: go
+mg@unknown: drink
+mg@unknown: herbs
+mg@unknown: that
+mg@unknown: REL
+mg@unknown: 3P.RS=
+mg@unknown: of
+mg@unknown: owl
+mg@unknown: make
+mg@unknown: -TS
+mg@unknown: -3S.O
+mg@unknown: until
+mg@unknown: 3S.RS=
+mg@unknown: drink
+mg@unknown: every
+mg@unknown: and
+mg@unknown: 3S.PS=
+mg@unknown: 3S.BEN
+mg@unknown: pour
+mg@unknown: water
+mg@unknown: go
+mg@unknown: give
+mg@unknown: -TS
+mg@unknown: -3S.O
+mg@unknown: REL
+mg@unknown: 3S.RS=
+mg@unknown: drink
+mg@unknown: -TR
+mg@unknown: -3S.O
+mg@unknown: while
+mg@unknown: 3S.RS=
+mg@unknown: drink
+mg@unknown: every
+mg@unknown: and
+mg@unknown: 3P.RS=
+mg@unknown: go
+mg@unknown: meet
+mg@unknown: and
+mg@unknown: 3P.RS=
+mg@unknown: say
+mg@unknown: -TS
+mg@unknown: now
+mg@unknown: time
+mg@unknown: appointment
+mg@unknown: 3S.IRS=
+mg@unknown: come
+mg@unknown: and
+mg@unknown: 1P.incIRS=
+mg@unknown: PSP:IR
+mg@unknown: try
+mg@unknown: -TS
+mg@unknown: -3S.O
+mg@unknown: fly
+mg@unknown: until
+mg@unknown: time
+mg@unknown: appointment
+mg@unknown: 3S.RS=
+mg@unknown: come
+mg@unknown: and
+mg@unknown: 3P.PS=
+mg@unknown: go
+mg@unknown: meet
+mg@unknown: now
+mg@unknown: 1P.inRS=
+mg@unknown: PSP:IR
+mg@unknown: fly
+mg@unknown: as
+mg@unknown: 3P.RS=
+mg@unknown: fly
+mg@unknown: owl
+mg@unknown: REL
+mg@unknown: 3S.RS=
+mg@unknown: fly
+mg@unknown: along
+mg@unknown: down
+mg@unknown: 3S.RS=
+mg@unknown: PROG
+mg@unknown: go_along
+mg@unknown: down
+mg@unknown: only
+mg@unknown: but
+mg@unknown: hawk
+mg@unknown: and
+mg@unknown: owl
+mg@unknown: 3D.RS=
+mg@unknown: tell
+mg@unknown: until
+mg@unknown: hawk
+mg@unknown: owl
+mg@unknown: 3S.RS=
+mg@unknown: pass
+mg@unknown: hawk
+mg@unknown: to
+mg@unknown: high
+mg@unknown: 3S.RS=
+mg@unknown: be
+mg@unknown: story
+mg@unknown: short
+mg@unknown: only
+mg@unknown: owl
+mg@unknown: 3S.RS=
+mg@unknown: unable
+mg@unknown: fly
+mg@unknown: because
+mg@unknown: 3S.RS=
+mg@unknown: not
+mg@unknown: drink
+mg@unknown: herbs
+mg@unknown: NEG2
+mg@unknown: but
+mg@unknown: owl
+mg@unknown: REL
+mg@unknown: 3S.RS=
+mg@unknown: drink
+mg@unknown: herbs
+mg@unknown: of
+mg@unknown: owl
+mg@unknown: because
+mg@unknown: owl
+mg@unknown: 3S.RS=
+mg@unknown: unable
+mg@unknown: fly
+mg@unknown: to
+mg@unknown: high
+mg@unknown: because
+mg@unknown: 3S.RS=
+mg@unknown: not
+mg@unknown: drink
+mg@unknown: herbs
+mg@unknown: 3S.
+mg@unknown: 3S.RS=
+mg@unknown: go_along
+mg@unknown: down
+mg@unknown: but
+mg@unknown: owl
+mg@unknown: 3S.RS=
+mg@unknown: pass
+mg@unknown: hawk
+mg@unknown: to
+mg@unknown: high
+mg@unknown: 3S.RS=
+mg@unknown: be
+mg@unknown: story
+mg@unknown: short
+mg@unknown: only
+Tier-0: 9/7/97 Kalsrap, Erakor
+Tier-0: A murin nag ka mertil naliati nag komam utok plisman. Komam nen upak Emlakul, 1934.
+Tier-0: Lans koprel, Jimmy Takaye, Praivet Jon Lisbet, go Naser. Gar nen rupi teni HH, Santo.
+Tier-0: Pte Ruben, Ben,  Kalsrap. Komam upi teni Erakor.
+Tier-0: Sem go Kalfao, rapi teni Ep̃ag.
+Tier-0: Utao Efil namba 8 September 1934.
+Tier-0: Upan tan Busman's bei, namba 9 September ipi miting ni Efil.
+Tier-0: Namba 10, upato Petenter, Emlakul.
+Tier-0: Namba 15 Oktober, upak Lakaskas.
+Tier-0: Aliat toknat, kineu, Kalfau, Reuben, upan lel naik, krapei.
+Tier-0: Namba 16, miting ni Efil, namba 19 September, Jimmy Takaye, Jon Lisbet,
+Tier-0: Sem, Ruben,  Kalfau, Kalsrap, Naser.
+Tier-0: Aliat toknak Ruben go Ben go Kalfao Rupan sari.
+Tier-0: Namba 23, 1934 aliat tap, miting ni Eratap.
+Tier-0: Namba 24 aliat Mande, utu Ajen.  Nen ufak nananre, nort Emlakul.
+Tier-0: Namba 26, SS Morinda itorwak Ajen, utu naor naliati nen aliat tap.
+Tier-0: Namba 30, miting ni Erakor, utu raki, utu Ajen raki
+Tier-0: [lans...] pak nanre ni nort Emlakul.
+Tier-0: (9.6)
+Tier-0: Namba 1 Oktober, go utao Ajen, raki nort-wes of Malekula.
+Tier-0: Upan torwak Tontar, naor ni [Malopar] namba 1. Namba 2  Janwari raru...
+Tier-0: Namba 2 Janwari upak upan tan, upak Tanmaru
+Tier-0: Namba 6, Espigel Bei, Emlakul go Malua Bei.
+Tier-0: Namba 6 Ruben, kineu go Sem utan ki natam̃ol malik inru, rusir ramat to elau elau to.
+Tier-0: Esuan rusosoki Spigel Bei. Namba 7 Oktober, ipi miting ni Ep̃ag
+Tier-0: Go usak pak Tanmaru,  natkon ni nagmer malik. Utao dinamit go umatur dinamit.
+Tier-0: Utokleg p̃ulp̃og, go upak Makawe, natkon kin anakatli. Makawe, Piter, go Amok.
+Tier-0: Nlaken Amok, ipi np̃aur, ipi hedkwota nig natkon ran Ruentafkin
+Tier-0: Utao Amok, upak Lefenbis, go umatur Lefenpis namba 13,
+Tier-0: nlaken rusi nawot ni Lefenbis.  Nawot itli nag,
+Tier-0: "Komam kufomatur esan, ematol p̃ulp̃og, ko fo sel  nawot negar pak elau Lefenpis
+Tier-0: go [raru kemai msagi, lp̃eki kin hospitel ni kanal.
+Tier-0: (10.5)
+Tier-0: Namba 10, naor ni Apol, natam̃ol fnau iskei, Mista Paton, ipregi mai
+Tier-0: to Lampumpu to. Namba 12, uler mai pak Mtanfat, naor  ni Malopar, Tontar.
+Tier-0: Be, namba 13, upak elag, naor  ni..  naor iskei rusosoki Tanlilip,
+Tier-0: Rutli na  ipi naor ni maarik Meten.
+Tier-0: Me p̃ulp̃og, ita malkolik to ulfekor natkon negar. Selwan rupilo rulek mag, tete rusef.
+Tier-0: Me komam utli na kota sefmau, nlaken apareki natm̃ol rusosoki Charlie,
+Tier-0: go rutli na ito matur, [falfaat] iskei, go komam Ben rafopan leka natam̃ol iskei, [ptani] me ipuel
+Tier-0: Umer ler. Selwan umer mai kai ler mai pak elau.
+Tier-0: Elau Santo rusosoki.. preg camp nigmam itkos rusosoki Tontar.
+Tier-0: Namba 15, go uler mai pak Busman's Bei. Uto Busmans bei 21 days.
+Tier-0: Go umer pak tete natkon, naor  utok elag Busmans Bei.
+Tier-0: Namba 22 October, upak natkon rusosoki Rakatambol, Tanmari, Atolvila.
+Tier-0: Umaturwes naliati iskei, go p̃og iskei. Ulermai marmar naliati ipat.
+Tier-0: Me namba 5 November, aliat mande,
+Tier-0: Aliat Mande namba siks, Kalfau go kineu Kalsrap, rapak Unua, naor ni mista Paton.
+Tier-0: Namba 9, upak naor ni Per, Craig Cove, go malnag kolek natam̃ol nig Germani, iskei, nagien mista [krubak]
+Tier-0: me Rutli na ki mer ler pan go imer ler mai pak Craig Cove.
+Tier-0: Utok Craig Cove, upak Ranon, esan rusosok- Craig Cove ipi Ambrim
+Tier-0: upak naor ni Ranon, Makam  go Lal.
+Tier-0: Ipi naor ni-, Ipi natkon ni Amprim. Esan ures.
+Tier-0: Namba 10, upak Pentekos, Melsisi, umatur Lonoro. Namba 11 go 12
+Tier-0: Laone, me namba 13 utao Laone mai pak Busmans Bei,
+Tier-0: Namba 24, komam Ben rapan puet- presen [prisoner] iksei isef,
+Tier-0: ramai puetsoki p̃og, mai pak elau Busmans Bei, uler pak efil, namba 30 November
+Tier-0: Utu Tangoa, namba 1 Disemba, Ampai namba 2, Aliat toknak
+Tier-0: Disemba namba 2, Efil, aliat tap, ipi nametp̃ag nafsan.
+Tier-0: NT: Be wetem tufala we yu faenem bodi blong tufala oli stap, mo hem ibin talem se yu mas bonem o berem tufala?
+Tier-0: K: Yes, olsem, tufala we tufala istap, oli sutum tufala. But, olsem trabol we mifala igo from, a?
+Tier-0: olgeta blong antap blong, ol busman we oli stap antap oli sutum olgeta man, long SDA nao.
+Tier-0: Yu save ol SDA oli no wantem ol wanem ia, pig a?
+Tier-0: Mifala ino save olsem wanem oli sutum olgeta, be tingting blong yumi hem iting, yu save olgeta, ol busman we oli stap long Malakula?
+Tier-0: Hemi olsem pig hem iwan god blong olgeta, oli laekem pig tumas. But, mifala ino save olsem wanem trabol ia,
+Tier-0: [..] oli stopem olgeta, samting olsem ia, taswae olgeta oli mekem trabol long olgeta SDA.
+Tier-0: Tufala vilej ia oli fulap gud long ol man, olgeta blong Malekula nomo,
+Tier-0: oli stap long, oli mekem tu stesen long Spigel Bei, mo Malua Bei. Be taem  we faet ia ikam,
+Tier-0: taswae tufala busman ia tufala ided. Mifala ino save hu isutum tufala. Maet olgeta nomo, o sam e,
+Tier-0: studen blong SDA, mifala ino save. Be taem mifala igo, luk tufala ided long Sigel Bei.
+Tier-0: Fastaem mi talem  long mifala italem se, mi mo Ben mi tufala mo Ruben mifala igo traem beriem tufala
+Tier-0: be taem mitufala igo ifaenem tufala istap klosap olsem, yu luk blaksan, be blad blong tufala ia igo longwe olsem,
+Tier-0: i mekem graon ino sopsop, istrong finis istap. Be yu luk, tufala istap, wan man we isutum isutum stret long ples ia (forehead) yu luk sen blong hem..
+Tier-0: Ale, oli tekem wan fising laen, ale oli fasem hed blong hem.  Taem mifala igo klosap, mifala iharem  tufala ismel tumas mifala ikam talem,
+Tier-0: long ples ia se,"e, mifala ino save go klosap, from we tufala isting we ino gud." Hem ise"o lego nomo istap." Mifala igo.
+Tier-0: Hem italem long mitufala,"Yutufala yu tekem wan ston, wan waet ston, yu go putum istap antap long wan wud olsem, long so."
+Tier-0: Ale mifala igo long Spigel Bei.
+Tier-0: NT: Be taem yu luk tufala bodi oli stap, yu luk wan, oli katem leg blong hem.K: Yes,
+Tier-0: mifala iluk wan oli katem leg blong hem long ples ia, ating oli tekem blong go kakae, be bodi blong hem istap, wetem wan leg.
+Tier-0: NT) Be samting ia hemi stap insaed long stori we yu talem finis? (K) Yes.
+Tier-0: 9/9/97
+Tier-0: KN) Yu tekem long kaset, yu raetem. (N) Yu ridim fastaem, afta bae mi taepem. (K) OK.
+Tier-0: Yu redi? (background noise)
+Tier-0: Selwan tu pakor nametp̃ag ntau,  rato tu teesa tete nanromien Ruto nig Apu go Ati negar wes nanromien ses pan tuer kin Ertap.
+Tier-0: Entau 1956, komam ramer tuer tete nanromien ses Rumer negar wesi pan tuer kin.
+Tier-0: Apu ni Elaknar, go Apu ni Elaau Rupan tuer kin kai ler mai utu.
+Tier-0: Me utol Janweri go komam Limas ramer nag rak fan Saofir.
+Tier-0: Go Pastor Kalagis, imurin na komam ko mau pan upotol pan pak Ertap.
+Tier-0: Upan pakor Elaknar go Sailas maarik nawot ito esum? nega to. Selwan ilek mam
+Tier-0: go ina"Webe." Naik seserik rumai kai famlu nafnag wi pan.
+Tier-0: Me tafra rupo inrok mai.
+Tier-0: Tafra ruk fam faat nen Ruto me ruk mer ler pan.
+Tier-0: Selwan Paser Kalagis inrog nafsan ni Sailas inrog teesa wes. Me kineu atap nrog teesa wes mau.
+Tier-0: Atae nag kefo nrik mam ki nap̃et nafsan nag itili. Go ipo nrik mam kin.
+Tier-0: Itili nag naliati iskei naik seserik ruto fam,
+Tier-0: me tafra ito wat ur elau.
+Tier-0: Me naik seserik Runag malfanen elau imu,
+Tier-0: tete ruk fan tili nag kemai tukmaui en nasusu fam.
+Tier-0: Selwan elau kemat go keformer ler
+Tier-0: go tafra inag,"Iwi akam ko en nasusu
+Tier-0: fam. Me kineu kafo mailum net. Naik seserik ruen fam panpan go elau ki maat rukoi ler."
+Tier-0: Tafra ipato elau to pul ki nam̃len
+Tier-0: me isok iptur ki ntas panpan  kai ptol. Go ki mro kin nag kefo mer mai, mer mai fam.
+Tier-0: Selwan imai me elau kipe mat ikon kai ler.
+Tier-0: Or selwan kulefeki Efat negakit
+Tier-0: p̃a folek nasi tafra iuserek ki nagis negakit nig Efat.
+Tier-0: Go akit tu sosoki nasi tafra. Hemi olsem en blong hem. Natrauswen nig Tiaui negakit nig tetuei.
+Tier-0: Sailas, naot ni Ertap. En blong hem.
+Tier-0: Natrauswen ni tata Sailas ki.
+Tier-0: Olsem, olsem, wanem ia...
+Tier-0: Stori ia ikamaot long olfala jif, long Ertap, Sailas.. en blong hem
+Tier-0: Stori ia ikam aot long olfala Sailas a?
+Tier-0: Hem italem stori ia, olgeta olfala bifo oli save olsem wanem e..
+Tier-0: welfis hem istap mekem, be olgeta oli tekem storian ia oli putum i, oli stap talem  se,
+Tier-0: mifala ikolem tafra, welfis. Bat wan dei oli stap gogo nao olgeta smolsmol fis oli stap kakae.
+Tier-0: Oli stap kakae gogo. Ale we iharem  welfis istap mekem noeses long big si.
+Tier-0: Nao oli talem,"E, yumi stap kakae, be igat wan fren blong yumi hem istap long big si , ating imo gud yumi samfala igo talem se e, hem ikam.
+Tier-0: Ale, oli samfala igo, talem se"E, yu stap naoia, solwota istap kam soa yu kam yumi go kakae."
+Tier-0: Ale hemi talem se"No yufala yu go, mi mi gat taem bambae mi kam."
+Tier-0: Taem  oli stap kakae solwota istat kam so, oli go wetem solwota we igo so, oli stap kakae gogo nao solwota istat igo bak.
+Tier-0: Taem igo bak, olgeta tu oli go wetem solwota, oli gogogo nao, solwaota idrae.
+Tier-0: Be welfis hem istap mekem bisnis blong hem ibloem solwota igo antap, ikam daon, imekem tel blong hem igo antap istap wipim solwota,
+Tier-0: gogo hem iharem hem ihangri tumas. Taem hem ikam iwantem go kakae,"O naoia ating bambae mi harem mi hangri finis." Hem ikam nao, hem ifas.
+Tier-0: Solwota idrae finis hem ifas nao, ale hemi go bak, hemi harem ihangri
+Tier-0: Be storian ia long mifala, taem yu go olbaot long ol, wanem ia...
+Tier-0: 12 secs
+Tier-0: Ol paen (point) long Efate, bambae yu luk sit blong tafra,
+Tier-0: i fulap long ol paen long Efate ia, yu go raon long Efate
+Tier-0: Mifala ikolem nasi tafra. Olsem hem i, nasi tafra hemi min se,
+Tier-0: olsem wel hem igo, samtaem hem ikakae wanem ia, ston, bigfala ston,
+Tier-0: ale hem igo sit long ol paen, fulap ol paen ia, long Efate, mino ave samfala ples me
+Tier-0: mifala, fulap long ol poen, sapos yu go long paen long Etmat, Em̃ut, bae yu faenem  bigfala hip blong ston  istap olsem,
+Tier-0: mifala ikolem nasi tafra. Hemia storian blong hem.
+Tier-0: Speaker=???Limas  [...] Speaker =K A?
+Tier-0: [Ga? ipeto kuk ko itatik?Ipetokuk?/]
+Tier-0: Sefmalgag go? Sefmal gag. Speaker=Nick quarter to ten
+Tier-0: Naliati iskei mal ruto ruto puserek.
+Tier-0: Panpan go rutmer nrikirki na mal itli na nua pitlak nalkis nen kin a mingi go atae nrir pak elag.
+Tier-0: 24.3
+Tier-0: Go sokfal inrik malkin nakpafo nuprig nalkis. Go ruinpaki na tut. Mal teflan pa fo mai.
+Tier-0: Kafo tuok nalkis p̃afo min gi. Ruto panpan pan mal na tut ipakor, go mal ki wes nalkis mai.
+Tier-0: Sokfal me ki mai, me inrik mal ki na, mlapuas kina"Ag kin p̃afo na p̃afo ga wis nalkis tuwa kin kemingi.
+Tier-0: Me mlapuas ina ito kai  min nalkis ni sokfal, me ki ni sokfal utnai.
+Tier-0: I pan min nalkis, nen kin runi sokfal pregi pan imin silwa me ipam mau esan pan tuakin imingi,
+Tier-0: selwan imin silwa go, rupan saisei go rutli malfane malnatut kemai go tukfo preg nrogo nrir.
+Tier-0: Panpan  mal natut imai go ruipan saisei na"malfanen tufonrir".
+Tier-0: Mal nen runrir sokfal kin inrir ur etan  ito ur etan m̃as, me mal go mlapuas ranrik, panpanpan mal mlapuas itol mal pak elag ipi stori m̃itm̃as.
+Tier-0: Sokfal ikano nrir nlaken itap min nalkis mau, me mlapuas kin imin nalkis ni sokfal
+Tier-0: nlaken sokfal ikano nrir pak elag, nlaken itap min nalkis mau, ga iur etan me
+Tier-0: mlapuas itol mal pak elag.  Ipi stori m̃itm̃as ipakor esa.
+Tier-0: K) Hemia, mining blong hem?
+Tier-0: Oli stap storian gogo nao, "Olsem wanem yu save flae", oli askem long, bigfala, ok, oknaet
+Tier-0: okde, mi mi gat gras blong hem. Ale, oli talem se, "Yes bambae yu tekem gras blong yu, igud blong mifala."
+Tier-0: "Ale mi givim long mlapuas", hemi se, "Bambae yu, yu givim long okde."
+Tier-0: Hemi go nao, hemi stilim gras ia, ikrip. Drink igogo ifinis nao, Ifinis nao, igerap nao, ifulumap wota long ol samting we oli putum meresin blong olgeta longwe, igivim long
+Tier-0: okde, be taem blong flae, bambae yumi kam mi promis, taem blong flae bambae yufala evriwan ikam, bae yumi flae, yu traem, mi traem luk.
+Tier-0: be taem oli promis long okde blong hem, taem oli go, oli go nao, oli traem, "Yumi traem flae". Oknaet yutraem blong yu wantaem yu no save go.
+Tier-0: ale yu luk oltaem hemi flae oli go olbaot long ol aelan .. be mlapuas hemi flae, igogogo i bitim okde, i go antap, imo strong a?
+Tier-0: I olsem smol storian ifinis long ples ia. Taswae yumi luk plante taem
+Tier-0: okde ino save flae igo antap, hem istap olbaot long.., be yu luk
+Tier-0: Mlapuas, hemi go ibitim okde, igo antap mo long a.. (N) Mo mlaperik?
+Tier-0: (NT) Mlap̃erik? (K) Mlap̃erik yes. From we hemi stilim gras from, oknaet.
+Tier-0: Be oknaet, nao, hemi askem meresin blong okde. "Sapos yu save sam gras bambae yu giv mi. Blong mi, mi tu mi save flae.
+Tier-0: Be taem we oli go nao, hemi givim long mlapuas, bambae hem igivim long okde
+Tier-0: Hemi go nao, hemi stilim gras long, meresin long hem. Taswae, plante taem yumi luk,
+Tier-0: Samtaem mifala istap long ples ia, mi stap tingbaot smol storian ia, olfala Sailas italem long mi.
+Tier-0: plante taem, taem yu luk okde, hemi go ihaed istap, bambae long naet nao ikamaot.
+Tier-0: 21 October 1997
+Tier-0: Amurin nag kagakit traus tete natrauswen. Me ataptae sosoki wi mau.
+Tier-0: Go malfanen kafotli aflatilsaki me ag kutae iwi. P̃afoleg ki nafsan neu nen ito rikod kin ito natus.
+Tier-0: Selwan tiawi gakit rumai rupi to Ekasufat go ruto Ekasufat to panpanpan mes ipiatlak namroperkatwan gar ito Ekasufat mes.
+Tier-0: Malnen kupa, kulek Emat ito, ipi namroperkatwen ni tiawi. Go ipiatlak nasum? esuan nalotwen ipakorwes ipi Ekasufat.
+Tier-0: Go kulek namroperkatwen ni nasum? tap ito mes nen, esanr rusosoki Ekasufat. Inom rutmalu rumai to Egis, rupei to Egis/
+Tier-0: kin, ponrokot fak naur Eraniau. Tetwei rusosoki Eraniau mes rusosoki Erakor.
+Tier-0: Nlaken nagi Erakor ito Kasufat, go rupo slati pak naur Erakor rutau Eraniau me rusosoki Erakor.
+Tier-0: Selwan ruto naur Erakor, ruto panpanpan go ipi nawesien ni Atua.
+Tier-0: Selwan natam̃ol runrus lap naur Erakor rutopanpanpan go namsaki iskei ipakor kir.
+Tier-0: Selwan namsaki nen ipakor kir, ipi stori ses nen atae tli. Selwan namsak ipakor kir, rutolap ruto mat.
+Tier-0: Tiawi negakit rutli teflan na,"Atua itae nras nkas". Natam̃ol rumat, Rutatan naur panpanpan
+Tier-0: rupan nawes[] natam̃ol rulap top go rupo nrokot pak Emtalwes.
+Tier-0: Mes kin akit teesa gar tutotatan Emtalwes mes.
+Tier-0: Natam̃ol rumat, natam̃ol itol rumat  naliati iskei. Rupregi panpanpan.. go rukoi inrokot taosi kin atli.
+Tier-0: Taosi atli nrakpei, ru[]kin nrokot pak Emtalwes kai tatanwes.
+Tier-0: Panpanpan tiawi nen runomser mat, me tenrfalkin rupoto. Go rupotan naur panpan akit mes natam̃ol kin tumer frafer.
+Tier-0: Go ipi stori ses m̃as atae tli. Ipamau esa.
+Tier-0: (N) Be long wanem yia stret oli lego aelan?
+Tier-0: (Iokopet) Tetwei, [..]
+Tier-0: (Kalsarap) O, kin tumai pak sa, 1959. (I) 59 Hemi bigfala saeklon. nlagwat, ale.
+Tier-0: K.) 1959 kin umai pak Efat. (Iokpeth:) Apap, 59 kin nlagwat p̃ur na Disemba, ale 60 kin go tuto muv mai pak esan
+Tier-0: K. 1959 mifala ikam long ples ia. Namba wan naentin siksti mifala ino save
+Tier-0: ating mi bin talem long yu wan taem. Taem mifala ibin mek redi blong kajem1960, ol tinfg we mifala imekem redi mifala ino kakae wan, ol biskit, ol samting olsem ia sapos ol ting, mifala igo pem long Vila ikam, mifala ino luk, mifala istap wokem..
+Tier-0: I: Apap, be 59 kia nlagwat Disemba, K: Ore, Disemba.. me 1960 kin
+Tier-0: tu stat nrokot mai. 1960 mifala iluk ol kenu istap pul ikam mo mifala itekem ol ting ikam long ples ia.
+Tier-0: Taem mifala ikam long ples ia, mi mi no save long olgeta we oli stap long wei, be mifala samfala we mifala ikam long ples ia olgeta mifala islip long wan smolfala haos, ating tri pis kava nomo.
+Tier-0: Be mifala we istap insaed ibitim smolfala haos ia. Yu luk leg blong mifala igo olsem [laugh] wen mifala istap insaed.
+Tier-0: NT: Hamas man ibin stap long aelan ia
+Tier-0: K: Ating tu taosan samting,..
+Tier-0: Be taem we mifala ikaam long ples ia, ol pikinini oli gro, iolsem we, [..]
+Tier-0: Taem mifala istap, olsem, mifala inoluksave mifala.
+Tier-0: I: Sensis ijas faenem se mifala ikam tu taosan,
+Tier-0: Be naoia ibittim tutaosan
+Tier-0: [discussion in Bislama of population figures]
+Tier-0: NT: wanem wod blong Flaeng fis?
+Tier-0: K) Ino stap long buk? [..]
+Tier-0: K: Sefnagi kin rusosoki na na flaeng fis?I: Naik maan
+Tier-0: K) Igat wing blong hem, isave flae?I: Itaos namos?K: OreLinuk: Ito nrir..pagi sosoki tenrir ur na ntas
+Tier-0: K: Naik leka na, ipak Mosfa..
+Tier-0: I: [..]
+Tier-0: Naik kutopami?K: [good intonation example] Ore, olfala ia nana, nam̃er na raru na rutototkaus [..] ipitlak nana nafte mena
+Tier-0: nafarun ses Ertap nana, esan go esa to ina nkanro ni pram. Ore fransis ia, nagien.
+Tier-0: Fransis,.. Naik maan.
+Tier-0: [..]
+Tier-0: NT: Taem we yu mekem wan kil hem inaftup̃wen o naftukwen?K: Naftup̃wen. Yu faetem wan man
+Tier-0: N: Yu save talem olsem,"Natam̃ol nen ina na"O iwi" or jas, ina"O iwi"
+Tier-0: K: Natm̃ol nen inag "O iwi" yes istret.
+Tier-0: K) And hemia; Kineu anag kawat natiskei napu reading it
+Tier-0: Yu save se, Kineu anag kawat nat {background noise}
+Tier-0: Kineu anag kawat natiskei napu. [laughs]
+Tier-0: natiskei napu. [laughs]
+Tier-0: 13 secs
+Tier-0: N: Me itap metpaakor nafsan nig apap nega mauK: Stret N: Be yu save talem itap metpaakor mau nafsan..
+Tier-0: K: reading it
+Tier-0: [K saying that mau goes at the end of the S, not in the middle] [kid calling out.[..] gakit]
+Tier-0: NT: Mra ni ntas?
+Tier-0: K: plante kaen mra, mra maat,
+Tier-0: igat defren mra istap long solwota, mra maat, mra tfei, mra p̃anuk,
+Tier-0: K) Yu save igat defren, wanem ia, (to Limas): A, [..] tusosoki mra ki naftekin, nafsan ni Bislama? (N) Namarae. (K) Namarae, yes. Defdefren namarae long solwota, oli gat defren nem long hem, mifala igat nem blong hem.
+Tier-0: NT: Kumot nkap po slati?
+Tier-0: K) Yes, istret, (N) 'po' iminim wanem? (K) Kumot nakap po slati
+Tier-0: K: olsem 'bae'
+Tier-0: K) Yu fasem, yu go yu karem.
+Tier-0-cp: They are talking and talking, "How come you can fly", they ask to the big owl
+Tier-0-cp: the hawk, "Me, I have grass [medecine] for it." Ok, they say, yes you take your grass, it's good for us."
+Tier-0-cp: "OK, I'll give it to mlapuas", he said, "Then you give it ti the hawk."
+Tier-0-cp: He goes now, he steals the grass, he creeps. Drinks it all. He's finished now, he gets up, he fills up the water with that medecine that he got from them, he gies it to
+Tier-0-cp: The hawk, but when it came time to fly, we will come and I promise, when I fly, then all of you come, then we'll all fly, then we'll see
+Tier-0-cp: But when they promised the hawk, when they went, they went, they tried, "Let's try to fly". Owl, you try, but you don't know how.
+Tier-0-cp: So, you look, all the time it flies, it goes around all the islands, but mlapuas flies higher than the hwk, it goes higher, it is stronger eh?
+Tier-0-cp: That's where this small story finishes. That's why many times we see
+Tier-0-cp: the hawk can't fly up high, it hangs around, but you look
+Tier-0-cp: mlapuas, goes higher than the hawk
+Tier-0-cp: (NT) And Mlap̃erik? (K) Mlap̃erik yes. Because he stole the medicine from the owl.
+Tier-0-cp: But the owl, now he asks for medecine from the hawk. "If you can, give me some grass. So that I too will be able to fly.
+Tier-0-cp: And when they go now, he gives it to mlapuas, then he give it to the hawk
+Tier-0-cp: He goes, he steals the grass, the medicine from him. Many times we look,
+Tier-0-cp: Sometimes we stay here, I think about this small story, old Sailas told it to me
+Tier-0-cp: many times, when you see the hawk, it goes and hides, but comes out at night

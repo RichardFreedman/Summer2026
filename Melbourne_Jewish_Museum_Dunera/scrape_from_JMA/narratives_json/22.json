@@ -1,0 +1,1007 @@
+{
+  "parents": {
+    "title": "Collection Themes",
+    "image": {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8887
+    },
+    "irn": 21
+  },
+  "associations": [],
+  "multimedia": [
+    {
+      "irn": 8754,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "index": 0,
+  "objects": [
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 1057,
+        "type": "image"
+      },
+      "title": "Engraving depicting interior of Messrs Levy Brothers’ Warehouses, Bourke St, Melbourne, 1865",
+      "irn": 4332
+    },
+    {
+      "title": "painting - John Solomon, by Richard Noble, 1862",
+      "image": {
+        "type": "image",
+        "irn": 993,
+        "format": "jpeg"
+      },
+      "irn": 3111
+    },
+    {
+      "irn": 7622,
+      "title": "Marriage ring",
+      "image": {
+        "format": "jpeg",
+        "irn": 771,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 5713,
+      "title": "Feilchenfeld family in front of store",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12565
+      }
+    },
+    {
+      "title": "The Dreyfus Family",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1282
+      },
+      "irn": 2461
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 14852
+      },
+      "title": "The Queen Esther Ball",
+      "irn": 5746
+    },
+    {
+      "title": "Mr & Mrs Victor Smorgon",
+      "image": {
+        "format": "jpeg",
+        "irn": 9577,
+        "type": "image"
+      },
+      "irn": 2517
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9578
+      },
+      "title": "Mirka Mora, by Henry Talbot, Melbourne, 1985",
+      "irn": 2518
+    },
+    {
+      "image": {
+        "irn": 9579,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Allan Goldberg QC",
+      "irn": 2519
+    },
+    {
+      "irn": 2520,
+      "image": {
+        "type": "image",
+        "irn": 9580,
+        "format": "jpeg"
+      },
+      "title": "Julian Wiener"
+    },
+    {
+      "image": null,
+      "title": "Rhonda Levy",
+      "irn": 2521
+    },
+    {
+      "title": "photograph - Dr Serge Lieberman, by Henry Talbot, 1985.",
+      "image": {
+        "type": "image",
+        "irn": 9582,
+        "format": "jpeg"
+      },
+      "irn": 2522
+    },
+    {
+      "irn": 2533,
+      "title": "Professor Geoffrey Opat",
+      "image": {
+        "format": "jpeg",
+        "irn": 9583,
+        "type": "image"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 9584,
+        "type": "image"
+      },
+      "title": "Athol Lewis Shmith",
+      "irn": 2544
+    },
+    {
+      "irn": 2555,
+      "title": "Lilian Frank MBE",
+      "image": {
+        "type": "image",
+        "irn": 9585,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "irn": 9586,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Judge Judith Cohen",
+      "irn": 2563
+    },
+    {
+      "irn": 2572,
+      "image": {
+        "type": "image",
+        "irn": 9587,
+        "format": "jpeg"
+      },
+      "title": "Peter Isaacson"
+    },
+    {
+      "irn": 2580,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9588
+      },
+      "title": "Shelley Lasica"
+    },
+    {
+      "irn": 2591,
+      "title": "Irvin Rockman",
+      "image": {
+        "type": "image",
+        "irn": 9589,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 4198,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9590
+      },
+      "title": "Allan Kogosowski"
+    },
+    {
+      "title": "John Gandel",
+      "image": {
+        "type": "image",
+        "irn": 9591,
+        "format": "jpeg"
+      },
+      "irn": 2612
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 2152,
+        "type": "image"
+      },
+      "title": "Lady Anna Cowen",
+      "irn": 2623
+    },
+    {
+      "irn": 2633,
+      "image": {
+        "irn": 9592,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Naomi Gross"
+    },
+    {
+      "image": null,
+      "title": "Photograph- Evelyn Krape and Spike",
+      "irn": 2644
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9594
+      },
+      "title": "Zelda Rosenbaum",
+      "irn": 2654
+    },
+    {
+      "irn": 2660,
+      "title": "Isador Magid",
+      "image": {
+        "format": "jpeg",
+        "irn": 9595,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 4309,
+      "image": {
+        "type": "image",
+        "irn": 5577,
+        "format": "jpeg"
+      },
+      "title": "Louis Kahan"
+    },
+    {
+      "title": "Marc Besen",
+      "image": {
+        "format": "jpeg",
+        "irn": 9596,
+        "type": "image"
+      },
+      "irn": 2679
+    },
+    {
+      "title": "Dulcie Kanatopsky",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5578
+      },
+      "irn": 3418
+    },
+    {
+      "irn": 2699,
+      "title": "Rabbi Ronald Lubofsky",
+      "image": {
+        "format": "jpeg",
+        "irn": 9597,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 2709,
+      "title": "Ron Elisha",
+      "image": {
+        "type": "image",
+        "irn": 9598,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 2721,
+      "title": "Felix Werder",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9599
+      }
+    },
+    {
+      "irn": 2730,
+      "title": "Illona Komesaroff",
+      "image": {
+        "format": "jpeg",
+        "irn": 9600,
+        "type": "image"
+      }
+    },
+    {
+      "title": "Richard Gross",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9601
+      },
+      "irn": 2740
+    },
+    {
+      "title": "Joseph Brown",
+      "image": {
+        "irn": 5542,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 4310
+    },
+    {
+      "title": "Max Bruch",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9602
+      },
+      "irn": 2758
+    },
+    {
+      "title": "Family portrait",
+      "image": {
+        "irn": 1286,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 154
+    },
+    {
+      "irn": 199,
+      "title": "Alice Mary Miller aged 4",
+      "image": {
+        "type": "image",
+        "irn": 1287,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5653,
+      "title": "Photograph of father and children",
+      "image": {
+        "type": "image",
+        "irn": 1289,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 7649,
+      "title": "Mizrach - 'Towards Erez: Australian Portrait', Elizabeth Lada, 1991",
+      "image": {
+        "irn": 5772,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 7778,
+      "title": "Jewellery - Marriage Ring, Marion Marshall, 1991",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1003
+      }
+    },
+    {
+      "irn": 7672,
+      "image": {
+        "format": "jpeg",
+        "irn": 5672,
+        "type": "image"
+      },
+      "title": "The Australian Haggadah"
+    },
+    {
+      "title": "Photograph, Hascola Talmud Torah Hebrew and Religion School",
+      "image": {
+        "format": "jpeg",
+        "irn": 1321,
+        "type": "image"
+      },
+      "irn": 6524
+    },
+    {
+      "irn": 5253,
+      "image": null,
+      "title": "Drawing by Fritz Schönbach, 1940 [Photocopy]"
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 6047,
+        "format": "jpeg"
+      },
+      "title": "A Woman's Letter, The Bulletin",
+      "irn": 951
+    },
+    {
+      "irn": 5890,
+      "image": {
+        "irn": 6048,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Certificate of Registration for (Aliens) Service"
+    },
+    {
+      "irn": 959,
+      "image": null,
+      "title": "Notice of change of abode"
+    },
+    {
+      "title": "Pauline Neufeld to Wilhelm Neufeld",
+      "image": {
+        "irn": 6053,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 962
+    },
+    {
+      "title": "Australian Coin Review",
+      "image": {
+        "irn": 6447,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5882
+    },
+    {
+      "irn": 16907,
+      "image": {
+        "irn": 5271,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": " A Variety Fare, Tripe and Onions/Wir Reisen Um Die Welt"
+    },
+    {
+      "irn": 1293,
+      "image": {
+        "irn": 7739,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Harwich Naval and Military Home"
+    },
+    null,
+    {
+      "irn": 4333,
+      "image": {
+        "irn": 6122,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Army chaplain's hat"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1303
+      },
+      "title": "Bourke St Synagogue Light Globe",
+      "irn": 1777
+    },
+    {
+      "title": "Gumnut Chanukiah",
+      "image": {
+        "format": "jpeg",
+        "irn": 1070,
+        "type": "image"
+      },
+      "irn": 7675
+    },
+    null,
+    {
+      "title": "Newspaper tribute to General Sir John Monash, The Australasian",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1059
+      },
+      "irn": 8948
+    },
+    {
+      "title": "Invitation, Commonwealth of Australia Inaugural Celebrations",
+      "image": {
+        "format": "jpeg",
+        "irn": 3969,
+        "type": "image"
+      },
+      "irn": 2252
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6283
+      },
+      "title": "Ronald and Shirley Lubofsky, with three grandsons",
+      "irn": 8010
+    },
+    {
+      "irn": 2745,
+      "title": "The Australian Comforts Fund Gift Diary",
+      "image": {
+        "type": "image",
+        "irn": 3992,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 2832,
+      "title": "Female members of the Returned Soldiers Lounge, St Kilda",
+      "image": {
+        "format": "jpeg",
+        "irn": 23791,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 4238,
+      "title": "Australian Jewry Book of Honour",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 4010
+      }
+    },
+    {
+      "image": {
+        "irn": 4025,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Photo album page, Gallipoli WW1",
+      "irn": 16420
+    },
+    {
+      "image": {
+        "irn": 5996,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "The Kookaburra (Offical paper of the division)",
+      "irn": 11499
+    },
+    {
+      "irn": 11512,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5999
+      },
+      "title": "ANZAC Day, Gallipoli booklet"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 4078,
+        "type": "image"
+      },
+      "title": "Telegraph",
+      "irn": 11516
+    },
+    {
+      "title": "The Digger, vol.1 no.9",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 4107
+      },
+      "irn": 11539
+    },
+    {
+      "irn": 11546,
+      "title": "The Digger, vol.1 no.19",
+      "image": {
+        "type": "image",
+        "irn": 4113,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 4115
+      },
+      "title": "The Digger, vol.1 no.21",
+      "irn": 11548
+    },
+    {
+      "irn": 7680,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 805
+      },
+      "title": "Torah cover"
+    },
+    {
+      "title": "Bus Stop",
+      "image": {
+        "irn": 899,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 7687
+    },
+    {
+      "title": "Good Witch",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1309
+      },
+      "irn": 9110
+    },
+    {
+      "image": {
+        "irn": 1310,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Man Milking A Cow",
+      "irn": 9111
+    },
+    {
+      "title": "Bry's House",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1312
+      },
+      "irn": 9113
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1313
+      },
+      "title": "Bry's First Home",
+      "irn": 9114
+    },
+    {
+      "title": "Geometric squares fabric design swatches",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1031
+      },
+      "irn": 8959
+    },
+    {
+      "title": "Photograph - Migrants on the Oronsay, 1939",
+      "image": {
+        "irn": 1032,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 8960
+    },
+    {
+      "irn": 8961,
+      "title": "Town plan and land map of Shepparton",
+      "image": {
+        "type": "image",
+        "irn": 1033,
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "War with Germany, The Herald Newspaper",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 17681
+      },
+      "irn": 6652
+    },
+    {
+      "irn": 13799,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 16722
+      },
+      "title": "Sonnie's MFG CO Room 5"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 5406,
+        "type": "image"
+      },
+      "title": "Kippah",
+      "irn": 13938
+    },
+    {
+      "irn": 8965,
+      "image": {
+        "format": "jpeg",
+        "irn": 1037,
+        "type": "image"
+      },
+      "title": "New Australian: An Occupational Analysis of Jewish Migrants in Victoria"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 5795,
+        "type": "image"
+      },
+      "title": "If There were a Jewish State in the Kimberley … I would be Rover Thomas' neighbour",
+      "irn": 8175
+    },
+    {
+      "irn": 9025,
+      "title": "George Hallenstein to Dalbert Hallenstein",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 13347
+      }
+    },
+    {
+      "irn": 15585,
+      "image": {
+        "irn": 6161,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Illuminated address presented to Solomon Marks by Ballarat Hebrew Congregation 1915"
+    },
+    {
+      "irn": 15586,
+      "image": {
+        "irn": 6162,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Illuminated address presented to Solomon Marks by Ballarat Hebrew Congregation 1893"
+    },
+    {
+      "title": "Isaacson Family Variety Store Stock Register, 1864-1886",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 18164
+      },
+      "irn": 8975
+    },
+    {
+      "irn": 8450,
+      "image": {
+        "type": "image",
+        "irn": 5798,
+        "format": "jpeg"
+      },
+      "title": "Bereshit"
+    },
+    {
+      "title": "Shemot",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1331
+      },
+      "irn": 8451
+    },
+    {
+      "title": "Invitation to the Hebrew Ladies’ Benevolent Society Annual General Meeting",
+      "image": {
+        "format": "jpeg",
+        "irn": 1063,
+        "type": "image"
+      },
+      "irn": 8979
+    },
+    {
+      "irn": 8982,
+      "image": {
+        "type": "image",
+        "irn": 1053,
+        "format": "jpeg"
+      },
+      "title": "B’nai B’rith Melbourne Lodge constitution"
+    },
+    {
+      "title": "B’nai B’rith kippah",
+      "image": {
+        "format": "jpeg",
+        "irn": 1054,
+        "type": "image"
+      },
+      "irn": 8983
+    },
+    null,
+    {
+      "irn": 17016,
+      "title": "Twenty-eight postcards, images of Australian Aborigines",
+      "image": {
+        "format": "jpeg",
+        "irn": 7568,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 17017,
+      "image": {
+        "format": "jpeg",
+        "irn": 7569,
+        "type": "image"
+      },
+      "title": "Passenger list, SS Mariposa - Honolulu-Australia"
+    },
+    {
+      "irn": 17018,
+      "image": {
+        "format": "jpeg",
+        "irn": 7570,
+        "type": "image"
+      },
+      "title": "Circular to clients, A Lipshut Pty Ltd"
+    },
+    {
+      "title": "Letter, regarding Scotch College",
+      "image": {
+        "type": "image",
+        "irn": 7571,
+        "format": "jpeg"
+      },
+      "irn": 17019
+    },
+    {
+      "irn": 17020,
+      "title": "Memorandum and Articles of Association of Elastic Webbing Industries Limited",
+      "image": {
+        "type": "image",
+        "irn": 7572,
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Certificate of Exemption from Service in Citizen Forces, issued to Phillip Lipshut",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7573
+      },
+      "irn": 17021
+    },
+    {
+      "title": "Loan repayment record, Melbourne Jewish Aid Society",
+      "image": {
+        "irn": 7574,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 17022
+    },
+    {
+      "title": "Certificate, Melbourne Jewish Philanthropic Society and the Montefiore Homes for the Aged",
+      "image": {
+        "irn": 7575,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 17023
+    },
+    {
+      "irn": 17024,
+      "image": {
+        "irn": 7576,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Australian Military Forces Notice to Recruits"
+    },
+    {
+      "irn": 17026,
+      "image": {
+        "irn": 7579,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Telegram regarding soldier welfare"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 7581,
+        "type": "image"
+      },
+      "title": "Letter, Jewish National Library, Carlton",
+      "irn": 17028
+    },
+    {
+      "irn": 17043,
+      "image": null,
+      "title": "Front page, \"The Herald\""
+    },
+    {
+      "image": null,
+      "title": "Newspaper clippings, various WWI and Jewish antisemitism issues",
+      "irn": 17044
+    },
+    {
+      "irn": 17045,
+      "title": "The Australian Jewish Herald",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7599
+      }
+    },
+    {
+      "irn": 17060,
+      "image": {
+        "format": "jpeg",
+        "irn": 7612,
+        "type": "image"
+      },
+      "title": "The Nation, \"The Secret Life of Eric Butler\""
+    },
+    {
+      "title": "Membership card, \"Australian Journalists' Association\"",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 4499
+      },
+      "irn": 16683
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 4498,
+        "format": "jpeg"
+      },
+      "title": "Membership card, \"Jewish Authors and Journalists' Circle\"",
+      "irn": 16682
+    },
+    {
+      "image": {
+        "irn": 4502,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Membership card, \"World Federation of Jewish Journalists\"",
+      "irn": 16684
+    },
+    {
+      "irn": 16679,
+      "title": "Journalist identity card, \"Unzer Bialystoker Express\"",
+      "image": {
+        "irn": 4495,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 4496,
+        "type": "image"
+      },
+      "title": "Journalist identity card, \"The Daily Jewish Courier Chicago\"",
+      "irn": 16680
+    },
+    {
+      "irn": 16681,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 4497
+      },
+      "title": "Journalist identity card, \"Dos Naje Lebn\""
+    }
+  ],
+  "rownum": 1,
+  "rid": "enarratives.22",
+  "description": "<p class=\"MsoNormal\"><span><font>Since the First Fleet arrived in Botany Bay in 1788, Jewish people have made important contributions within Australian public life as leaders, politicians, soldiers, activists, philanthropists, in business and in the arts. </font></span></p>\n<p class=\"MsoNormal\"><span><font>This area of the collection provides an insight into what makes Australia’s community distinct from other Jewish communities around the world and how being Australian has influenced the lives of Jewish people since colonisation. </font></span></p>\n<p class=\"MsoNormal\"><span><font>The objects, artworks and documents included explore the following questions; What is uniquely Australian about our Jewish way of life and our community? How do Jews feel about being Australian? How does being an Australian Jew manifest itself in our lives, our work, our art or writings? </font></span></p>\n<p class=\"MsoNormal\"><span><font>This collection theme also covers the historical background of the Australian Jewish community, with a particular focus on Melbourne. Migration stories are encapsulated by letters, documents and objects. The continuation of Jewish traditions in Australia is also exemplified through documents and objects, which reveal profound connections to religious and cultural practices as well as the Australian way of life. </font><o:p/></span></p>",
+  "title": "Being Australian",
+  "source": "enarratives",
+  "children": [],
+  "irn": 22
+}

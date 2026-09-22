@@ -1,0 +1,67 @@
+{
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "1940",
+  "CreCreatorRef_tab": [
+    {
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": null,
+      "NamTitle": null,
+      "NamSuffix": null,
+      "irn": 377,
+      "BioDeathDate": null,
+      "NamLast": null,
+      "SummaryData": "Hay Camp 8 Internees"
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "title": "Programme",
+  "TitNumberOfParts": 1,
+  "accNo": "4122",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "Dunera",
+    "Internment",
+    "Theatre"
+  ],
+  "measurements": [],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Hay"
+  ],
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "index": 1,
+  "narratives": [],
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "PhySupport": null,
+  "irn": 6012,
+  "source": "ecatalogue",
+  "SummaryData": "\"Programme\" [4122], Hay Camp 8 Internees",
+  "TitObjectRating": "partial data",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "1940 - 1941",
+  "CreLatestDate": "1941",
+  "rid": "ecatalogue.6012",
+  "PhyTechnique": "Typewritten with printed illustrations",
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 7545,
+      "type": "image"
+    }
+  ],
+  "CreState_tab": [
+    "New South Wales"
+  ]
+}

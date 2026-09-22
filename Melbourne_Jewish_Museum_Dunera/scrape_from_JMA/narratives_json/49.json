@@ -1,0 +1,1047 @@
+{
+  "rid": "enarratives.49",
+  "rownum": 4,
+  "objects": [
+    {
+      "irn": 17012,
+      "image": null,
+      "title": "Print - 'Hay Camp', Ludwig Hirschfeld-Mack, 1940-1941"
+    },
+    {
+      "title": "Drawing by Fritz Schönbach, 1940 [Photocopy]",
+      "image": null,
+      "irn": 5253
+    },
+    {
+      "irn": 4543,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1409
+      },
+      "title": "No title"
+    },
+    {
+      "image": {
+        "irn": 5547,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "No title",
+      "irn": 4668
+    },
+    {
+      "irn": 5262,
+      "image": {
+        "irn": 6429,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Klaus after Stampfel"
+    },
+    {
+      "irn": 5850,
+      "image": {
+        "format": "jpeg",
+        "irn": 1740,
+        "type": "image"
+      },
+      "title": "Meyer"
+    },
+    {
+      "title": "Not Too Overbad, Isn't It?",
+      "image": {
+        "irn": 6448,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5263
+    },
+    {
+      "irn": 4544,
+      "title": "Arthur Wische",
+      "image": {
+        "format": "jpeg",
+        "irn": 5597,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 4545,
+      "title": "Ada Stern",
+      "image": {
+        "type": "image",
+        "irn": 5598,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 5599,
+        "type": "image"
+      },
+      "title": "No title",
+      "irn": 4548
+    },
+    {
+      "irn": 4549,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5600
+      },
+      "title": "No title"
+    },
+    {
+      "irn": 4673,
+      "image": {
+        "irn": 6668,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Painting - 'No title', Fred Lowen, 1942"
+    },
+    {
+      "title": "The Daily 'News'",
+      "image": {
+        "type": "image",
+        "irn": 6670,
+        "format": "jpeg"
+      },
+      "irn": 4681
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6669,
+        "type": "image"
+      },
+      "title": "No title",
+      "irn": 4674
+    },
+    {
+      "irn": 4683,
+      "title": "No title",
+      "image": {
+        "irn": 6672,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 4689,
+      "image": {
+        "format": "jpeg",
+        "irn": 6673,
+        "type": "image"
+      },
+      "title": "Painting - No Title, Fred Lowen, 1942"
+    },
+    {
+      "irn": 4688,
+      "title": "No title",
+      "image": {
+        "type": "image",
+        "irn": 5548,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 4690,
+      "image": {
+        "format": "jpeg",
+        "irn": 5604,
+        "type": "image"
+      },
+      "title": "No title"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 6894,
+        "type": "image"
+      },
+      "title": "No title",
+      "irn": 1107
+    },
+    {
+      "title": "No title",
+      "image": {
+        "type": "image",
+        "irn": 6899,
+        "format": "jpeg"
+      },
+      "irn": 5858
+    },
+    {
+      "title": "Artwork - \"Wanted\", circa 1941",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5606
+      },
+      "irn": 5938
+    },
+    {
+      "irn": 5939,
+      "title": "Artwork - \"Officer\"",
+      "image": {
+        "type": "image",
+        "irn": 5607,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7122
+      },
+      "title": "Artwork - \"Camp Fashion 1941 Welfare Outfit\"",
+      "irn": 5272
+    },
+    {
+      "title": "Roll call at Home",
+      "image": {
+        "type": "image",
+        "irn": 7123,
+        "format": "jpeg"
+      },
+      "irn": 5273
+    },
+    {
+      "irn": 5397,
+      "image": {
+        "irn": 7149,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "No title"
+    },
+    {
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "irn": 5549,
+        "type": "image"
+      },
+      "irn": 5941
+    },
+    {
+      "irn": 5946,
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7295
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 7445,
+        "type": "image"
+      },
+      "title": "Camp Hospital Hay",
+      "irn": 9225
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 7401,
+        "type": "image"
+      },
+      "title": "No title",
+      "irn": 1238
+    },
+    {
+      "irn": 7191,
+      "image": {
+        "format": "jpeg",
+        "irn": 7457,
+        "type": "image"
+      },
+      "title": "Examining Magistrate"
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 7460,
+        "format": "jpeg"
+      },
+      "title": "Kreutzer Sonata",
+      "irn": 9368
+    },
+    {
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1009
+      },
+      "irn": 8940
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 1804,
+        "type": "image"
+      },
+      "title": "Dunera",
+      "irn": 4637
+    },
+    {
+      "title": "Preparations for the night",
+      "image": {
+        "irn": 8271,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 17070
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 7792,
+        "type": "image"
+      },
+      "title": "No title",
+      "irn": 9440
+    },
+    {
+      "title": "Spy Activities are Successfully Checked",
+      "image": {
+        "irn": 7968,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 7008
+    },
+    {
+      "irn": 7019,
+      "image": {
+        "type": "image",
+        "irn": 1627,
+        "format": "jpeg"
+      },
+      "title": "No title"
+    },
+    {
+      "irn": 7066,
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "irn": 1488,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 7067,
+      "title": "Seasickness on Board HMT Dunera, 1940",
+      "image": {
+        "irn": 1489,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 1842,
+        "type": "image"
+      },
+      "title": "Sandstorms, Hay Days, Don't Release Me Mr Layton",
+      "irn": 7117
+    },
+    {
+      "irn": 7068,
+      "image": {
+        "irn": 1490,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "No title"
+    },
+    {
+      "image": {
+        "irn": 7996,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Geheime Anziehungskrafte",
+      "irn": 9587
+    },
+    {
+      "irn": 7068,
+      "image": {
+        "irn": 1490,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "No title"
+    },
+    {
+      "title": "No title",
+      "image": {
+        "type": "image",
+        "irn": 1492,
+        "format": "jpeg"
+      },
+      "irn": 7069
+    },
+    {
+      "title": "No title",
+      "image": {
+        "type": "image",
+        "irn": 1493,
+        "format": "jpeg"
+      },
+      "irn": 7070
+    },
+    {
+      "image": {
+        "irn": 1494,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "No title",
+      "irn": 7071
+    },
+    {
+      "irn": 7072,
+      "image": {
+        "type": "image",
+        "irn": 1495,
+        "format": "jpeg"
+      },
+      "title": "No title"
+    },
+    {
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1496
+      },
+      "irn": 7073
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 1497,
+        "type": "image"
+      },
+      "title": "No title",
+      "irn": 7074
+    },
+    {
+      "irn": 7075,
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1498
+      }
+    },
+    {
+      "irn": 7076,
+      "image": {
+        "irn": 1499,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Oj Wie Bitter"
+    },
+    {
+      "irn": 7077,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1500
+      },
+      "title": "A Propos Meschumadim"
+    },
+    {
+      "title": "Dust Storm Voices",
+      "image": {
+        "type": "image",
+        "irn": 1501,
+        "format": "jpeg"
+      },
+      "irn": 7078
+    },
+    {
+      "irn": 7080,
+      "image": {
+        "format": "jpeg",
+        "irn": 1502,
+        "type": "image"
+      },
+      "title": "You Damnd Hitler Spy!"
+    },
+    {
+      "irn": 7081,
+      "title": "An Paul von Fritz",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1503
+      }
+    },
+    {
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "irn": 1504,
+        "type": "image"
+      },
+      "irn": 7082
+    },
+    {
+      "title": "No title",
+      "image": {
+        "irn": 1505,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 7083
+    },
+    {
+      "irn": 7084,
+      "title": "On the Edge of the World",
+      "image": {
+        "irn": 1506,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 7085,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1507
+      },
+      "title": "No title"
+    },
+    {
+      "irn": 8901,
+      "title": "No title",
+      "image": {
+        "irn": 941,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 8926,
+      "title": "No title",
+      "image": {
+        "irn": 986,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "irn": 9208,
+        "type": "image"
+      },
+      "irn": 16744
+    },
+    {
+      "title": "Merry Christmas",
+      "image": {
+        "format": "jpeg",
+        "irn": 9209,
+        "type": "image"
+      },
+      "irn": 16745
+    },
+    {
+      "irn": 16747,
+      "image": {
+        "type": "image",
+        "irn": 9210,
+        "format": "jpeg"
+      },
+      "title": "Camp Hospital"
+    },
+    {
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "irn": 9212,
+        "type": "image"
+      },
+      "irn": 16748
+    },
+    {
+      "irn": 16750,
+      "title": "No title",
+      "image": {
+        "irn": 9213,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "No title",
+      "image": {
+        "irn": 5651,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 16758
+    },
+    {
+      "title": "Tatura 28 Jan 1942",
+      "image": {
+        "format": "jpeg",
+        "irn": 9215,
+        "type": "image"
+      },
+      "irn": 16847
+    },
+    {
+      "irn": 5258,
+      "image": {
+        "format": "jpeg",
+        "irn": 5283,
+        "type": "image"
+      },
+      "title": "No title"
+    },
+    {
+      "title": "Hans Sohn",
+      "image": {
+        "format": "jpeg",
+        "irn": 5281,
+        "type": "image"
+      },
+      "irn": 4546
+    },
+    {
+      "irn": 4547,
+      "title": "Felix Schwarz",
+      "image": {
+        "type": "image",
+        "irn": 1743,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5809,
+      "title": "No title",
+      "image": {
+        "type": "image",
+        "irn": 1774,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 4687,
+      "title": "Orange",
+      "image": {
+        "irn": 5603,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "irn": 6895,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "No title",
+      "irn": 5854
+    },
+    {
+      "irn": 1217,
+      "title": "Camp Hospital",
+      "image": {
+        "type": "image",
+        "irn": 1784,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 7979,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5734
+      },
+      "title": "Tatura"
+    },
+    {
+      "title": "Manfred Adam",
+      "image": {
+        "type": "image",
+        "irn": 5736,
+        "format": "jpeg"
+      },
+      "irn": 7981
+    },
+    {
+      "irn": 7982,
+      "image": {
+        "irn": 942,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "No. 2 Camp Victoria"
+    },
+    {
+      "irn": 9273,
+      "title": "Hay Camp Hospital",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1786
+      }
+    },
+    {
+      "irn": 7190,
+      "title": "No title",
+      "image": {
+        "irn": 7456,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "No title",
+      "image": {
+        "irn": 6897,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5855
+    },
+    {
+      "title": "8th Employment Company March",
+      "image": {
+        "type": "image",
+        "irn": 6411,
+        "format": "jpeg"
+      },
+      "irn": 4776
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1843
+      },
+      "title": "Loyalty",
+      "irn": 7118
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 5252,
+        "type": "image"
+      },
+      "title": "In Sunny Riverina",
+      "irn": 6003
+    },
+    {
+      "irn": 5822,
+      "title": "Document - Untitled poem by Werner Goldschmidt, Tatura 1941",
+      "image": {
+        "type": "image",
+        "irn": 6684,
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Oh What Ails the P.M.G.?",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6685
+      },
+      "irn": 4588
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1649
+      },
+      "title": "Sounds of Europe",
+      "irn": 7096
+    },
+    {
+      "irn": 6874,
+      "image": {
+        "type": "image",
+        "irn": 1612,
+        "format": "jpeg"
+      },
+      "title": "Under Consideration: Poems in Two Languages"
+    },
+    {
+      "title": "Camp Songs",
+      "image": {
+        "format": "jpeg",
+        "irn": 7106,
+        "type": "image"
+      },
+      "irn": 6010
+    },
+    {
+      "irn": 4574,
+      "title": "book - Bound volume with dedications to Alfred Lewinsky, 1941",
+      "image": {
+        "format": "jpeg",
+        "irn": 6709,
+        "type": "image"
+      }
+    },
+    {
+      "title": "Diary of Fritz Hofbauer",
+      "image": {
+        "type": "image",
+        "irn": 8189,
+        "format": "jpeg"
+      },
+      "irn": 4579
+    },
+    {
+      "irn": 4762,
+      "title": "Diary of Fritz Hofbauer",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8234
+      }
+    },
+    {
+      "irn": 6597,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1807
+      },
+      "title": "Diary of Martin Reichwald"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1711
+      },
+      "title": "Diary of Martin Reichwald",
+      "irn": 5185
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8658
+      },
+      "title": "Diary of Martin Reichwald",
+      "irn": 5187
+    },
+    {
+      "irn": 5250,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1407
+      },
+      "title": "Diary of Rainer Radok"
+    },
+    {
+      "irn": 6596,
+      "title": "Diary - 19 Wasted Months: Diary and Notes of My Internment, Kurt Lewinski, 1940-1950s [German original]",
+      "image": {
+        "type": "image",
+        "irn": 8028,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 6867,
+      "image": {
+        "irn": 1605,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Notebook of Kurt Lewinski"
+    },
+    {
+      "irn": 5161,
+      "title": "No title",
+      "image": {
+        "type": "image",
+        "irn": 9641,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5162,
+      "title": "Ernest Zutranen",
+      "image": {
+        "irn": 9642,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9643
+      },
+      "irn": 4665
+    },
+    {
+      "irn": 4666,
+      "image": {
+        "type": "image",
+        "irn": 9644,
+        "format": "jpeg"
+      },
+      "title": "No title"
+    },
+    {
+      "irn": 4667,
+      "title": "Whats the time please..on board the Dunera",
+      "image": {
+        "irn": 9645,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5999,
+      "image": {
+        "type": "image",
+        "irn": 735,
+        "format": "jpeg"
+      },
+      "title": "Verfassungsvorschlag, Proposal for a Camp Constitution"
+    },
+    {
+      "irn": 5772,
+      "title": "Lingfied - Ballade",
+      "image": {
+        "format": "jpeg",
+        "irn": 6449,
+        "type": "image"
+      }
+    },
+    {
+      "image": {
+        "irn": 9681,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Cars Seen During Walk Through Town Under Guard",
+      "irn": 6228
+    },
+    {
+      "image": {
+        "irn": 6901,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "No title",
+      "irn": 5856
+    },
+    {
+      "irn": 5857,
+      "title": "Hard Luck",
+      "image": {
+        "irn": 5282,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5940,
+      "image": {
+        "format": "jpeg",
+        "irn": 9682,
+        "type": "image"
+      },
+      "title": "No title"
+    },
+    {
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9683
+      },
+      "irn": 5942
+    },
+    {
+      "irn": 5984,
+      "title": "\"Wenn Wir...\" (Poem in German)",
+      "image": {
+        "type": "image",
+        "irn": 7179,
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "No title",
+      "image": {
+        "format": "jpeg",
+        "irn": 9684,
+        "type": "image"
+      },
+      "irn": 5943
+    },
+    {
+      "title": "Teischmann",
+      "image": {
+        "type": "image",
+        "irn": 9685,
+        "format": "jpeg"
+      },
+      "irn": 5944
+    },
+    {
+      "title": "Framed pastel drawing - Portrait of Ivan Pietruschka, by Robert Hofmann, Tatura, 1942",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 20749
+      },
+      "irn": 19581
+    }
+  ],
+  "parents": {
+    "title": "HMT Dunera and Internment Collection",
+    "image": {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8880
+    },
+    "irn": 28
+  },
+  "index": 0,
+  "multimedia": [
+    {
+      "irn": 8881,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "associations": [],
+  "irn": 49,
+  "children": [],
+  "source": "enarratives",
+  "title": "Artworks and Creative Responses - HMT Dunera and Internment Collection",
+  "description": ""
+}

@@ -1,0 +1,54 @@
+{
+  "TitNumberOfParts": 1,
+  "accNo": "7037",
+  "title": "Sergeant Snow White",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Internment",
+    "Theatre"
+  ],
+  "CrePrimaryInscriptions": null,
+  "CreEarliestDate": "1943",
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "index": 1,
+  "PhySupport": null,
+  "measurements": [],
+  "rownum": 1,
+  "CreRole_tab": [],
+  "AssParentObjectRef": null,
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Sergeant Snow White\" [7037]",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "1943",
+  "irn": 10426,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8860
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "rid": "ecatalogue.10426",
+  "CreLatestDate": "1943",
+  "PhyTechnique": "Printed"
+}

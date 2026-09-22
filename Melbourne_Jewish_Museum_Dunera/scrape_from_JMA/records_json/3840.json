@@ -1,0 +1,82 @@
+{
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamTitle": null,
+      "NamFirst": null,
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "SummaryData": "Union Castle Line",
+      "BioDeathDate": null,
+      "NamLast": null,
+      "irn": 1905,
+      "NamSuffix": null
+    }
+  ],
+  "TitPartNumber": 1,
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": null,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Internment",
+    "Being Australian",
+    "Theatre",
+    "United Kingdom"
+  ],
+  "title": "Union Castle Line Programme",
+  "accNo": "3840",
+  "TitNumberOfParts": 1,
+  "CreCountry_tab": [
+    "England"
+  ],
+  "CreCity_tab": [],
+  "measurements": [
+    {
+      "unitLength": "mm",
+      "type": "open",
+      "unitWeight": null,
+      "width": 215,
+      "height": 168,
+      "weight": null,
+      "depth": null,
+      "diameter": null
+    }
+  ],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Manufacturer"
+  ],
+  "index": 1,
+  "TitObjectType": null,
+  "CreCreationNotes": null,
+  "narratives": [],
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "irn": 4728,
+  "CreDateCreated": "11/1941",
+  "source": "ecatalogue",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Union Castle Line Programme\" [3840], Union Castle Line",
+  "PhyMediaCategory": "programmes",
+  "PhyTechnique": "Machine printed",
+  "CreLatestDate": null,
+  "rid": "ecatalogue.4728",
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 7414,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7415,
+      "type": "image"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": []
+}

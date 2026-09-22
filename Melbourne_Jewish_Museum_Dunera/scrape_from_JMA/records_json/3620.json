@@ -1,0 +1,68 @@
+{
+  "PhySupport": null,
+  "index": 1,
+  "CreCreationNotes": null,
+  "narratives": [],
+  "TitObjectType": "OriginalRec",
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Host"
+  ],
+  "measurements": [],
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "songs",
+    "Being Australian"
+  ],
+  "title": "Free Concerts for the Forces",
+  "TitNumberOfParts": 1,
+  "accNo": "3620",
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamTitle": null,
+      "NamSuffix": null,
+      "SummaryData": "Melbourne Orchestra",
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": null,
+      "irn": 1836,
+      "BioDeathDate": null,
+      "NamLast": null
+    }
+  ],
+  "TitPartNumber": 1,
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "17/03/1944",
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 7124,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyTechnique": "Printed",
+  "CreLatestDate": "17/03/1944",
+  "rid": "ecatalogue.6196",
+  "CreDateCreated": "17/03/1944",
+  "PhyMediaCategory": "programmes",
+  "source": "ecatalogue",
+  "SummaryData": "\"Free Concerts for the Forces\" [3620], Melbourne Orchestra",
+  "TitObjectRating": "partial data",
+  "irn": 6196
+}

@@ -1,0 +1,585 @@
+default: 16/7/2025 with Jack Kallon in Erakor
+default: [NT] the way things were before?
+default: people who came from Bufa and Rentatpau to Erakor
+default: [JK] Me, ku mur na ka fes ki Nafsan ko a pes ki Bislama?
+default: Ore, Nick, kotfaan wi, ah teetwei
+default: natkon san tutkos Erakor
+default: or the small island
+default: i tik ki natam̃ool
+default: natam̃ool gar ru patu namlas
+default: patu Erontp̃au
+default: patu Erkao
+default: san rusosoki McKenzie Hill. I slat nagi
+default: misnari pei ni, nen i mai to Erakor Mista McKenzie
+default: ru soso ki McKenzie Hill
+default: Ale Ep̃uf i p̃uur ki natam̃ol
+default: esan go i tiik
+default: Ale ru to nrus nrus
+default: natam̃ool nen rut to Naisraper, Emten
+default: go ipitlak tenen,
+default: naor neu, a, nmal napu san a fatkos na ##
+default: nambatu lakun
+default: i pitlak natkon i tkos teetwei, ematen ru pato emat
+default: mat knen [NT} me natkon i pitlak nagi?
+default: (JK) Ore
+default: (NT) Ku tae? (JK) Em̃eltafra
+default: go Em̃eltafra ne ku tae i pi sef nafsan, ipi
+default: secret ni mam a?
+default: esan Roi Mata i ptae naflak wes
+default: ga kin ru so soki nana Em̃eltafra
+default: taos tiawi ru
+default: ag ku tae tafra kia tu to po sati pak lafet
+default: ku mos nawi maloput go naat i sati sa naat i sa
+default: ga kin u soso ki m̃eltafra
+default: Ale Roi mata ina
+default: ser natam̃ol ru po mai nen tuk freg talm̃aat
+default: tumer tap ple mau
+default: ko mai slat nafnag mai. Ale natam̃ol nen ru mai
+default: e, ru mai ru sat gar, nawi, tete ru sat naik, tete ru sat naniu
+default: tete ru slat sernale fserser
+default: ale Roi Mata naot p̃uur ki na
+default: ## akam nen u slat nawi u pi naflak nawi
+default: akam nen u sat nm̃aal, u pi naflak nm̃aal
+default: akam nen u slat nanr u pi naflak nanr
+default: akam nen u slat naik u pi naflak naik
+default: ga wan tu pitlak naflak mees, me eria nen
+default: kin xx naor neu sanpen maloput
+default: ga kin Em̃eltafra. (NT) me ru tli na natkon ru pitlak naflak
+default: (JK) Ore (NT) So natkon nen Em̃eltafra?
+default: ipi naflak , tafra?
+default: (JK) i tik i pi na nana
+default: i tik i ta pi nafl-  ga ipi san ru ptae naflak wes
+default: welkia, naur nen ru ptae naflak
+default: me, natam̃ol sikskei taos teni Rentp̃au
+default: ru pi naflak nawi mleo
+default: ok?
+default: ga kin famle p̃uur nen ru to natkon Erakor tu
+default: ale i pitlak nam̃er ni Ep̃uf ru pi naflak nmaal ru laap
+default: gar kin ru xx tu natkon tu
+default: (NT) Me a tap kraksoki mau, nlaken
+default: malnen ku ..
+default: taem yu mared yu mas gat difern naflak
+default: be spos yu stap long wan vilej
+default: olsem wanem vilej hem i save stap wan naflak
+default: o hem i olsem stampa naflak long vilej?
+default: Olsem, yu talem wan vilej hem i , olsem Pango oli talem se pako?
+default: hem i naflak blong Pango? (JK) I tiik
+default: I tiik, naflak pako i pitlaken esa
+default: i pitlaken a
+default: tete naur ni nort Efate ru pitlaken. Teetwei i pitlaken Ertap
+default: Me Erakor a ta nrogo naflak pako wes mau
+default: ore, me i pitlak naflak kram na
+default: natalai, tenen i kon to faat
+default: ga i pitlaken
+default: gar kia ru na naflak kram
+default: ale i pitlak kram kaaru me i to siwer na sel pram sees na i to siwer
+default: ru soso ki kram mtir kiai welkia i mtir ur nawen pa.
+default: ga ru soso ki kram kaaru kia
+default: ale naflak kaatol, kram nap̃rai, suka ken
+default: gar ru pi naflak iskei ru pi naflak kram
+default: (NT) Me naflak, taosi kin nanre ni
+default: ntas, ru pi natkon nen ru to m̃eltig ki ntas, ki euut, ko?
+default: nam̃er ni Erontp̃au ru soso ki nam̃er ni elau
+default: tenen ru to Erontp̃au mai
+default: ru soso k -  na gar ru nam̃er ni elau
+default: me nam̃er ni Ep̃uuf mana ru pi nam̃er ni nam̃las ru soso ki nam̃er ni euut
+default: (NT) go ru pitlak naflak nen ru pi taosi kin
+default: ru ta pi ni ntas mau (JK) tiik
+default: welkia ru pi teni euut me pitlak naflak
+default: tiik ru pitlaken. Tete ru pitlak
+default: naflak na, taos kram mana, naflak wiit
+default: (NT) even in Pufa (JK) Ore, ipitlaken
+default: taos na, tiawi motu nigmam nen i pato elag Ep̃uf mana ## ga i pi naflak wiit
+default: (NT) malen u tli Bufa, taosi kin
+default: (JK) Eria p̃uur a? Nagi p̃uur, i pitlak eria sees
+default: iskei, nafet tribe, ga, e sori, nafet
+default: nametrau ru laap ur eria ne
+default: taosi kin ru to pei ki wou kin sa, ke mas pi elol gar kin ru ur elag sanpe
+default: (NT) Go ku tae nagi naor nen ru to em̃rom Bufa?
+default: (JK) Ga wan kin esan a ta tae soksok, i pitlak nafet nagi me neu a ta tae soksok wi kir mau
+default: a tae gaag paam̃ori san tiawi ru tu ures teetwei
+default: ka fo mrosokir go nrak ## kaaru plak ## gaag ki
+default: famle nigmam gar ru to Naisrapir
+default: kia Emten lagun end me pak elag
+default: ki naflak nm̃aal
+default: ore ku til na tenen me
+default: teflan kia na nam̃er ni
+default: Erontp̃au gar ru pi na nam̃er ni elau, ru
+default: ale nam̃er ni Ep̃uf ru pi nam̃er ne euut
+default: Malen ru po to Erontp̃au mai
+default: ru ur na tiktik ntas mai
+default: ru mai mai pan ru pato Em̃elai natik emat sanpe
+default: Elol gar i tkos ru soso ki Em̃elai
+default: [em̃el ipi nasara ]
+default: Em̃elai naor ni naflak
+default: nawi m̃leo nen ru pato Erontp̃au
+default: ale naflak namkanr ru ur ##
+default: ru mai teflan mai pak sa
+default: tete ru ur Takape
+default: Takape ga na
+default: nam̃er taar ru mai ru soso ki Takape
+default: me nafsan ni Erakor gar ru soso ki Nmet nkap
+default: sak mai pak lasmet
+default: I to naor to san,  i pitlak
+default: naur iskei ru soso ki M̃aululep
+default: i pi transit eria ni nafet tiawi
+default: Em̃aululep. Tiawi nen ru to Ep̃uf mai
+default: ru mai ru to Em̃aululep
+default: transit eria, nlaken i pitlak nai
+default: naur ni Takape ito m̃eltig ga ipi m̃eltig
+default: gar i pi na ga kin ru soso ki Em̃aululep
+default: luelu ki ntam̃ol a, ku tae
+default: luelu, ### puetsokir
+default: Em̃aululep
+default: taos, eksampol wel
+default: waak gaag ru to tper tu
+default: me ku tar ru taf ru luelu ki ru pa ##
+default: ga wan ki luelu
+default: me i ta pi welu mau? Itiik
+default: Ale gar ru pato esan Em̃aululep, tenen ru po Ep̃uf mai
+default: Ale ru sent ki
+default: nam̃er gar, ka fo tli pak English, gar ru sent ki nafet scout gar a?
+default: ru siwer ru le fra
+default: pan ru lek san i wi nen na ruk fo tkos ke fi natkon ale
+default: ru ler mai naflak a, nametrau gar
+default: ##  ga wan kin ru siwer mai
+default: tet ru mai to namba tri
+default: Port Vila nrookot mai pak Ekasufaat
+default: tete inru pak Ep̃ag  ##
+default: Me Em̃aululep kin i san ##
+default: ## pitlak na
+default: ## esan ne
+default: ga i pi nafsan ni Erakor me ## ni Efil kin ru tkos
+default: ore, me ga wan kia
+default: na nam̃er ni elau ki, nam̃er ni
+default: Erontp̃au ale nam̃er ni Ep̃uf mana ru pi nam̃er ## gar ru siwer tu
+default: Inru ## mai ru to Em̃eltafra, esuan kin Roi Mata i mai ptae naflak wes
+default: (NT) NT Be Roi Mata i pi sixteen hundreds. Be before?
+default: (JK) Mi no save, be from, from i bin gat tumas a
+default: natam̃ool ru to ple a? Tribal law.
+default: Natam̃ool ru ta to wi malpei mau. Pan naflak nen kin i pregi na
+default: tm̃at, a?
+default: me Roi Mata tu tae i ta pi nam̃er
+default: natam̃ool leeg ni Efat mau. Ga it to tenaor ni
+default: i lakor Polynesia ko eswan mai
+default: ##anyway? i preg na tm̃at, ale u pitlak ntm̃at
+default: namtetrau ru laap gar pregi Eton, ### matur go ru ta pamir mau
+default: [laughs]
+default: me nam̃er laap ni natkon Erakor gar ru po tae elag mai ##. Ale ru siwer
+default: ru siwer go i to saan na na ra tli Em̃eltafra
+default: inrus nrus mai mai mai tkal Ekasufaat
+default: Ku tae Ekasufaat, ku pakes temal?
+default: Ku tu Ekasufaat saan pan pan
+default: eitin siksti faev
+default: kin a i pitlak donal morisen
+default: misnari pei plak a
+default: go i pi tete ni natam̃ol ni Aniu, sori Aneityum
+default: gar ru skoti gar ru pei slat nam̃rem a?
+default: ale gar ru skot nafet mis ru mai tu welu sa
+default: ru welu Erakor go Ep̃ag plak te
+default: tet nam̃er ni  ## nen ru pan sanpe
+default: ru nrus nrus mai ru tu Egis natkon gar ki, ru sos ki natkon Egis
+default: san kin Egis
+default: San skul i  tkos to natkon i tiik, mai tkal sa pan tkal sanpe
+default: ru to pan pan tete mal pak
+default: malen donal morisen i to me i to
+default: i to preg tiawi ru to fes klin ki na # ru pa ##
+default: tae mal ki naur a?
+default: nen ruk nrus nrus pak naur
+default: ru to pan pan i pitlak namsaki iskei, ru soso ki nafte kia?
+default: kia ru lu go ru taf
+default: i tiik i ta pi dyssentry mau, kolera
+default: kolera, i pitlak kolera, namsaki sa
+default: ale eitin sefenti tri mista makensi i pregi ru nrookot pak naur
+default: Eraniao. ## san ipan ru pak naur Eraniao
+default: ##  Tesees pei ga nmatu pei ga i mat kati kin
+default: i to lekor nam̃er msak pan pan ## me ga ikraksok kolera me i mat
+default: ## ka go i mai to naur to
+default: (NT) nametrau gaag, mama gaag i pi teni esua?
+default: (JK) Raitok i pi Erakor
+default: tmak i pi Erakor
+default: (NT) mama, mama gaag, grandmother
+default: (JK) Great grandfather neu
+default: i to san kia a nrik ag kin itkos mai i soso ki
+default: esuan kia##  ipi makensi hill
+default: Erkao
+default: suan gret gret grandfather neu itkos
+default: saed blong mama
+default: (NT) grand mother?
+default: (NT) Hem tu hem i kam long Erkao ? (JK) yes, hemi Litgasik
+default: grandfather (FF) ?
+default: blo Pango
+default: (NT) waef blong hem?
+default: (JK) i gat histri we
+default: gret frandfather blong mi i kam long ples ia, i gat histri blong hem
+default: hem i no kam gut, hem i ronwei, from kastom
+default: hemi, i bin gat wan natopu, wan spirit
+default: we i stap long poen long we
+default: i talem long hem mi wantem yu faenem 100 pig long mi
+default: wan mbaembae yu save wan pig hem i woman mo man wan taem
+default: hemia namba wan handred i mas olsem
+default: be hemi, i karem ol pig ia be i no faenem hemia
+default: (NT) klet (JK) be hemi klet be hemi man tu
+default: Hem i klet be hem i man tu
+default: Be hem i no faenem
+default: Ale natopu i talem se, yu no faenem, bae mi kilim yu
+default: Afta, hem i
+default: tufala brata blong hem long Pango oli ronwe i go long smol aelan blong Erakor
+default: Erakor smol aelan blong Erakor
+default: laet long hem finis, olsem gospel i stap long hem finis, misnari i stap finis
+default: olgeta oli stap yet long tu dak, afta hem i ronwe i kam
+default: taem i kam, i lego fes waef i stap
+default: from hem i ronwe long natobu ia
+default: me i kam, ale hem i tekem narfala woman we hem i blo Erakor
+default: (NT) and that's your father's father
+default: (JK) GG grandfather too hem i blong Pango
+default: (NT) Fulap man oli gat famle we oli kam long narafala ples, i no got tumas we oli stret blong olsem Pango
+default: (JK) be i gat fulap lo Erakor ia, oli kam defren ples ia, i no ..
+default: ol naflak m̃leo we oli stap long Erakor naoia, gret grandmother blong olgeta i kam long Pango, be olgeta blong Rentapau
+default: mi talem long yu se oli kam tru long Em̃aululep
+default: afta oli go long Pango
+default: be i gat wan man Erakor i go maret bakegen long Pango ale i tekem olgeta i kam lo
+default: naoia oli stap long plese ia, naflak m̃leo
+default: olsem blo ol narafala, bambae mi no save se stret,
+default: vilej blong olgeta. Olgeta nao oli save talem we ples stret
+default: yu save keneti kalatap̃au?
+default: olgeta nao, olgeta oli bin stap liv lo sam yias bak
+default: wetem papa blong hem, olfala John Kaltap̃au, yu save?
+default: olgeta blong stret longwe ia nao
+default: so hemi no save stret we ples ol olfala blong olgeta oli kam aot long hem
+default: be mi olsem mi no naflak nomo mi no save
+default: sipos yu go askem long hem samtaem
+default: i stap ia narasaed lo
+default: makenzi hal i go antap lelebit
+default: olgeta oli bin stap liv long Rentapau longwe
+default: oli mas save ol ples nao stret we oli stap long hem
+default: (NT) Bae mi go tok wetem Alfos
+default: (JK) Whichwan Alfos ?
+default: Ati Meel
+default: Ati Lentapag istap
+default: Litatapag olgeta oli kamaot long Ep̃uf
+default: discussion follows about a necklace JK found at the small island
+default: Hemi wan traebel jif ia
+default: be olsem is nao muvmen blo, mifala long
+default: Erakor, ples ia yu mi stap bifo, be mifala i muv i kam long natap longwe
+default: but mi no save, from, ating i bin gat sam man i bin stap long ples ia
+default: sam yia bifo we mi no save from
+default: wan dei, oli digim graon long smol aelan blo bildim wan samting oli faenem ol sel we oli stap hangem long ples ia
+default: sel ia hem i taptap,
+default: i gat ples blogn putum rop
+default: mi bin luk, brata blong mi i karem mi no save i ded finis ating i sakem sam ples
+default: oli faenem long we
+default: be mi luk em i no blo olgeta lo Erakor oli mekem
+default: mi no save wu i mekem , gud smut gud
+default: hem i olsem ia, i olsem ale i kam olsem
+default: ale oli mekem hol lo ples ia
+default: lo mekem rop blong hem
+default: (NT) Hem i kam long kram o wanem?
+default: (JK) Mi no save, be hemi veri tin a?
+default: (NT) oli mekem long solomons oli mekem ol samting. (JK) Yes, be
+default: taem long olfala blong mifala mi no ting se oli mekem long plese ia, so sam man oli bin stap
+default: ting oli famle, olsem blong Pango, Pango poen
+default: Ol man long Pango point oli bin stap long ples ia bifo eniwan
+default: olsem, Rentatpau i jas go joen lo Pango bakegen
+default: I gat sam man oli bin stap yet, we ating sam misnari oli bin rikodem se oli bin stap ia bifo
+default: en iwan i stap long Saot Efate
+default: (NT) Abu Srap hemi talem Rentatpau hem i wan stampa ples, olsem spesel ples long Efate
+default: (JK) Hemis bigfala vilej we oli stap long hem ia
+default: (NT) Be olsem hem i gat wan paua o samting olsem
+default: (JK) Mi no save
+default: be hem storian lo
+default: want tallest man blo Erakor
+default: oli kolem Asaref no? Ating John Maklen hem istorian long hem, hemi wok i go long Erromango
+default: be hemi tru ia, oli berem oli mas foldem up fo taem
+default: mi mi go luk longwe
+default: mi go luk long plese we oli berem lo hem
+default: be  mi ting we oli taleme se oli foldem fo taem
+default: mi ting se oli foldem olsem olsem olsem
+default: be mi mi go luk oli kam, wan olsem ia
+default: tu olsem, tri, fo
+default: olsem wan skwea
+default: be oli talem hem i tru
+default: ol olfala oli talem se, Asaref i pram wel malo miel
+default: Asaraf i pram wel malo miel
+default: malo miel hemi stampa kokonas olsem yu luk i red
+default: orange
+default: hemia nao, Asaraf hem i tall olsem coconuts
+default: Be hem i kamaot long Rentapau
+default: olgeta blong solwata
+default: spos yu tingbaot, olgeta blong solwata
+default: Asaraf i neva wokabaot long bush
+default: (NT) why only one name for turtle, but lots of knowledge of plants and tres
+default: i gat fulap, ol tri i gat nem, be naoia i stap lus nao
+default: wan taem mi bin karem ol yangfala, mifala i raon lo poen a?
+default: ale mi talem long olgeta se, is, tri ia, nem blong hemia, tri ia, nem blong hem
+default: bae yufala i rememba from spos mifala ol olfala i go lus samtaem bae i nomo gat hu bae i talem long yufala bakegen
+default: from tede, oli no
+default: strong blong lanem ol samting olsem a?
+default-cp: 16/7/2025 with Jack Kallon in Erakor
+default-cp: [NT] the way things were before?
+default-cp: people who came from Bufa and Rentatpau to Erakor
+default-cp: [JK] Me, ku mur na ka fes ki Nafsan ko a pes ki Bislama?
+default-cp: Ore, Nick, kotfaan wi, ah teetwei
+default-cp: the village we are in Erakor
+default-cp: ko naor sees
+default-cp: there were no people
+default-cp: people lived in the bush
+default-cp: at  Erontp̃au
+default-cp: at Erkao
+default-cp: at the place McKenzie Hill. it took the name
+default-cp: of the first missionary at Erakor Mista McKenzie
+default-cp: they call it McKenzie Hill
+default-cp: And Ep̃uf was full of people
+default-cp: here, not
+default-cp: So they started to move
+default-cp: people were at Naisraper, Emten
+default-cp: and there were those
+default-cp: the place I am at ##??
+default-cp: nambatu lakun
+default-cp: there was a village long ago, there's a cemetary there
+default-cp: dead there. (NT) are there names of the villages?
+default-cp: (JK) Yes
+default-cp: (NT) You know? (JK) Em̃eltafra
+default-cp: and  Em̃eltafra you know the language
+default-cp: it is our secret a?
+default-cp: the place where Roi Mata divided up the naflak
+default-cp: that's what they call Em̃eltafra
+default-cp: like, the old people they
+default-cp: do you know the tafra they take to a lafet?
+default-cp: you take yams
+default-cp: that's what is called a m̃eltafra
+default-cp: So Roi said
+default-cp: eveyr one will come so we can make a garden
+default-cp: we won't argue
+default-cp: You come, and bring food. Ok, people came
+default-cp: they brought yams, some brought fish, some brought coconuts
+default-cp: some brought all kinds of things
+default-cp: So Roi Mata , the big chief, said
+default-cp: you who bring yams will be naflak yam
+default-cp: you who bring breadfruit will be naflak breadfruit
+default-cp: you who bring banana will be naflak banana
+default-cp: you who bring fish will be naflak fish
+default-cp: that's how we get naflaks today, but that area
+default-cp: kin xx naor neu sanpen maloput ##
+default-cp: that's Em̃eltafra. (NT) but they say that villages have naflaks?
+default-cp: (JK) es (NT) that villageEm̃eltafra?
+default-cp: ipi naflak , tafra?
+default-cp: (JK) no, it is
+default-cp: it is the place where they divide up the naflaks
+default-cp: like, the place they divide naflaks
+default-cp: people from around the place, like from Rentp̃au
+default-cp: they are naflak nawi mleo
+default-cp: ok?
+default-cp: they have a big family at Erakor
+default-cp: there are people from Ep̃uf who are  naflak nmaal
+default-cp: they stay at the village
+default-cp: (NT) but I don't understand, because
+default-cp: when you
+default-cp: taem yu mared yu mas gat difern naflak
+default-cp: be spos yu stap long wan vilej
+default-cp: olsem wanem vilej hem i save stap wan naflak
+default-cp: o hem i olsem stampa naflak long vilej?
+default-cp: Olsem, yu talem wan vilej hem i , olsem Pango oli talem se pako?
+default-cp: hem i naflak blong Pango? (JK) I tiik
+default-cp: no, there are naflak pako here
+default-cp: there are
+default-cp: some places in north Efate have it, long ago there were some at Eratap
+default-cp: But Erakor, I haven't heard of naflak shark there
+default-cp: but there is the clam naflak
+default-cp: clam, the one that sticks on a rock
+default-cp: that one is here
+default-cp: that 's the one they call naflak kram
+default-cp: there is another kram, it walks, it has a long shell and it walks
+default-cp: they call it kram mtir (drawing] because it draws on the sand as it goes
+default-cp: that's what they call this other clam
+default-cp: and the third naflak, kram nap̃rai (sugarcane)
+default-cp: they are all in the same naflak, kram
+default-cp: (NT) And the naflaks, as far as
+default-cp: the sea, are they villages that are near the sea?
+default-cp: people from Erontp̃au are called people of the sea
+default-cp: those that came from Erontp̃au
+default-cp: they are people of the sea
+default-cp: but people from Bufa they are people of thebush, they are called inland people
+default-cp: (NT)  and are the naflak ,
+default-cp: not from the sea? (JK) No
+default-cp: even if they are from inland they have naflaks
+default-cp: they have them, some have
+default-cp: naflak like kram or octopus
+default-cp: (NT) even in Pufa (JK) Yes, they have them
+default-cp: so our ancestors that were up at Bufa and around there, they had naflak octopus
+default-cp: (NT) when you say Bufa,
+default-cp: (JK) It is a big area a? A Big name, there are small areas
+default-cp: there are different tribes
+default-cp: many family groups in that area
+default-cp: ## there must be 'yards' up there somewhere
+default-cp: (NT) Do you know the place names inside Bufa?
+default-cp: (JK) That's the thing, I don't know, there are plenty of names but I don't know what they are
+default-cp: I can find some places the old people were at long ago
+default-cp: our family are at Naisrapir
+default-cp: Up above the end of Emten lagun
+default-cp: naflak breadfruit
+default-cp: ok, you say that, but
+default-cp: that's how people from
+default-cp: Erontp̃au are people of the sea
+default-cp: and people from Bufa are inland people
+default-cp: When they came from Erontp̃au
+default-cp: they followed along the sea
+default-cp: they came until they got to Em̃elai next to the cemetery
+default-cp: Their area is called Em̃elai
+default-cp: [em̃el is nasara ]
+default-cp: Em̃elai the place of naflak
+default-cp: naflak nawi m̃leo are at Erontp̃au
+default-cp: ale naflak wild arrowroot are at ##
+default-cp: they came like that to here
+default-cp: some went along  Takape
+default-cp: Takape that is
+default-cp: white people call it Takape
+default-cp: but in Erakor language they call it Nmet nkap
+default-cp: to lasmet ##
+default-cp: stayed there, there is
+default-cp: a place they call M̃aululep
+default-cp: It is a transit eria of the old people
+default-cp: Em̃aululep. The old people that came from Ep̃uf
+default-cp: they came to Em̃aululep
+default-cp: transit area, because it has water
+default-cp: Takape iis nearby
+default-cp: that's where they call Em̃aululep
+default-cp: luelu people, do you know?
+default-cp: luelu,
+default-cp: Em̃aululep
+default-cp: like an example,
+default-cp: your pig, you fence it in
+default-cp: me ku tar ru taf ru luelu ki ru pa ##
+default-cp: ga wan ki luelu
+default-cp: me i ta pi welu mau? Itiik
+default-cp: Ale gar ru pato esan Em̃aululep, tenen ru po Ep̃uf mai
+default-cp: Ale ru sent ki
+default-cp: nam̃er gar, ka fo tli pak English, gar ru sent ki nafet scout gar a?
+default-cp: ru siwer ru le fra
+default-cp: pan ru lek san i wi nen na ruk fo tkos ke fi natkon ale
+default-cp: ru ler mai naflak a, nametrau gar
+default-cp: ##  ga wan kin ru siwer mai
+default-cp: tet ru mai to namba tri
+default-cp: Port Vila nrookot mai pak Ekasufaat
+default-cp: tete inru pak Ep̃ag  ##
+default-cp: Me Em̃aululep kin i san ##
+default-cp: ## pitlak na
+default-cp: ## esan ne
+default-cp: ga i pi nafsan ni Erakor me ## ni Efil kin ru tkos
+default-cp: ore, me ga wan kia
+default-cp: na nam̃er ni elau ki, nam̃er ni
+default-cp: Erontp̃au ale nam̃er ni Ep̃uf mana ru pi nam̃er ## gar ru siwer tu
+default-cp: Inru ## mai ru to Em̃eltafra, esuan kin Roi Mata i mai ptae naflak wes
+default-cp: (NT) NT Be Roi Mata i pi sixteen hundreds. Be before?
+default-cp: (JK) Mi no save, be from, from i bin gat tumas a
+default-cp: natam̃ool ru to ple a? Tribal law.
+default-cp: Natam̃ool ru ta to wi malpei mau. Pan naflak nen kin i pregi na
+default-cp: tm̃at, a?
+default-cp: me Roi Mata tu tae i ta pi nam̃er
+default-cp: natam̃ool leeg ni Efat mau. Ga it to tenaor ni
+default-cp: i lakor Polynesia ko eswan mai
+default-cp: ##anyway? i preg na tm̃at, ale u pitlak ntm̃at
+default-cp: namtetrau ru laap gar pregi Eton, ### matur go ru ta pamir mau
+default-cp: [laughs]
+default-cp: me nam̃er laap ni natkon Erakor gar ru po tae elag mai ##. Ale ru siwer
+default-cp: ru siwer go i to saan na na ra tli Em̃eltafra
+default-cp: inrus nrus mai mai mai tkal Ekasufaat
+default-cp: Ku tae Ekasufaat, ku pakes temal?
+default-cp: Ku tu Ekasufaat saan pan pan
+default-cp: eitin siksti faev
+default-cp: kin a i pitlak donal morisen
+default-cp: misnari pei plak a
+default-cp: go i pi tete ni natam̃ol ni Aniu, sori Aneityum
+default-cp: gar ru skoti gar ru pei slat nam̃rem a?
+default-cp: ale gar ru skot nafet mis ru mai tu welu sa
+default-cp: ru welu Erakor go Ep̃ag plak te
+default-cp: tet nam̃er ni  ## nen ru pan sanpe
+default-cp: ru nrus nrus mai ru tu Egis natkon gar ki, ru sos ki natkon Egis
+default-cp: san kin Egis
+default-cp: San skul i  tkos to natkon i tiik, mai tkal sa pan tkal sanpe
+default-cp: ru to pan pan tete mal pak
+default-cp: malen donal morisen i to me i to
+default-cp: i to preg tiawi ru to fes klin ki na # ru pa ##
+default-cp: tae mal ki naur a?
+default-cp: nen ruk nrus nrus pak naur
+default-cp: ru to pan pan i pitlak namsaki iskei, ru soso ki nafte kia?
+default-cp: kia ru lu go ru taf
+default-cp: i tiik i ta pi dyssentry mau, kolera
+default-cp: kolera, i pitlak kolera, namsaki sa
+default-cp: ale eitin sefenti tri mista makensi i pregi ru nrookot pak naur
+default-cp: Eraniao. ## san ipan ru pak naur Eraniao
+default-cp: ##  Tesees pei ga nmatu pei ga i mat kati kin
+default-cp: i to lekor nam̃er msak pan pan ## me ga ikraksok kolera me i mat
+default-cp: ## ka go i mai to naur to
+default-cp: (NT) nametrau gaag, mama gaag i pi teni esua?
+default-cp: (JK) Raitok i pi Erakor
+default-cp: tmak i pi Erakor
+default-cp: (NT) mama, mama gaag, grandmother
+default-cp: (JK) Great grandfather neu
+default-cp: i to san kia a nrik ag kin itkos mai i soso ki
+default-cp: esuan kia##  ipi makensi hill
+default-cp: Erkao
+default-cp: suan gret gret grandfather neu itkos
+default-cp: saed blong mama
+default-cp: (NT) grand mother?
+default-cp: (NT) Hem tu hem i kam long Erkao ? (JK) yes, hemi Litgasik
+default-cp: grandfather (FF) ?
+default-cp: blo Pango
+default-cp: (NT) waef blong hem?
+default-cp: (JK) i gat histri we
+default-cp: gret frandfather blong mi i kam long ples ia, i gat histri blong hem
+default-cp: hem i no kam gut, hem i ronwei, from kastom
+default-cp: hemi, i bin gat wan natopu, wan spirit
+default-cp: we i stap long poen long we
+default-cp: i talem long hem mi wantem yu faenem 100 pig long mi
+default-cp: wan mbaembae yu save wan pig hem i woman mo man wan taem
+default-cp: hemia namba wan handred i mas olsem
+default-cp: be hemi, i karem ol pig ia be i no faenem hemia
+default-cp: (NT) klet (JK) be hemi klet be hemi man tu
+default-cp: Hem i klet be hem i man tu
+default-cp: Be hem i no faenem
+default-cp: Ale natopu i talem se, yu no faenem, bae mi kilim yu
+default-cp: Afta, hem i
+default-cp: tufala brata blong hem long Pango oli ronwe i go long smol aelan blong Erakor
+default-cp: Erakor smol aelan blong Erakor
+default-cp: laet long hem finis, olsem gospel i stap long hem finis, misnari i stap finis
+default-cp: olgeta oli stap yet long tu dak, afta hem i ronwe i kam
+default-cp: taem i kam, i lego fes waef i stap
+default-cp: from hem i ronwe long natobu ia
+default-cp: me i kam, ale hem i tekem narfala woman we hem i blo Erakor
+default-cp: (NT) and that's your father's father
+default-cp: (JK) GG grandfather too hem i blong Pango
+default-cp: (NT) Fulap man oli gat famle we oli kam long narafala ples, i no got tumas we oli stret blong olsem Pango
+default-cp: (JK) be i gat fulap lo Erakor ia, oli kam defren ples ia, i no ..
+default-cp: ol naflak m̃leo we oli stap long Erakor naoia, gret grandmother blong olgeta i kam long Pango, be olgeta blong Rentapau
+default-cp: mi talem long yu se oli kam tru long Em̃aululep
+default-cp: afta oli go long Pango
+default-cp: be i gat wan man Erakor i go maret bakegen long Pango ale i tekem olgeta i kam lo
+default-cp: naoia oli stap long plese ia, naflak m̃leo
+default-cp: olsem blo ol narafala, bambae mi no save se stret,
+default-cp: vilej blong olgeta. Olgeta nao oli save talem we ples stret
+default-cp: yu save keneti kalatap̃au?
+default-cp: olgeta nao, olgeta oli bin stap liv lo sam yias bak
+default-cp: wetem papa blong hem, olfala John Kaltap̃au, yu save?
+default-cp: olgeta blong stret longwe ia nao
+default-cp: so hemi no save stret we ples ol olfala blong olgeta oli kam aot long hem
+default-cp: be mi olsem mi no naflak nomo mi no save
+default-cp: sipos yu go askem long hem samtaem
+default-cp: i stap ia narasaed lo
+default-cp: makenzi hal i go antap lelebit
+default-cp: olgeta oli bin stap liv long Rentapau longwe
+default-cp: Go Ati Toumeel
+default-cp: Litatapag olgeta oli kamaot long Ep̃uf
+default-cp: discussion follows about a necklace JK found at the small island
+default-cp: Johnny Alfos?
+default-cp: Ol man long Pango point oli bin stap long ples ia bifo eniwan
+default-cp: I gat sam man oli bin stap yet, we ating sam misnari oli bin rikodem se oli bin stap ia bifo
+default-cp: Asaraf is tall and his middle is red [?##]
+default-cp: malo miel hermi stampa kokonas olsem yu luk i red
+default-cp: orange
+default-cp: hemia nao, Asaraf hem i tall olsem coconuts
+default-cp: be storian long ol olfala ia nao
+default-cp: Be hem i kamaot long Rentapau
+default-cp: Asaraf i neva wokabaot long bush
+default-cp: (NT) why only one name for turtle, but lots of knowledge of plants and tres
+default-cp: long ples ia afsak nomo

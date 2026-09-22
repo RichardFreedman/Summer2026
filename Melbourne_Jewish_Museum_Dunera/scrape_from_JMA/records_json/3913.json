@@ -1,0 +1,61 @@
+{
+  "multimedia": [],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "rid": "ecatalogue.9268",
+  "CreLatestDate": "1974",
+  "PhyTechnique": "Printed and photocopied",
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Two Masters of the Weimar Bauhaus Catalogue\" [3913], Draffin, Mr Nicholas",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "1974",
+  "irn": 9268,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "index": 1,
+  "PhySupport": null,
+  "measurements": [],
+  "rownum": 1,
+  "CreRole_tab": [
+    "Author"
+  ],
+  "AssParentObjectRef": null,
+  "CreCity_tab": [
+    "Sydney"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "TitNumberOfParts": 1,
+  "accNo": "3913",
+  "title": "Two Masters of the Weimar Bauhaus Catalogue",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "CreEarliestDate": "1974",
+  "PhyMedium": "Ink on paper; metal staples",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": "Nicholas",
+      "NamTitle": "Mr",
+      "NamSuffix": null,
+      "irn": 1924,
+      "NamLast": "Draffin",
+      "BioDeathDate": null,
+      "SummaryData": "Draffin, Mr Nicholas"
+    }
+  ]
+}

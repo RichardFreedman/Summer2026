@@ -1,0 +1,85 @@
+{
+  "PhyMediaCategory": "programmes",
+  "SummaryData": "\"Klavier Abend\" [3315.2], Fabian, Mr Erwin",
+  "TitObjectRating": "partial data",
+  "source": "ecatalogue",
+  "CreDateCreated": "1941",
+  "irn": 6309,
+  "CreState_tab": [
+    "New South Wales"
+  ],
+  "multimedia": [
+    {
+      "irn": 5890,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 5891,
+      "type": "image"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "rid": "ecatalogue.6309",
+  "CreLatestDate": null,
+  "PhyTechnique": "Handmade and typed",
+  "TitNumberOfParts": 1,
+  "accNo": "3315.2",
+  "title": "Klavier Abend",
+  "CreSubjectClassification_tab": [
+    "Theatre",
+    "Dunera",
+    "Being Australian",
+    "songs"
+  ],
+  "CrePrimaryInscriptions": "Handwritten on the front cover are the words, \"Peter Stadlen Klavier Abend,\" translating to \"Peter Stadlen Piano Evening.\"",
+  "CreEarliestDate": null,
+  "PhyMedium": "Pencil, ink and watercolour on paper",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": "Inside writing:\n\"PROGRAMM / Peter Stadlen (Klavier) /\n1) L. van Beethoven: Sonate As-dur Op. 26\nAndante von Variazioni Scherzo (Allegro molto) (Sualla morte d'un Eroe) Allegro\n2) Frederick Chopin: 24 Preludes\n3) Igor Strawisky: Trois mouvements de Petrouchka\na)\tDance Russe\nb)\tChez Petrouchka\nc)\tLa semine grasse\"",
+  "CreCreatorRef_tab": [
+    {
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": "Erwin",
+      "NamTitle": "Mr",
+      "NamSuffix": null,
+      "irn": 54,
+      "BioDeathDate": "19/01/2020",
+      "NamLast": "Fabian",
+      "SummaryData": "Fabian, Mr Erwin"
+    }
+  ],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "CreCreationNotes": "This music programme was made by Fabian Erwin, for the concert of the pianist Peter Stadlen. Fabian was a graphic design artist during and after the war. He returned to England where he continued to work as a graphic and industrial artist but came back to Melbourne in 1960. He later became a successful and respect sculptor, whose work is represented in the National Gallery of Victoria, the High Court and Parliament House.",
+  "narratives": [],
+  "TitObjectType": null,
+  "index": 1,
+  "CreRole_tab": [
+    "Artist-Painter"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "measurements": [
+    {
+      "type": "open",
+      "unitLength": "mm",
+      "unitWeight": null,
+      "width": 251,
+      "weight": null,
+      "height": 135,
+      "depth": null,
+      "diameter": null
+    }
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Hay"
+  ]
+}

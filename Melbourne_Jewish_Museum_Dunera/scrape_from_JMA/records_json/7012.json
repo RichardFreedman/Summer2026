@@ -1,0 +1,69 @@
+{
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Theatre"
+  ],
+  "CrePrimaryInscriptions": "The words \"Producer P.E. Schmitz/Hungary\" appear in a red circle on the front cover and below an illustration of a tent the words \"Revue: We Travel Round The World\" appear.",
+  "TitNumberOfParts": 1,
+  "accNo": "7012",
+  "title": "We Travel Around the World",
+  "TitPartNumber": 1,
+  "CreCreatorRef_tab": [],
+  "CreSecondaryInscriptions": null,
+  "CreEarliestDate": "1941",
+  "PhyMedium": "Ink and watercolour paint on paper",
+  "PhySupport": null,
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8883
+      },
+      "title": "Documents and Letters - HMT Dunera and Internment Collection",
+      "irn": 52
+    }
+  ],
+  "index": 1,
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreDistrict_tab": [],
+  "CreCity_tab": [
+    "Tatura"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "rownum": 1,
+  "CreRole_tab": [],
+  "AssParentObjectRef": null,
+  "measurements": [],
+  "CreDateCreated": "1941 - 1942",
+  "PhyMediaCategory": "programmes",
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"We Travel Around the World\" [7012]",
+  "source": "ecatalogue",
+  "irn": 10421,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 8568,
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 8569,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyTechnique": "Illustrated with printed insert",
+  "rid": "ecatalogue.10421",
+  "CreLatestDate": "1942"
+}

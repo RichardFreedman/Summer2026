@@ -1,0 +1,67 @@
+{
+  "measurements": [],
+  "CreRole_tab": [
+    "Producer"
+  ],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "CreCountry_tab": [
+    "Germany"
+  ],
+  "CreCity_tab": [
+    "Berlin"
+  ],
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": null,
+  "narratives": [],
+  "index": 1,
+  "PhySupport": null,
+  "CreEarliestDate": "1940",
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamSuffix": null,
+      "irn": 1035,
+      "NamLast": "Ritterman",
+      "BioDeathDate": null,
+      "SummaryData": "Ritterman, Renee",
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": "Renee",
+      "NamTitle": null
+    }
+  ],
+  "accNo": "3921",
+  "TitNumberOfParts": 1,
+  "title": "Journey's End",
+  "CreSubjectClassification_tab": [
+    "Internment",
+    "Dunera",
+    "Being Australian",
+    "Theatre"
+  ],
+  "CrePrimaryInscriptions": "The page features a number of illegible handwritten anntations, among these is a partially legible greeting: \"All the best you Ludi[intelligble]k - Berlin.\"",
+  "rid": "ecatalogue.9276",
+  "CreLatestDate": "1949",
+  "PhyTechnique": "Typed with handwritten annotations",
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 1788
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [],
+  "irn": 9276,
+  "TitObjectRating": "partial data with image",
+  "SummaryData": "\"Journey's End\" [3921], Ritterman, Renee",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "1940's"
+}

@@ -1,0 +1,264 @@
+default: Erakor village, 7/9/2015 with Jack Kallon
+default: JK) OK, a, p̃ulp̃og wi a Nick
+default: Amrokin mes ilakor pi aliat wi
+default: Amur na til natrauswen ni nam̃olien neu
+default: Pees malen apakor, mai tkal mes
+default: Ntau nen apitlak ntau ralim ilates go atmat ilfot
+default: Kafopes malen a pakor
+default: Kineu, nagiek ipi Jack Harry Kallon
+default: [silence]
+default: Apakor 15 September 1946
+default: Go api tesa ni Harry go Retu Kallon
+default: [silence]
+default: Kineu api tesa kafat gar
+default: Gar raplitlak tesa ilim
+default: Kineu api tesa kafat
+default: [silence]
+default: Sori, gar ru pitlak tesa ilates
+default: Kineu api tesa kafat
+default: A pakor
+default: [silence]
+default: French hospital
+default: Nrak pei iwelkia ipitlak adminstresen ni Britis go Franis
+default: rupitlak hospital inru enru, go tete sernale inruenru, me neu a paakor French hospital. esan mes ipi
+default: Ministry ni Public Works itkos, go Ministry ni Land itkos
+default: Nrakpei ipi French Hospital
+default: Malen a sees ato naur Eraniao
+default: Naur sees Erakor
+default: [silence]
+default: Go a pes pak skul nanre ni
+default: naskulwen neu, apes pak skul 1952
+default: pak 1956
+default: ato kindi ni Erkaor go apak
+default: primary skul ni Erakor
+default: kin atkos
+default: Tijer nigmam rupi nafet tijer, a sori, teplaksok rupi teplaksok ni Erkaor m̃as
+default: Go, 1957 pak 1961
+default: Amer pan skul Ep̃agtuei, IDS
+default: Iririki District School nen ipato nagis ni Efarp̃au Ep̃ag
+default: Go tijer nen ruplaksok komam rupi
+default: Tijer ni New Hebrides m̃as
+default: Iskei m̃as kin ipi teni Australia, nagien Miss Macrae
+default: Ga ipi nmatu ni taon sees iskei rusosoki Ballarat ito nanre Melbourne
+default: [silence]
+default: Uskul pan 1961 go rupregi upreg exam ni
+default: Onesua High School ga ipato North Efate
+default: [silence]
+default: Go komam unrfal kin upreg wiki exam nigmam go upas pak Onesua High School, ipitlak
+default: tesa nanwei ni Ep̃ag inru
+default: kineu, go tesa nmatu ni Efil inru
+default: kin upas 1961 pak Onesua High School
+default: Mes rusosoki Onesua Presbyterian College
+default: Malnen atato skul upan tkal November
+default: 1965 go Hedmasta nigmam ipaoski na
+default: "Akam sef nawesien kin umur kofregi malen unom skul?"
+default: Komam tete ipitlak kineu plak tesa nanwei ni Ep̃ag iskei go
+default: Tesa nanwei ni South West Bay iskei, Emlakul
+default: [silence]
+default: Komam utli na  mur ko fi carpenter
+default: [silence]
+default: me teni Paama iskei, go teni South West Bay iskei Emlakul, ramur rakfi mekanik. Ina ok kafogamus
+default: [silence]
+default: pregptaki napu go kofo skul reki sernale nen, Papua New Guinea
+default: [silence]
+default: Me atlag ni September nen, 1965 ne, amai marmar go aptlas kano ni Erakor iskei nagien
+default: [silence]
+default: Malon Kalpram
+default: Ga ito weswes Meteo ofis, taon Efil
+default: Ilemis wou go ina, "Ku ta mur p̃a weswes Meteo mau ipitlak post iskei ip̃al to Meteo."
+default: Ana amur ka weswes
+default: Ale a ler pak skul pa malen a marmar su anrikir hedmasta kin na
+default: Pa slatlu nagiek kai pe ta mur kafak PNG mau
+default: Amur  na kafei pan weswes Meteo. Ale atlag ni November ntau skei mau ne go
+default: iplak wou mai lemis naot p̃ur ni Meteo
+default: Rapreg tete inteviu
+default: Go naot ni Meteo ina, ntau faum 1966, ntau faum
+default: p̃a fo mai weswes
+default: Ale 1966 go apo pan weswes
+default: [silence]
+default: Namba 6 May 1966 kin a pees weswes Meteo
+default: [silence]
+default: Go aweswes pram Meteo, aweswes pan tkal nametp̃ag February 1993
+default: Aweswes ntau ipi ralim inru go atmat ilaru
+default: [silence]
+default: Malen apan weswes 1966 pan tkal 1970
+default: [silence]
+default: Rupromot ki kineu amai pi first class met observer
+default: [silence]
+default: 1971 pak 1979
+default: [silence]
+default: Rutransfe ki kineu apak Bauerfield airport, go aweswes branch ni Meteo iskei, rusosoki Radiosonde
+default: Esan komam utau nafet balloon p̃afp̃of
+default: [silence]
+default: rupak elag tol sum̃ neu ne
+default: [silence]
+default: rutao rupak malfa go
+default: [silence]
+default: umotsok radio seseerik rutkos, plak
+default: nafet riflekta nen komam uius ki radar, nen utrak ki na
+default: nana ne
+default: Go, risen nen upregi una pofamor atmospheric pressure
+default: humidity, temperature, wind direction, go wind speed
+default: Go nafet infomesen ne malen upreglua imai usend ki, utp̃ekir rupak Nandi
+default: Fiji, go Nandi kin rupo tp̃eki infomaesen nen rupak ser naor emermen
+default: Go ruwi ki nanre ni plen nen ru sef ur nmalfa, raru nen ru ur ntas
+default: Nanre ni agriculture go nanre ni health, welkia infomesen ne ru welu nafet
+default: nana ne
+default: Go, aweswes pram wes, api Radiosonde operator
+default: [silence]
+default: Panpan 1979
+default: natam̃ol ni England iskei ga kin ipi officer in charge nigmam
+default: Malen, inom, 1979
+default: go rupus kineu asat nam̃len api officer in charge ni
+default: [silence]
+default: radiosonde ofis Bauerfield airport
+default: Ato weswes pan tkal 19, nametp̃ag 1999 go rumer transfe ki kineu aler mai pak ofis ni Meteo taon, Port Vila
+default: Amai pi Principal Observer ni Meteo Department
+default: [silence]
+default: 1990 pak 1993
+default: rumer promot ki kineu api General Manager
+default: ni Meteo Department
+default: [silence]
+default: Go malen atato weswes Meteo go
+default: Carlot Korman imai pi Praem Minista
+default: Go ipregi, ipreglu kineu Meteo
+default: iwleki terminet kineu taos civil servant
+default: me ipregi apan pi political appointee kia
+default: a.a.
+default: Go malen atoweswes Meteo ru tp̃eki kineu apak Tanna nrak inru
+default: ser mal nen apa apan reki alag ilates
+default: Go apan 1966 go 1969
+default: Go rumer tp̃eki kineu apak Lamap Emlakul
+default: nrak inru, 1967 go 1969
+default: Go apak Banks, Sola Banks, na Meteo station
+default: Ito Vanua Lava, Banks. Apan nrak iskei 1968
+default: Go esan kin malen api civil servant go ipi naur nen aweswes ures ki
+default: [silence]
+default: Nanre ni political appointments
+default: 1993 kin Korman ipus kineu apan pi
+default: secretary ga iskei go ipus kineu api namba tri secreteri
+default: ni Prime Minister's ofis
+default: 1994 ipreg kineu amai pi
+default: seken secretary ni Prima Minister's ofis
+default: 1995 go rumer pus kineu apan pi /#praevet secretary/ /administrative officer/  go
+default: [silence]
+default: api administrative officer go finance officer ni Prime Minister's ofis
+default: Go malne Korman kinom  Prime Minister
+default: Go November 1995 ipan pi Spika ni paleman
+default: I mer preg kineu apan pi praevet secreteri ga paleman
+default: Me itato pram mau go nlaken ruto ... politik ito nrus nrus pan go
+default: [silence]
+default: September - , February 1996
+default: Korman imerler mai pi Prime Minister
+default: Go ipregi a mer skoti mai api praevet secreteri ga
+default: [silence]
+default: Welkia malne ato weswes nanre ni politik
+default: Go 2003, malen Edward Natapei ipi Prime Minister
+default: Ipreg kineu apan pi memba ni citizenship commission, nen uleusus fei kin ke fi citizen ko fei kin itato taos na law ni citizenship
+default: Uto leler
+default: Go tene ipi nawesien neu nen apregi malen
+default: Aweswes gavman ni Vanuatu ntau tiirty wan
+default: /#Atmat itol ralim iskei/ /ralim itol atmat iskei/
+default: Tene ipi malen aweswes nanre ni gavman
+default: Nawesien nen apregi natkon
+default: 1982 pak 1998 api memba ni Erakor Land Trust
+default: [silence]
+default: 1999 nafet nam̃er nigmam, famle nigmam go namterau nigmam
+default: rupi naflak nmal, rupreg kineu api naot gar
+default: June 1999 mai tkal mees, api naot gar to
+default: [silence]
+default: Ale nanre religion ko nasum̃ tap
+default: Kineu api memba ni Presbyterian church
+default: 1987 rutofnp̃au komam kano iskei nagien Enery
+default: go ati Toukelau, umai pi elder, 1987
+default: 1990s rupreg kineu api chairman ni church management committee
+default: [silence]
+default: March 2009 pan tkal May 2012
+default: rumtalu kineu api chairman ni negotiating team nen upreg nasum̃ tap p̃ur go itu
+default: Welkia komam kin ulel material, upan paus ki natam̃ol ki faat nen rukwelu nasum̃ tap
+default: Panpan go up̃not nasum̃ tap go itu
+default: Tene ipi nanre ni religion ki
+default: Nanre ni sport
+default: tetwei malen ato skul Onesua, ames kriket
+default: Ato klab ni Onesua, kriket klab
+default: Go nameswen kaaru nen
+default: Ameswes, ipi pole vault
+default: (NT) laughs. (JK) Kia ruto sat nkas
+default: Go tetwei ipitlak Queens Birthday, Queen Elizabeth birthday, komam uto selebret ki mal ni colonial government a?
+default: Go sermal tupitlak kompetisen ni spot
+default: 1965 neu a represent ki Onesua High School go
+default: asat na, api namba tu, a mai pi seken go asat na
+default: silver medal
+default: 1996 anom skul go a joen ki Port Vila klab
+default: Go nrak ne amer sok pole vault
+default: api namba wan welkia asat prize
+default: pei, itapi gold mau me rutao kap iskei
+default: first prize
+default: 1977 pan tkal 1982 api committee ni Golden Star football club
+default: [silence]
+default: 1982 amai pi president ni Golden Start football club malen
+default: natam̃ol iskei nen president, ipi president imat
+default: iaksiden loto, Kalman Lalie, ga kin asat nam̃len
+default: api presiden ni Golden Star football club
+default: [silence]
+default: Involvmen neu nen, welkia teflan ato nanre ni politik
+default: 1970s api, ato pati ni UCNH,
+default: Pati nen ga, nam̃er frankofon gar rulap wes, me ipi pati ni nafet frankofon
+default: Ga kin rupregi imai kitapi UCNH mau me ipi UMP, union of moderate parties
+default: 1982 apak na
+default: pati ni Vanuaku Pati
+default: atlag ipat m̃as, atato pram mau nlaken
+default: aslak iskei nagien Andes Carlot ga
+default: ipi p̃al Korman
+default: Me, Vanuatu gavman, rup̃ilua nawesien, komam uto weswes naor iskei airport
+default: go umaet kir, umaet ki nam̃er ni Vanuaku Pati go umer sef ler pak UMP
+default: Umer mai pak UMP
+default: Februari 1998 Korman iple plak tete natam̃ol, nafet politician
+default: nanre ni UMP go
+default: ipregi umer sefsef pan, ifom ki pati faum iskei rusosoki Vanuatu Republican pati
+default: Go komam umer pan skoti, Republican pati nen
+default: pan tkal /#2007/ /2002/
+default: /#2007 pak, / 2002 pak 2007 apan sil pati iskei ipi NCA, Nasonal Komiuniti Asosiesen
+default: 2007 pak 2011 amer ler pak Vanuatu Republican pati
+default: [laugh] Ato skot prakot pa ..
+default: 2011 pak 2012 amer pan sil pati iskei rusosoki Natatok
+default: Natatok ga iwelkia, pati ni Erakor, nam̃er ni naor a?
+default: Ipi esan aures mal ni politik
+default: Ale, nafte nen ato mur kato pregi taos Inglis runa hobby
+default: Neu ato mur ka fef ser nrak
+default: kin ipi hobby neu iskei plak
+default: apan tkau ko a puet net, mm
+default: go ato murin preg talm̃at. Welkia namrun to leg kin rupi hobby neu nen, ko naftekin amur kato pregi
+default: Nanre ni famle, marital status neu, kineu alak
+default: 20 October 1970 go ataulu Heleni Kalmer
+default: Gakin ipi mrulep neu. Rapitlak teesa ilim
+default: Tesa nanwei ipat got teesa nmatu iskei
+default: Me ra po puet nar iskei ipi tap̃as nigmam teesa nmatu iskei ipi tap̃as nigmam go rupo lates
+default: Mees rapitlak sulsul nigmam, taos nafet grandchildren rupi
+default: twenti, rulaap top, me iskei imat, go ruipe pi naentin m̃as
+default: Ale, ipitlak na, great grandchildren rapitlak itol
+default: Me iskei imat go inru m̃as rato . Go tenen ipi natrauswen neu nen atae gag tli, nanre ni nam̃olien neu
+default: pan tup̃ mees ne, apitlak .... (NT) Me atae paoski mal ni independens.
+default: Nlaken kuipe to em̃rom UMP malpei ko ipi
+default: olsem yu stap insaed long Indpendens o gensem independens taem ia?
+default: (JK) Komam u, go ato UMP go komam nam̃er laap ni Erakor uto UMP
+default: Welkia uta mur independens mau. Welkia, umurin me umur rukmer ptu kin ntau kelim ko tete ntau
+default: nen gavman nranru rakfei nigmam pregptaki
+default: taon nigmam go nfanu nigmam, go ke fo inruk sat independens
+default: me ipitlak pati kaaru, Vanuaku pati
+default: rukerkrai na rukmas sat independens malne, me malne komam uta, welkia
+default: utata to wi nen ko sat independens mau nlaken utatik ki sernale
+default: me rupregi panpan go rupo ptuki independens
+default: welkia nanre ni French ruta mur independens na ke mai pelpel mau  nlaken ru mur na rumer ptuki ntau ilim, me nanre ni Inglis
+default: ga rutuer ki, go gawa, rupanpan rupreg naflewen
+default: iptilak teni Erakor ruto pan ple taon
+default: Vanuaku ru puetlu flag, gar ru pueti pak tan go rutmer /plekir/ pan go polis rusi nam̃er ni Erakor ki kas
+default: Tete ru of kil rupak ospital, rup̃not tete kalabus
+default: Gawankia
+default: (NT) Me ipitlak muf gensem flag, yu stap insaed long samting ia taem oli?
+default: mekem demonstatrion o samting olsem?
+default: Yuyu stap o yu stap kwaet nomo? (JK) Kin malne, iwlekia, komam uta ..
+default: Ku lek komam usil politik me komam uto kuskus welkia komam upi sivil sevan
+default: Gavman ina nat ne tete sivil sevan nen i, ipan skot nam̃er nen rupreg .. rutp̃ilua nawesien
+default: Go komam welkia usapot to me uta mai paakor nen
+default: ruk lemis komam mau nlaken upi sivil seven, itap nen ko involv politik

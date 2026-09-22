@@ -1,0 +1,86 @@
+{
+  "CreDateCreated": "c. 1941",
+  "PhyMediaCategory": "sheet music",
+  "SummaryData": "\"Sandstorms, Hay Days, Don't Release Me Mr Layton\" [4468]",
+  "TitObjectRating": "partial data with image",
+  "source": "ecatalogue",
+  "irn": 7117,
+  "CreState_tab": [],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 1842
+    },
+    {
+      "type": "image",
+      "irn": 8563,
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 8564,
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 8565,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyTechnique": "Handwritten",
+  "rid": "ecatalogue.7117",
+  "CreLatestDate": "1946",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Internment",
+    "Being Australian"
+  ],
+  "CrePrimaryInscriptions": null,
+  "TitNumberOfParts": 1,
+  "accNo": "4468",
+  "title": "Sandstorms, Hay Days, Don't Release Me Mr Layton",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "CreEarliestDate": "1936",
+  "PhyMedium": "Pen on paper",
+  "PhySupport": null,
+  "CreCreationNotes": "These three songs were written by an unknown internee.",
+  "narratives": [
+    {
+      "irn": 49,
+      "image": {
+        "format": "jpeg",
+        "irn": 8881,
+        "type": "image"
+      },
+      "title": "Artworks and Creative Responses - HMT Dunera and Internment Collection"
+    }
+  ],
+  "TitObjectType": "OriginalRec",
+  "index": 1,
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "CreCity_tab": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreRole_tab": [],
+  "rownum": 1,
+  "AssParentObjectRef": null,
+  "measurements": [
+    {
+      "height": 245,
+      "weight": null,
+      "depth": null,
+      "diameter": null,
+      "unitLength": "mm",
+      "type": "Unframed",
+      "unitWeight": null,
+      "width": 198
+    }
+  ]
+}

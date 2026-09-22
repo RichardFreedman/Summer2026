@@ -1,0 +1,1190 @@
+{
+  "description": "",
+  "source": "enarratives",
+  "title": "Documentary Photography",
+  "children": [
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 18939
+      },
+      "title": "The Harry Kleinman Collection",
+      "irn": 104
+    }
+  ],
+  "irn": 45,
+  "associations": [],
+  "index": 0,
+  "multimedia": [
+    {
+      "irn": 8875,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "parents": {
+    "title": "Collection Areas",
+    "image": {
+      "irn": 8886,
+      "type": "image",
+      "format": "jpeg"
+    },
+    "irn": 38
+  },
+  "objects": [
+    {
+      "irn": 9386,
+      "image": {
+        "irn": 8136,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "No Strangers Here"
+    },
+    {
+      "irn": 4713,
+      "image": {
+        "format": "jpeg",
+        "irn": 5292,
+        "type": "image"
+      },
+      "title": "Guards from Hay Internment Camp No. 7"
+    },
+    {
+      "title": "Two men and one woman saluting",
+      "image": {
+        "irn": 1634,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 7030
+    },
+    {
+      "title": "Photograph - 'Members of the 8th Employment Company', Albury, Australia, 1942",
+      "image": {
+        "type": "image",
+        "irn": 19316,
+        "format": "jpeg"
+      },
+      "irn": 9438
+    },
+    {
+      "irn": 2832,
+      "title": "Female members of the Returned Soldiers Lounge, St Kilda",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 23791
+      }
+    },
+    {
+      "irn": 8960,
+      "title": "Photograph - Migrants on the Oronsay, 1939",
+      "image": {
+        "format": "jpeg",
+        "irn": 1032,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 8936,
+      "image": {
+        "type": "image",
+        "irn": 994,
+        "format": "jpeg"
+      },
+      "title": "Photograph - Jews removed from Rzeszow, Poland, c1942"
+    },
+    {
+      "irn": 1325,
+      "title": "Photograph of the Haskin Family having a picnic at Mordialloc Beach, c1910, Melbourne",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1058
+      }
+    },
+    {
+      "image": {
+        "irn": 12565,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Feilchenfeld family in front of store",
+      "irn": 5713
+    },
+    {
+      "image": {
+        "irn": 12565,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Feilchenfeld family in front of store",
+      "irn": 5713
+    },
+    {
+      "irn": 154,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1286
+      },
+      "title": "Family portrait"
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 1287,
+        "type": "image"
+      },
+      "title": "Alice Mary Miller aged 4",
+      "irn": 199
+    },
+    {
+      "irn": 8938,
+      "title": "Photograph - Hay Internment Camp, c.1940",
+      "image": {
+        "format": "jpeg",
+        "irn": 1006,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 6402,
+      "title": "50th Anniversary Reunion",
+      "image": {
+        "irn": 5993,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 6886,
+        "format": "jpeg"
+      },
+      "title": "Members of the 8th Employment Company, Sgt Snow White",
+      "irn": 4651
+    },
+    {
+      "title": "Performers in \"Sergeant Snow White\"",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 6980
+      },
+      "irn": 4653
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 5299,
+        "format": "jpeg"
+      },
+      "title": "Dunera Boys",
+      "irn": 9427
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 7740
+      },
+      "title": "Scenes of Hay",
+      "irn": 9434
+    },
+    {
+      "title": "Members of the 8th Employment Company",
+      "image": {
+        "type": "image",
+        "irn": 1636,
+        "format": "jpeg"
+      },
+      "irn": 7032
+    },
+    {
+      "irn": 9596,
+      "title": "Violin Section of the 3DB Orchestra",
+      "image": {
+        "format": "jpeg",
+        "irn": 7091,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 1323,
+      "title": "Leah Haskin (nee Wertheim)",
+      "image": {
+        "irn": 5498,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 1340,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 5511
+      },
+      "title": "Haskin House at 104 Flinders Lane, Melbourne, c1960"
+    },
+    {
+      "irn": 8941,
+      "title": "Edith Roll and her brother Fritz",
+      "image": {
+        "format": "jpeg",
+        "irn": 1010,
+        "type": "image"
+      }
+    },
+    {
+      "title": "Photograph - St Kilda Beach, Melbourne, 1939-1945",
+      "image": {
+        "format": "jpeg",
+        "irn": 968,
+        "type": "image"
+      },
+      "irn": 8915
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 9887
+      },
+      "title": "Group outside Josef Honigsberg's workshop, Vienna",
+      "irn": 15689
+    },
+    {
+      "irn": 8913,
+      "image": {
+        "type": "image",
+        "irn": 963,
+        "format": "jpeg"
+      },
+      "title": "Nahum Dabscheck in a bike race"
+    },
+    null,
+    {
+      "title": "Photographic postcard titled \"Distempering\", Palestine, 1930s",
+      "image": {
+        "irn": 3160,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 16163
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 3188,
+        "type": "image"
+      },
+      "title": "Photographic postcard titled \"The desert\", Palestine, 1930s",
+      "irn": 16191
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "title": "Palestine photographic set",
+      "image": {
+        "format": "jpeg",
+        "irn": 12214,
+        "type": "image"
+      },
+      "irn": 5679
+    },
+    {
+      "irn": 5681,
+      "title": "Jewish men being ridiculed",
+      "image": {
+        "format": "jpeg",
+        "irn": 12266,
+        "type": "image"
+      }
+    },
+    {
+      "irn": 5683,
+      "title": "Photographs- Twelve Black and White Photographs of inmates of concentration camps, c.1945",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 20683
+      }
+    },
+    {
+      "irn": 5690,
+      "image": {
+        "type": "image",
+        "irn": 12531,
+        "format": "jpeg"
+      },
+      "title": "Photograph - Albert Hodenberg, Hede Freudenthal and Hilde Krieg on a migrant ship, 1938"
+    },
+    {
+      "image": {
+        "irn": 12543,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Hazomir Choir 1970",
+      "irn": 5697
+    },
+    null,
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 14839,
+        "type": "image"
+      },
+      "title": "Photograph, Religious Memorial Service in the Polish Army.",
+      "irn": 2497
+    },
+    {
+      "image": null,
+      "title": "Queen Esther Ball",
+      "irn": 6456
+    },
+    {
+      "irn": 6463,
+      "title": "Mr Nurok Visits the Bialik school",
+      "image": null
+    },
+    {
+      "title": "Untitled",
+      "image": {
+        "irn": 1700,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 6448
+    },
+    {
+      "title": "Untitled",
+      "image": {
+        "format": "jpeg",
+        "irn": 1701,
+        "type": "image"
+      },
+      "irn": 6452
+    },
+    {
+      "irn": 22,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 14813
+      },
+      "title": "Girl putting up Hebrew posters in Israel"
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "irn": 5669,
+      "title": "Photographs - New Immigrants, Israel, 1930s- 1940s",
+      "image": {
+        "type": "image",
+        "irn": 21115,
+        "format": "jpeg"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 21404
+      },
+      "title": "Photographs - Middle East 1941-1942.",
+      "irn": 3662
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "irn": 12010,
+      "title": "photograph",
+      "image": null
+    },
+    null,
+    null,
+    {
+      "irn": 17911,
+      "title": "Shylock at Murnau POW Camp",
+      "image": {
+        "type": "image",
+        "irn": 12610,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 1306,
+      "title": "Young girl raising the Israeli flag",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12522
+      }
+    },
+    {
+      "title": "Meta Hodenberg",
+      "image": {
+        "type": "image",
+        "irn": 12529,
+        "format": "jpeg"
+      },
+      "irn": 1406
+    },
+    {
+      "irn": 1423,
+      "image": {
+        "format": "jpeg",
+        "irn": 12535,
+        "type": "image"
+      },
+      "title": "Gravestones"
+    },
+    {
+      "title": "Photograph - Pupils of Yeshiva College, 20th century, Melbourne",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12537
+      },
+      "irn": 3613
+    },
+    {
+      "irn": 1618,
+      "title": "Photographs- Black and White Photographs of Rabbi Sellomo Gutnik and Rabbi Chaim Gutnik, Australia",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12539
+      }
+    },
+    {
+      "title": "Wedding at Yashiva College",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12540
+      },
+      "irn": 3313
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 12164,
+        "type": "image"
+      },
+      "title": "Photograph- Jewish POW Army, Officer Y Taub, Murnau Upper Bavaria, c.1942",
+      "irn": 5651
+    },
+    null,
+    null,
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 12200,
+        "type": "image"
+      },
+      "title": "Photograph- Brisbane Synagogue, 1983",
+      "irn": 5662
+    },
+    {
+      "title": "Palestine photographic set",
+      "image": {
+        "format": "jpeg",
+        "irn": 12214,
+        "type": "image"
+      },
+      "irn": 5679
+    },
+    {
+      "image": {
+        "irn": 20655,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Photographs- Collection of Photographs of Lenson family",
+      "irn": 5680
+    },
+    {
+      "irn": 5681,
+      "title": "Jewish men being ridiculed",
+      "image": {
+        "format": "jpeg",
+        "irn": 12266,
+        "type": "image"
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 20667
+      },
+      "title": "Black and White Photograph- Jewish Solider standing in Front of Ruins with a Church in the Background, Poland, circa 1939-1941",
+      "irn": 5682
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 12626,
+        "type": "image"
+      },
+      "title": "Rev Rabinowicz with woman and baby",
+      "irn": 17912
+    },
+    {
+      "image": {
+        "irn": 12294,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Jewish memorial in the Warsaw Ghetto",
+      "irn": 5684
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12633
+      },
+      "title": "Photographs- Six Photographs of the Plane Southern Cross, Australia, c.1930",
+      "irn": 17913
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 12523,
+        "format": "jpeg"
+      },
+      "title": "Alex Hodenberg",
+      "irn": 5686
+    },
+    {
+      "irn": 5687,
+      "image": {
+        "irn": 12525,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Albert Hodenberg in uniform"
+    },
+    {
+      "irn": 5688,
+      "image": {
+        "type": "image",
+        "irn": 12527,
+        "format": "jpeg"
+      },
+      "title": "Albert Hodenberg"
+    },
+    {
+      "irn": 5690,
+      "image": {
+        "type": "image",
+        "irn": 12531,
+        "format": "jpeg"
+      },
+      "title": "Photograph - Albert Hodenberg, Hede Freudenthal and Hilde Krieg on a migrant ship, 1938"
+    },
+    {
+      "title": "Albert Hodenberg and Martha Moser",
+      "image": {
+        "irn": 12534,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 5692
+    },
+    {
+      "title": "Dr. A.P. Eherenfeld",
+      "image": {
+        "type": "image",
+        "irn": 12536,
+        "format": "jpeg"
+      },
+      "irn": 5693
+    },
+    {
+      "irn": 5696,
+      "image": {
+        "format": "jpeg",
+        "irn": 12541,
+        "type": "image"
+      },
+      "title": "Montefiore Homes board members"
+    },
+    {
+      "irn": 1671,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12542
+      },
+      "title": "Miriam Rochlin, Hazomir Choir musical accompanist"
+    },
+    {
+      "image": {
+        "irn": 12543,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Hazomir Choir 1970",
+      "irn": 5697
+    },
+    {
+      "irn": 5698,
+      "title": "Hazomi Choir male voices",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12545
+      }
+    },
+    {
+      "title": "Fritz Aronstein",
+      "image": {
+        "format": "jpeg",
+        "irn": 12546,
+        "type": "image"
+      },
+      "irn": 5700
+    },
+    {
+      "irn": 1905,
+      "title": "Tennis players at the North Judean tennis club",
+      "image": {
+        "type": "image",
+        "irn": 12547,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5702,
+      "image": {
+        "irn": 12548,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "photograph - Students of Hascola Hebrew School, Carlton, 1930s"
+    },
+    {
+      "irn": 5703,
+      "image": {
+        "irn": 1679,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Bialik kindergarten"
+    },
+    {
+      "irn": 5704,
+      "title": "Jewish football team, Lithuania, 1925",
+      "image": {
+        "type": "image",
+        "irn": 12550,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 5706,
+      "image": {
+        "format": "jpeg",
+        "irn": 962,
+        "type": "image"
+      },
+      "title": "Netzer summer camp, 1984"
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "irn": 1981,
+      "title": "Photograph - Feilchenfeld Family in front of store and dwelling, Bairnsdale, c.1895",
+      "image": {
+        "irn": 17955,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12579
+      },
+      "title": "The graves of Mr and Mrs Feilchenfeld",
+      "irn": 5719
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "irn": 5733,
+      "title": "Annie Stein on her 95th birthday",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 12605
+      }
+    },
+    {
+      "title": "Photograph of George Dreyfus as a student with his clarinet, c1944, Melbourne",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 13535
+      },
+      "irn": 2460
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 1282
+      },
+      "title": "The Dreyfus Family",
+      "irn": 2461
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 13538,
+        "type": "image"
+      },
+      "title": "George Dreyfus, cast & crew of \"Rush\"",
+      "irn": 2462
+    },
+    {
+      "irn": 2463,
+      "title": "George Dreyfus with a student",
+      "image": {
+        "irn": 13539,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 2464,
+      "title": "George Dreyfus, speaking to group in Tientsin.",
+      "image": {
+        "type": "image",
+        "irn": 13540,
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Dreyfus in coutryard with Chinese basoon players.",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 13541
+      },
+      "irn": 2465
+    },
+    {
+      "title": "George Dreyfus, Bruce Rowlands, Brian May & Bruce Smeaton 1982.",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 13542
+      },
+      "irn": 2466
+    },
+    {
+      "irn": 2467,
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 13543
+      },
+      "title": "Group in railway yard,"
+    },
+    {
+      "irn": 2468,
+      "title": "Melbourne Symphony Orchestra, 1953",
+      "image": {
+        "irn": 13544,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "title": "Ballet Rehearsal",
+      "image": {
+        "format": "jpeg",
+        "irn": 13545,
+        "type": "image"
+      },
+      "irn": 2469
+    },
+    {
+      "image": {
+        "irn": 13546,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "George Dreyfus & Dean Tom Thomas at St.Paul's Cathedral",
+      "irn": 2470
+    },
+    null,
+    {
+      "irn": 2472,
+      "image": {
+        "type": "image",
+        "irn": 13547,
+        "format": "jpeg"
+      },
+      "title": "George Dreyfus & Rodney Hall"
+    },
+    {
+      "irn": 2473,
+      "title": "George Dreyfus conducting open air Folk Mass",
+      "image": {
+        "type": "image",
+        "irn": 13549,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 2474,
+      "image": {
+        "irn": 13548,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "\"From within looking out\""
+    },
+    null,
+    {
+      "irn": 2476,
+      "title": "Melbourne High School Orchestra",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 13551
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 13552
+      },
+      "title": "Melbourne High School Choir",
+      "irn": 2477
+    },
+    {
+      "irn": 2478,
+      "title": "Dreyfus family",
+      "image": {
+        "irn": 13553,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 2479,
+      "image": {
+        "irn": 13554,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "First day at school"
+    },
+    {
+      "image": {
+        "irn": 13557,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Photographs- Travel Document & German I.D. card, Germany, 1938",
+      "irn": 2480
+    },
+    {
+      "irn": 2481,
+      "title": " George Dreyfus & Fred Tilsley",
+      "image": {
+        "type": "image",
+        "irn": 13558,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 2482,
+      "title": "6 members of the J.C.W. orchestra",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 13559
+      }
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 13560,
+        "type": "image"
+      },
+      "title": "Photograph - George Dreyfus and two other young boys playing Australian Rules Football, 1940s, Melbourne",
+      "irn": 2483
+    },
+    {
+      "irn": 2485,
+      "title": "Children at drawing class",
+      "image": {
+        "irn": 13561,
+        "type": "image",
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 2486,
+      "title": "George Dreyfus playing Bassoon.",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 13562
+      }
+    },
+    {
+      "irn": 2487,
+      "title": "George Dreyfus writing music.",
+      "image": {
+        "format": "jpeg",
+        "irn": 14829,
+        "type": "image"
+      }
+    },
+    {
+      "title": "Orchestra and audience at Traralgon",
+      "image": {
+        "irn": 13563,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "irn": 2488
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 13564,
+        "format": "jpeg"
+      },
+      "title": "Musicians on verandah",
+      "irn": 2489
+    },
+    {
+      "title": "George Dreyfus conducting the Melbourne Symphony Orchestra",
+      "image": {
+        "format": "jpeg",
+        "irn": 13565,
+        "type": "image"
+      },
+      "irn": 2490
+    },
+    {
+      "irn": 2491,
+      "image": {
+        "type": "image",
+        "irn": 13566,
+        "format": "jpeg"
+      },
+      "title": "Conductor Gecko"
+    },
+    {
+      "image": {
+        "irn": 14838,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Photograph Ghetto Uprising Monument Warsaw.",
+      "irn": 2496
+    },
+    {
+      "image": {
+        "format": "jpeg",
+        "irn": 14839,
+        "type": "image"
+      },
+      "title": "Photograph, Religious Memorial Service in the Polish Army.",
+      "irn": 2497
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "irn": 5744,
+      "image": {
+        "irn": 1686,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Photograph - Kadimah Ball, 1936"
+    },
+    {
+      "irn": 5745,
+      "image": {
+        "irn": 13424,
+        "type": "image",
+        "format": "jpeg"
+      },
+      "title": "Jewish Theatre Group"
+    },
+    null,
+    {
+      "image": null,
+      "title": "Untitled",
+      "irn": 6457
+    },
+    {
+      "irn": 6431,
+      "title": "Mr Nurok at the Bialik School",
+      "image": {
+        "type": "image",
+        "irn": 14981,
+        "format": "jpeg"
+      }
+    },
+    {
+      "irn": 6434,
+      "title": "Mr Nurok visits the Bialik School in Carlton, Melbourne1956",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 21651
+      }
+    },
+    {
+      "image": null,
+      "title": "Mr Nurok Visits the Bialik school",
+      "irn": 6436
+    },
+    {
+      "image": null,
+      "title": "Mr Nurok Visits the Bialik school",
+      "irn": 6437
+    },
+    {
+      "title": "Mr Nurok Visits the Bialik school",
+      "image": {
+        "format": "jpeg",
+        "irn": 14983,
+        "type": "image"
+      },
+      "irn": 6438
+    },
+    {
+      "title": "Mr Nurok Visits the Bialik school",
+      "image": {
+        "type": "image",
+        "irn": 14985,
+        "format": "jpeg"
+      },
+      "irn": 6439
+    },
+    {
+      "title": "Mr Nurok Visits the Bialik school",
+      "image": null,
+      "irn": 6459
+    },
+    {
+      "image": {
+        "type": "image",
+        "irn": 14986,
+        "format": "jpeg"
+      },
+      "title": "Mr Nurok Visits the Bialik school",
+      "irn": 6460
+    },
+    {
+      "irn": 6463,
+      "title": "Mr Nurok Visits the Bialik school",
+      "image": null
+    }
+  ],
+  "rid": "enarratives.45",
+  "rownum": 2
+}

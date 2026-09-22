@@ -1,0 +1,53 @@
+{
+  "irn": 10428,
+  "CreDateCreated": "17/4/43",
+  "source": "ecatalogue",
+  "SummaryData": "\"Sergeant Snow White\" [7039]",
+  "TitObjectRating": "partial data",
+  "PhyMediaCategory": "programmes",
+  "PhyTechnique": "Printed",
+  "CreLatestDate": "17/04/2043",
+  "rid": "ecatalogue.10428",
+  "multimedia": [
+    {
+      "type": "image",
+      "irn": 8863,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 8864
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [],
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "TitPartNumber": 1,
+  "PhyMedium": "Ink on card",
+  "CreEarliestDate": "17/04/2043",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "Dunera",
+    "Theatre"
+  ],
+  "title": "Sergeant Snow White",
+  "accNo": "7039",
+  "TitNumberOfParts": 1,
+  "CreCountry_tab": [],
+  "CreCity_tab": [],
+  "measurements": [],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [],
+  "rownum": 1,
+  "index": 1,
+  "CreCreationNotes": "This is an invitation to a Charity Gala performance of Sergeant Snow White.",
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": []
+}

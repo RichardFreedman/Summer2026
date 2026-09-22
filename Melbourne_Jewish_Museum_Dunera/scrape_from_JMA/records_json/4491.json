@@ -1,0 +1,75 @@
+{
+  "multimedia": [
+    {
+      "irn": 7090,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "PhyTechnique": "Photography",
+  "CreLatestDate": null,
+  "rid": "ecatalogue.9595",
+  "CreDateCreated": "16/02/1946",
+  "source": "ecatalogue",
+  "SummaryData": "\"Ivan & Phyllis Pietruschka on their wedding day\" [4491]",
+  "TitObjectRating": "full data",
+  "PhyMediaCategory": "black and white photograph",
+  "irn": 9595,
+  "index": 1,
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": "Russian violinist Majer Ivan Pietruschka, with his wife Phyllis (nee Batchelor), a composer and pianist.\n\nRussian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian.",
+  "narratives": [
+    {
+      "title": "Photographs - HMT Dunera and Internment Collection",
+      "image": {
+        "format": "jpeg",
+        "type": "image",
+        "irn": 8882
+      },
+      "irn": 50
+    }
+  ],
+  "PhySupport": null,
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "measurements": [
+    {
+      "diameter": null,
+      "depth": null,
+      "height": 130,
+      "weight": null,
+      "width": 805,
+      "unitWeight": null,
+      "type": null,
+      "unitLength": "mm"
+    }
+  ],
+  "AssParentObjectRef": null,
+  "CreRole_tab": [],
+  "rownum": 1,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Marriage",
+    "Being Australian",
+    "Dunera"
+  ],
+  "title": "Ivan & Phyllis Pietruschka on their wedding day",
+  "accNo": "4491",
+  "TitNumberOfParts": 1,
+  "CreCreatorRef_tab": [],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1,
+  "PhyMedium": "photographic print",
+  "CreEarliestDate": null
+}

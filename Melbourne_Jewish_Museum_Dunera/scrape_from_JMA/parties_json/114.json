@@ -1,0 +1,22 @@
+{
+  "partyType": "Person",
+  "firstName": "Harry",
+  "title": "Jeidels, Mr Harry",
+  "source": "eparties",
+  "web": null,
+  "irn": 114,
+  "deathDate": "1987",
+  "role": [
+    "Artist",
+    "Lecturer"
+  ],
+  "birthDate": "1905",
+  "birthPlace": "Berlin",
+  "index": 0,
+  "multimedia": [],
+  "organisation": null,
+  "rid": "eparties.114",
+  "rownum": 4,
+  "business": [],
+  "lastName": "Jeidels"
+}

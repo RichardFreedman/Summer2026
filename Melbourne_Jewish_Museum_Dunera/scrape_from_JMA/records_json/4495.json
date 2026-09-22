@@ -1,0 +1,79 @@
+{
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "irn": 8020,
+      "type": "image",
+      "format": "jpeg"
+    }
+  ],
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "CreLatestDate": null,
+  "rid": "ecatalogue.9599",
+  "PhyTechnique": "Printed",
+  "source": "ecatalogue",
+  "SummaryData": "\"ABC to Ivan Pietruschka\" [4495], Australian Broadcasting Commission",
+  "TitObjectRating": "full data",
+  "PhyMediaCategory": "letter",
+  "CreDateCreated": "27/06/1951",
+  "irn": 9599,
+  "CreDistrict_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "index": 1,
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": "Russian-born Ivan Pietruschka was a talented violinist and conductor in Eastern Europe. In 1939 he sought refuge in England, but was soon declared an “enemy alien” by the British and sent to Australia on the H.M.T Dunera with approximately 2000 other Jewish refugees of German and Austrian descent. Interned with other refugees at Hay Camp, Ivan performed regular concerts alongside other interned musicians, Peter Stadlen and Hans Werner Katz. Ivan joined the 8th Employment Company in 1942, created so internees could help with the war effort, before being discharged in 1943. In 1952, Ivan joined the Victorian Symphony Orchestra, now a naturalised Australian.",
+  "narratives": [],
+  "PhySupport": null,
+  "measurements": [
+    {
+      "unitWeight": null,
+      "width": 130,
+      "unitLength": "mm",
+      "type": null,
+      "depth": null,
+      "diameter": null,
+      "height": 201,
+      "weight": null
+    }
+  ],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Author"
+  ],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "title": "ABC to Ivan Pietruschka",
+  "TitNumberOfParts": 1,
+  "accNo": "4495",
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Journalism"
+  ],
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamFirst": null,
+      "BioBirthDate": null,
+      "BioNationality": null,
+      "BioDeathDate": null,
+      "NamLast": null,
+      "irn": 1989,
+      "NamTitle": null,
+      "SummaryData": "Australian Broadcasting Commission",
+      "NamSuffix": null
+    }
+  ],
+  "CreSecondaryInscriptions": null,
+  "TitPartNumber": 1
+}

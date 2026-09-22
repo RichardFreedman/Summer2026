@@ -1,0 +1,340 @@
+{
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [
+    "Writer"
+  ],
+  "measurements": [],
+  "CreCity_tab": [
+    "Melbourne"
+  ],
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "PhySupport": null,
+  "index": 1,
+  "CreCreationNotes": null,
+  "narratives": [],
+  "TitObjectType": "OriginalRec",
+  "PhyMedium": "Ink on paper",
+  "CreEarliestDate": "1943",
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [
+    {
+      "NamTitle": "Dr.",
+      "NamSuffix": null,
+      "SummaryData": "Sternberg, Dr. K",
+      "BioNationality": null,
+      "BioBirthDate": null,
+      "NamFirst": "K",
+      "irn": 1763,
+      "NamLast": "Sternberg",
+      "BioDeathDate": null
+    }
+  ],
+  "TitPartNumber": 1,
+  "title": "Sergeant Snow White Script",
+  "accNo": "3685.55",
+  "TitNumberOfParts": 1,
+  "CrePrimaryInscriptions": null,
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Being Australian",
+    "Theatre",
+    "Writing",
+    "plays"
+  ],
+  "CreLatestDate": "1943",
+  "rid": "ecatalogue.5985",
+  "PhyTechnique": "Typed",
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7198
+    },
+    {
+      "irn": 7199,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "irn": 7200,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 7201,
+      "format": "jpeg"
+    },
+    {
+      "irn": 7202,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7203,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7204
+    },
+    {
+      "irn": 7205,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 7206,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7207,
+      "type": "image"
+    },
+    {
+      "irn": 7208,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7209
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7210
+    },
+    {
+      "type": "image",
+      "irn": 7212,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7213,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7214,
+      "type": "image"
+    },
+    {
+      "irn": 7215,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7211
+    },
+    {
+      "format": "jpeg",
+      "irn": 7216,
+      "type": "image"
+    },
+    {
+      "irn": 7217,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 7218,
+      "format": "jpeg"
+    },
+    {
+      "irn": 7219,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7220,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7221,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7222
+    },
+    {
+      "format": "jpeg",
+      "irn": 7223,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7224
+    },
+    {
+      "format": "jpeg",
+      "irn": 7225,
+      "type": "image"
+    },
+    {
+      "type": "image",
+      "irn": 7226,
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7227
+    },
+    {
+      "irn": 7228,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "irn": 7229,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7230
+    },
+    {
+      "format": "jpeg",
+      "irn": 7231,
+      "type": "image"
+    },
+    {
+      "type": "image",
+      "irn": 7232,
+      "format": "jpeg"
+    },
+    {
+      "irn": 7233,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7234
+    },
+    {
+      "type": "image",
+      "irn": 7235,
+      "format": "jpeg"
+    },
+    {
+      "irn": 7236,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 7237,
+      "format": "jpeg"
+    },
+    {
+      "irn": 7238,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7239
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7240
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7241
+    },
+    {
+      "irn": 7242,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "irn": 7243,
+      "type": "image"
+    },
+    {
+      "type": "image",
+      "irn": 7244,
+      "format": "jpeg"
+    },
+    {
+      "irn": 7246,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7245
+    },
+    {
+      "format": "jpeg",
+      "irn": 7247,
+      "type": "image"
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7248
+    },
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 7249
+    },
+    {
+      "format": "jpeg",
+      "irn": 7250,
+      "type": "image"
+    },
+    {
+      "irn": 7251,
+      "type": "image",
+      "format": "jpeg"
+    },
+    {
+      "type": "image",
+      "irn": 7252,
+      "format": "jpeg"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "irn": 5985,
+  "PhyMediaCategory": "programmes",
+  "source": "ecatalogue",
+  "SummaryData": "\"Sergeant Snow White Script\" [3685.55], Sternberg, Dr. K",
+  "TitObjectRating": "partial data",
+  "CreDateCreated": "1943"
+}

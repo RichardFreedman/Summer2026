@@ -1,0 +1,66 @@
+{
+  "rid": "ecatalogue.6028",
+  "CreLatestDate": "/11/1941",
+  "PhyTechnique": "Typed text with printed illustrations",
+  "InsInsuranceRef": null,
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "type": "image",
+      "irn": 6049
+    }
+  ],
+  "CreState_tab": [
+    "Victoria"
+  ],
+  "irn": 6028,
+  "TitObjectRating": "partial data",
+  "SummaryData": "\"Arien Abend\" [3092]",
+  "source": "ecatalogue",
+  "PhyMediaCategory": "programmes",
+  "CreDateCreated": "/11/1941",
+  "measurements": [
+    {
+      "unitWeight": null,
+      "width": 210,
+      "type": null,
+      "unitLength": "mm",
+      "depth": null,
+      "diameter": null,
+      "weight": null,
+      "height": 335
+    }
+  ],
+  "rownum": 1,
+  "CreRole_tab": [],
+  "AssParentObjectRef": null,
+  "CreCountry_tab": [
+    "Australia"
+  ],
+  "CreCity_tab": [
+    "Tatura"
+  ],
+  "CreDistrict_tab": [],
+  "accLot": null,
+  "BibBibliographyRef_tab": [],
+  "CreCreationNotes": null,
+  "TitObjectType": "OriginalRec",
+  "narratives": [],
+  "index": 1,
+  "PhySupport": null,
+  "CreEarliestDate": "/11/1941",
+  "PhyMedium": "Ink on paper",
+  "TitPartNumber": 1,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "TitNumberOfParts": 1,
+  "accNo": "3092",
+  "title": "Arien Abend",
+  "CreSubjectClassification_tab": [
+    "Being Australian",
+    "songs",
+    "musicals",
+    "Dunera"
+  ],
+  "CrePrimaryInscriptions": null
+}

@@ -1,0 +1,58 @@
+{
+  "irn": 7004,
+  "PhyMediaCategory": "black and white photograph",
+  "source": "ecatalogue",
+  "SummaryData": "\"Music class\" [4411]",
+  "TitObjectRating": "partial data with image",
+  "CreDateCreated": "1930",
+  "CreLatestDate": null,
+  "rid": "ecatalogue.7004",
+  "PhyTechnique": "Photographic paper",
+  "CreState_tab": [],
+  "multimedia": [
+    {
+      "format": "jpeg",
+      "irn": 1615,
+      "type": "image"
+    }
+  ],
+  "InsInsuranceRef": null,
+  "PhyMedium": "Ink on paper and cardboard",
+  "CreEarliestDate": null,
+  "CreSecondaryInscriptions": null,
+  "CreCreatorRef_tab": [],
+  "TitPartNumber": 1,
+  "title": "Music class",
+  "TitNumberOfParts": 1,
+  "accNo": "4411",
+  "CrePrimaryInscriptions": "Written in green pen on paper attached at the bottom is the annotation, \"3sp.\" The attached paper also features the names: \"Pagel, Engel, Manthey, Zander, Laue, Dreher, Krispin, Lewinski, Gresch, Draheim\"",
+  "CreSubjectClassification_tab": [
+    "Dunera",
+    "Internment",
+    "Being Australian"
+  ],
+  "AssParentObjectRef": null,
+  "rownum": 1,
+  "CreRole_tab": [],
+  "measurements": [],
+  "CreCity_tab": [],
+  "CreCountry_tab": [],
+  "BibBibliographyRef_tab": [],
+  "accLot": null,
+  "CreDistrict_tab": [],
+  "PhySupport": "mounted on card",
+  "index": 1,
+  "TitObjectType": "OriginalRec",
+  "CreCreationNotes": "Attached to the bottom of the cardboard is a piece of paper with the following names typewritten: Pagel, Engel, Manthey, Zander, Laue, Dreher, Krispin, Lewinski, Gresch, Draheim.",
+  "narratives": [
+    {
+      "irn": 50,
+      "image": {
+        "type": "image",
+        "irn": 8882,
+        "format": "jpeg"
+      },
+      "title": "Photographs - HMT Dunera and Internment Collection"
+    }
+  ]
+}
