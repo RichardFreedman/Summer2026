@@ -1,0 +1,5 @@
+streamlit==1.64.0
+chromadb>=1.0,<2
+openai>=1.60,<3
+pandas>=2.2
+numpy>=2
