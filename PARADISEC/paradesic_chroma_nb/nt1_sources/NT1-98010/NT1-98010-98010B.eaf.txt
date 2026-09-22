@@ -1,0 +1,197 @@
+Tier-0: {SPEAKER=Nik} Ag kutae tili nagiem?
+Tier-0: {SPEAKER=Abet Kalokis} {SPEAKER=Abet} Kineu Abet, Abet Kalokis a pakor 1968, 10 October
+Tier-0: {SPEAKER=Nik} naflak, negag {SPEAKER=Abet} Naflak kram
+Tier-0: Neu natrauswen nen ka fo preg ur ni kotfan ne
+Tier-0: ito nanre ni nam̃olien nigmam tefsofus.
+Tier-0: Taos mes tefsofus, komam tefsofus ni mes,
+Tier-0: taos neu nalelewen neu iteflan na komam tefsofus ni mes,
+Tier-0: umer pi em̃ae ki nafet tiawi ni mam, nen ruto mes pak mal ni tetwei.
+Tier-0: Nlaken iku kin atli tefla nlaken, tefsofus ni mes rusertep̃al top.
+Tier-0: Rusertep̃al top, go rutik ki respect pak telekor ni natkon
+Tier-0: nasum̃tap nen rutok emrom ni nfanu ne, go apo mer tli tefla
+Tier-0: nlaken, ipes em̃rom nal nasum? sikskei
+Tier-0: me taos nalnasum? sikskei, ifwel tem go rait,
+Tier-0: {3 sec pause}
+Tier-0: ruk tafnau ptaki teesa gar, taosi kin ruk [fo taf]
+Tier-0: Rupitlak, ruk fo tae paketan ki nafet natam̃ol ni natkon, atli tefla nlaken mes mes kin to
+Tier-0: tefsofus lap, rusup̃neki naftekin nfaketanwen go nanrogwen.
+Tier-0: [child calling out]
+Tier-0: Nlaken nafte, rupregi tefla, {child crying} [nlaken rumro ki na kar] rumer tae itop tol nafet tiawi.
+Tier-0: Go naftekin rupregi. [break]
+Tier-0: [start again]
+Tier-0: Kineu Abet Kalokis, apakor 1968 namba 10 October go neu natrauswen neu ni kotfan ne,
+Tier-0: pes nam̃olien ni tefsofus ni mes. Taos nalelewen neu pak tefsofus ni mes.
+Tier-0: Mes gar rutik ki naftekin, rutik ki naftekin nfaktanwen go rutik ki naftekin nanrogwen.
+Tier-0: Nlaken mes kin to, tefsofus rupreg tenen isa, me runa iwi
+Tier-0: Go naftekin runrogo, go tep̃ur knen, ka fo tli tefla, gar ruleperkat top.
+Tier-0: Nafte kin ruleka ki namter. Me runa isa, me rupregi, me runa iwi, me tene isa.
+Tier-0: Go tep̃ur knen ito nal nasum?, iwel tem me rait, rutafnau teesa gar ki nafte kin iwi go nafte kin isa.
+Tier-0: Teesa rupak ektem rufo tae nafte kin iwi ga nafte kin isa.
+Tier-0: Nlaken mes kin to, natkon ne, p̃afo tili na itarup nao p̃ur.
+Tier-0: Itil mori itarup? naor pur kat tefsofus. Nafte kin rupreg ito natkon, tiawi rupregi, tefsofus rumai, ruk kraksaki. rukraksaki runa, 'tene isa'
+Tier-0: Rukraksaki me reki kin nen gar ruk mer tfagi mer tfagi gar ruk fo kano.{good inton ex}
+Tier-0: Gawan ki kai pe tli, ruto leper kat top. Go nafte kin ruleka na, ruleka na isa rupregi. Me runa iwi.
+Tier-0: Go ka mer pas skari tefla, taosi kin apo mer leka pak nafet tenen rumer nrus, motu ki komam, mal gar iwi
+Tier-0: Pak mal ni nafet apap go iak, apu go ati, gar itawi. Go gar rutae kin nafte kin nanrongwen
+Tier-0: Rutae kin naftekin nfaktanwen. Mal gar mal gar even kin ifwel kin telekor ni natkon/.
+Tier-0: Rufla nrikir ki na rupreg tenen, nawesien ni natkon. Kuleka rumai pakruk naor iskei. rupregi nrak iskei inom
+Tier-0: Ko rufla, rufla, mes ifla ta nom, ifla ta nom mau, matol rumai, [pkaskei pa pnot] nawesien gar.
+Tier-0: Mes kin to, tefsofus ni mes, okey ifwel kin, telekor ni natkon, ruk mai, rufla sos nsaisei- nawesien.
+Tier-0: Ale rupa-, pakor mes, rufla mai pakor pulp̃og, rufla wes pan nawesien pan ipi kotfak aliat.
+Tier-0: Rufla pan fam, rufam su rumai. Ko rufla pan fam su rumer mai.
+Tier-0: Me tefsofus, rupan rufam su, nawesien ipi kotfak to, rutaf kai pe pa.
+Tier-0: Nafet kotfak nawesien gar nen ito, nafet tiawi kin rufo mai paskar nawesien gar pan pan pnoti
+Tier-0: Sefmal kin rupa pnoti mes, [ipi mes] me if pi matol, matol rumer mai skari, pa pnoti matol
+Tier-0: Go neu nafsan neu inom sa.
+Tier-0: {SPEAKER=Harry} {SPEAKER=Nik} Ag kutae tli nagiem?
+Tier-0: {SPEAKER=H} Nagiek Harry
+Tier-0: {SPEAKER=Nik} Harray nafte? {SPEAKER=H} Harry Lauto.
+Tier-0: {SPEAKER=Nik} Go ag kupakor sef ntau?
+Tier-0: {SPEAKER=H} A bakor 1972, {SPEAKER=Nik} Naflak nafte? {SPEAKER=H} Api naflak nmal
+Tier-0: {SPEAKER=Nik} Ore go ag kutae tli tete natrauswen ni nam̃olien negag?
+Tier-0: {SPEAKER=H} Nam̃olien neu a? ore, taos nam̃olien nigmam, taos nam̃olien neu
+Tier-0: atu ata weswes mau, me uschool school ni mam ipan pok
+Tier-0: {SPEAKER=Nik} Me ag kuschool {SPEAKER=H} School pan nom class 6, ni
+Tier-0: primary m̃as. Ata pak na secondary mau, anom primary.
+Tier-0: Me taos na, ore taos nawesien nig mam nen ito.
+Tier-0: Taos namroan neu (ina plak) skot nafet tefsofus, ipi tlak nawesien iwi
+Tier-0: Go nawesien nen isa. Taosi ki na akit tefsofus ni malfane, taos komam, taos kineu, kineu plak nafet teesa nanwei fsofus ni taos Erakor mes a?
+Tier-0: A leka mes na, nam̃olien ki nam̃olien kipe kerkrai {lit=kerrai} malfane.
+Tier-0: Na, nlaken na tenen rupi tlak fat ses
+Tier-0: Ale rutae preg nasum?, tenen rutik ki fat, kuleka. Kule tae mas pak nam̃olien ni mes, teesa nanwei fsofus.
+Tier-0: I weswes tefla, kin ipreg na, itu pan itik ki mane.
+Tier-0: Ale ipan sor tete sernale hotel, nen kesol fat ses
+Tier-0: Go suan ipi-, esuan ipuetsoki wes kia. Go ipi tlak, kai pitlak fat ses.
+Tier-0: Ale tete, ifla mur tete fat ipak elau isol string ko isol net
+Tier-0: Nen kefan preg naik, imai ale isori, ko kesati reki esum? nen ruk fami
+Tier-0: Tete rutu esum? tu, rumroki tabol-, rumroki nawesien sa itop. Ko namroan gar iwi, rupak talm̃at.
+Tier-0: [ru ] preg talm̃at. Me te nawesien sa lap, wel kia, [tewelkia] nawesien wi kia itefla.
+Tier-0: Me tete taos pak nanre nen isa. Taos nanre nen isa, taos kuleka na nmatu rupak nait klab, nanwei me rupa
+Tier-0: Taos nmatu rupak nait club ko rupan rupak tenaor. Pnak.
+Tier-0: [background noise, no speech]
+Tier-0: Tete nanwei rufla pan rufla pnak tenaor, ko rufla pan ftup? nait club, (41) tenen ipi nawesien nen isa. Ifla pan pnak
+Tier-0: wat natam̃ol kat mane ga. Ko nai, rupnak loto, nafnako {lit=nafnaho} fserser, suan, tewan tefsofus ni mes ruto pregi ki.
+Tier-0: Ipi tlak nanre wi go nanre sa. Ilakor pi teuan m̃as kia.
+Tier-0: [silence]
+Tier-0: {SPEAKER=N} Me{SPEAKER=H}Me taosi kina komam ni mes, a taosi kin kuleka komam uto naor iskei.
+Tier-0: Plak nafet teesa {lit=tsa} nanwei uto naor iskei. Upreg grup ale uplei string band, uplei string band nen ko fuet mane, ufuet man
+Tier-0: kuleka, kuleka na npaur i- itafrafer mau, umau tu naor iskei nen uflat tae preg mane, nen uto naor iskei, rusemsem wes, ruto naor iskei.
+Tier-0: Nen ko freg mane, ufla pan tete imur mane isol mane, em̃rom ni nal m̃as.
+Tier-0: {SPEAKER=Nik} Me string band, nagien?
+Tier-0: {SPEAKER=H} String band, nagien Eselaik, go kipe pi tlak string band ni tetwei ito mai esel laik, mai taos S.L.A.I. ore Eselaik ga nagien ga kipe tu.
+Tier-0: Wel kia komam teesa ni malfane umer slati
+Tier-0: {SPEAKER=N} Kuipe mes nanom p̃og?
+Tier-0: {SPEAKER=H} Nanom p̃og. nanom p̃og, umai praktis upraktis ser mal, sum? ni Ben.
+Tier-0: {SPEAKER=H} Ben [Aia] Tetemal upo praktis sum ni iakgar etan sanpe. Tete mal upraktis sum ni apu Kalwat.
+Tier-0: {SPEAKER=Nik} Or iwi. Mi askem long yufala, be wanem tingting blong yu, wanem future, blong olketa young man blong Erakor? Kutae tli ni nafsan?
+Tier-0: {SPEAKER=H} Future, future nigmam ni Erakor, taos nafet teesa nanwei (43) fsofus, wel kia tu fo lek teflan.
+Tier-0: Ke fo tefla, kefo lakor to, mer pak nanre p̃tae-, p̃tae malp̃et me.
+Tier-0: Ipi ifwel kin nafet tes {break in sound}
+Tier-0: Ipi ifwel kin nafet teesa ni matol, tenen ito matol, ifla mai plak nametmatuan nametmatuan ptae/.
+Tier-0: Go sernale itae mer pak naor ptae pak nametmatuan p̃tae. ifwel kin ito nametmatuan pi tkaskei to/,
+Tier-0: Ke fo pitkaskei to, me taos in-, taos tetwi mai, taos tiawi ruta na tetwei iwi. Iwi iwi kir.
+Tier-0: Malen imai pak malfane, go komam una iwi ki komam, ale kefo mer pak matol
+Tier-0: Go teni matol [ke fo] mer na iwi ki matol, ale mam ko fo psawi ki teni mam, ale ni teawi ni tetwei kefo psawi ki tega. Ina tega iwi, me komam ko fo psawi ki teni mam. Tegar ruk fo psawi ki tegar. Me kefo tapitkaskei mau.
+Tier-0: Kefo to. Iwi iwi to panpan iwel kia ito pan sa. Me ta tae mau kefo wi ko kefo sa.
+Tier-0: {SPEAKER=Nik} Me ipiatlak ntan, olsem talm̃at, every generation oli safe kat gra[o]n or, nawia ikat fulap we ino safe kat kraon?
+Tier-0: Ore ipi atlaken, ipi tlak tenen kefo-,
+Tier-0: {3sec pause}
+Tier-0: Ipiatlak tenen to wok i, e sorry. Ipi tlak tenen ruwes wes ki talm̃at faum. Me a mro kin ntau faum, taos ntau ni generation faum amro kin kipe to wes wes talm̃at tau m̃as
+Tier-0: [silence]
+Tier-0: Nlaken aleka pak komam, malfanen me tete mam tete uweswes talm̃at tau m̃as.
+Tier-0: [silence]
+Tier-0: (Daisy) Ore nlaken kin a to skot nana pasta [..]..
+Tier-0: (N) Ore!
+Tier-0: I, a tamtak mau, me nlaken ataptae teflan welkia afla tli tete namrun ni..William) [..] mer.. pes stori ni tiawi, [.] Mis Mcrae ni Emten, {SPEAKER=D} o, Miss Mcrae, oooo! {SPEAKER=N} Sope
+Tier-0: {SPEAKER=D} sope itapi Mis McRae mau? A Shirley McRae
+Tier-0: Ga ipi tija neu Ep̃agtuei. Ore.
+Tier-0: {SPEAKER=N} Kai pe leka, ipato ni ballarat.{SPEAKER=D} Ore ito Ballarat. a.a.
+Tier-0: {SPEAKER=N} Ipiatlak ntau nainti{SPEAKER=D} Ga ita m̃ol to?{SPEAKER=N} ore{SPEAKER=D} Go ga ipes ki nafsan
+Tier-0: Ore ipes ki nafsan nigmam. [komam pak] skul Ep̃agtui..
+Tier-0: {SPEAKER=N} Kaipe leka ni atlag July{SPEAKER=D} O, ore
+Tier-0: {SPEAKER=D} [...] ta toktan p̃afnut to [...]
+Tier-0: {SPEAKER=Nik} Ag kupakor sef ntau {SPEAKER=D} 1953 {SPEAKER=Nik} Ni naur ses? {SPEAKER=D} Ore 1953, 24 December.
+Tier-0: {SPEAKER=Nik} Kuschool ni naur ses.
+Tier-0: {SPEAKER=D} Ha ha, a school naur ses, ata tae api tlak ntau ipi school mau a pi tlak ntau ipi 6
+Tier-0: Go wik ilakor skei ko inru. Ale nlag iwat, ale umai pak naur esa.
+Tier-0: Ale a school esa/, 1964 go apak Ep̃agtuei.
+Tier-0: {SPEAKER=Nik} I.D.S.{SPEAKER=D} a.a., I.D.S. ore, tkal 1968
+Tier-0: Ale kai pe mai to esum?,
+Tier-0: {SPEAKER=nik} To esum? to me ag kuwes wes 1968?
+Tier-0: {SPEAKER=D} 68, 69, sixty nine go apan stat weswes hotel Lagon.
+Tier-0: {SPEAKER=Nik} Kutap weswes house kel mau?
+Tier-0: {SPEAKER=D} A weswes house kel tetemal, me apei weswes hotel Lagon, 69,70,71,72, go a pan weswes Nume, a pan pi house kel Nume.
+Tier-0: 1973 go amer ler mai
+Tier-0: {SPEAKER=Nik} Me iku kia kupan pak Noumea.
+Tier-0: {SPEAKER=D} Itik a to weswes hotel ale ipi tlak masta iskei, natam̃ol iskei imai tli na imur te wes wes sampe. Ale apan ga weswes
+Tier-0: Ale a wes wes tka 73 go amur ka mai go amer ler mai, pak esa.
+Tier-0: {SPEAKER=Nik} Me ag kuschool franis? Itik.
+Tier-0: {SPEAKER=D} Itik me apan go apo kraksok franis ((laughs))
+Tier-0: {SPEAKER=N} Go ipi nawesien mailum ni hotel Lagon, ko nawesien p̃ur?
+Tier-0: {SPEAKER=D} A weswes ne taos na, malpei nen apan stat weswes, a weswes laundry.
+Tier-0: A weswes laundry atlag ilakor inru, ale amai pi waitress. Tkal 1972
+Tier-0: {SPEAKER=Nik} Me ipi nawesien wi?
+Tier-0: {SPEAKER=D} Ore ipi nawesien wi. Nlaken malpei franis man kin ion ki hotel Lagon, ga ipaakot wi.
+Tier-0: {SPEAKER=Nik} Me mes?
+Tier-0: {SPEAKER=D} ((laughs)) Mes nawesien itop mane ises
+Tier-0: {SPEAKER=Nik} Ore {SPEAKER=D} Ha ha {SPEAKER=Nik} Kuwes wes ni Noume, kumer ler hotel Lagon?
+Tier-0: {SPEAKER=D} Ore, a mai mer pan weswes hotel Lagon.
+Tier-0: Itik ana Noume mai, amai to esa. Ale apan weswes restaurant iskei, Pandanus
+Tier-0: Pandanus restaurant, a weswes wes mal ses, ale {action=rousing on a child}
+Tier-0: amer ler pan mai pak esum?, ale ka fo me ler pak Lagon. Mer ler pan weswes hotel Lagon
+Tier-0: Amer pan pi waitress. Amer pan-, pak hotel Lagon 1974, tkal 75.
+Tier-0: [silence]
+Tier-0: {action=rousing on a child} {whispered shout} [...] {whispered shout}
+Tier-0: laugh
+Tier-0: {action=rousing on a child}
+Tier-0: Ore amai-, amer weswes hotel Lagon tkal 1975, ale a pi tlak teesa nen tu, Timothy
+Tier-0: Ale a weswes pan a tkali kin 74, 75, a pan na aslati ale a mai to esum?. A to leekor wes esum?
+Tier-0: {SPEAKER=Nik} Me ag kuta lak mau? {SPEAKER=D} Itik {SPEAKER=N} Me nlaken iku?
+Tier-0: {SPEAKER=D} Iteflan m̃as ((nervous laughter))
+Tier-0: {SPEAKER=Nik} Go pantanus
+Tier-0: {SPEAKER=D} A weswes Pandanus mal ses, ale nlaken management knen itawi mau.
+Tier-0: Go ip̃on, ale amer ler pak hotel Lagon pa.
+Tier-0: Ale a weswes tkal 1975, ale a mai [na] to esum to pan, ale amer pan ni Maxim Carlot pi house kel, esum? ga. a.a.
+Tier-0: Ntau iskei ale amer pak, e- ato ni Maxim Carlot weswes, al rumer
+Tier-0: sister neu iskei imai, itili na, natam̃ol iskei imer mur house kel franis man, Tasrik. Ale amer pan, a weswes ntau itol
+Tier-0: a pan ni natam̃ol nen weswes ntau itol, tkal 1980. Ale ru, uindependent, ale
+Tier-0: Franis man ruler, go amer mai to esum?.
+Tier-0: Mer mai to esum? to pan ale, amer pan weswes e, restaurant iskei, Bamboo Royal
+Tier-0: mer weswes ntau itol, ale a mer ler mai to esum?.
+Tier-0: Ale amer ler pak na hotel Lagon, 1991, tkal 1994.
+Tier-0: a.a. 91 pak1994. Amer ler pak esum? nlaken a to weswes me ipi tlak election ni politic,
+Tier-0: ale kineu a tu leg kineu api member, na ilekted member.
+Tier-0: {SPEAKER=N} ni nafte?
+Tier-0: {SPEAKER=D} Ni nanre ni politic ni U.M.P.
+Tier-0: Ale komam utu leg, ale kineu a pi, amai pi na, Daniel ipi president-, vice chairman kineu api vice ga.
+Tier-0: Ale raweswes ntau ipat.
+Tier-0: Ale rudisolf ki lokal Kafman, go taos kaonsel kipe tik go ipi mal wan, Idisolf.
+Tier-0: Ale amer ler pan, paus ki nawesien naur ses go apo weswes tkal mes.
+Tier-0: {SPEAKER=Nik} Nawesien ni council ipi nawesien nen rupakot?
+Tier-0: {SPEAKER=D} Tik sakrifais ((laughs)) ore, utmom welu komam nawesien, nafte ipakor community, komam utu leg. Ale uweswes
+Tier-0: Go api-, taosi welkia kineu a pi vice chairman ni area council, go apitkaskei {litP̃kaskei}pi representative ni nafet nmatu/
+Tier-0: pak nsaiseiwen, ur na north Efate mana tefla. ((laughs))
+Tier-0: Ore
+Tier-0: {SPEAKER=N} Go ag kuto lekor toufakal? {SPEAKER=D} Toufakal {SPEAKER=Nik} Go teesa ses nen
+Tier-0: {SPEAKER=D} Tesa ni Timothy. {SPEAKER=Nik} Go malfane kuweswes naur ses.
+Tier-0: Me. Yu save tok smol long sait blong olsem tingting blong you, long fiuja blong Erakor, olsm ol young fala man naw, wanem, hemi different nau, olsem taem you luk bak long laif blong you, olsem yu jas tingbaut hemia smol.
+Tier-0: Ore taosi kin iwelkia malpei welkia komam uskul pan, uskul su, ale (51) umur na komas ko weswes, ale ko kerkrai lel nawesien.
+Tier-0: Me teesa ni mes ga itik. Ischool pan inom. Imai to esum? ileka ito kop, namurien ga,
+Tier-0: ita mro ki nawesien mau ita mro ki skul fee nen tmen me raiten raspent kin, ko raius kin
+Tier-0: reki fi ((fee)) ga, skul ga mana mau, itik. Nam̃olien ni mes ipon p̃tae
+Tier-0: Ruto p̃al to me ruleka na iwi. ruta mur nawesien mau.
+Tier-0: {SPEAKER=Nik} Go nawesien ni nmatu mes, itapi tkaskei nawesien ni nanwei?
+Tier-0: nanwei ruto mes petog. Me nalelewen neu, nmatu ruto pregi nawesien p̃ur.
+Tier-0: {SPEAKER=D} Ore itilmori.
+Tier-0: Ito ntaulap, malpei nmalok itik, mal ni apap nigmam mana, nmalok ruta ius ki nmalok teflan mau.
+Tier-0: Go kuleka na taos (52) krup ni nanwei, talpuk ni nanwei ruweswes kerkrai. Me mes, welkia nmalok itop.
+Tier-0: Nmalok itop go, nanwei nawesien gar itap sef wi mau, me nmatu nawesien gar isef, isef, isef olwei a?
+Tier-0: Taosikin, taosi pi, taosi nawesien ni na nfanu, nmatu rutu leg ko nanre ni nasum? tap P.W. mana
+Tier-0: Nmatu rukerkrai weswes.
+Tier-0: [silence]
+Tier-0: Go mes kuleka, nanwei lap ruto esum?, nmatu mas rulel nawesien ruwes wes reki nam̃olien ni family. Ore.
+Tier-0: {SPEAKER=Nik} Me iku kin, nlaken iku?
+Tier-0: {SPEAKER=D} Ga wan ki utatae nlaken kin ilakor pi namropirwen. Namropirwen ko nasertep̃al wen {laughs}
+Tier-0: Ruta mro kas reki na nam̃olien ni em̃rom mau.
+Tier-0: Rupo kop namurien gar itop
+Tier-0: [laughs]

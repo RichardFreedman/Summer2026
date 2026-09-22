@@ -1,0 +1,237 @@
+Tier-0: 3sgPAST stap grope || about hole stone this OBJ 3sgIRR inside-intensifier when 3sgPAST stap grope || about go go  3sgPAST stap feel something || He felt around the stone hole until he felt something. || 19:19 Ito nrog namrun, go, ki tok mrokin na“naftekin?" OK, Selwan kin i tok panpanpan na itok tkali go ki tok takinrog kin pan kinrogo na kipi natam̃ol. || i to nrog namrun o ki tok mrokin na naftikin selwan kin i tok pan pan na i- tok tkal- i go ki tok takinrog kin pan ki- nrogo na i- pi natam̃ol3sg stap feel something oh  || 3sgPAST stap think say what when OBJ 3sg stap go go in_order_to 3sg- stap touch-TR and 3sgPAST stap listen? OBJ go 3sgPAST-feel say 3sg- be man || He felt something,“Oh", he thought“What's that?" He felt around until he felt that it was a man.
+Tier-0: {SPEAKER=Silas Alban}19:1 Nrak iskei ipiatlak apu go ati iskei ratok. ||       nrak i- skei i- pi-atlak apu go ati i- skei ra- tok ||       time 3sg- one 3sg- be-own grandfather and grandmother 3sg- one 3dl- stap ||       Once there was a grandfather and grandmother
+Tier-0: 19:2 Rapreg nasum̃ gar, itok em̃ai ki talm̃at. ||        ra- preg nasum̃ gar i- tok em̃ai ki talm̃at ||         3dl- make house 3pl 3sg- stap long || way OBJ garden ||        They made their house a long way from the garden
+Tier-0: 19:3 Ratok panpanpan nrak iskei rana rakfak talm̃at gar. ||        ra- tok panpan nrak i- skei ra- na rak- fak talm̃at gar ||       3dl- stap until blood 3sg- one 3dl- want 3dl- go garden 3pl ||       They went to their garden one day. ||
+Tier-0: 19:4 Raslat sernale ni talm̃at kai pa. ||       ra- slat sernale ni talm̃at  kai pa ||       3dl- carry thing of garden THEN go ||       They carried everything from the garden  and they went. ||
+Tier-0: 19:5 Raslat masmis raslat kram raslat nal nen rakfo pai sernale wes, rapa. ||       ra- slat masmis ra- slat kram ra- slat nal nen rak- fo pai sernale wes ra- pa ||       3dl- carry knife 3dl- carry axe 3dl- carry basket this 3dl- fut fill thing intensifier 3dl- go ||       They got their knife, their axe, and their basket which they filled, then they went. ||
+Tier-0: 19:6 Rapanpanpanpanpan, rapatu meltig ki talm̃at/ go wakp̃ur iskei imai.  ||       ra- panpan ra- pa to meltig ki talm̃at go wak-p̃ur i- skei i- mai ||       3dl- until 3dl- go stap close OBJ garden and pig-big 3sg- one 3sg- come ||       They went close to their garden and a big pig came near. ||
+Tier-0: 19:7 Go Wak p̃ur nen imai, kai p̃asir. ||       wak p̃ur nen i- mai kai p̃as- ir ||       pig big this 3sg- come THEN chase-3dlO ||       The big pig came and chased the two old people. ||
+Tier-0: 19:8 Wak nen ip̃asir. ||       wak nen i-p̃as- ir ||       pig this 3sg- chase-3dlO ||       The big pig chased them ||
+Tier-0: 19:9 Rafitfitfitfitfit panpan ra na ratkal esum̃. ||       ra- fitfit pan pan ra na ra- tkal e- sum̃ ||   3dl- run go go 3dl want 3dl- touch LOC-home ||   They ran until they reached the house ||
+Tier-0: 19:10 Me maarik nen ina itok ki preg ptak i sernale. ||   me maarik nen i- na i- tok ki preg ptak i sernale ||   after man this 3sg- want 3sg- stap 3sg  make ready TR thing ||   Then the man began to get ready. ||
+Tier-0: 19:11 Ki preg ptaki ola, nas, plak timen nega. ||  ki preg ptak- i ola nas plak timen nega ||   3sgPAST make ready-TR spear bow also arrow 3sg ||   He got his spear, bow and arrow ready. ||
+Tier-0: 19:12 Go isol kram go masmis kai ler, ki nrik mtulep kin nag“Ag p̃atok me kineu kamer pak talm̃at pan, kafan lel wakp̃ur nakia ip̃askit." || go i- sol kram go masmis kai ler ki nrik mtulep kin nag ag p̃a- to(k) me kineu ka- mer pak  talm̃at pan ka- fan lel wak-p̃ur nakia i- p̃as- kit || and 3sg- carry axe and knife THEN back 3sgPAST tell wife OBJ say 2sg 2sg- stap but 1sg 1sg- go go  garden go 1sg- go look || for pig-big that 3sg- chase-1plO || And he carried his axe, his knife, and went back, he told his wife“You stay, but I will go back to the garden, to look for the big pig that chased after us."
+Tier-0: 19:13 Selwan i panpanpan na itkal talm̃at ki us nalof wak. || selwan i panpan na i- tkal talm̃at ki us nalof wak || when 3sg until in_order_to 3sg- touch garden 3sgPAST track track pig || When he got to the garden he began following the pig's tracks. ||
+Tier-0: 19:14 Ki us nalfen panpanpan kipe tok malik, nmalko sa kipe tok mai. || ki us nalof-en panpan ki- pe tok malik nmalko sa ki- pe tok mai || 3sgPAST track track-this until 3sgPAST-PERF stap dark dark bad 3sgPAST-PERF stap come || He followed the tracks until it was dark. ||
+Tier-0: 19:15 Selwan rapanpanpan isiwer panpanpan na itkal natik na, orfale. || selwan ra- pan i- siwer panpan i- na i- tkal natik orfalewhen dl- go  || 3sg- walk,travel until 3sg- want 3sg- touch edge cave || He went on until he got to the edge of a cave. ||
+Tier-0: Go kistat, naru-, naruk, nmalko kipe tok tarup̃ ntan, nmalko kipe nmalko sa kipe tok mai. Ale maarik wan ki mur nen kin ke fan sil pak orfale, me ke fo matur p̃og pakor pulp̃og kefomer us nalof wakp̃ur nen. || Go kistat, naru-, naruk, nmalko kipe tok tarup̃ ntan, go nmalko ki- pe tok mai ale maarik wan ki mur- in nen kin ke fan sil pak orfale me ke fo matur p̃og pakor pulp̃og ke- fo- mer us nalof wak-p̃ur nen || and dark 3sgPAST-PERF stap come and man this? 3sgPAST want-3sg this OBJ 3sgIRR go inside go cave but 3sgIRR fut sleep night born,appear morning 3sgIRR-fut-go track track pig-big this || It was getting darker and the man wanted to go inside the cave, after he slept the night until the morning when he followed the tracks again. ||
+Tier-0: 19:17 OK, Me selwan kin itok panpanpan. || me selwan kin i- tok panpan || but when OBJ 3sg- stap until || Then he stayed and stayed. ||
+Tier-0: 19:18 Ki tok toto nfal fat nen kin ke silwes, selwan ki tok toto panpan, ki to nrog namrun.
+Tier-0: ki tok toto nfal fat nen kin ke sil- wes selwan ki tok toto pan pan ki to nrog namrun
+Tier-0: 19:20 Ale kipestafi,“E me ag ku tfale mai pak nfalfatnen?" Ale, Maarik nen itok em̃rom nfalfat nen kipestafi,“Me ag ku tfale mai?" Go maarik nen ki ga trausi. Kitli na“Komam mtulep ra mai pak talm̃at me wak p̃ur iskei ip̃as komam. || i- tok i- pes- tafi e me ag ku tfale mai pak nfal fat nen maarik nen i- tok em̃rom nfal fat nen ki- pes- tafi me ag ku tfale mai go maarik nen ki ga traus- i ki- til- i na komam mtulep ra mai pak talm̃at me wak p̃ur i- skei i- p̃as komam || 3sg- stap 3sg- speak-? eh but 2sg 2sg how come go hole stone this man this 3sg- stap inside hole stone this 3sgPAST-speak-? but 2sg 2sg how come and man this 3sgPAST 3sg storian-TR 3sgPAST-tell-TR say we wife 3dl come go garden but pig big 3sg- one 3sg- chase we || He said“Hey, but how did you get into this rock hole?" The man who was inside the rock hole said,“But you, how did you come here?" And the man spoke, he said“We, my wife and me, we went to our garden, but a big pig chased us."
+Tier-0: 19:21 Ale raler pak esum̃ pa me atokia akraksoksok me aparekin mai.   || ra- ler pak e- sum̃ pa me a- to- kia a- kraksoksok me a- parekin mai1dl- want  || 1dl- back go LOC-home go but 1sg- stap-DEM 1sg- prepare but 1sg- go from come || We wanted to go back home but I got ready to go back (check the meaning of this) ||
+Tier-0: 19:22 Me ku tae wakp̃ur nen itapi wak mau. || me ku tai wak-p̃ur nen i- tap-i wak mau || but 2sg know pig-big this 3sg- not-TR pig not || But you know that that pig is not a pig ||
+Tier-0: 19:23 Me wakp̃ur nen ipi ntwam. || me wak-p̃ur nen i- pi ntwam || but pig-big this 3sg- be devil || But that pig is a devil ||
+Tier-0: 19:24 Me malen kin ipan, ipan kai tmen, kai tmen slatlua nasok wak kai preg nasok natam̃ol || But it took off its skin and changed to wear the skin of a man
+Tier-0: 19:25 Malnen kin inrik ntwam nen kin ntwam nen ina,“Aa me kineu ana kafo pam akam kia me akam rasef." || malnen kin i- nrik ntwam nen kin ntwam nen i- na a me kineu a- na ka- fo pam akam kia me akam ra- sef." || as OBJ 3sg- tell devil this OBJ devil this 3sg- say ? but 1sg 1sg- want 1sg- fut eat 2pl DEM but 2pl 3dl- escape || When he said this, the devil said,“Ah but I wanted to eat you, but you ran away."
+Tier-0: 19:26“Me ipi malfanen takto pan panpana p̃amatur go ka fo pamik." || me i- pi malfanen tak- to pan panpan-a p̃a- matur go ka fo pam-ik || but 3sg- be now 1dlS-stap go until- ? 2sg- sleep and 1sg fut eat-2sgObj" || But now we'll wait until you are asleep and then I will eat you."
+Tier-0: 19:27 Maarik nen,  Me ntwam ita nrikinkin mau. Ntwam ito mrokin teflan na kefo wat olfala, ke fo wat apu nen p̃og. || me ntwam i- ta nrik-in- kin mau ntwam i- to mrokin teflan na ke- fo wat olfala, ke fo wat apu nen nen p̃og || but devil 3sg- neg tell-3sg- OBJ not devil 3sg- stap think olsem say 3sgIRR-fut hit man this night || But the devil didn't tell the man. The devil was thinking about how to kill the man at night.
+Tier-0: 19:28 OK, selwan kin itok panpanpan ratok panpanpan ki tok malik sa ki toktaruk ntan mai ki || me selwan kin i- tok panpan ra- tok panpan ki tok malik sa ki tok- taruk ntan mai ki || but when OBJ 3sg- stap until 3dl- stap until 3sgPAST stap dark bad 3sgPAST stap-fall ground come 3sgPAST || petok paaraki nmaloput p̃og go ntwam nen itok kai nrikinkin na,“Me ag ku pe fam ko || pe- tok paaraki nmaloput p̃og go ntwam nen i- tok kai nrik-in- kin na me ag ku pe fam ko itik?" PERF- stap go || from middle night and devil this 3sg- stap THEN tell-3sg- OBJ say but 2sg 2sg PERF eat or conj || Go maarik nen ina,“Kineu atatafam mau."itik  || go maarik nen i- na kineu a- tata-fam mau || not and man this 3sg- say 1sg 1sg- not- eat not
+Tier-0: They stayed until it grew dark, until the middle of the night, and the devil said,“Have you eaten already?". And the man said“I have not eaten"
+Tier-0: 19:29 Me selwan kin maarik nen ito us napu kin ito us nalof wak pan malen itapialiato ipan ilek nlak nafil iskei ito./ || me selwan kin maarik nen i- to us napu kin i- to us nalof wak pan mal- en i- ta- pi-aliato i- pan i- lek nlak nafil i- skei i- to || but when OBJ man this 3sg- stap track road OBJ 3sg- stap track track pig go time-this 3sg- neg-be-day 3sg- go 3sg- look stump navele 3sg- one 3sg- stap || When the man followed the tracks of the pig while it was still daylight he saw a navele tree.
+Tier-0: 19:30 Ale itai nafil. || Ale i- tai nafil  || 3sg- cut navele || He cut a navele nut.
+Tier-0: 19:31 Itok itai nafil panpanpanpan kaipai nafil rutopak etga tu em̃rom nalga, kai pa. || i- tok i- tai nafil panpan i- pai nafil ru- pak em̃rom nal- ga || 3sg- stap 3sg- cut navele until 3sg- fill navele 3plS-go inside basket-3sg || He cut the navele and he filled up his basket with them.
+Tier-0: 19:32 Selwan kin ipanpan rana rakpanfam ntwam itli na“Rak fanfam p̃og." || selwan ra- pa ntwam i- na rak fan fam p̃og || when 3dl- go devil 3sg- say 3dl go eat night || When the two went, the devil said“They've gone to eat at night."
+Tier-0: 19:34 Itok p̃as nmaloput p̃og  Selwan ratona rakfareki namlas pan ratona rakfarekin nen rakfanfam./ || selwan ra- to- na rak- pareki namlas pan ra- to- na rak- parekin nen rak- fan-fam || when 3dl- stap-want 3dl- away bush go 3dl- stap-want 3dl- go from this 3dl- go- eat || They wanted to run away in the bush to go and eat.
+Tier-0: 19:35 Maarik nen imrokin na rakfopanpam ntal ko nawi ko nanr ko tete nafnag nen kin itomrokin  nen  rakfo pan pami. || maarik nen i- mrokin nen rak- fo- pan-pam ntal ko nawi ko nanre ko tete nafnag nen kin i- to- mrokin  nen rak- fo pan-pam-i || man this 3sg- think this 3dl- fut-go- eat taro or yam or banana or some food this OBJ 3sg- stap-think  this 3dl- fut go- eat-TR || The man thought about eating taro and yam and ? and some food which he thought they would go and eat.
+Tier-0: 19:36 Selwan rapa, ntwam ito kai nrikinkin na“Ale p̃a fag sago?" Rato kai kelkel ki nlak nait iskei pak elagpa. || selwan ra- pa ntwam i- to kai nrik-in- kin na p̃a pag sago ra- to kai- kelkel ki nlak nait  i- skei pak elag- pa || when 3dl- go devil 3sg- stap THEN tell-3sg- OBJ say 2sg climb here 3dl- stap 3dl- climb OBJ stump fig  3sg- one go top, above-go || The devil said,“You climb here?" They climbed quickly up the fig tree.
+Tier-0: 19:37 Ale, ntwam ina ito kaislatlu nua nait iskei kai pami. || ntwam i- na i- to kai- slat- lu nua nait i- skei kai pam-i || devil 3sg- want 3sg- stap ES- carry-PERF fruit fig 3sg- one ES eat-TR || The devil carried some Nait fruit and ate it.
+Tier-0: 19:38 Itok inrik apu kin na,“P̃a slat nafnag me p̃afam." || i- tok i- nrik apu kin na p̃a slat nafnag me p̃a- fam || 3sg- stap 3sg- tell grandfather OBJ say 2sg carry food after 2sg- eat || He told his grandfather,“You carry food then you eat."
+Tier-0: 19:39 Selwan apu inrogo, apu ina“E, me kineu akano pam nua nait." || selwan apu i- nrogo apu i- na e me kineu a- kano pam nua nait || when grandfather 3sg- hear grandfather 3sg- say eh but 1sg 1sg- cannot eat fruit fig || When his grandfather heard, he“Hey, but I can't eat Nait fruit."
+Tier-0: 19:40 Malnen ntwam ipam nua nait iskei, apu islatlu nafil iskei em̃rom nalga kai pami. || Malnen ntwam i- pam nua nait i- skei apu i- slat- lu nafil i- skei em̃rom nal- ga kai pam-i || as devil 3sg- eat fruit fig 3sg- one grandfather 3sg- carry-PERF navele 3sg- one inside basket-3sg THEN eat-TR || As the devil ate the fig, grandfather took out the navele from his basket and ate it.
+Tier-0: 19:41 Me apu kinrus fam p̃elp̃el, selwan ra nrustorik ntwam ki paoskin,“Ag ku[pai]ipe pam || me apu ki- nrus fam p̃elp̃el selwan ra nrus torik ntwam ki paoskin ag kui- pe pam || after grandfather 3sgPAST-move eat quick when 3dl move small devil 3sgPAST ask 2sg 2sgPAST-PERF eatnatam̃ol ipi?"  || Go maarik nen itok ki nrikinkin na,“Me ag?" Go ntwam kina,“Kineunatam̃ol i- pi  || go maarik nen i- tok ki nrik-in- kin na me ag go ntwam ki- na kineuman 3sg- be and man this 3sg- stap 3sgPAST tell-3sg- OBJ say but 2sg and devil 3sgPAST-say 1sg || kineu a pam natam̃ol itul su."kai- pe pam natam̃ol itul su || IsgPF-PERF eat man three completed || Grandfather ate quickly, when he moved a little (?) the devil asked“Have you eaten a man?" And the man said“What about you?" The devil said“I have eaten three men." ||
+Tier-0: 19:42“Me ag?" Go maarik nen kina,“Kineu kaipe pam natam̃ol ilatol ki." || me ag go maarik nen ki- na kineu kai- pe pam natam̃ol ilatol ki || but 2sg and man this 3sgPAST-say 1sg IsgPF-PERF eat man eight OBJ" || And you?" And the man said“I have eaten eight men."
+Tier-0: Kaipe, kaipe pam natam̃ol kipe kipe lates ki
+Tier-0: 19:43 Ntwam ina ito kai mrokina“Kaipe en mrokin pan kaipe tok nrus mroput. || ntwam i- na i- to kai mrokin-a kai- pe en mrokin pan kai- pe tok nrus mroput || devil 3sg- want 3sg- stap THEN think- ? 1sgPF-PERF ? think go IsgPF-PERF stap move worry || The devil stopped and thought and was worried.
+Tier-0: 19:44 Ina“Me kineu ga ana kafopam maarik nen tok, me malfanen ga ki pe pam natam̃ol ilatol || i- na me kineu ga a- na ka- fo- pam maarik nen tok me malfanen ga ki pe pam natam̃ol ilatol || 3sg- say but 1sg 3sg 1sg- want 1sg- fut-eat man this stap but now 3sg 3sgPAST PERF eat man eight || me malfanen kineu apam natam̃ol itolm̃as. || me malfanen kineu a- pam natam̃ol itol- m̃as || but now 1sg 1sg- eat man three-only || He said“I want to eat this man who has eaten eight men, but I have only eaten three men.
+Tier-0: 19:45 Go malfanen kefo lekor wat kineu kin to. || go malfanen ke- fo lekor wat kineu kin to || and now 3sgIRR-fut watch over hit 1sg OBJ stap || And now he'll hit me (?)"
+Tier-0: 19:46 Ntwam i en mromromro pankisa, ipato elag nait
+Tier-0: i of nra nait mai pak etan nra nait imakot wes
+Tier-0: i ofa nra nait mai tik ntan teflan namlas imakotkotwes pan kin imtaki maarik nen ki || i of- a nra nait mai tik ntan teflan namlas i- makotkot-wes pan kin i- mtak- i maarik nen ki || when 3sg break-TR branch fig come not ground olsem bush 3sg- break- intensifier go OBJ 3sg- scared-TR man this KI || When he broke the fig branch the ????? man fell down and broke all the branches???
+Tier-0: 19:48 Ki sef pan me maarik nen me ki tok mroput. || ki sef pan me maarik nen me ki tok mroput || 3sgPAST escape go but man this but 3sgPAST stap worry || He ran away and then the man sat and worried.
+Tier-0: 19:49 Selwan ntwam isef maarik me isu, ga me namlas i makotkotwes reki esum̃. || selwan ntwam i- sef maarik me i- su ga me namlas i makotkot-wes reki e- sum̃ || when devil 3sg- escape man after 3sg- descend 3sg but bush 3sg break- intensifier go || from? LOC-home ||
+Tier-0: When the devil escaped ...??? || 19:50 Go ipi esuan natrausuen ki nom wes. || go i- pi e- suan natrausuen ki nom wes || and 3sg- be LOC-place story 3sgPAST finish intensifier || And that's where the story finishes.
+Tier-0: TREE CHOPPING:   taem we, olsem mi no save long English oli kolem wanem, mi andastand nomo se oli kolem waetwud
+Tier-0: Ale, taem hemi stanap olsem ia, mifala ikolem napuk
+Tier-0: A yu wantem se mi toktok long lanwis a?
+Tier-0: Ale, ok selwan kin nkas ilaotu, nafsan ni a, Ertap, ko Saot Efate, rusosoki napuk
+Tier-0: Rusosoki napuk. Selwan kin rutaiktofi/
+Tier-0: malfanen rusosoki raru, rusosoki raru
+Tier-0: Oraet, selwan napuk itarup̃, ru, napuk ina itarup̃ ipak ntan
+Tier-0: rutaektof, rutaektof nauren,  rutaektof nauren
+Tier-0: Ale rup̃ur luksal, luksal ipi san rusosoki, san kin natam̃ol rutoktan wes a?
+Tier-0: Tai rusosoki luksal. Selwan kin kuna ku tae panpan inomser, ale imai pi raru
+Tier-0: Raru, ale ipitlak, a, taos mes rusosoki nsem̃
+Tier-0: Nsem̃, nsem̃ ipi kutai nkas nen rusosoki naplil, nkas nen. Okay rusosoki naplil.
+Tier-0: Naplil, kutai ipi nsem̃. Nsem̃ ni raru, a, nsem̃ ni raru ipi..
+Tier-0: Selwan kin kutai, ipitlak nsem̃ go ipitlak nakiat go ipitlak..
+Tier-0: Nkas iskei rusosoki tap̃ir a? Tap̃ir, malen kutai tap̃ir ipi malen ku mai na ku stat,
+Tier-0: ku mai nen kin ku preg, ku pasoki pa nsem̃ rusosoki lak rusosoki lak.
+Tier-0: Selwan kin rupasoki nomser, rumotsoki, ipitlak a, nkas iskei rusosoki nala, nmarit iskei rusosoki nala
+Tier-0: Nala, kuslati, kumai, kumotsok, kumotsok lak kin, ale ku motsoki [panko] nsem̃
+Tier-0: Ku mer pan tan nkas iskei, rusosoki nam̃er, ipi nawes ni raruipi nawes ni raru.
+Tier-0: Ale p̃a mai, kupsi itok raru. Ale selwan kin ku mur na p̃a fan raru, kuslat nawes ku pa raru
+Tier-0: ku pak elau. Ku pan tkau, ko ku pan nrup̃, ko ku pan pan elau
+Tier-0: Tkanwan kia
+Tier-0: {mike noise}
+Tier-0: {tree falling down}
+Tier-0: {SPEAKER=Kalsarap} 1912
+Tier-0: Dr. Mackenzie inrik Samuel kin nag“ku lek natus nen itu
+Tier-0: p̃a slatsi, pan pai luk raru negag“.
+Tier-0: Samuel ipo pan  sol natus nen mis inrikin kin.
+Tier-0: Samuel ipan slati pan pai luk raru nega ip̃ur
+Tier-0: Inom go mis ipaus kin kin ina
+Tier-0: Samuel inag,- inom ko- Sori
+Tier-0: ipauski Samuel kin na“Inom ko" Samuel inag“Or mis"
+Tier-0: Samuel ipa raru [indistinct] me mis iur eut pak Elignairo
+Tier-0: p̃a falus-, p̃a falus pan p̃a leka af sik naruk
+Tier-0: p̃a [taur] nawes me natus ruk nom pak ntas pan
+Tier-0: Samuel itut ki natus pan..
+Tier-0: Samuel itut ki natus pan pan inom selwan ipalus mai sak Eslaor/
+Tier-0: Elaknatu go mis ipan mak raru nega
+Tier-0: me itap lek tete natus [tape damaged] p̃a fa raru negag pak eslaor [..]
+Tier-0: Bae mitalem se yu tufala iwet, mi go, mi wantem go wetem yutufala. Ale mifala igo.
+Tier-0: Tekem kenu igo long Em̃lases, pulum kenu istap, mifala iwokbaot igogogo
+Tier-0: Katsem narasaed tekem kenu long ol, wan ples we oli kolem Ear.
+Tier-0: Nao mifala igo, igo ipulum kenu istap long wan vilej we oli kolem Earteuteu
+Tier-0: Nao mitrifala i go, i go Jif Sailas hem i stap,
+Tier-0: hem i luk mifala i kam aot, mi mi go fastaem, Pasta i behaen mi, waef hem i bihaen long pasta.
+Tier-0: Nao olfala hem istap, luk, mifala i go gogo, nao olfala hem i stap luk, mifala i go gogo, hem i [fala] wan toktok blong ol olfala bifo, hem i talem se“O,
+Tier-0: ol smol fis oli kam, but yufala i olsem welfis we i stap  antap long bigfala si.
+Tier-0: Ol smolfis oli kam kakae gudfala kakae finis oli go bak. Yufala i olsem welfis ia yufala i kam nao
+Tier-0: i gat ston i stap, yufala i kam kakae ston ia."
+Tier-0: Pasta i harem we i kros, mi tu mi olsem mi sem long pasta,
+Tier-0: be i gat wan storian blong olfala bifo ia, hem i stap talem olsem, i sakem  long mitrifala.
+Tier-0: Mifala i stap [pasta] mi harem we i no stret long.. mifala i stap hem i mekem kakae, mifala i stap kakae gogo nao hem i talem se“ E,
+Tier-0: mi wantem talem long yu trifala, yufala save se tok we mi mi sakem long yufala i olsem welfis.
+Tier-0: Tafra, akam utaos tafra. Hem i harem long lanwis nao.
+Tier-0: Naik seserik ru mai fam pan pan pan inom ru ler pa me akam ko fo mai. Nafsan anrikinmus ki [...] mai fam fat.
+Tier-0: Yufala kakae ol ston ia. Pasta i harem no, i no stret. Nao hem i talem, hem i talem olsem:
+Tier-0: Hemi talem olsem, Tafra hem i stap {cough} kakae long
+Tier-0: Tafra i pato fam elau,
+Tier-0: An,e, ol smol fis oli stap  go go nao olsem solwota i stat i kam soa.
+Tier-0: Oli stap kakae i gat wan fis mifala i kolem laokinasusu.
+Tier-0: Hem i talim e yufala i stap mi mi go singaot welfis i kam kakae from we solwota i stap i kam soa.
+Tier-0: Bambae i stap gogo taem we solwota i kam, yumi go bak, bambae hem i no save kam.
+Tier-0: Nao, yu go singaotem ikam
+Tier-0: Ale mi go smol fis ia i go nao i talim long welfis“a yu kam kakae from we solwota i stap i kam soa nao."
+Tier-0: Hem i se“no, yu fala i kakae, mi mi gat taem blong mi blong kam."
+Tier-0: Oli kakae gogo taem solwota i stat i go bak, ol smol fis oli go bak.
+Tier-0: Tafra i stap kik, i stap mekem noes, daon long bigfala si/
+Tier-0: Hem i no save solwota i stat i kam soa finis
+Tier-0: Nao i stap gogo nao ol fis oli stat i go bak.
+Tier-0: Solwota i stat i drae, oli stap i go bak.
+Tier-0: Hem i stap gogo nao“o taem blong mi, mi wantem go bambae mi mi go kakae nao."
+Tier-0: Taem hem i kam nao, hem i fas.
+Tier-0: "Mi no save mekem blong kam soa", no , solwota i drae finis.
+Tier-0: Hem i gerap nao i kakae ston. {laughs}
+Tier-0: Ale mi go bak, but i gat mining blong em. Naoia mi, bambae olgeta oli talem mining blong hem long yu.
+Tier-0: {laughs}
+Tier-0: Wanem storian, emia? {laughs}
+Tier-0: You luk, olgeta blong Eratap, taem olfala hem i oraet hem i stap hem i strong i stap oli no wantem go luk hem. Mi wan nomo,
+Tier-0: ol storian blong hem, plante mi mi kajem, be mi no save talem long yu
+Tier-0: (laughter).
+Tier-0: Yes, yu wantem, Bambae mi talem tu nomo long yu. Wan i olsem.
+Tier-0: Wan taem, mi mi stap long Erakor. {SPEAKER=N} yu stap talem long nafsan nomo {SPEAKER=K} a? (nafsan) yes nafsan
+Tier-0: Or ka fo mer nrikirki iskei. Iskei natrausuen knen
+Tier-0: komam limas kineu amai alak esan kai pe to esan to.
+Tier-0: Tol pan pan pan apitlak tesa go nmatu naliati iskei.
+Tier-0: Amroki tmak go raitok kafan saufir Ertap mo kai fan.
+Tier-0: Apanpan paakor go rato, apan apaakor go ranrik wou kin nag“Suker nig mam inom."
+Tier-0: Anrikirkin na“Matol pulp̃og ka fo gamus sol suker mai".
+Tier-0: Ana ato kaipa lek tata Sailas [sem man]. A pan a limsir rai to traus atraus pan pan...
+Tier-0: Go kai ler mai mai nen apa mai lems-, lek tmak go raitok kai nrikirkin na“kafopan me matol pulp̃og, ka fo gamus sol suker mai".
+Tier-0: A mai na sai ki raru, sa ki Ear raru i ka ma nrikirkin na“[p̃a fo ta mai puet raru mau ] {correction&̃amp;gt;Me atli nag ku tap mai pa raru mau."{/}
+Tier-0: Raru nen ke to matol pulp̃og me kai pe [name] sol suker mai.
+Tier-0: A mai anrik mtulep neu ki, apu go ati ra ti ki suker.
+Tier-0: Rapo gar preg ptaki suker pan inom rasol tete pret
+Tier-0: pulp̃og rik go kai pe tmalu Erakor pan sak Emis
+Tier-0: pan pa raru ear a pan tuer ki.
+Tier-0: Ka fan go iak mana rana“Me ag ku pan lek maarik Sailas?
+Tier-0: Me inrikiki tetenamrum ko?" Ana“Itik".
+Tier-0: Go ranrik wou ki na“E, Ipreg nafamwen p̃og rulaulau panpan ialiat."
+Tier-0: Go [ana] atok kai sos, Jemis. Ita ses, ises ilakor piatlak ntau atap tae mau i ses perkati.
+Tier-0: Asoso hemia nao“Jemis, p̃a fit mai." I mai ilauto a nrikirkin na“
+Tier-0: P̃a fak Elaknaar pa. Me p̃a lek apu go ati go p̃a nrikirki na“Awo ni Erakor kipato
+Tier-0: me ina imur tuluk iskei m̃as ita mur inru mau. Raktuok tuluk keskei [p̃a wisi mai..] neu wesi, me, ke fa wisi pan ke fami.
+Tier-0: Maarik go mtulep rato panpan go tata Sailas kinrikirkin mtulep nega kin na“E tete tuluk itok ko?"
+Tier-0: Mtulep itapes mau me ipnut to. Ito panpan go maarik nen ina, maarik ito inrikirkin mtulep kina kanrikirki nafsan  ni tiawi iskei.
+Tier-0: Faat ses ip̃opu rau p̃ur.
+Tier-0: Mtulep ito ipan toto um panpan ipamor tuluk inru
+Tier-0: ina ito kai wisi ina tuluk wan ratoki inrikirkin na“Malfanen ka fo pan lek nafit, go i fato, ni Erakor go i fato.
+Tier-0: Nafsan matu ni tiaui. Itok kai wes tuluk nen mai imai mai mai tu esum̃ tu. Esum̃ Ertap.
+Tier-0: Mai naisil, kai- nafit nen to ag ku pa to preg nafte pan pan kin per mai to fauskin tuluk.
+Tier-0: Ana [pregnrogo kia ]. Nlaken komam ratofkar ipi tmak [nen a fiarki] kat natrausuen ga nrak lap ito neu traus, sup̃ ni tiaui.
+Tier-0: [ui]po neu traus. I traus i teflan kin na, {cough}
+Tier-0: Ina Jemis, [me] itap inrikikin tetenmatun mau na itik, go ipo neu traus natrauswen [wan kia trau silwa]
+Tier-0: fat ses p̃opu raru p̃ur. Ser nrak natam̃ol imurin nakefak namos ku pan sai ki raru raru gag ito slaur.
+Tier-0: kusai kin [nomo] {4.9} ku lek faat faat ne. Faat nen itop.
+Tier-0: Me fat nen ises perkati.  Selwan kumur na p̃afa kulek faat purne
+Tier-0: Ku nros [..] elagsa ku pan lelu teflan, pan pa raru gag kai pak namos fan [..] malen ku ler mai [...]
+Tier-0: Eut, faat ses nen ke fo p̃op̃u raru gag. P̃a fo mer kano pa raru
+Tier-0: Raru gag i map̃or p̃afo smoli go p̃afo pa. Ipi nametp̃ag natrausuen nen a gag trausi malfananen, tagkiu
+Tier-0: {laughs}
+Tier-0: Ga imur na ka fa-, nana-, trausi pak nana?
+Tier-0: Ku tae mal- mal {mic malfunctions}
+Tier-0: Ion finis? Olraet, a, Mi wantem a, talem wan stori.
+Tier-0: hemia  ino stori, but wokbaot blong mi, long go long luk papa blong mi, mo mama blong mi long Eratap.
+Tier-0: Taem mi go kajem Eratap, tufala italem long mi,
+Tier-0: yu yu kam, but suga  blong mitufala i finis, nao mi talem long papa mo mama mi talem
+Tier-0: "bambae tumoro, mi tekem sam suga  blong yutufala i kam."
+Tier-0: Nao mi stap, mi go luk papa blong mi, narafala papa blong mi oli kolem Jif Sailas,
+Tier-0: hem i jif long Eratap tataem ia. Taem mi go mitufala istap storian gogo,
+Tier-0: taem mi wantem go bak, mi sek han long tufala, tufala i stap mi mi aot i go,  mi go luk papa blong mi mo mama  blong mi, tufala i stap lilbet/
+Tier-0: Nao mi talem long hem,“tumoro moning bambae mi tekem suga blong yutufala i kam long haos."
+Tier-0: Mi tekem wan kenu mi pul i go, mi pulem kenu i go so, mi talem long tufala, mi talem se
+Tier-0: "yufala i no kam tekem kenu, bambae tumoro mi tekem suga blong yutufala i kam."
+Tier-0: Mi kam mi talem long waef blong mi hem i mekem redi suga blong tufala long moning taem,
+Tier-0: mi kerap long haos long Erakor mi go. Mi go mi pusaot kenu mi go long Eratap,
+Tier-0: mi givim  tufala suga, mifala i stap lelebit,
+Tier-0: tufala i talem long mi, i askem mi wan kwestin,“Yu yu go long olfala jif, i no talem yu wan samting?"
+Tier-0: Mi se“No, hem i no talem, mifala i stap storian, lelebit,  be tufala i no talem wan samting long mi."
+Tier-0: "No" tufala i talem, se“olfala, tufala i mekem wan tipati blong ol pikinini,
+Tier-0: oli danis gogogoooo i deilaet".
+Tier-0: Nao i gat wan pikinini blong sista blong mi hem i stap klosap, nem blong hem Jemis,
+Tier-0: mi singaot hem i kam se“Jemis, naoia, yu go luk apu  mo ati daon long Elaknaar,
+Tier-0: yu talem long tufala, italem se, Angkel blong Erakor i stap long {cough} istap wetem ati mo apu antap,
+Tier-0: but hem i talem se sapos yutufala i gat sam tuluk, hem i wantem wan nomo."
+Tier-0: Taem i talem olsem tufala i stap, i no tok tufala i stap. Smol boe ia i stap gogo, tufala i no givim
+Tier-0: wan luk, tufala i no talem olsem wanem. Hem i resis hem i kam bak.
+Tier-0: Mi askem hem mi talem,“E, be yu go tufala i stap?"“Yes tufala i stap,
+Tier-0: i stap, mi talem long tufala finis, be tufala i no talem wan samting."
+Tier-0: Nao olfala, hem i stap gogo, i stap luk olfala woman blong hem,
+Tier-0: hem i talem-, hemi sakem wan tok, tok ia i blong..., {cough} hem i talem long olfala woman hem i talem se“E,
+Tier-0: Yu traem go pusum han blong yu long ples we yumi kavremap laplap i stap long hem. Sapos yu faenem wan , yu giv mi."
+Tier-0: Olfala hem i stap gogo,
+Tier-0: olfala man i stap luk gogo hem i no talem wan samting, nao  hem i sakem wan tok long hem i talem olsem se,“E,
+Tier-0: mi talem yu wan stori, wan stori blong ol olfala bifo,
+Tier-0: smol ston hem i save brokem bigfala kenu."
+Tier-0: Taem i talem olfala woman, long tok ia, olfala woman i go i pusum han long ples we oli kavremap laplap long hem, i faenem tu tuluk.
+Tier-0: Hem i kam nao i givim long olfala, olfala jif,“Hemia tu nomo i stap."
+Tier-0: Olfala jif hem i kerap nao i tekem tuluk ia i kam but mifala i stap storian, mi wetem mama blong mi wetem papa blong mi i stap storian.
+Tier-0: I no long taem olfala i kam aot, nao i sakem wan tok long mi, se“E, p̃aror nen to"
+Tier-0: (hem i se i kolem mi wan.. slev, nafit, nen to)
+Tier-0: Ag ku to ler gag nafteki.." Mi no tok, mi stap laf long hem, mi talem wan samting mi se, E
+Tier-0: mi mi kam yestedei, yu no wantem talemaot bigfala kakae we yu mekem long ol pikinini,
+Tier-0: hemia nao mi wantem pruvum yu, long, wanem ia, yes, mi wantem pruvum yu sapos yu gat sam tuluk,
+Tier-0: bambae yu tekem blong mi i kam. Mifala i stap storian gogo nao hem i go bak, but storian ia
+Tier-0: i finis long ples ia, ston ia, taem yumi samtaem yu wantem go tekem kenu blong yu go long solwota,
+Tier-0: bambae yu luk bigfala ston ia i stap, yu talem se“E yufala i lukaot bigfala ston ia i stap,
+Tier-0: be smol ston ia yu no ting se bambae hem i brokem kenu blong yu.
+Tier-0: Yu pulum kenu blong yu i go long solwota i kam bak, but smol ston istap.
+Tier-0: So, bambae, yufala i pulum kenu i go olsem from yu fraet blong bigfala ston bambae i brokem kenu blong yu,
+Tier-0: be smol ston ia yu ting se hem i smol, yu sek bambae smol ston ia i brekem bigfala kenu ia yu no save go kros narasaed.
+Tier-0: Storian ia i finis long ples ia. (laughter)
+Tier-0: {laughs}
+Tier-0: Charlie Kalmet: Ol toktok ia oli gat mining blong hem. Hemia ol toktok we ol olfala oli sakem long olgeta.
+Tier-0: Samtaem oli no talem stret toktok, be oli sakem toktok olsem, be yu yu faenem aot wanem nao hem i minim....hemia nao
+Tier-0: [more explanation of the story by CKalmet in Bislama ..not transcribed]
+Tier-0: {SPEAKER=K} {laughs} [indistinct talk by CK] {child}
+Tier-0: {17.3}
+Tier-0: {SPEAKER=CK} Itik. [indistinct] Gawan go. [...] {SPEAKER=K}) Ore.. {SPEAKER=CK} Kulek naniu? Naniu [..] a?
+Tier-0: {SPEAKER=CK} [hemia?...][indistinct]
+Tier-0: taem iyang, yu save drink, yu save kakae taem iyang
+Tier-0: talking in language...about coconuts.. Yokopet, CKalmet, K numam - every part of the coconut can be eaten, sweet, even the husk.mike problems....
+Tier-0: laughing.. [sound quality useless]
+Tier-0: ae blong hem i red.. [...]
+Tier-0: {SPEAKER=CKalmet} nutag - hem i wan defren kaen bakegen
