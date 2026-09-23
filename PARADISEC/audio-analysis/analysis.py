@@ -15,6 +15,7 @@ import soundfile as sf
 
 REPO = Path(__file__).parent / "soundscape"
 AUDIO_DIR = REPO / "audio"
+EXTRA_DIR = Path(__file__).parent / "extra_audio"     # baked-in examples beyond the soundscape set
 FEATURE_CACHE = Path(__file__).parent / "features" / "clip_features.csv"
 SR = 22_050
 HOP = 512
@@ -25,6 +26,7 @@ NOTE_NAMES = ["C", "C♯", "D", "D♯", "E", "F", "F♯", "G", "G♯", "A", "A�
 DEFAULT_ITEM = "DG1-LOM027307"   # the gamelan: a strong pulse and clear tones make every view legible
 CURATED = [
     "RJL1-013",        # Enga tindi, solo sung narrative (PNG)
+    "CRIM-0012",       # Voulant honneur, Renaissance chanson rendered from the score (CRIM project)
     "DG1-LOM027307",   # Gamelan klenang (Lombok)
     "WF2-1979001",     # Yimas mambu bamboo flutes (PNG)
     "CF1-005",         # Tarawangsa bowed lute with plucked jentreng (West Java)
@@ -67,7 +69,29 @@ def load_meta() -> pd.DataFrame:
     meta["url"] = meta["url"].fillna(
         "https://catalog.paradisec.org.au/collections/" + meta["collection"]
         + "/items/" + meta["item"].str.split("-", n=1).str[1])
+    meta["credit"] = np.nan
+    meta["licence"] = np.nan
+    meta = pd.concat([meta, load_extra_meta()], ignore_index=True)
     return meta.set_index("item").sort_index()
+
+
+def load_extra_meta() -> pd.DataFrame:
+    """Examples baked into extra_audio/, described by extra_audio/extra_metadata.csv.
+
+    Columns: file, item, kind, title, description, year, collection, url, credit, licence.
+    To add an example, drop the audio file in extra_audio/ and add a row; add the item to
+    CURATED if it should appear in the default list.
+    """
+    csv = EXTRA_DIR / "extra_metadata.csv"
+    if not csv.exists():
+        return pd.DataFrame()
+    ex = pd.read_csv(csv)
+    ex["file"] = "extra_audio/" + ex["file"].astype(str)          # resolved by load_audio
+    ex["year"] = pd.to_numeric(ex.get("year"), errors="coerce")
+    for col in ("date", "lat", "lon"):
+        ex[col] = np.nan
+    return ex[["file", "item", "kind", "title", "description", "date", "lat", "lon", "url",
+               "collection", "year", "credit", "licence"]]
 
 
 def clip_label(row: pd.Series, item: str) -> str:
@@ -80,8 +104,21 @@ def clip_label(row: pd.Series, item: str) -> str:
 # --------------------------------------------------------------------------- #
 # Audio
 # --------------------------------------------------------------------------- #
-def load_audio(file: str) -> tuple[np.ndarray, int]:
-    y, sr = librosa.load(AUDIO_DIR / file, sr=SR, mono=True)
+def resolve_audio(file: str) -> Path:
+    """Soundscape files live under AUDIO_DIR; baked-in examples are relative to this folder."""
+    for candidate in (AUDIO_DIR / file, Path(__file__).parent / file, Path(file)):
+        if candidate.exists():
+            return candidate
+    raise FileNotFoundError(file)
+
+
+def load_audio(key: str) -> tuple[np.ndarray, int]:
+    """Load a clip. `key` is a file name, or 'file|start|end' (seconds) for a section of it."""
+    file, *section = key.split("|")
+    y, sr = librosa.load(resolve_audio(file), sr=SR, mono=True)
+    if section:
+        start, end = float(section[0]), float(section[1])
+        y = y[int(start * sr): int(end * sr)]
     return y, sr
 
 
@@ -318,3 +355,30 @@ def load_features() -> pd.DataFrame | None:
     if FEATURE_CACHE.exists():
         return pd.read_csv(FEATURE_CACHE, index_col="item")
     return None
+
+
+def clip_features(y: np.ndarray, sr: int = SR, seconds: float = 20.0) -> dict:
+    """The collection-wide summary features, as computed by the notebook, on the first `seconds`.
+
+    Used for baked-in examples that are not in features/clip_features.csv.
+    """
+    y = y[: int(seconds * sr)]
+    tg = tempogram(y, sr, bpm_min=40, bpm_max=300)
+    _, tonal_entropy = _profile_entropy(clean_chroma(y, sr)["profile"])
+    y_h, _ = librosa.effects.hpss(y)
+    rms = librosa.feature.rms(y=y)[0]
+    mfcc = librosa.feature.mfcc(y=y, sr=sr, n_mfcc=13).mean(axis=1)
+    out = {
+        "pulse_strength": float(tg["curve"].max()), "tempo": tg["tempo"], "tonal_entropy": tonal_entropy,
+        "harmonic_share": float((y_h ** 2).sum() / ((y ** 2).sum() + 1e-9)),
+        "centroid": float(librosa.feature.spectral_centroid(y=y, sr=sr).mean()),
+        "flatness": float(librosa.feature.spectral_flatness(y=y).mean()),
+        "rms_cv": float(rms.std() / (rms.mean() + 1e-9)),
+    }
+    out.update({f"mfcc{k}": float(v) for k, v in enumerate(mfcc)})
+    return out
+
+
+def _profile_entropy(p: np.ndarray) -> tuple[np.ndarray, float]:
+    p = p / p.sum() if p.sum() > 0 else np.full(12, 1 / 12)
+    return p, float(-(p * np.log2(p + 1e-12)).sum())

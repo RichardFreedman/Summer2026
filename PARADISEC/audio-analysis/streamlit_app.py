@@ -313,7 +313,15 @@ def layers_for(file: str, margin: float):
 
 @st.cache_data(show_spinner=False)
 def features_table():
-    return an.load_features()
+    feats = an.load_features()
+    if feats is None:
+        return None
+    # Baked-in examples are not in the notebook's CSV: compute their features on the fly (cached).
+    extras = [i for i in meta_table().index if i not in feats.index and str(meta_table().loc[i].file).startswith("extra_audio/")]
+    for i in extras:
+        y, sr = audio_for(meta_table().loc[i].file)
+        feats.loc[i] = pd.Series(an.clip_features(y, sr))
+    return feats
 
 
 @st.cache_data(show_spinner="Rendering librosa's own plots…")
@@ -329,10 +337,10 @@ meta = meta_table()
 
 with st.sidebar:
     st.title("Hearing the archive")
-    st.caption("Signal analysis of 20-second excerpts from the PARADISEC archive, "
-               "via the [soundscape](https://github.com/dan321/soundscape) story map.")
-    show_all = st.toggle("Show all 190 excerpts", value=False,
-                         help="Off: a hand-picked set of 12 music and 3 speech excerpts.")
+    st.caption("Signal analysis of 20-second excerpts from the PARADISEC archive, via the "
+               "[soundscape](https://github.com/dan321/soundscape) story map, plus a few added examples.")
+    show_all = st.toggle("Show all excerpts", value=False,
+                         help="Off: a hand-picked set of 13 music and 3 speech excerpts. On: all 190 PARADISEC excerpts plus the added examples.")
     pool = list(meta.index) if show_all else [i for i in an.CURATED if i in meta.index]
 
     kind_choice = st.segmented_control("Kind", ["All", "Music", "Speech"], default="All",
@@ -357,13 +365,33 @@ with st.sidebar:
     st.markdown(f"### {row.title}")
     bits = [row.kind, str(int(row.year)) if not pd.isna(row.year) else None, f"item {item}"]
     st.caption(" · ".join(b for b in bits if b))
+    is_extra = isinstance(row.get("credit"), str)
     if isinstance(row.description, str):
-        with st.expander("Catalogue description"):
+        with st.expander("Description" if is_extra else "Catalogue description"):
             st.write(row.description)
-    st.markdown(f"[Open the catalogue entry]({row.url})")
+    if is_extra:
+        st.caption(f"Source: {row.credit}" + (f" · {row.licence}" if isinstance(row.get("licence"), str) else ""))
+    st.markdown(f"[Open the {'source page' if is_extra else 'catalogue entry'}]({row.url})")
 
-wav = wav_for(row.file)
-y, sr = audio_for(row.file)
+    # Long clips are analysed a section at a time so the plots stay legible and quick.
+    full_duration = len(audio_for(row.file)[0]) / an.SR
+    MAX_SECTION = 60.0
+    if full_duration > 45:
+        st.divider()
+        start, end = st.slider("Section to analyse (seconds)", 0.0, float(np.floor(full_duration)),
+                               (0.0, min(45.0, float(np.floor(full_duration)))), step=1.0,
+                               help=f"This clip runs {full_duration:.0f} s. Choose up to {MAX_SECTION:.0f} s to analyse at a time.")
+        if end - start > MAX_SECTION:
+            end = start + MAX_SECTION
+            st.caption(f"Section shortened to {MAX_SECTION:.0f} s, ending at {end:.0f} s.")
+        if end - start < 5:
+            end = min(start + 5, float(np.floor(full_duration)))
+        clip_key = f"{row.file}|{start}|{end}"
+    else:
+        clip_key = row.file
+
+wav = wav_for(clip_key)
+y, sr = audio_for(clip_key)
 duration = len(y) / sr
 
 # --------------------------------------------------------------------------- #
@@ -378,7 +406,7 @@ with tab_wave:
         "The **waveform** is air pressure over time. At this zoom it shows loudness and phrasing, "
         "not pitch. The orange line is the smoothed loudness (RMS energy) in decibels below the loudest moment.")
     code_button("wave", "Waveform and loudness", RECIPES["wave"], [an.load_audio, an.envelope, an.downsampled_wave])
-    env, (t_blocks, blocks) = envelope_for(row.file)
+    env, (t_blocks, blocks) = envelope_for(clip_key)
     fig = base_fig(f"Waveform and loudness: {row.title}", height=360)
     fig.add_trace(go.Scatter(x=np.r_[t_blocks, t_blocks[::-1]], y=np.r_[blocks.max(axis=1), blocks.min(axis=1)[::-1]],
                              fill="toself", fillcolor=BLUE, line=dict(width=0), name="waveform",
@@ -405,7 +433,7 @@ with tab_spec:
                              disabled=kind.startswith("Log"))
     floor = c3.slider("Dynamic range (dB)", min_value=40, max_value=90, value=70, step=5)
 
-    spec = spectrogram_for(row.file, kind, n_fft)
+    spec = spectrogram_for(clip_key, kind, n_fft)
     fig = base_fig("Spectrogram", height=460)
     if kind.startswith("Log"):
         tickvals, ticktext = note_ticks(spec["midi"])
@@ -444,8 +472,8 @@ with tab_pitch:
     fmax_note = c2.select_slider("Highest pitch to consider", options=["C5", "G5", "C6", "G6", "C7"], value="C6")
     fmin, fmax = an.librosa.note_to_hz(fmin_note), an.librosa.note_to_hz(fmax_note)
 
-    pt = pitch_for(row.file, fmin, fmax)
-    spec = spectrogram_for(row.file, "cqt", 2048)
+    pt = pitch_for(clip_key, fmin, fmax)
+    spec = spectrogram_for(clip_key, "cqt", 2048)
     tickvals, ticktext = note_ticks(spec["midi"])
     labels = [an.note_label(m) for m in pt["midi"]]
 
@@ -498,7 +526,7 @@ with tab_pitch:
         "each moment, ignoring octave. A single voice draws one line; chords light several rows at once; speech scatters "
         "everywhere. The profile on the right is the time average, and its entropy is a one-number measure of how tonal the "
         "clip is (3.58 bits would be perfectly flat).")
-    ch = chroma_for(row.file)
+    ch = chroma_for(clip_key)
     c1, c2 = st.columns([3, 1])
     fig = base_fig("Chromagram (harmonic layer, background removed)", height=340)
     fig.add_trace(go.Heatmap(z=ch["chroma"], x=ch["times"], y=an.NOTE_NAMES, colorscale=RAMP_SCALE, showscale=False,
@@ -524,7 +552,7 @@ with tab_rhythm:
                                      help="Tempo curves peak at the pulse and at its halves and doubles. Narrow the range to pick the level you hear as the beat.")
     show_clicks = c2.toggle("Add clicks on the beats to the audio", value=True)
 
-    rh = rhythm_for(row.file, tempo_min, tempo_max)
+    rh = rhythm_for(clip_key, tempo_min, tempo_max)
     audio_rh = an.wav_bytes(an.click_mix(y, rh["beats"], sr), sr) if show_clicks else wav
 
     def tick_trace(times, y0, y1, colour, name):
@@ -599,7 +627,7 @@ with tab_tempo:
                               help="Longer windows give a steadier, sharper tempo estimate; shorter ones follow tempo changes.")
     tg_show_curve = c3.toggle("Show the global tempo curve", value=True)
 
-    tgm = tempogram_for(row.file, tg_win, tg_kind.lower())
+    tgm = tempogram_for(clip_key, tg_win, tg_kind.lower())
     fig = base_fig(f"{tg_kind} tempogram · strongest pulse overall {tgm['tempo']:.0f} BPM", height=440)
     fig.add_trace(go.Heatmap(z=tgm["tg"], x=tgm["times"], y=tgm["bpm"], colorscale=RAMP_SCALE, showscale=False,
                              hovertemplate="%{x:.2f} s · %{y:.0f} BPM · strength %{z:.2f}<extra></extra>"))
@@ -649,10 +677,10 @@ with tab_struct:
     sparsity = c3.select_slider("Show only the closest matches", options=["all", "20%", "10%", "5%"], value="all",
                                 help="Keep only each moment's k nearest neighbours, which cleans up noisy matrices.")
 
-    ss_probe = structure_for(row.file, feat_key, n_steps, None)
+    ss_probe = structure_for(clip_key, feat_key, n_steps, None)
     n_cells = ss_probe["R"].shape[0]
     k = None if sparsity == "all" else max(2, int(n_cells * float(sparsity.strip("%")) / 100))
-    ss = ss_probe if k is None else structure_for(row.file, feat_key, n_steps, k)
+    ss = ss_probe if k is None else structure_for(clip_key, feat_key, n_steps, k)
     ctx_s = n_steps * ss["cell"]
     st.caption(f"{n_cells} × {n_cells} cells of {ss['cell']*1000:.0f} ms · each comparison covers about {ctx_s:.2f} s of context")
 
@@ -687,7 +715,7 @@ with tab_layers:
     code_button("layers", "Harmonic/percussive separation", RECIPES["layers"], [an.separate, an.cqt_db])
     margin = st.slider("Separation strength", 1.0, 5.0, 2.0, 0.5,
                        help="Higher values push more ambiguous energy out of the percussive layer.")
-    y_h, y_p = layers_for(row.file, margin)
+    y_h, y_p = layers_for(clip_key, margin)
     share = float((y_h ** 2).sum() / ((y ** 2).sum() + 1e-9))
     st.caption(f"{share:.0%} of the energy in this excerpt is in the harmonic (sustained) layer, "
                f"{1 - share:.0%} in the percussive layer.")
@@ -710,10 +738,10 @@ with tab_layers:
 # ---- The collection --------------------------------------------------------
 with tab_all:
     st.markdown(
-        "The same measurements run over **all 190 excerpts**. Each point is one clip; the selected excerpt is ringed. "
+        "The same measurements run over **all 190 excerpts** (and the added examples). Each point is one clip; the selected excerpt is ringed. "
         "Pulse strength is the height of the tallest tempo-curve peak (how regular the rhythm is); harmonic share is the "
         "fraction of energy in sustained tones; tonal entropy is the flatness of the pitch-class profile. Hover to identify "
-        "any point, then choose it in the sidebar with *Show all 190 excerpts* switched on.")
+        "any point, then choose it in the sidebar with *Show all excerpts* switched on.")
     code_button("all", "Collection-wide features", RECIPES["all"], [an.load_features])
     feats = features_table()
     if feats is None:
@@ -797,7 +825,7 @@ The interactive tabs in this app reproduce the same pictures in Plotly so that t
 labels and a playback cursor.
 """)
 
-    for i, entry in enumerate(gallery_for(row.file)):
+    for i, entry in enumerate(gallery_for(clip_key)):
         left, right = st.columns([1.35, 1])
         with left:
             st.image(entry["png"], width="stretch")

@@ -24,8 +24,32 @@ Deployed at <https://dhworkshops.researchsoftware.unimelb.edu.au/paradisec-audio
 | The collection | All 190 excerpts on any two features, and a map of recording locations |
 | About librosa | The library, its modules, and a gallery of the plots `librosa.display` draws natively |
 
-The sidebar offers a curated set of 12 music and 3 speech excerpts by default,
-a toggle to open up all 190, and a music/speech filter.
+The sidebar offers a curated set of 13 music and 3 speech excerpts by default,
+a toggle to open up all 190 PARADISEC excerpts, and a music/speech filter.
+Clips longer than 45 seconds are analysed a section at a time (up to 60 s),
+chosen with a slider in the sidebar.
+
+## Added examples
+
+Besides the soundscape excerpts, the app can carry its own examples in
+`extra_audio/`. Each is one row in `extra_audio/extra_metadata.csv`:
+
+| column | meaning |
+|---|---|
+| `file` | audio file name in `extra_audio/` (MP3, WAV, FLAC, ...) |
+| `item` | short identifier, e.g. `CRIM-0012`; add it to `CURATED` in `analysis.py` to show it by default |
+| `kind` | `music` or `speech` |
+| `title`, `description`, `year` | shown in the sidebar (year may be blank) |
+| `collection`, `url` | grouping label and the link offered as "Open the source page" |
+| `credit`, `licence` | shown under the title; keep files to material you may redistribute |
+
+Features for the collection scatter are computed on the fly for added examples
+(on their first 20 seconds, matching the notebook), so nothing else needs
+rebuilding. Keep files small (a few MB) since they live in git; anything larger
+should be fetched at build time like the soundscape set.
+
+The first added example is *Voulant honneur* (CRIM Model 0012), a Pierre
+Sandrin chanson rendered from the score, from the CRIM project (CC BY-NC 4.0).
 
 ## Data
 
