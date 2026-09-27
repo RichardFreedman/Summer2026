@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Rhythm tile</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700;800&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 1600px; height: 900px; overflow: hidden; background: #faf6ef; }
+body {
+  font-family: 'DM Sans', 'Segoe UI', sans-serif;
+  color: #18140f;
+  background-image:
+    radial-gradient(circle at 4% 8%, rgba(24,20,15,0.045), transparent 40%),
+    radial-gradient(circle at 96% 92%, rgba(24,20,15,0.04), transparent 42%);
+}
+.tile { width: 1600px; height: 900px; padding: 56px 64px 44px; display: flex; flex-direction: column; position: relative; }
+.rule { position:absolute; left:0; top:0; width:100%; height:10px; background: var(--accent); }
+
+.eyebrow { font-family:'JetBrains Mono', monospace; font-size:16px; letter-spacing:0.14em; text-transform:uppercase; color: var(--accent); font-weight:600; display:flex; align-items:center; gap:14px; }
+.eyebrow .num { font-size:16px; background: var(--accent); color:#fffdf9; padding:3px 10px; border-radius:5px; }
+h1 { font-family:'Bricolage Grotesque', 'DM Sans', sans-serif; font-weight:700; font-size:64px; letter-spacing:-0.01em; margin-top:10px; color:#18140f; }
+.tagline { font-size:23px; color:#5b564c; margin-top:6px; font-weight:500; max-width:1100px; }
+
+.body { flex:1; display:flex; gap:44px; margin-top:30px; min-height:0; }
+.visual { flex: 1.42; background:#fffdf9; border:1.5px solid rgba(24,20,15,0.13); border-radius:18px; padding:26px 30px 18px; display:flex; align-items:center; justify-content:center; box-shadow: 0 1px 0 rgba(24,20,15,0.03); min-width:0; overflow:hidden; }
+.visual svg { width:100%; height:100%; }
+
+.textcol { flex:1; display:flex; flex-direction:column; gap:22px; min-width:0; }
+.block { display:flex; gap:16px; }
+.dot { flex:0 0 14px; width:14px; height:14px; border-radius:50%; background: var(--accent); margin-top:7px; }
+.block h3 { font-family:'JetBrains Mono', monospace; font-size:15px; letter-spacing:0.09em; text-transform:uppercase; color: var(--accent); font-weight:700; margin-bottom:6px; }
+.block p { font-size:20px; line-height:1.42; color:#18140f; font-weight:400; }
+
+.placeholder { margin-top:26px; border:2px dashed rgba(24,20,15,0.13); border-radius:14px; padding:16px 22px; display:flex; align-items:center; gap:14px; background: rgba(24,20,15,0.025); }
+.placeholder .icon { flex:0 0 auto; width:34px; height:34px; border-radius:8px; border:2px dashed var(--accent); display:flex; align-items:center; justify-content:center; color:var(--accent); font-family:'JetBrains Mono',monospace; font-size:18px; font-weight:700; }
+.placeholder .txt { font-family:'JetBrains Mono', monospace; font-size:15px; color:#948d7e; }
+.placeholder .txt b { color:#5b564c; }
+
+.footer { margin-top:26px; display:flex; justify-content:space-between; align-items:center; font-family:'JetBrains Mono', monospace; font-size:14px; color:#948d7e; letter-spacing:0.04em; }
+.footer .brand { display:flex; align-items:center; gap:10px; }
+.footer .swatch { width:10px; height:10px; border-radius:50%; background: var(--accent); }
+</style>
+</head>
+<body>
+<div class="tile" style="--accent:#c78312">
+  <div class="rule"></div>
+  <div class="eyebrow"><span class="num">04</span> HEARING THE ARCHIVE &nbsp;&middot;&nbsp; SIGNAL ANALYSIS</div>
+  <h1>Rhythm</h1>
+  <div class="tagline">Where the pulse begins, and where it lands.</div>
+
+  <div class="body">
+    <div class="visual">
+<svg viewBox="0 0 900 540" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+  <line x1="0" y1="80.0" x2="900" y2="80.0" stroke="rgba(24,20,15,0.07)" stroke-width="1"/><line x1="0" y1="177.5" x2="900" y2="177.5" stroke="rgba(24,20,15,0.07)" stroke-width="1"/><line x1="0" y1="275.0" x2="900" y2="275.0" stroke="rgba(24,20,15,0.07)" stroke-width="1"/><line x1="0" y1="372.5" x2="900" y2="372.5" stroke="rgba(24,20,15,0.07)" stroke-width="1"/><line x1="0" y1="470.0" x2="900" y2="470.0" stroke="rgba(24,20,15,0.07)" stroke-width="1"/>
+  <path d="M 10.0,379.7 L 13.4,340.2 L 16.8,311.8 L 20.2,301.6 L 23.6,277.5 L 27.0,275.4 L 30.4,266.2 L 33.8,249.1 L 37.2,227.6 L 40.6,207.7 L 44.0,194.6 L 47.4,203.7 L 50.8,212.6 L 54.2,205.4 L 57.6,189.9 L 61.0,170.0 L 64.4,176.5 L 67.8,194.7 L 71.2,208.3 L 74.6,221.9 L 78.0,226.4 L 81.4,252.2 L 84.7,270.7 L 88.1,288.9 L 91.5,295.9 L 94.9,313.3 L 98.3,321.8 L 101.7,345.8 L 105.1,346.0 L 108.5,342.9 L 111.9,327.4 L 115.3,321.9 L 118.7,304.5 L 122.1,282.9 L 125.5,264.7 L 128.9,257.5 L 132.3,255.3 L 135.7,245.2 L 139.1,245.1 L 142.5,235.8 L 145.9,229.1 L 149.3,227.3 L 152.7,225.0 L 156.1,240.7 L 159.5,246.1 L 162.9,266.9 L 166.3,271.0 L 169.7,280.3 L 173.1,286.7 L 176.5,302.6 L 179.9,311.7 L 183.3,320.0 L 186.7,344.9 L 190.1,366.3 L 193.5,404.1 L 196.9,417.8 L 200.3,439.5 L 203.7,441.5 L 207.1,445.3 L 210.5,438.5 L 213.9,416.8 L 217.3,392.1 L 220.7,369.7 L 224.1,345.1 L 227.5,315.3 L 230.8,292.9 L 234.2,279.2 L 237.6,268.8 L 241.0,256.7 L 244.4,247.1 L 247.8,242.3 L 251.2,226.9 L 254.6,217.4 L 258.0,207.2 L 261.4,207.0 L 264.8,202.7 L 268.2,194.7 L 271.6,200.9 L 275.0,211.7 L 278.4,226.2 L 281.8,238.5 L 285.2,239.3 L 288.6,247.2 L 292.0,251.7 L 295.4,274.9 L 298.8,292.0 L 302.2,306.8 L 305.6,320.8 L 309.0,340.1 L 312.4,357.8 L 315.8,344.8 L 319.2,328.1 L 322.6,306.7 L 326.0,291.6 L 329.4,273.0 L 332.8,263.2 L 336.2,257.2 L 339.6,250.5 L 343.0,227.5 L 346.4,231.3 L 349.8,226.9 L 353.2,230.5 L 356.6,209.7 L 360.0,214.7 L 363.4,234.3 L 366.8,255.9 L 370.2,254.9 L 373.6,241.6 L 376.9,234.1 L 380.3,246.0 L 383.7,270.0 L 387.1,291.2 L 390.5,311.3 L 393.9,326.7 L 397.3,352.0 L 400.7,365.5 L 404.1,391.6 L 407.5,420.4 L 410.9,451.5 L 414.3,458.9 L 417.7,454.6 L 421.1,441.0 L 424.5,415.6 L 427.9,380.6 L 431.3,349.7 L 434.7,327.4 L 438.1,308.6 L 441.5,306.5 L 444.9,302.9 L 448.3,299.4 L 451.7,281.4 L 455.1,266.7 L 458.5,252.5 L 461.9,245.3 L 465.3,236.4 L 468.7,245.3 L 472.1,241.8 L 475.5,231.6 L 478.9,225.0 L 482.3,221.6 L 485.7,231.6 L 489.1,239.2 L 492.5,247.3 L 495.9,261.4 L 499.3,266.9 L 502.7,287.9 L 506.1,312.6 L 509.5,338.5 L 512.9,354.6 L 516.3,355.3 L 519.7,351.1 L 523.1,339.0 L 526.4,325.0 L 529.8,299.8 L 533.2,284.2 L 536.6,258.6 L 540.0,258.0 L 543.4,245.2 L 546.8,237.6 L 550.2,217.5 L 553.6,211.1 L 557.0,210.7 L 560.4,213.8 L 563.8,201.5 L 567.2,197.6 L 570.6,199.6 L 574.0,206.4 L 577.4,217.9 L 580.8,222.3 L 584.2,234.4 L 587.6,247.6 L 591.0,258.4 L 594.4,271.6 L 597.8,282.7 L 601.2,297.1 L 604.6,321.1 L 608.0,353.2 L 611.4,384.2 L 614.8,403.7 L 618.2,417.6 L 621.6,423.8 L 625.0,420.7 L 628.4,410.1 L 631.8,401.5 L 635.2,400.1 L 638.6,380.7 L 642.0,366.6 L 645.4,349.8 L 648.8,344.2 L 652.2,328.1 L 655.6,297.1 L 659.0,272.1 L 662.4,267.7 L 665.8,267.4 L 669.2,262.2 L 672.5,242.1 L 675.9,235.0 L 679.3,238.0 L 682.7,238.9 L 686.1,245.8 L 689.5,258.8 L 692.9,270.7 L 696.3,278.5 L 699.7,268.3 L 703.1,268.0 L 706.5,281.6 L 709.9,299.0 L 713.3,318.6 L 716.7,335.7 L 720.1,364.3 L 723.5,377.1 L 726.9,367.6 L 730.3,347.0 L 733.7,343.2 L 737.1,325.5 L 740.5,307.6 L 743.9,280.1 L 747.3,266.3 L 750.7,255.5 L 754.1,234.3 L 757.5,221.4 L 760.9,208.8 L 764.3,203.2 L 767.7,198.2 L 771.1,200.6 L 774.5,202.0 L 777.9,205.5 L 781.3,209.8 L 784.7,217.9 L 788.1,219.9 L 791.5,222.4 L 794.9,221.3 L 798.3,226.7 L 801.7,239.5 L 805.1,260.8 L 808.5,276.7 L 811.9,295.8 L 815.3,324.5 L 818.6,359.8 L 822.0,387.7 L 825.4,412.7 L 828.8,421.3 L 832.2,416.1 L 835.6,395.1 L 839.0,380.5 L 842.4,370.2 L 845.8,361.3 L 849.2,355.2 L 852.6,345.2 L 856.0,340.7 L 859.4,330.4 L 862.8,319.6 L 866.2,303.1 L 869.6,287.8 L 873.0,270.4 L 876.4,270.4 L 879.8,274.7 L 883.2,277.4 L 886.6,267.3 L 890.0,331.0" fill="none" stroke="#5b564c" stroke-width="2.6"/>
+  <line x1="44.0" y1="470" x2="44.0" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="61.0" y1="470" x2="61.0" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="152.7" y1="470" x2="152.7" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="268.2" y1="470" x2="268.2" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="343.0" y1="470" x2="343.0" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="349.8" y1="470" x2="349.8" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="356.6" y1="470" x2="356.6" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="376.9" y1="470" x2="376.9" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="465.3" y1="470" x2="465.3" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="482.3" y1="470" x2="482.3" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="557.0" y1="470" x2="557.0" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="567.2" y1="470" x2="567.2" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="675.9" y1="470" x2="675.9" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="703.1" y1="470" x2="703.1" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="767.7" y1="470" x2="767.7" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="794.9" y1="470" x2="794.9" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/><line x1="876.4" y1="470" x2="876.4" y2="200" stroke="#c1531f" stroke-width="2.4" stroke-opacity="0.85"/>
+  <line x1="44.0" y1="200" x2="44.0" y2="140" stroke="#0f7a72" stroke-width="5" stroke-linecap="round"/><line x1="268.2" y1="200" x2="268.2" y2="140" stroke="#0f7a72" stroke-width="5" stroke-linecap="round"/><line x1="356.6" y1="200" x2="356.6" y2="140" stroke="#0f7a72" stroke-width="5" stroke-linecap="round"/><line x1="482.3" y1="200" x2="482.3" y2="140" stroke="#0f7a72" stroke-width="5" stroke-linecap="round"/><line x1="675.9" y1="200" x2="675.9" y2="140" stroke="#0f7a72" stroke-width="5" stroke-linecap="round"/><line x1="794.9" y1="200" x2="794.9" y2="140" stroke="#0f7a72" stroke-width="5" stroke-linecap="round"/>
+  <text x="16" y="38" font-family="'JetBrains Mono',monospace" font-size="16" fill="#5b564c" font-weight="600">onset strength</text>
+  <g>
+    <line x1="620" y1="70" x2="650" y2="70" stroke="#c1531f" stroke-width="4"/>
+    <text x="658" y="75" font-family="'JetBrains Mono',monospace" font-size="16" fill="#c1531f" font-weight="600">onsets</text>
+    <line x1="620" y1="98" x2="650" y2="98" stroke="#0f7a72" stroke-width="5"/>
+    <text x="658" y="103" font-family="'JetBrains Mono',monospace" font-size="16" fill="#0f7a72" font-weight="600">beats</text>
+  </g>
+  <text x="450" y="512" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="17" fill="#948d7e">time &#8594;</text>
+</svg></div>
+    <div class="textcol">
+      <div class="block"><div class="dot"></div><div><h3>What it shows</h3><p>Onsets mark moments where something new begins; beats are the pulse tracked from them.</p></div></div>
+      <div class="block"><div class="dot"></div><div><h3>How to read it</h3><p>Grey curve is onset strength; orange ticks are onsets; green ticks are the tracked beats.</p></div></div>
+      <div class="block"><div class="dot"></div><div><h3>Listen &amp; look for</h3><p>Whether a click track on the beats matches the pulse you feel &#8212; steady meter vs. free rhythm.</p></div></div>
+      <div class="placeholder">
+        <div class="icon">+</div>
+        <div class="txt">Add a PNG screenshot from the <b>Rhythm</b> tab of the app here.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="brand"><span class="swatch"></span> Hearing the archive &middot; PARADISEC excerpts &middot; librosa</div>
+    <div>04 / 07</div>
+  </div>
+</div>
+</body>
+</html>
