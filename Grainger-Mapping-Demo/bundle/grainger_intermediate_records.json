@@ -1,0 +1,569 @@
+[
+  {
+    "object_number": "MG C1/RAB-1",
+    "record_role": "standalone",
+    "parent_object_number": null,
+    "related": [],
+    "object_type": "Printed music",
+    "uniform_title": null,
+    "title_proper": "Indian dance : composition for the piano",
+    "creators": [
+      {
+        "name": "Rabinovitz, Mayne",
+        "party_type": "Person",
+        "role": "Composer",
+        "birth": null,
+        "death": null
+      }
+    ],
+    "publication": null,
+    "edition": null,
+    "physical": null,
+    "series": [],
+    "other_numbers": [
+      {
+        "NumOtherKind_tab": "Grainger classification",
+        "NumOtherNumber_tab": "MG C1/RAB-1"
+      }
+    ],
+    "notes": [
+      {
+        "NteType_tab": "General",
+        "NotNotes": "/ by"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "review_flags": [
+      {
+        "field": "creators",
+        "reason": "low_confidence_inference",
+        "detail": "Composer inferred from the preceding authority heading 'RABINOVITZ, Mayne'."
+      },
+      {
+        "field": "title_proper",
+        "reason": "ocr_suspect",
+        "detail": "Statement of responsibility appears truncated in source ('/ by')."
+      },
+      {
+        "field": "object_type",
+        "reason": "low_confidence_inference",
+        "detail": "Object type 'Printed music' inferred from title; verify."
+      },
+      {
+        "field": "languages",
+        "reason": "low_confidence_inference",
+        "detail": "Language inferred from title text."
+      },
+      {
+        "field": "notes",
+        "reason": "unmapped_text",
+        "detail": "Trailing '/ by' captured as a General note because the statement of responsibility in the source is incomplete."
+      }
+    ],
+    "source_text": "MG C1/RAB-1\n\nIndian dance : composition for the piano / by"
+  },
+  {
+    "object_number": "MG C1/RAF-1",
+    "record_role": "standalone",
+    "parent_object_number": null,
+    "related": [],
+    "object_type": "Printed music",
+    "uniform_title": null,
+    "title_proper": "La fileuse : étude : op. 157, no. 2",
+    "creators": [
+      {
+        "name": "Raff, Joachim",
+        "party_type": "Person",
+        "role": "Composer",
+        "birth": null,
+        "death": null
+      },
+      {
+        "name": "Patey & Willis",
+        "party_type": "Organisation",
+        "role": "Publisher",
+        "birth": null,
+        "death": null
+      }
+    ],
+    "publication": {
+      "place": "London",
+      "publisher": "Patey & Willis",
+      "date_text": "[18--?]",
+      "date_from": 1800,
+      "date_to": 1899,
+      "date_qualifier": "range"
+    },
+    "edition": null,
+    "physical": {
+      "extent": "9 p.",
+      "dimensions": [
+        {
+          "DimCategory": "Height",
+          "DimValue": 36,
+          "DimUnit": "cm"
+        }
+      ]
+    },
+    "series": [],
+    "other_numbers": [
+      {
+        "NumOtherKind_tab": "Grainger classification",
+        "NumOtherNumber_tab": "MG C1/RAF-1"
+      },
+      {
+        "NumOtherKind_tab": "Plate number",
+        "NumOtherNumber_tab": "P.&W. 550"
+      }
+    ],
+    "notes": [
+      {
+        "NteType_tab": "General",
+        "NotNotes": "For piano."
+      },
+      {
+        "NteType_tab": "Inscription",
+        "NotNotes": "Labelled by Ella Grainger in 1967: Early Music."
+      },
+      {
+        "NteType_tab": "Annotation",
+        "NotNotes": "Annotated in pencil for performance."
+      }
+    ],
+    "languages": [],
+    "review_flags": [
+      {
+        "field": "creators",
+        "reason": "low_confidence_inference",
+        "detail": "Composer name normalized to inverted form; verify against authority."
+      },
+      {
+        "field": "publication.publisher",
+        "reason": "config_dependent_field",
+        "detail": "'Patey & Willis' mapped to publisher field; confirm publisher-party linking rules."
+      },
+      {
+        "field": "publication.date_text",
+        "reason": "ambiguous_source",
+        "detail": "Date given as '[18--?]' — ambiguous; normalized to 1800-1899 range, please verify."
+      }
+    ],
+    "source_text": "MG C1/RAF-1\n\nLa fileuse : étude : op. 157, no. 2 / Joachim\nRaff. - London : Patey & Willis, [18--?]. -\n9p. ; 36cm. - For piano. - Pl.no.: P.&W.\n550. - Labelled by Ella Grainger in 1967: Early\nMusic. - Annotated in pencil for performance."
+  },
+  {
+    "object_number": "MG C1/RAK-1-1",
+    "record_role": "standalone",
+    "parent_object_number": null,
+    "related": [],
+    "object_type": "Printed music",
+    "uniform_title": {
+      "text": "Concertos, piano, orchestra, no. 2, op. 18, C minor",
+      "key": "C minor",
+      "is_arrangement": false
+    },
+    "title_proper": "Second concerto pour le piano avec orchestre ou un 2d piano",
+    "creators": [
+      {
+        "name": "Rakhmaninov, Sergey Vassilievich",
+        "party_type": "Person",
+        "role": "Composer",
+        "birth": "1873",
+        "death": "1943"
+      }
+    ],
+    "publication": {
+      "place": "Moscou",
+      "publisher": "Guthiel",
+      "date_text": "[19--?]",
+      "date_from": 1900,
+      "date_to": 1999,
+      "date_qualifier": "range"
+    },
+    "edition": null,
+    "physical": {
+      "extent": "1 2-piano reduction (63 p.)",
+      "dimensions": [
+        {
+          "DimCategory": "Height",
+          "DimValue": 33,
+          "DimUnit": "cm"
+        }
+      ]
+    },
+    "series": [],
+    "other_numbers": [
+      {
+        "NumOtherKind_tab": "Grainger classification",
+        "NumOtherNumber_tab": "MG C1/RAK-1-1"
+      },
+      {
+        "NumOtherKind_tab": "Plate number",
+        "NumOtherNumber_tab": "A.8104G"
+      }
+    ],
+    "notes": [],
+    "languages": [],
+    "review_flags": [
+      {
+        "field": "creators[0].birth",
+        "reason": "config_dependent_field",
+        "detail": "Birth/death years (1873-1943) taken from the composer authority heading 'RAKHMANINOV, Sergey Vassilievich 1873-1943'."
+      },
+      {
+        "field": "related",
+        "reason": "ambiguous_source",
+        "detail": "Object number ends with '-1' indicating this is one manifestation in a numbered group (RAK-1-1 / RAK-1-2); sibling links should be created in post-processing."
+      },
+      {
+        "field": "publication.date_text",
+        "reason": "ambiguous_source",
+        "detail": "Date given as '[19--?]' — ambiguous; normalized to 1900-1999 range, please verify."
+      }
+    ],
+    "source_text": "MG C1/RAK-1-1\n\n[Concertos, piano, orchestra, no. 2, op. 18, C\nminor]\n\nSecond concerto pour le piano avec orchestre ou\nun 2d piano / composé par S. Rachmaninow. -\nMoscou : Guthiel, [19--?]. - 1 2-piano\nreduction (63p.) ; 33cm. - Pl.no.: A.8104G."
+  },
+  {
+    "object_number": "MG C1/RAK-1-2",
+    "record_role": "standalone",
+    "parent_object_number": null,
+    "related": [],
+    "object_type": "Printed music",
+    "uniform_title": {
+      "text": "Concertos, piano, orchestra, no. 2, op. 18, C minor; arr.",
+      "key": "C minor",
+      "is_arrangement": true
+    },
+    "title_proper": "Themes from the second piano concerto : third movement",
+    "creators": [
+      {
+        "name": "Rakhmaninov, Sergey Vassilievich",
+        "party_type": "Person",
+        "role": "Composer",
+        "birth": "1873",
+        "death": "1943"
+      },
+      {
+        "name": "Deis, Carl",
+        "party_type": "Person",
+        "role": "Arranger",
+        "birth": null,
+        "death": null
+      },
+      {
+        "name": "G. Schirmer",
+        "party_type": "Organisation",
+        "role": "Publisher",
+        "birth": null,
+        "death": null
+      }
+    ],
+    "publication": {
+      "place": "New York",
+      "publisher": "Schirmer",
+      "date_text": "c1946",
+      "date_from": 1946,
+      "date_to": 1946,
+      "date_qualifier": "circa"
+    },
+    "edition": null,
+    "physical": {
+      "extent": "5 p.",
+      "dimensions": [
+        {
+          "DimCategory": "Height",
+          "DimValue": 30,
+          "DimUnit": "cm"
+        }
+      ]
+    },
+    "series": [],
+    "other_numbers": [
+      {
+        "NumOtherKind_tab": "Grainger classification",
+        "NumOtherNumber_tab": "MG C1/RAK-1-2"
+      },
+      {
+        "NumOtherKind_tab": "Plate number",
+        "NumOtherNumber_tab": "41300"
+      }
+    ],
+    "notes": [
+      {
+        "NteType_tab": "General",
+        "NotNotes": "Arr. for piano solo."
+      }
+    ],
+    "languages": [],
+    "review_flags": [
+      {
+        "field": "creators[0].birth",
+        "reason": "config_dependent_field",
+        "detail": "Birth/death years (1873-1943) taken from the composer authority heading 'RAKHMANINOV, Sergey Vassilievich 1873-1943'."
+      },
+      {
+        "field": "related",
+        "reason": "ambiguous_source",
+        "detail": "Object number ends with '-2' indicating this is one manifestation in a numbered group (RAK-1-1 / RAK-1-2); sibling links should be created in post-processing."
+      },
+      {
+        "field": "publication.publisher",
+        "reason": "config_dependent_field",
+        "detail": "Publisher normalized to 'Schirmer' / 'G. Schirmer' — confirm publisher-party mapping rules."
+      }
+    ],
+    "source_text": "MG C1/RAK-1-2\n\n[Concertos, piano, orchestra, no. 2, op. 18, C\nminor; arr.]\n\nThemes from the second piano concerto : third\nmovement / Sergei Rachmaninoff ; arranged by\nCarl Deis. - New York : Schirmer, c1946. -\n5p. ; 30cm. - Arr. for piano solo. - Pl.no.:\n41300."
+  },
+  {
+    "object_number": "MG C1/RAK-2",
+    "record_role": "standalone",
+    "parent_object_number": null,
+    "related": [],
+    "object_type": "Printed music",
+    "uniform_title": {
+      "text": "Moments musical, piano, op. 16, no. 1",
+      "key": null,
+      "is_arrangement": false
+    },
+    "title_proper": "Moments musicaux pour piano, op. 16, no. 1",
+    "creators": [
+      {
+        "name": "Rakhmaninov, Sergey Vassilievich",
+        "party_type": "Person",
+        "role": "Composer",
+        "birth": "1873",
+        "death": "1943"
+      }
+    ],
+    "publication": {
+      "place": "Moscou",
+      "publisher": "Jurgenson",
+      "date_text": "[19--?]",
+      "date_from": 1900,
+      "date_to": 1999,
+      "date_qualifier": "range"
+    },
+    "edition": null,
+    "physical": {
+      "extent": "9 p.",
+      "dimensions": [
+        {
+          "DimCategory": "Height",
+          "DimValue": 34,
+          "DimUnit": "cm"
+        }
+      ]
+    },
+    "series": [],
+    "other_numbers": [
+      {
+        "NumOtherKind_tab": "Grainger classification",
+        "NumOtherNumber_tab": "MG C1/RAK-2"
+      },
+      {
+        "NumOtherKind_tab": "Plate number",
+        "NumOtherNumber_tab": "20796"
+      }
+    ],
+    "notes": [],
+    "languages": [],
+    "review_flags": [
+      {
+        "field": "creators[0].birth",
+        "reason": "config_dependent_field",
+        "detail": "Birth/death years (1873-1943) taken from the composer authority heading 'RAKHMANINOV, Sergey Vassilievich 1873-1943'."
+      },
+      {
+        "field": "publication.date_text",
+        "reason": "ambiguous_source",
+        "detail": "Date given as '[19--?]' — ambiguous; normalized to 1900-1999 range, please verify."
+      }
+    ],
+    "source_text": "MG C1/RAK-2\n\n[Moments musical, piano, op. 16, no. 1]\n\nMoments musicaux pour piano, op. 16, no. 1 /\npar S. Rachmaninoff. - Moscou : Jurgenson,\n[19--?]. - 9p. ; 34cm. - Pl.no.: 20796."
+  },
+  {
+    "object_number": "MG C1/RAK-3a",
+    "record_role": "standalone",
+    "parent_object_number": null,
+    "related": [],
+    "object_type": "Printed music",
+    "uniform_title": {
+      "text": "Preludes, piano, op. 3, no. 2, C# minor",
+      "key": "C# minor",
+      "is_arrangement": false
+    },
+    "title_proper": "Prelude (op. 3, no. 2) for pianoforte",
+    "creators": [
+      {
+        "name": "Rakhmaninov, Sergey Vassilievich",
+        "party_type": "Person",
+        "role": "Composer",
+        "birth": "1873",
+        "death": "1943"
+      },
+      {
+        "name": "Esposito, M.",
+        "party_type": "Person",
+        "role": "Editor",
+        "birth": null,
+        "death": null
+      },
+      {
+        "name": "Ricordi",
+        "party_type": "Organisation",
+        "role": "Publisher",
+        "birth": null,
+        "death": null
+      },
+      {
+        "name": "Grainger, Percy",
+        "party_type": "Person",
+        "role": "Inscriber",
+        "birth": null,
+        "death": null
+      }
+    ],
+    "publication": {
+      "place": "London",
+      "publisher": "Ricordi",
+      "date_text": "c1908",
+      "date_from": 1908,
+      "date_to": 1908,
+      "date_qualifier": "circa"
+    },
+    "edition": null,
+    "physical": {
+      "extent": "7 p.",
+      "dimensions": [
+        {
+          "DimCategory": "Height",
+          "DimValue": 35,
+          "DimUnit": "cm"
+        }
+      ]
+    },
+    "series": [],
+    "other_numbers": [
+      {
+        "NumOtherKind_tab": "Grainger classification",
+        "NumOtherNumber_tab": "MG C1/RAK-3a"
+      },
+      {
+        "NumOtherKind_tab": "Plate number",
+        "NumOtherNumber_tab": "11249"
+      }
+    ],
+    "notes": [
+      {
+        "NteType_tab": "Inscription",
+        "NotNotes": "Cover signed by Grainger."
+      }
+    ],
+    "languages": [],
+    "review_flags": [
+      {
+        "field": "creators[0].birth",
+        "reason": "config_dependent_field",
+        "detail": "Birth/death years (1873-1943) taken from the composer authority heading 'RAKHMANINOV, Sergey Vassilievich 1873-1943'."
+      }
+    ],
+    "source_text": "MG C1/RAK-3a\n\n[Preludes, piano, op. 3, no. 2, C# minor]\n\nPrelude (op. 3, no. 2) for pianoforte / S.\nRachmaninoff ; edited by M. Esposito. -\nLondon : Ricordi, c1908. - 7p. ; 35cm. -\nPl.no.: 11249. - Cover signed by Grainger."
+  },
+  {
+    "object_number": "MG C1/RAK-3b",
+    "record_role": "standalone",
+    "parent_object_number": null,
+    "related": [],
+    "object_type": "Printed music",
+    "uniform_title": {
+      "text": "Preludes, piano, op. 3, no. 2, C# minor",
+      "key": "C# minor",
+      "is_arrangement": false
+    },
+    "title_proper": "Morceaux de fantaisie pour piano : no. 2. Prelude",
+    "creators": [
+      {
+        "name": "Rakhmaninov, Sergey Vassilievich",
+        "party_type": "Person",
+        "role": "Composer",
+        "birth": "1873",
+        "death": "1943"
+      },
+      {
+        "name": "Grainger, Percy",
+        "party_type": "Person",
+        "role": "Annotator",
+        "birth": null,
+        "death": null
+      }
+    ],
+    "publication": {
+      "place": "Moscou",
+      "publisher": "Guthiel",
+      "date_text": "[189-?]",
+      "date_from": 1890,
+      "date_to": 1899,
+      "date_qualifier": "range"
+    },
+    "edition": null,
+    "physical": {
+      "extent": "5 p.",
+      "dimensions": [
+        {
+          "DimCategory": "Height",
+          "DimValue": 35,
+          "DimUnit": "cm"
+        }
+      ]
+    },
+    "series": [],
+    "other_numbers": [
+      {
+        "NumOtherKind_tab": "Grainger classification",
+        "NumOtherNumber_tab": "MG C1/RAK-3b"
+      },
+      {
+        "NumOtherKind_tab": "Plate number",
+        "NumOtherNumber_tab": "A.6516G"
+      }
+    ],
+    "notes": [
+      {
+        "NteType_tab": "Annotation",
+        "NotNotes": "Grainger's autograph note in red ink on brown paper cover p.5: 1:24+2, page 5."
+      },
+      {
+        "NteType_tab": "General",
+        "NotNotes": "Edith Meadows' (later Mrs Max Heymann) copy of Rachmaninoff's C# minor Prelude (op. 3, no. 2) with the mildly/discordant 4 bars of chromatic chords (beginning 6 bars from end) crossed out (pencil) by Madame Clara Schumann (about 1895), as/being too modern."
+      },
+      {
+        "NteType_tab": "Inscription",
+        "NotNotes": "Ella Grainger's blue pen inscription on cover: (Markings by Clara Schumann)/from Mrs Edith Heymann/Pupil of Mme Schumann."
+      },
+      {
+        "NteType_tab": "Inscription",
+        "NotNotes": "Cover inscribed in pencil: Edith Meadows."
+      }
+    ],
+    "languages": [],
+    "review_flags": [
+      {
+        "field": "creators[0].birth",
+        "reason": "config_dependent_field",
+        "detail": "Birth/death years (1873-1943) taken from the composer authority heading 'RAKHMANINOV, Sergey Vassilievich 1873-1943'."
+      },
+      {
+        "field": "related",
+        "reason": "ambiguous_source",
+        "detail": "Object number 'RAK-3b' is part of a variant group with 'RAK-3a' (3a/3b); sibling links should be created in post-processing."
+      },
+      {
+        "field": "notes",
+        "reason": "ocr_suspect",
+        "detail": "Long provenance/inscription note contains parentheses/slashes and may be OCR-garbled; verify transcriptions."
+      }
+    ],
+    "source_text": "MG C1/RAK-3b\n\n[Preludes, piano, op. 3, no. 2, C# minor]\n\nMorceaux de fantaisie pour piano : no. 2.\nPrelude / composé par S. Rachmaninoff. -\nMoscou : Guthiel, [189-?]. - 5p. ; 35cm. -\nPl.no.: A.6516G. - Grainger's autograph note in\nred ink on brown paper cover p.5: 1:24+2, page\n5. Edith Meadows' (later Mrs Max Heymann)/\ncopy of Rachmaninoff's C# minor Prelude (op. 3,\nno. 2) with the mildly/discordant 4 bars of\nchromatic chords (beginning 6 bars from end)/\ncrossed out (pencil) by Madame Clara Schumann\n(about 1895), as/being too modern. - Ella\nGrainger's blue pen inscription on cover:\n(Markings by Clara Schumann)/from Mrs Edith\nHeymann/Pupil of Mme Schumann. - Cover inscribed\nin pencil: Edith Meadows."
+  }
+]
