@@ -82,7 +82,11 @@ def load_extra_meta() -> pd.DataFrame:
     To add an example, drop the audio file in extra_audio/ and add a row; add the item to
     CURATED if it should appear in the default list.
     """
+    # extra_metadata.csv is the real, local list (gitignored, may name copyrighted files);
+    # extra_metadata.sample.csv is the committed fallback with only openly licensed examples.
     csv = EXTRA_DIR / "extra_metadata.csv"
+    if not csv.exists():
+        csv = EXTRA_DIR / "extra_metadata.sample.csv"
     if not csv.exists():
         return pd.DataFrame()
     ex = pd.read_csv(csv)

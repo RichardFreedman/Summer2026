@@ -9,5 +9,7 @@ soundscape/
 *.m4a
 *.aiff
 *.aif
+# The real example list stays local; git carries extra_metadata.sample.csv instead.
+extra_audio/extra_metadata.csv
 __pycache__/
 .venv/

@@ -15,7 +15,10 @@ It follows the same pattern as `intervals-streamlit` and `theory-llm`:
 | Password | `app_password` in `/root/exploring_sound/app/.streamlit/secrets.toml` |
 
 The audio in `extra_audio/` is partly under copyright. It is never committed to git
-(see `.gitignore`) and reaches the server only by rsync. The app shows a password
+(see `.gitignore`) and reaches the server only by rsync. The same goes for the real list
+of examples, `extra_audio/extra_metadata.csv`. Git carries only
+`extra_metadata.sample.csv`, which lists the openly licensed CRIM clip, and the app
+falls back to it when the real list is absent (as in a fresh clone). The app shows a password
 page first, and no audio is sent to the browser until the password is entered.
 
 Commands marked **Mac** run in Terminal on your own machine. Commands marked
@@ -122,7 +125,7 @@ so they are never committed or pushed, and `git pull` never touches them.
    | column | meaning |
    |---|---|
    | `file` | the audio file name in `extra_audio/` |
-   | `item` | short identifier, e.g. `CHOPIN-41-1-SERKIN` |
+   | `item` | short identifier, e.g. `CRIM-0012` |
    | `kind` | `music` or `speech` |
    | `title`, `description`, `year` | shown in the sidebar (year may be blank) |
    | `collection`, `url` | grouping label and the "Open the source page" link |
@@ -148,10 +151,24 @@ systemctl restart exploring-sound
 The restart is needed because the app caches the list of clips. Features for the new
 example are computed the first time it is opened, so nothing else needs rebuilding.
 
-> `extra_metadata.csv` *is* tracked in git, so titles, credits and descriptions do go
-> to GitHub; only the audio stays private. A row whose audio file is missing currently
-> makes the app fail, so anyone cloning the public repo without the private audio
-> will hit an error.
+> **Watch out:** `extra_metadata.csv` *is* tracked in git, so titles, credits and
+> descriptions go to GitHub; only the audio stays private. The app also fails if a row
+> lists an audio file that isn't there. So once you commit a row for a private file,
+> anyone who clones the public repo without that file gets an error. Either leave
+> those rows uncommitted, or have the app changed to skip rows whose file is missing.
+
+## Removing an audio example
+
+1. On the Mac, delete the file from `extra_audio/` and its row from `extra_metadata.csv`
+   (and its `item` from `CURATED` in `analysis.py`, if it is there).
+2. Send the CSV (and `analysis.py` if changed) to the droplet with the rsync commands above.
+3. On the droplet, delete the audio file too. rsync never deletes anything on the
+   server, because these commands don't use `--delete`:
+
+   ```bash
+   rm "/root/exploring_sound/app/extra_audio/<file>"
+   systemctl restart exploring-sound
+   ```
 
 ---
 
