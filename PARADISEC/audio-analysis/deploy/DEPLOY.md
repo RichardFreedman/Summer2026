@@ -114,8 +114,9 @@ first visit can take a few seconds while Let's Encrypt issues the certificate.
 
 ## Adding new audio examples
 
-New audio files are ignored by git (`*.mp3`, `*.wav`, `*.flac`, `*.ogg`, `*.m4a`, `*.aiff`),
-so they are never committed or pushed, and `git pull` never touches them.
+New audio files (`*.mp3`, `*.wav`, `*.flac`, `*.ogg`, `*.m4a`, `*.aiff`) and the real
+`extra_metadata.csv` are ignored by git. They are never committed or pushed, and
+`git pull` never touches them. Edit the CSV freely.
 
 **On the Mac**
 
@@ -151,11 +152,9 @@ systemctl restart exploring-sound
 The restart is needed because the app caches the list of clips. Features for the new
 example are computed the first time it is opened, so nothing else needs rebuilding.
 
-> **Watch out:** `extra_metadata.csv` *is* tracked in git, so titles, credits and
-> descriptions go to GitHub; only the audio stays private. The app also fails if a row
-> lists an audio file that isn't there. So once you commit a row for a private file,
-> anyone who clones the public repo without that file gets an error. Either leave
-> those rows uncommitted, or have the app changed to skip rows whose file is missing.
+> Only add a row to `extra_metadata.sample.csv` (the committed one) for audio that is
+> itself committed and freely licensed, like the CRIM clip. The app fails if a row lists an
+> audio file that isn't there, so a sample row for private audio would break public clones.
 
 ## Removing an audio example
 
@@ -217,7 +216,7 @@ rm /opt/tljh/state/rules/exploring_sound.toml
 
 - `.gitignore` only affects files git is not already tracking. Check what is tracked with
   `git ls-files extra_audio`. Only `CRIM_Model_0012.mp3` (CC BY-NC) and
-  `extra_metadata.csv` should be listed.
+  `extra_metadata.sample.csv` should be listed.
 - If anything else is listed, stop tracking it with `git rm --cached "extra_audio/<file>"`
   and commit. **Back the file up first**: any other clone that pulls that commit will have
   the file deleted from its disk.
@@ -225,6 +224,22 @@ rm /opt/tljh/state/rules/exploring_sound.toml
   contain it. Taking it down means rewriting the branch history and force-pushing, and
   possibly asking GitHub support to purge cached copies.
 - Never use `git add -f` on audio files.
+
+## One-time switch to the sample CSV (Mac)
+
+`extra_metadata.csv` used to be tracked in git. Run this once to stop tracking it. The
+file stays on disk, and the server doesn't use git, so it is unaffected:
+
+```bash
+cd ~/Documents/CRIM_Python/Summer2026/PARADISEC/audio-analysis
+git rm --cached extra_audio/extra_metadata.csv
+git add extra_audio/extra_metadata.sample.csv .gitignore analysis.py
+git commit -m "Keep the real example list local; commit a sample CSV"
+git push
+```
+
+Anyone else with a clone should copy their `extra_metadata.csv` aside before pulling
+that commit, since the pull deletes it from their disk, and then put it back.
 
 ## Files in `deploy/`
 

@@ -374,19 +374,43 @@ def gallery_for(file: str):
 # Sidebar: choose a clip
 # --------------------------------------------------------------------------- #
 meta = meta_table()
+EXTRA_ITEMS = [i for i in meta.index if str(meta.loc[i].file).startswith("extra_audio/")]
+
+# Which clips to offer. The choice is mirrored in the URL (?clips=added|all|curated)
+# so a link can open straight onto, say, the added examples only.
+CLIP_SETS = {"curated": "Hand-picked", "added": "Added examples", "all": "Everything"}
+_url_set = st.query_params.get("clips", "curated")
+if _url_set not in CLIP_SETS:
+    _url_set = "curated"
 
 with st.sidebar:
     st.title(APP_TITLE)
-    st.caption("Signal analysis of 20-second excerpts from the PARADISEC archive, via the "
-               "[soundscape](https://github.com/dan321/soundscape) story map, plus a few added examples.")
-    show_all = st.toggle("Show all excerpts", value=False,
-                         help="Off: a hand-picked set of 13 music and 3 speech excerpts. On: all 190 PARADISEC excerpts plus the added examples.")
-    pool = list(meta.index) if show_all else [i for i in an.CURATED if i in meta.index]
+    st.caption("Signal analysis with librosa of field recordings from the PARADISEC archive (via the "
+               "[soundscape](https://github.com/dan321/soundscape) story map) and of added examples.")
+    clip_label_choice = st.segmented_control(
+        "Clips", list(CLIP_SETS.values()), default=CLIP_SETS[_url_set], selection_mode="single", key="clip_set",
+        help="Hand-picked: a short curated list. Added examples: only the recordings in extra_audio/. "
+             "Everything: all 190 PARADISEC excerpts plus the added examples.")
+    clip_set = {v: k for k, v in CLIP_SETS.items()}.get(clip_label_choice, _url_set)   # None (deselected) keeps the last
+    st.query_params["clips"] = clip_set
+    extras_only = clip_set == "added"
+    if clip_set == "all":
+        pool = list(meta.index)
+    elif extras_only:
+        pool = EXTRA_ITEMS
+    else:
+        pool = [i for i in an.CURATED if i in meta.index]
+    if not pool:
+        st.warning("No added examples found. Put audio in extra_audio/ and list it in extra_metadata.csv.")
+        st.stop()
 
     kind_choice = st.segmented_control("Kind", ["All", "Music", "Speech"], default="All",
                                        selection_mode="single", key="kind_filter")
     kind_filter = {"Music": "music", "Speech": "speech"}.get(kind_choice)   # None means both
     items = [i for i in pool if kind_filter is None or meta.loc[i].kind == kind_filter]
+    if not items:
+        st.info(f"No {kind_choice.lower()} clips in this set; showing all kinds.")
+        items = pool
     n_music = int((meta.loc[pool].kind == "music").sum()); n_speech = len(pool) - n_music
     st.caption(f"{len(items)} of {len(pool)} excerpts shown · {n_music} music, {n_speech} speech")
 
@@ -777,17 +801,22 @@ with tab_layers:
 
 # ---- The collection --------------------------------------------------------
 with tab_all:
+    scope = ("**the added examples**" if extras_only
+             else "**all 190 PARADISEC excerpts** and the added examples")
     st.markdown(
-        "The same measurements run over **all 190 excerpts** (and the added examples). Each point is one clip; the selected excerpt is ringed. "
+        f"The same measurements run over {scope}. Each point is one clip; the selected excerpt is ringed. "
         "Pulse strength is the height of the tallest tempo-curve peak (how regular the rhythm is); harmonic share is the "
         "fraction of energy in sustained tones; tonal entropy is the flatness of the pitch-class profile. Hover to identify "
-        "any point, then choose it in the sidebar with *Show all excerpts* switched on.")
+        "any point, then choose it in the sidebar"
+        + ("." if extras_only else " with *Clips* set to *Everything*."))
     code_button("all", "Collection-wide features", RECIPES["all"], [an.load_features])
     feats = features_table()
     if feats is None:
         st.info("Run the notebook once to build `features/clip_features.csv`, then reload this page.")
     else:
         table = meta.join(feats, how="inner")
+        if extras_only:
+            table = table[table.index.isin(EXTRA_ITEMS)]
         c1, c2 = st.columns(2)
         xcol = c1.selectbox("Horizontal axis", ["pulse_strength", "harmonic_share", "tonal_entropy", "tempo", "centroid", "rms_cv"], index=0,
                             format_func=lambda c: {"pulse_strength": "pulse strength", "harmonic_share": "harmonic share",
@@ -797,7 +826,7 @@ with tab_all:
                             format_func=lambda c: {"pulse_strength": "pulse strength", "harmonic_share": "harmonic share",
                                                    "tonal_entropy": "tonal entropy (bits)", "tempo": "tempo (BPM)",
                                                    "centroid": "spectral centroid (Hz, brightness)", "rms_cv": "loudness variation"}[c])
-        fig = base_fig("Every excerpt in the collection", height=520)
+        fig = base_fig("Every added example" if extras_only else "Every excerpt in the collection", height=520)
         for kind in ["speech", "music"]:
             g = table[table.kind == kind]
             fig.add_trace(go.Scatter(x=g[xcol], y=g[ycol], mode="markers", name=f"{kind} ({len(g)})",
@@ -812,25 +841,26 @@ with tab_all:
         fig.update_xaxes(title=xcol.replace("_", " ")); fig.update_yaxes(title=ycol.replace("_", " "))
         st.plotly_chart(fig, width="stretch")
 
-        st.markdown("#### Where the excerpts were recorded")
         geo = table.dropna(subset=["lat", "lon"])
-        fig = base_fig("Recording locations", height=420)
-        for kind in ["speech", "music"]:
-            g = geo[geo.kind == kind]
-            fig.add_trace(go.Scattergeo(lon=g.lon, lat=g.lat, mode="markers", name=kind,
-                                        marker=dict(color=KIND_COLOUR[kind], size=8, line=dict(color="white", width=1)),
-                                        customdata=np.c_[g.title.str[:50], g.index],
-                                        hovertemplate="%{customdata[0]}<br>%{customdata[1]}<extra></extra>"))
-        if item in geo.index:
-            r = geo.loc[item]
-            fig.add_trace(go.Scattergeo(lon=[r.lon], lat=[r.lat], mode="markers", name="selected excerpt",
-                                        marker=dict(color="rgba(0,0,0,0)", size=18, line=dict(color=AQUA, width=3)), hoverinfo="skip"))
-        # Centre on the Pacific so points east of 180° (Cook Islands, Tahiti) stay on the map.
-        fig.update_geos(projection=dict(type="natural earth", rotation=dict(lon=140)), showcountries=True,
-                        countrycolor=GRID, landcolor="#f4f3ef", showocean=True, oceancolor="#ffffff",
-                        lataxis_range=[-45, 55], lonaxis_range=[-140, 85])
-        fig.update_layout(margin=dict(l=0, r=0, t=44, b=0))
-        st.plotly_chart(fig, width="stretch")
+        if not geo.empty:      # added examples carry no recording location, so no map
+            st.markdown("#### Where the excerpts were recorded")
+            fig = base_fig("Recording locations", height=420)
+            for kind in ["speech", "music"]:
+                g = geo[geo.kind == kind]
+                fig.add_trace(go.Scattergeo(lon=g.lon, lat=g.lat, mode="markers", name=kind,
+                                            marker=dict(color=KIND_COLOUR[kind], size=8, line=dict(color="white", width=1)),
+                                            customdata=np.c_[g.title.str[:50], g.index],
+                                            hovertemplate="%{customdata[0]}<br>%{customdata[1]}<extra></extra>"))
+            if item in geo.index:
+                r = geo.loc[item]
+                fig.add_trace(go.Scattergeo(lon=[r.lon], lat=[r.lat], mode="markers", name="selected excerpt",
+                                            marker=dict(color="rgba(0,0,0,0)", size=18, line=dict(color=AQUA, width=3)), hoverinfo="skip"))
+            # Centre on the Pacific so points east of 180° (Cook Islands, Tahiti) stay on the map.
+            fig.update_geos(projection=dict(type="natural earth", rotation=dict(lon=140)), showcountries=True,
+                            countrycolor=GRID, landcolor="#f4f3ef", showocean=True, oceancolor="#ffffff",
+                            lataxis_range=[-45, 55], lonaxis_range=[-140, 85])
+            fig.update_layout(margin=dict(l=0, r=0, t=44, b=0))
+            st.plotly_chart(fig, width="stretch")
 
 # ---- About librosa ---------------------------------------------------------
 with tab_about:
