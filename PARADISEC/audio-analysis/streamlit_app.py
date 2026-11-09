@@ -1,4 +1,4 @@
-"""Hearing the archive: interactive signal analysis of PARADISEC excerpts.
+"""Exploring sound with librosa: interactive signal analysis of PARADISEC excerpts.
 
 Run with:  uv run streamlit run streamlit_app.py
 """
@@ -19,7 +19,47 @@ import gallery
 # --------------------------------------------------------------------------- #
 # Page and colour system
 # --------------------------------------------------------------------------- #
-st.set_page_config(page_title="Hearing the archive", page_icon="🎧", layout="wide")
+APP_TITLE = "Exploring sound with librosa"
+st.set_page_config(page_title=APP_TITLE, page_icon="🎧", layout="wide")
+
+
+# --------------------------------------------------------------------------- #
+# Password gate: nothing below runs (and no audio is sent) until it is passed.
+# The password comes from the APP_PASSWORD environment variable or from
+# app_password in .streamlit/secrets.toml (gitignored). With neither set the
+# app stays locked rather than running open.
+# --------------------------------------------------------------------------- #
+def _expected_password() -> str | None:
+    import os
+    if os.environ.get("APP_PASSWORD"):
+        return os.environ["APP_PASSWORD"]
+    try:
+        return st.secrets.get("app_password")
+    except Exception:            # no secrets.toml at all
+        return None
+
+
+def _password_gate() -> None:
+    if st.session_state.get("authenticated"):
+        return
+    import hmac
+    expected = _expected_password()
+    st.title(APP_TITLE)
+    if not expected:
+        st.error("No password is configured. Set APP_PASSWORD or app_password in .streamlit/secrets.toml.")
+        st.stop()
+    with st.form("login"):
+        entered = st.text_input("Password", type="password")
+        submitted = st.form_submit_button("Enter")
+    if submitted:
+        if hmac.compare_digest(entered.encode(), expected.encode()):
+            st.session_state["authenticated"] = True
+            st.rerun()
+        st.error("Incorrect password.")
+    st.stop()
+
+
+_password_gate()
 
 # A wider sidebar so excerpt titles are not truncated in the picker.
 st.markdown("""
@@ -336,7 +376,7 @@ def gallery_for(file: str):
 meta = meta_table()
 
 with st.sidebar:
-    st.title("Hearing the archive")
+    st.title(APP_TITLE)
     st.caption("Signal analysis of 20-second excerpts from the PARADISEC archive, via the "
                "[soundscape](https://github.com/dan321/soundscape) story map, plus a few added examples.")
     show_all = st.toggle("Show all excerpts", value=False,

@@ -1,0 +1,23 @@
+# Traefik route for "Exploring sound with librosa", modelled on
+# /opt/tljh/state/rules/intervals_streamlit.toml.
+#
+# Needs a DNS A record for sound.crimproject.org pointing at the droplet
+# (same IP as intervals-streamlit.crimproject.org). Let's Encrypt then issues
+# the certificate automatically on the first HTTPS request.
+#
+# Install (Traefik watches the folder; no restart needed):
+#   cp deploy/exploring_sound.toml /opt/tljh/state/rules/exploring_sound.toml
+
+[http.routers.exploring-sound]
+  rule = "Host(`sound.crimproject.org`)"
+  service = "exploring-sound"
+  entryPoints = ["http", "https"]
+  [http.routers.exploring-sound.tls]
+    certResolver = "letsencrypt"
+    [[http.routers.exploring-sound.tls.domains]]
+      main = "sound.crimproject.org"
+
+[http.services.exploring-sound.loadBalancer]
+  passHostHeader = true
+  [[http.services.exploring-sound.loadBalancer.servers]]
+    url = "http://127.0.0.1:8503"

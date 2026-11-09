@@ -1,4 +1,13 @@
 # Audio and metadata pulled by fetch_data.sh (about 60 MB); never committed.
 soundscape/
+# Audio stays local and is copied to the server directly, never committed
+# (much of it is under copyright). The CRIM clip was committed earlier and stays tracked.
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.m4a
+*.aiff
+*.aif
 __pycache__/
 .venv/

@@ -1,0 +1,29 @@
+# systemd service for "Exploring sound with librosa" on the CRIM droplet,
+# following the pattern of intervals-streamlit.service and theory-llm.service.
+#
+# Install:  cp deploy/exploring-sound.service /etc/systemd/system/
+#           systemctl daemon-reload && systemctl enable --now exploring-sound
+# Logs:     journalctl -u exploring-sound -f
+#
+# The password is read from /root/exploring_sound/app/.streamlit/secrets.toml
+# (app_password = "..."), kept out of this world-readable unit file.
+# Port 8503 is free (8501 = theory-llm, 8502 = intervals-streamlit) and bound
+# to localhost, so the app is reachable only through Traefik over HTTPS.
+
+[Unit]
+Description=Exploring Sound with librosa Streamlit App
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/exploring_sound/app
+Environment="PATH=/root/exploring_sound/venv/bin:/usr/bin:/bin"
+Environment="MPLCONFIGDIR=/tmp/exploring_sound/matplotlib"
+Environment="NUMBA_CACHE_DIR=/tmp/exploring_sound/numba"
+ExecStart=/root/exploring_sound/venv/bin/streamlit run streamlit_app.py --server.port=8503 --server.address=localhost --server.headless=true
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

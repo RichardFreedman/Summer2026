@@ -27,10 +27,11 @@ COPY . .
 
 EXPOSE 8501
 
-# baseUrlPath is what lets the shared Caddy serve the app under
-# /paradisec-audio-analysis rather than the root of the domain.
+# baseUrlPath is what lets the droplet's Traefik (shared with TLJH) serve the app
+# under /exploring-sound rather than the root of the domain. It must match the
+# PathPrefix in deploy/traefik-exploring-sound.toml.
 CMD ["streamlit", "run", "streamlit_app.py", \
      "--server.port=8501", \
      "--server.address=0.0.0.0", \
      "--server.headless=true", \
-     "--server.baseUrlPath=paradisec-audio-analysis"]
+     "--server.baseUrlPath=exploring-sound"]
